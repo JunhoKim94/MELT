@@ -1,7 +1,6 @@
 
 cache_dir=./.cache
-#train_file=/scratch/maths/dual/mt6170499/matscibert/data/train_corpus.txt
-#val_file=/scratch/maths/dual/mt6170499/matscibert/data/val_corpus.txt
+
 train_norm_file=./data/train_norm.txt
 model_save_dir=./model
 
