@@ -39,11 +39,8 @@ To continued pre-train PLMs, run ```bash scripts/pretrain.sh``` for distillation
 
 Run the following files with the pre-trained weights using argument name --load_weight
 
-1) MatSciNLP
-Run ```bash scripts/run_matscinlp.sh```
+1) MatSciNLP: ```bash scripts/run_matscinlp.sh```
 
-2) NER (SOFC-NER, SOFC-Filling, MatScholar)
-Run ```bash scripts/run_ner.sh```
+2) NER (SOFC-NER, SOFC-Filling, MatScholar): ```bash scripts/run_ner.sh```
 
-3) Classification (Glass Science)
-Run ```bash scripts/run_cls.sh```
+3) Classification (Glass Science): ```bash scripts/run_cls.sh```
