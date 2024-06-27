@@ -30,9 +30,9 @@ To continued pre-train PLMs, run ```bash scripts/pretrain.sh``` for distillation
  - ```--batch_size```: Set the batch size for conducting at once. 
  - ```--step_batch_size```: Set the batch size for updating per each step (If the memory of GPU is enough, set the batch_size and step_batch_size the same.)
  - ```--data_path```: A directory containing pre-processed examples.
- - ```--masking_ratio``` : Set the ratio for masking the material-aware entities
- - ```--curriculum_num``` : Set the number of curriculum for curriculum-aware material learning
- - ```--model_save_path```: Set the directory for saving the student model
+ - ```--masking_ratio``` : Set the masking ratio for the Material-aware Entity Masking
+ - ```--curriculum_num``` : Set the number of curriculum for curriculum-based Entity Learning
+ - ```--model_save_path```: Set the directory for saving the pre-trained models
 
 
 ### Fine-tuning
