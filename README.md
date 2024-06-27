@@ -1,6 +1,6 @@
 ## MELT: Materials-aware Continued Pre-training for Language Model Adaptation to Materials Science
 
-This repository is about MELT: Materials-aware Continued Pre-training for Language Model Adaptation to Materials Science submitted in EMNLP 2024. In this project, we are interested in expanding the material-aware entities for continued pre-training the PLMs.
+This repository is about the paper, MELT: Materials-aware Continued Pre-training for Language Model Adaptation to Materials Science, submitted in EMNLP 2024. In this project, we are interested in expanding the material-aware entities to continue pre-training the PLMs.
 
 ### Requirements
  - Python 3
