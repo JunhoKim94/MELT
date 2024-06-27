@@ -81,20 +81,19 @@ class MSC_Dataset(torch.utils.data.Dataset):
         return len(self.inp['input_ids'])
 
 parser = ArgumentParser()
-parser.add_argument('--cache_dir', default="/home/user10/MatSciBERT/.cache", type=str)
+parser.add_argument('--cache_dir', default="./cache", type=str)
 parser.add_argument('--batch_size', default=128, type=int)
 parser.add_argument('--weight_decay', default=1e-2, type=float)
 parser.add_argument('--lr', default=1e-4, type=float)
 parser.add_argument('--step_batch_size', default = 128, type = int)
 parser.add_argument('--masking_ratio', default=0.4, type=float)
-parser.add_argument('--concepts', default="chem", type = str)
 parser.add_argument('--masking_strategy', default="random", type = str)
-parser.add_argument('--alpha', default=-0.3, type = float)
+parser.add_argument('--data_path', default="./raw_data/melt/train_data.pkl", type = str)
 
 parser.add_argument('--curriculum_num', default=3, type = int)
-parser.add_argument('--similarity', default=0.4, type = str)
 parser.add_argument('--extra_masking', default=0.2, type = float)
 parser.add_argument('--raw_masking', default=0.15, type = float)
+parser.add_argument('--model_save_path', default="./pretraining/save_models/", type = str)
 
 
 args = parser.parse_args()
@@ -104,7 +103,7 @@ model_name = 'allenai/scibert_scivocab_uncased'
 #model_name = "bert-base-uncased"
 cache_dir = ensure_dir(args.cache_dir) if args.cache_dir else None
 
-writer = SummaryWriter(comment=f" || MatSciBERT_concept_masking_128 || {args.batch_size}_{args.lr}_{args.concepts}_{args.alpha}_{args.masking_strategy}_{args.masking_ratio}")
+writer = SummaryWriter(comment=f" || MELT_128 || {args.batch_size}_{args.lr}_{args.masking_strategy}_{args.masking_ratio}")
 
 #SEED = random.randint(0, 10000)
 SEED = 42
@@ -168,13 +167,11 @@ def concept_masking(origin_input_ids, input_ids, labels, concept_positions, mask
     
     concept_masked_position = torch.zeros_like(labels).fill_(-100).cuda()
 
-    masked_concepts = []
     for i in range(batch_size):
         c_p = concept_positions[i]
         if len(c_p) == 0:
             continue
         
-        masked_c_p = []
         for p in c_p:
 
             if random.random() < masking_ratio:
@@ -238,7 +235,6 @@ def concept_masking_curriculum(origin_input_ids, input_ids, labels, concept_posi
     concept_masked_position = torch.zeros_like(labels).fill_(-100).cuda()
     
     #print(concept_positions)
-    masked_concepts = []
     for i in range(batch_size):
         c_p = concept_positions[i]
         if len(c_p) == 0:
@@ -322,7 +318,7 @@ wt_list = []
 
 if "curriculum" in args.masking_strategy:
     print("curriculum_rel!")
-    with open("./raw_data/melt/curriculum_3.pkl", "rb") as f:
+    with open("./raw_data/melt/curriculum_%d.pkl"%args.curriculum_num, "rb") as f:
         curriculum_dict = pickle.load(f)
 
     for c in curriculum_dict:
@@ -340,7 +336,7 @@ dynamic_p = 0
 CONCEPT_MASK_NUM = 0.
 
 while(iteration < 100000):
-    with open("./raw_data/melt/train_data.pkl", "rb") as f:  
+    with open(args.data_path, "rb") as f:  
         train_dataset = pickle.load(f)
 
     train_dataset = MSC_Dataset_for_concept(train_dataset)
@@ -359,7 +355,7 @@ while(iteration < 100000):
         step_masked_input_ids = copy.deepcopy(batch['origin_input_ids']).to(device)
         
 
-        if args.masking_strategy == "random":
+        if args.masking_strategy == "material":
             step_masked_input_ids, step_labels, masked_concept_token, concept_masked_position = concept_masking(step_origin_input_ids, step_masked_input_ids, step_labels, step_concept_positions, masking_ratio = args.masking_ratio, masked_concept_freq = masked_concept_freq)
 
         elif "curriculum" == args.masking_strategy:
@@ -384,6 +380,10 @@ while(iteration < 100000):
                     
             else:
                 step_masked_input_ids, step_labels, masked_concept_token, concept_masked_position = concept_masking(step_origin_input_ids, step_masked_input_ids, step_labels, step_concept_positions, masking_ratio = args.masking_ratio, masked_concept_freq = masked_concept_freq)
+
+        else:
+            step_masked_input_ids = step_whole_masked_input_ids
+
 
         masked_token_num = len(step_masked_input_ids[step_masked_input_ids == mask_tok])
 
@@ -434,7 +434,7 @@ while(iteration < 100000):
             CONCEPT_ACC = 0.
 
         if iteration % 10000 == 0:
-            PATH = './save_models/MELT_128_%d_curri_%d_total_%f.pt' %(int(iteration), args.curriculum_num, round(args.masking_ratio,2))
+            PATH = args.model_save_path + '/MELT_128_%d_curri_%d_total_%f.pt' %(int(iteration), args.curriculum_num, round(args.masking_ratio,2))
             print("save the model")
             torch.save(model.state_dict(), PATH)
 

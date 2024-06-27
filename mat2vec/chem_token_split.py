@@ -17,6 +17,15 @@ nltk.download('stopwords')
 from tqdm import tqdm
 from nltk.corpus import stopwords as nltk_stop_words
 from spacy.lang.en.stop_words import STOP_WORDS as spacy_stop_words
+from argparse import ArgumentParser
+
+parser = ArgumentParser()
+parser.add_argument('--preprocessed_data_path', required=True, type = str)
+parser.add_argument('--entity_path', required=True, type=str)
+parser.add_argument('--output_folder_path', required=True, type=str)
+args = parser.parse_args()
+
+
 
 def split_text_ngram(text):
     #word_list = text.split()
@@ -130,11 +139,8 @@ tokenizer = AutoTokenizer.from_pretrained('m3rg-iitd/matscibert', **tokenizer_kw
 
 #print(sentences)
 test_mode = False
-dictionary_dataset = "chem_matscivec_embedding"
 
-#with open("./data/concept_dict.pkl", "rb") as f:
-
-with open("./raw_data/triplet_chem_dict_mat2vec_matscivec_keywords_embedding_50_similarity_0.4.pkl", "rb") as f:
+with open(args.entity_path, "rb") as f:
     concept2idx = pickle.load(f)
 
 
@@ -151,7 +157,7 @@ check_dict = dict()
 index = 0
 
 #for j in range(10):
-with open("./raw_data/train_128_split.pkl", "rb") as f:
+with open(args.preprocessed_data_path, "rb") as f:
     x = pickle.load(f)
     x = x["input_ids"]
 
@@ -220,17 +226,17 @@ for i in tqdm(range(len(x)), ncols = 100):
 print(len(train_data), len(total_concept))
 ret = {"input_ids": x, "concept_positions" : total_concept}
 
-with open('./raw_data/melt/train_data.pkl', 'wb') as f:
+with open(args.output_folder_path + '/train_data.pkl', 'wb') as f:
     pickle.dump(ret, f)
 
 print(len(check_dict))
-with open("./raw_data/melt/entity_dict_128.pkl", "wb") as f:
+with open(args.output_folder_path + "/entity_dict_128.pkl", "wb") as f:
     pickle.dump(check_dict, f)
 
 sorted_dict = sorted(check_dict.items(), key = lambda x: x[1], reverse = True)
 #sorted_dict = ret_dict.items()
 
-f = open("./raw_data/melt/chem_dict.txt", "w")
+f = open(args.output_folder_path + "/chem_dict.txt", "w")
 #for key, item in ret_dict.items():   
 for key, item in sorted_dict:
     f.write("%s\t%d\n"%(key, item))
