@@ -76,15 +76,15 @@ def get_emb(model, categories):
     else:
         print("choose in right boundary")  
 
-    embedding_1 = process_csv(model, f"./data/01.{file_name}-CHM.csv", object_first=True)
-    embedding_2 = process_csv(model, f"./data/01.CHM-{file_name}.csv", object_first=False)
+    embedding_1 = process_csv(model, f"./data/matkg/01.{file_name}-CHM.csv", object_first=True)
+    embedding_2 = process_csv(model, f"./data/matkg/01.CHM-{file_name}.csv", object_first=False)
     final_embedding = (embedding_1 + embedding_2) / 2
 
     return final_embedding
 
 def expand_vocab():
     #w2v 모델 로드
-    w2v_model = Word2Vec.load("./data/MatSciBERT_Full/MatSciBERT_Full")
+    w2v_model = Word2Vec.load("./mat2vec/data/MatSciBERT_Full/MatSciBERT_Full")
     #w2v_model = Word2Vec.load("mat2vec/training/models/pretrained_embeddings")
 
     #lower case for SciBERT-uncased (Can be changed in other models)
@@ -103,14 +103,14 @@ def expand_vocab():
     concept2neighbor = dict()
 
     #Load Extracted materia-aware entities from ChemDataExtractor
-    with open("./chem_dict.txt", "r") as f:
+    with open("./raw_data/chem_dict.txt", "r") as f:
         x = f.readlines()
 
     ret = dict()
 
     #Save Triplet (C1, C2, R)
     num_p = 0
-    f = open("/mnt/user10/triplet_chem_dict_mat2vec_matscivec_keywords_embedding_%d_similarity_%f_synthesis.txt"%(topn, score), "w")
+    f = open("./raw_data/expand_entities/triplet_chem_dict_mat2vec_matscivec_keywords_embedding_%d_similarity_%f_synthesis.txt"%(topn, score), "w")
     passed_num = 0
     for s in tqdm(x, ncols = 100):
         concept, freq = s.split("\t")
@@ -201,7 +201,7 @@ def expand_vocab():
     print(passed_num, num_p, len(x))
 
     #Triplet Dictionary
-    with open('./data/triplet_chem_dict_mat2vec_matscivec_keywords_embedding_%d_similarity_%f_synthesis.txt'%(topn, score), "r") as f:
+    with open('./raw_data/expand_entities/triplet_chem_dict_mat2vec_matscivec_keywords_embedding_%d_similarity_%f_synthesis.txt'%(topn, score), "r") as f:
         x = f.readlines()
 
     for c in tqdm(x, ncols = 50):
@@ -225,7 +225,7 @@ def expand_vocab():
             ret[c2] = len(ret)
 
     print(len(ret))
-    with open("./data/extended_concept_chem_matscivec_keywords_embedding_%d_similarity_%f_synthesis.pkl"%(topn,score), "wb") as f:
+    with open("./raw_data/expand_entities/extended_concept_chem_matscivec_keywords_embedding_%d_similarity_%f_synthesis.pkl"%(topn,score), "wb") as f:
         pickle.dump(ret, f)
         
 expand_vocab()

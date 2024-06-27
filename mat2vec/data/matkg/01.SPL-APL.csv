@@ -1,0 +1,3006 @@
+Subject,Object,Rel,Count
+100,Catalyst,SPL-APL,33
+101,Catalyst,SPL-APL,33
+110,Catalyst,SPL-APL,49
+1T,Anode,SPL-APL,60
+1T,Catalyst,SPL-APL,130
+1T,Cathode,SPL-APL,43
+1T,Contacts,SPL-APL,34
+1T,Electrocatalyst,SPL-APL,72
+1T,Electrode,SPL-APL,156
+1T,Electrodes,SPL-APL,132
+1T,Electrolyte,SPL-APL,35
+1T,Hydrogen Evolution,SPL-APL,31
+1T,Hydrogen Evolution Reaction,SPL-APL,96
+1T,Supercapacitor,SPL-APL,36
+2H,Anode,SPL-APL,55
+2H,Catalyst,SPL-APL,137
+2H,Cathode,SPL-APL,33
+2H,Contacts,SPL-APL,36
+2H,Electrocatalyst,SPL-APL,66
+2H,Electrode,SPL-APL,140
+2H,Electrodes,SPL-APL,130
+2H,Electrolyte,SPL-APL,33
+2H,Hydrogen Evolution Reaction,SPL-APL,77
+2H,Photodetector,SPL-APL,35
+ACT,Catalyst,SPL-APL,96
+ACT,Electrode,SPL-APL,51
+AML,Cells,SPL-APL,38
+AML,Leukaemia,SPL-APL,39
+AML,Leukemia,SPL-APL,96
+ARC,Island,SPL-APL,76
+Abstract,Adsorbent,SPL-APL,59
+Abstract,Anode,SPL-APL,337
+Abstract,Anodes,SPL-APL,91
+Abstract,Batteries,SPL-APL,45
+Abstract,Battery,SPL-APL,58
+Abstract,Bio-Sensor,SPL-APL,31
+Abstract,Catalysis,SPL-APL,33
+Abstract,Catalyst,SPL-APL,575
+Abstract,Cathode,SPL-APL,430
+Abstract,Cathodes,SPL-APL,107
+Abstract,Cell,SPL-APL,175
+Abstract,Cells,SPL-APL,137
+Abstract,Coatings,SPL-APL,258
+Abstract,Counter Electrode,SPL-APL,45
+Abstract,DSSCS,SPL-APL,88
+Abstract,Dssc,SPL-APL,55
+Abstract,Dye-Sensitized Solar Cells,SPL-APL,111
+Abstract,Electrocatalyst,SPL-APL,57
+Abstract,Electrode,SPL-APL,700
+Abstract,Electrodes,SPL-APL,363
+Abstract,Electrolyte,SPL-APL,367
+Abstract,Energy,SPL-APL,63
+Abstract,Fuel Cell,SPL-APL,105
+Abstract,LIBs,SPL-APL,45
+Abstract,Li-Ion Battery,SPL-APL,71
+Abstract,Lithium Ion Battery,SPL-APL,156
+Abstract,Lithium-Ion Batteries,SPL-APL,87
+Abstract,Membrane,SPL-APL,44
+Abstract,Methanol Oxidation,SPL-APL,35
+Abstract,Negative Electrode,SPL-APL,39
+Abstract,ORR,SPL-APL,52
+Abstract,Oxidation,SPL-APL,93
+Abstract,Oxygen Reduction Reaction,SPL-APL,51
+Abstract,Phosphor,SPL-APL,62
+Abstract,Phosphors,SPL-APL,77
+Abstract,Photoanode,SPL-APL,60
+Abstract,Photocatalyst,SPL-APL,62
+Abstract,Photocatalysts,SPL-APL,62
+Abstract,Photocatalytic Degradation,SPL-APL,37
+Abstract,Positive Electrode,SPL-APL,41
+Abstract,Reactors,SPL-APL,60
+Abstract,Reductions,SPL-APL,35
+Abstract,SOFC,SPL-APL,44
+Abstract,SOFs,SPL-APL,42
+Abstract,Sei,SPL-APL,33
+Abstract,Sensor,SPL-APL,93
+Abstract,Single Cell,SPL-APL,40
+Abstract,Solar Cell,SPL-APL,193
+Abstract,Solid Oxide Fuel Cells,SPL-APL,91
+Abstract,Sorbent,SPL-APL,36
+Abstract,Supercapacitor,SPL-APL,81
+Acicular,Weld,SPL-APL,33
+Acicular,Weld Metal,SPL-APL,41
+Acute,Leukemia,SPL-APL,56
+Acute Lymphoblastic,Leukemia,SPL-APL,32
+Acute Myeloid,AML,SPL-APL,34
+Acute Myeloid,Leukaemia,SPL-APL,38
+Acute Myeloid,Leukemia,SPL-APL,114
+Adenocarcinoma,Cancer,SPL-APL,47
+Adenocarcinoma,Lung,SPL-APL,55
+Adenocarcinoma,Lung Cancer,SPL-APL,56
+Adenocarcinoma,NSCLC,SPL-APL,68
+Alkaline,ARC,SPL-APL,42
+Alpha,Coatings,SPL-APL,52
+Alveolar,Cells,SPL-APL,56
+Alveolar,Lung,SPL-APL,61
+Alveolar,Macrophages,SPL-APL,51
+Amphibolite,ARC,SPL-APL,32
+Amphibolite,Ophiolites,SPL-APL,35
+Anatase,Active Layer,SPL-APL,31
+Anatase,Adsorbent,SPL-APL,65
+Anatase,Anode,SPL-APL,513
+Anatase,Anodes,SPL-APL,149
+Anatase,Barrier Layer,SPL-APL,35
+Anatase,Batteries,SPL-APL,40
+Anatase,Battery,SPL-APL,70
+Anatase,Biomaterial,SPL-APL,31
+Anatase,Biomedical Application,SPL-APL,47
+Anatase,Blocking Layer,SPL-APL,36
+Anatase,Blue,SPL-APL,56
+Anatase,CO,SPL-APL,47
+Anatase,CO Oxidation,SPL-APL,72
+Anatase,CO2 Photoreduction,SPL-APL,43
+Anatase,CO2 Reduction,SPL-APL,70
+Anatase,Catalysis,SPL-APL,102
+Anatase,Catalyst,SPL-APL,2737
+Anatase,Catalysts,SPL-APL,71
+Anatase,Catalytic,SPL-APL,78
+Anatase,Catalytic Reaction,SPL-APL,38
+Anatase,Cathode,SPL-APL,236
+Anatase,Cathodes,SPL-APL,55
+Anatase,Cell,SPL-APL,312
+Anatase,Cells,SPL-APL,273
+Anatase,Co-Catalysts,SPL-APL,81
+Anatase,Coatings,SPL-APL,1146
+Anatase,Cocatalyst,SPL-APL,78
+Anatase,Contacts,SPL-APL,73
+Anatase,Counter Electrode,SPL-APL,126
+Anatase,Current Collector,SPL-APL,35
+Anatase,DSC,SPL-APL,78
+Anatase,DSSC,SPL-APL,60
+Anatase,DSSCS,SPL-APL,431
+Anatase,DSSCs,SPL-APL,102
+Anatase,Degradation,SPL-APL,319
+Anatase,Device,SPL-APL,34
+Anatase,Dscs,SPL-APL,111
+Anatase,Dssc,SPL-APL,286
+Anatase,Dye,SPL-APL,32
+Anatase,Dye-Sensitized Solar Cell,SPL-APL,188
+Anatase,Dye-Sensitized Solar Cells,SPL-APL,515
+Anatase,Dyes,SPL-APL,31
+Anatase,Electrocatalyst,SPL-APL,54
+Anatase,Electrode,SPL-APL,1194
+Anatase,Electrodes,SPL-APL,951
+Anatase,Electrolyte,SPL-APL,617
+Anatase,Electron Transporting Layer,SPL-APL,35
+Anatase,Energy,SPL-APL,36
+Anatase,Environmental Application,SPL-APL,32
+Anatase,Filters,SPL-APL,35
+Anatase,Full Cell,SPL-APL,36
+Anatase,Gas Sensing,SPL-APL,31
+Anatase,Gas Sensors,SPL-APL,72
+Anatase,H2,SPL-APL,54
+Anatase,H2 Evolution,SPL-APL,94
+Anatase,H2 Generation,SPL-APL,36
+Anatase,H2 Production,SPL-APL,105
+Anatase,Half Cell,SPL-APL,58
+Anatase,Heterogeneous Catalyst,SPL-APL,30
+Anatase,Heterojunction,SPL-APL,67
+Anatase,Hybrid,SPL-APL,36
+Anatase,Hydrogen,SPL-APL,30
+Anatase,Hydrogen Evolution,SPL-APL,72
+Anatase,Hydrogen Generation,SPL-APL,62
+Anatase,Hydrogen Production,SPL-APL,144
+Anatase,Hydrogenation,SPL-APL,47
+Anatase,Implants,SPL-APL,105
+Anatase,Junctions,SPL-APL,76
+Anatase,LIBs,SPL-APL,95
+Anatase,Layers,SPL-APL,52
+Anatase,Li,SPL-APL,58
+Anatase,Li-Ion Battery,SPL-APL,89
+Anatase,Lithium Ion Battery,SPL-APL,176
+Anatase,Lithium-Ion Batteries,SPL-APL,88
+Anatase,Membrane,SPL-APL,58
+Anatase,Methanol Oxidation,SPL-APL,32
+Anatase,Nanocatalyst,SPL-APL,53
+Anatase,Negative Electrode,SPL-APL,56
+Anatase,Normal Hydrogen Electrode,SPL-APL,30
+Anatase,OER,SPL-APL,40
+Anatase,ORR,SPL-APL,37
+Anatase,Orange,SPL-APL,30
+Anatase,Oxidation,SPL-APL,205
+Anatase,PEC,SPL-APL,55
+Anatase,PEC Cell,SPL-APL,32
+Anatase,PSC,SPL-APL,45
+Anatase,PSCS,SPL-APL,57
+Anatase,Paint,SPL-APL,30
+Anatase,Perovskite Solar Cells,SPL-APL,33
+Anatase,Phenol Degradation,SPL-APL,43
+Anatase,Photo Decomposition,SPL-APL,34
+Anatase,Photo Degradation,SPL-APL,30
+Anatase,Photo-Catalyst,SPL-APL,30
+Anatase,Photoanode,SPL-APL,642
+Anatase,Photocatalysis,SPL-APL,512
+Anatase,Photocatalysis Application,SPL-APL,104
+Anatase,Photocatalyst,SPL-APL,1464
+Anatase,Photocatalysts,SPL-APL,1584
+Anatase,Photocatalytic CO2 Reduction,SPL-APL,37
+Anatase,Photocatalytic Decomposition,SPL-APL,149
+Anatase,Photocatalytic Degradation,SPL-APL,785
+Anatase,Photocatalytic Degradation Of,SPL-APL,45
+Anatase,Photocatalytic H2,SPL-APL,233
+Anatase,Photocatalytic H2 Evolution,SPL-APL,62
+Anatase,Photocatalytic H2 Production,SPL-APL,70
+Anatase,Photocatalytic Hydrogen Evolution,SPL-APL,46
+Anatase,Photocatalytic Hydrogen Generation,SPL-APL,43
+Anatase,Photocatalytic Hydrogen Production,SPL-APL,59
+Anatase,Photocatalytic Materials,SPL-APL,44
+Anatase,Photocatalytic Oxidation,SPL-APL,195
+Anatase,Photocatalytic Process,SPL-APL,63
+Anatase,Photocatalytic Reaction,SPL-APL,268
+Anatase,Photocatalytic Reactor,SPL-APL,36
+Anatase,Photocatalytic Reduction,SPL-APL,80
+Anatase,Photocatalytic Reduction of CO2,SPL-APL,30
+Anatase,Photocatalytic System,SPL-APL,47
+Anatase,Photocatalytic Water Splitting,SPL-APL,86
+Anatase,Photodegradation,SPL-APL,144
+Anatase,Photodegradation Of,SPL-APL,40
+Anatase,Photoelectrochemical Cells,SPL-APL,46
+Anatase,Photoelectrodes,SPL-APL,281
+Anatase,Photonic Crystal,SPL-APL,30
+Anatase,Photooxidation,SPL-APL,68
+Anatase,Photoreactors,SPL-APL,83
+Anatase,Photovoltaic Devices,SPL-APL,41
+Anatase,Photovoltaics,SPL-APL,59
+Anatase,Pigment,SPL-APL,72
+Anatase,Reactors,SPL-APL,99
+Anatase,Reductions,SPL-APL,63
+Anatase,Reference Electrode,SPL-APL,68
+Anatase,SCR,SPL-APL,44
+Anatase,Scattering Layer,SPL-APL,51
+Anatase,Sei,SPL-APL,31
+Anatase,Semiconductor,SPL-APL,33
+Anatase,Semiconductor Photocatalyst,SPL-APL,34
+Anatase,Sensing,SPL-APL,38
+Anatase,Sensitizer,SPL-APL,110
+Anatase,Sensor,SPL-APL,207
+Anatase,Sibs,SPL-APL,33
+Anatase,Sodium Ion Battery,SPL-APL,59
+Anatase,Solar Cell,SPL-APL,419
+Anatase,Solar Energy,SPL-APL,35
+Anatase,Solar Energy Conversion,SPL-APL,49
+Anatase,Supercapacitor,SPL-APL,45
+Anatase,Support,SPL-APL,54
+Anatase,Visible Light Photocatalyst,SPL-APL,30
+Anatase,Wastewater Treatment,SPL-APL,41
+Anatase,Water,SPL-APL,47
+Anatase,Water Oxidation,SPL-APL,56
+Anatase,Water Splitting,SPL-APL,212
+Anatase,Working Electrodes,SPL-APL,83
+Anatase,perovskite solar cells,SPL-APL,68
+Andesitic,ARC,SPL-APL,32
+Anti-Perovskites,Solid Electrolyte,SPL-APL,37
+Apatites,Coatings,SPL-APL,80
+Apatites,Electrolyte,SPL-APL,82
+Apatites,Phosphors,SPL-APL,39
+Apatites,Solid Oxide Fuel Cells,SPL-APL,40
+Argyrodite,Solid Electrolyte,SPL-APL,33
+Astrocytes,Neurons,SPL-APL,69
+Austenite,Actuator,SPL-APL,50
+Austenite,Alloys,SPL-APL,63
+Austenite,Automotive Industry,SPL-APL,45
+Austenite,Bearings,SPL-APL,50
+Austenite,Coatings,SPL-APL,179
+Austenite,Components,SPL-APL,39
+Austenite,DSS,SPL-APL,44
+Austenite,Electrode,SPL-APL,40
+Austenite,Filler,SPL-APL,35
+Austenite,Joints,SPL-APL,94
+Austenite,Pipe,SPL-APL,39
+Austenite,Pipelines,SPL-APL,47
+Austenite,Rail,SPL-APL,31
+Austenite,SMA,SPL-APL,58
+Austenite,SMAS,SPL-APL,105
+Austenite,Shape,SPL-APL,46
+Austenite,Shape Memory Alloy,SPL-APL,254
+Austenite,Sma,SPL-APL,158
+Austenite,Tensile Specimen,SPL-APL,38
+Austenite,Thermocouple,SPL-APL,32
+Austenite,Tool,SPL-APL,94
+Austenite,Tool Steel,SPL-APL,53
+Austenite,Trip,SPL-APL,134
+Austenite,Weld,SPL-APL,127
+Austenite,Weld Metal,SPL-APL,144
+Austenite,Welds,SPL-APL,35
+Austenite,ahss,SPL-APL,35
+Austenitic,Boilers,SPL-APL,30
+Austenitic,Chemical,SPL-APL,34
+Austenitic,Claddings,SPL-APL,63
+Austenitic,Coatings,SPL-APL,321
+Austenitic,Components,SPL-APL,56
+Austenitic,Electrode,SPL-APL,60
+Austenitic,Electrodes,SPL-APL,41
+Austenitic,Fast Reactor,SPL-APL,34
+Austenitic,Filler,SPL-APL,74
+Austenitic,First Wall,SPL-APL,36
+Austenitic,Fusion Reactor,SPL-APL,67
+Austenitic,Implants,SPL-APL,39
+Austenitic,Iter,SPL-APL,37
+Austenitic,Joints,SPL-APL,161
+Austenitic,Light Water Reactor,SPL-APL,40
+Austenitic,Nuclear Power Plant,SPL-APL,53
+Austenitic,Nuclear Reactor,SPL-APL,45
+Austenitic,Pipe,SPL-APL,37
+Austenitic,Pipes,SPL-APL,37
+Austenitic,Power Plant,SPL-APL,44
+Austenitic,Reactors,SPL-APL,48
+Austenitic,SMAS,SPL-APL,36
+Austenitic,Shape Memory Alloy,SPL-APL,87
+Austenitic,Sma,SPL-APL,54
+Austenitic,Structural,SPL-APL,71
+Austenitic,Structural Components,SPL-APL,35
+Austenitic,Structural Materials,SPL-APL,89
+Austenitic,TWIP,SPL-APL,48
+Austenitic,Tool,SPL-APL,61
+Austenitic,Weld,SPL-APL,132
+Austenitic,Weld Metal,SPL-APL,92
+Austenitic,Welds,SPL-APL,63
+B Cell,Cells,SPL-APL,42
+B Cell,Lymphoma,SPL-APL,36
+B Cell,T Cells,SPL-APL,46
+B S,Electrode,SPL-APL,43
+B s t,Anode,SPL-APL,65
+B s t,Battery,SPL-APL,31
+B s t,Catalyst,SPL-APL,112
+B s t,Cathode,SPL-APL,63
+B s t,Cell,SPL-APL,60
+B s t,Cells,SPL-APL,49
+B s t,Coatings,SPL-APL,53
+B s t,Electrode,SPL-APL,119
+B s t,Electrodes,SPL-APL,72
+B s t,Electrolyte,SPL-APL,61
+B s t,Fuel Cell,SPL-APL,40
+B s t,Heat Exchanger,SPL-APL,38
+B s t,PEMFC,SPL-APL,31
+B s t,Reactors,SPL-APL,32
+B s t,Solar Cell,SPL-APL,37
+B1,Coatings,SPL-APL,37
+B2,Coatings,SPL-APL,47
+B2,HEA,SPL-APL,32
+B2,SMAS,SPL-APL,31
+B2,Shape Memory Alloy,SPL-APL,80
+B2,Sma,SPL-APL,36
+BCC,Anode,SPL-APL,48
+BCC,Catalyst,SPL-APL,98
+BCC,Cathode,SPL-APL,42
+BCC,Cell,SPL-APL,37
+BCC,Coatings,SPL-APL,213
+BCC,Electrode,SPL-APL,120
+BCC,Electrodes,SPL-APL,102
+BCC,Electrolyte,SPL-APL,62
+BCC,HEA,SPL-APL,111
+BCC,Heas,SPL-APL,87
+BCC,Hydrogen Storage,SPL-APL,41
+BCC,Structural Materials,SPL-APL,38
+BSTRAC,Electrode,SPL-APL,52
+BSTRAct,Adsorbent,SPL-APL,37
+BSTRAct,Anode,SPL-APL,94
+BSTRAct,Catalyst,SPL-APL,142
+BSTRAct,Cathode,SPL-APL,118
+BSTRAct,Cathodes,SPL-APL,30
+BSTRAct,Cell,SPL-APL,69
+BSTRAct,Cells,SPL-APL,56
+BSTRAct,Coatings,SPL-APL,72
+BSTRAct,Dye-Sensitized Solar Cells,SPL-APL,33
+BSTRAct,Electrode,SPL-APL,190
+BSTRAct,Electrodes,SPL-APL,135
+BSTRAct,Electrolyte,SPL-APL,97
+BSTRAct,Fuel Cell,SPL-APL,42
+BSTRAct,Lithium Ion Battery,SPL-APL,44
+BSTRAct,Solar Cell,SPL-APL,59
+BSTRAct,Solid Oxide Fuel Cells,SPL-APL,43
+Basaltic,ARC,SPL-APL,60
+Basaltic,Volcanoes,SPL-APL,52
+Beta,Catalyst,SPL-APL,44
+Beta,Cells,SPL-APL,38
+Birnessites,Catalyst,SPL-APL,59
+Birnessites,Cathode,SPL-APL,36
+Birnessites,Electrode,SPL-APL,130
+Birnessites,Electrodes,SPL-APL,75
+Birnessites,Electrolyte,SPL-APL,31
+Birnessites,Supercapacitor,SPL-APL,40
+Bladder,Bladder Cancer,SPL-APL,64
+Bladder,Cancer,SPL-APL,95
+Body Centred Cubic,Catalyst,SPL-APL,37
+Body Centred Cubic,Coatings,SPL-APL,76
+Body Centred Cubic,HEA,SPL-APL,55
+Body Centred Cubic,Heas,SPL-APL,46
+Bone,Cells,SPL-APL,41
+Breast,4t1,SPL-APL,33
+Breast,Anti-Cancer,SPL-APL,101
+Breast,Anticancer Agent,SPL-APL,63
+Breast,Anticancer Drugs,SPL-APL,73
+Breast,Bone,SPL-APL,51
+Breast,Breast Cancer,SPL-APL,1368
+Breast,Breast Cancer Cells,SPL-APL,49
+Breast,Breast Carcinoma,SPL-APL,34
+Breast,Breast Tumor,SPL-APL,159
+Breast,Cancer,SPL-APL,1638
+Breast,Cancer Cell,SPL-APL,79
+Breast,Cancer Stem Cells,SPL-APL,34
+Breast,Cancer Therapy,SPL-APL,79
+Breast,Cancer Treatments,SPL-APL,80
+Breast,Carcinoma,SPL-APL,63
+Breast,Cell,SPL-APL,82
+Breast,Cells,SPL-APL,160
+Breast,Chemotherapy,SPL-APL,43
+Breast,Delivery,SPL-APL,38
+Breast,Drug Delivery,SPL-APL,69
+Breast,Drug Delivery System,SPL-APL,41
+Breast,Imaging,SPL-APL,48
+Breast,Inhibitor,SPL-APL,48
+Breast,Liver,SPL-APL,36
+Breast,Lung,SPL-APL,65
+Breast,Lung Cancer,SPL-APL,72
+Breast,MCF-7,SPL-APL,58
+Breast,Mammary,SPL-APL,64
+Breast,Melanoma,SPL-APL,50
+Breast,Mice,SPL-APL,79
+Breast,Nanocarrier,SPL-APL,56
+Breast,PDT,SPL-APL,34
+Breast,Prostate,SPL-APL,35
+Breast,Prostate Cancer,SPL-APL,46
+Breast,Sensor,SPL-APL,34
+Breast,Therapeutics,SPL-APL,38
+Breast,Therapy,SPL-APL,60
+Breast,Tumor,SPL-APL,115
+Breast,Tumours,SPL-APL,309
+Breast,Xenografts,SPL-APL,53
+Breast,siRNA,SPL-APL,44
+Breast Cancer,Breast Cancer Cells,SPL-APL,34
+Bronchial,Cells,SPL-APL,52
+Bronchial,Epithelial Cells,SPL-APL,32
+Bronchial,Lung,SPL-APL,32
+Brookite,Catalyst,SPL-APL,148
+Brookite,Coatings,SPL-APL,48
+Brookite,Electrode,SPL-APL,51
+Brookite,Electrodes,SPL-APL,45
+Brookite,Photoanode,SPL-APL,34
+Brookite,Photocatalysis,SPL-APL,31
+Brookite,Photocatalyst,SPL-APL,111
+Brookite,Photocatalysts,SPL-APL,127
+Brookite,Photocatalytic Degradation,SPL-APL,58
+Brookite,Solar Cell,SPL-APL,42
+Brown,Adipocyte,SPL-APL,30
+Brucite,Catalyst,SPL-APL,32
+Budding,Yeast,SPL-APL,31
+C.I.,Pigment,SPL-APL,30
+C14,Electrodes,SPL-APL,31
+C2/M,Cathode,SPL-APL,60
+C2/M,Electrode,SPL-APL,48
+C2/M,Electrodes,SPL-APL,30
+CKD,Chronic Kidney Disease,SPL-APL,44
+CKD,Kidney Disease,SPL-APL,43
+CML,Myelogenous Leukemia,SPL-APL,34
+CP,Implants,SPL-APL,31
+CRC,Cancer,SPL-APL,31
+Calc,ARC,SPL-APL,54
+Calc,Island,SPL-APL,38
+Calcite,Coatings,SPL-APL,33
+Cardiac,Cells,SPL-APL,32
+Cardiac,Heart,SPL-APL,40
+Cardiac,Myocytes,SPL-APL,65
+Cassie,Coatings,SPL-APL,79
+Cassie,Surfaces,SPL-APL,81
+Celiac,Diseases,SPL-APL,53
+Cervical,Cancer,SPL-APL,123
+Cervical,Cervical Cancer,SPL-APL,63
+Cf,Fibrosis,SPL-APL,30
+Chagas,Diseases,SPL-APL,32
+Chalcopyrite,Absorber,SPL-APL,120
+Chalcopyrite,Absorber Layer,SPL-APL,74
+Chalcopyrite,Absorbers,SPL-APL,61
+Chalcopyrite,Cell,SPL-APL,36
+Chalcopyrite,Cells,SPL-APL,52
+Chalcopyrite,Electrode,SPL-APL,46
+Chalcopyrite,Photovoltaics,SPL-APL,33
+Chalcopyrite,Solar Cell,SPL-APL,251
+Chalcopyrite,Thin Film Solar Cell,SPL-APL,109
+Chevrel,Cathode,SPL-APL,37
+Cholesteric,Liquid Crystal,SPL-APL,38
+Chondrite,ARC,SPL-APL,50
+Chondrite,Asteroid,SPL-APL,80
+Chondrite,Asteroids,SPL-APL,77
+Chondrite,CAI,SPL-APL,44
+Chondrite,CAIS,SPL-APL,53
+Chondrite,Inclusions,SPL-APL,41
+Chondrite,Meteorite,SPL-APL,111
+Chondrite,Ophiolites,SPL-APL,30
+Chondrite,Ore,SPL-APL,66
+Chondrite,Planetary,SPL-APL,35
+Chondrite,Porphyry,SPL-APL,32
+Chondrite,Solar System,SPL-APL,47
+Chondritic,Asteroid,SPL-APL,31
+Chondritic,Meteorite,SPL-APL,56
+Chondritic,Reservoir,SPL-APL,45
+Chondritic,Solar System,SPL-APL,36
+Chondrocyte,Cartilages,SPL-APL,53
+Chondrocyte,Cells,SPL-APL,30
+Chronic,Diseases,SPL-APL,47
+Chronic,Kidney Disease,SPL-APL,65
+Chronic,Leukemia,SPL-APL,64
+Chronic,Myelogenous Leukemia,SPL-APL,79
+Chronic Myeloid,Leukemia,SPL-APL,48
+Clathrate,Clathrate Hydrate,SPL-APL,34
+Clathrate,Hydrates,SPL-APL,59
+Clathrate Hydrate,Hydrates,SPL-APL,41
+Clinker,Cement,SPL-APL,45
+Clinopyroxenes,ARC,SPL-APL,34
+Clinopyroxenes,Inclusions,SPL-APL,33
+Clinopyroxenes,Mantle,SPL-APL,39
+Clinopyroxenes,Ophiolites,SPL-APL,44
+Clinopyroxenes,Thermometer,SPL-APL,42
+Colon,Anti-Cancer,SPL-APL,44
+Colon,Anticancer Drugs,SPL-APL,36
+Colon,Breast Cancer,SPL-APL,45
+Colon,Cancer,SPL-APL,331
+Colon,Cancer Therapy,SPL-APL,35
+Colon,Cell,SPL-APL,31
+Colon,Cells,SPL-APL,78
+Colon,Colon Cancer,SPL-APL,193
+Colon,Colorectal Cancer,SPL-APL,67
+Colon,Liver,SPL-APL,31
+Colon,Mice,SPL-APL,31
+Colon,Tumours,SPL-APL,124
+Colorectal,CRC,SPL-APL,226
+Colorectal,Cancer,SPL-APL,382
+Colorectal,Carcinoma,SPL-APL,31
+Colorectal,Cells,SPL-APL,44
+Colorectal,Colon Cancer,SPL-APL,44
+Colorectal,Colorectal Cancer,SPL-APL,192
+Colorectal,Tumours,SPL-APL,95
+Coronavirus,Diseases,SPL-APL,40
+Crohn,Diseases,SPL-APL,128
+Cryptomelane,Catalyst,SPL-APL,61
+Cryptomelane,Molecular Sieve,SPL-APL,42
+Cubane,Catalyst,SPL-APL,53
+Cubane,Photosystem II,SPL-APL,31
+Cubic,Absorber,SPL-APL,80
+Cubic,Active Layer,SPL-APL,46
+Cubic,Adsorbent,SPL-APL,84
+Cubic,Anode,SPL-APL,497
+Cubic,Anodes,SPL-APL,131
+Cubic,Anvil Cell,SPL-APL,115
+Cubic,Batteries,SPL-APL,80
+Cubic,Battery,SPL-APL,94
+Cubic,Bioimaging,SPL-APL,31
+Cubic,Biomedical Application,SPL-APL,64
+Cubic,CE,SPL-APL,37
+Cubic,CO,SPL-APL,30
+Cubic,CO Oxidation,SPL-APL,83
+Cubic,Capacitor,SPL-APL,87
+Cubic,Catalysis,SPL-APL,130
+Cubic,Catalyst,SPL-APL,1642
+Cubic,Catalysts,SPL-APL,31
+Cubic,Catalytic,SPL-APL,41
+Cubic,Catalytic Reaction,SPL-APL,41
+Cubic,Cathode,SPL-APL,603
+Cubic,Cathodes,SPL-APL,179
+Cubic,Cell,SPL-APL,499
+Cubic,Cells,SPL-APL,331
+Cubic,Channels,SPL-APL,41
+Cubic,Chip,SPL-APL,31
+Cubic,Coatings,SPL-APL,993
+Cubic,Cocatalyst,SPL-APL,36
+Cubic,Contacts,SPL-APL,133
+Cubic,Counter Electrode,SPL-APL,87
+Cubic,Crucible,SPL-APL,56
+Cubic,Crystal,SPL-APL,30
+Cubic,Current Collector,SPL-APL,37
+Cubic,Cutting,SPL-APL,64
+Cubic,Cutting Tool,SPL-APL,131
+Cubic,DSSCS,SPL-APL,38
+Cubic,Degradation,SPL-APL,56
+Cubic,Detection,SPL-APL,49
+Cubic,Detector,SPL-APL,83
+Cubic,Device,SPL-APL,87
+Cubic,Device Application,SPL-APL,32
+Cubic,Dielectric,SPL-APL,44
+Cubic,Diodes,SPL-APL,37
+Cubic,Drug Delivery,SPL-APL,79
+Cubic,Dye-Sensitized Solar Cells,SPL-APL,37
+Cubic,Electrocatalyst,SPL-APL,157
+Cubic,Electrochemical Cells,SPL-APL,42
+Cubic,Electrode,SPL-APL,1219
+Cubic,Electrodes,SPL-APL,859
+Cubic,Electrolyte,SPL-APL,738
+Cubic,Electronic,SPL-APL,44
+Cubic,Electronic Devices,SPL-APL,62
+Cubic,Electronics,SPL-APL,34
+Cubic,Energy Storage,SPL-APL,46
+Cubic,Filler,SPL-APL,43
+Cubic,Filters,SPL-APL,41
+Cubic,Flexible,SPL-APL,33
+Cubic,Fuel,SPL-APL,62
+Cubic,Fuel Cell,SPL-APL,125
+Cubic,Full Cell,SPL-APL,45
+Cubic,Gas Sensors,SPL-APL,78
+Cubic,Gce,SPL-APL,30
+Cubic,Grinding Wheel,SPL-APL,34
+Cubic,H2,SPL-APL,31
+Cubic,H2 Evolution,SPL-APL,37
+Cubic,Half Cell,SPL-APL,48
+Cubic,Hard Coating,SPL-APL,47
+Cubic,Heterogeneous Catalyst,SPL-APL,30
+Cubic,Heterojunction,SPL-APL,72
+Cubic,Htl,SPL-APL,31
+Cubic,Hybrid,SPL-APL,30
+Cubic,Hydrogen Evolution,SPL-APL,42
+Cubic,Hydrogen Evolution Reaction,SPL-APL,37
+Cubic,Hydrogen Production,SPL-APL,55
+Cubic,Hydrogen Storage,SPL-APL,34
+Cubic,Hydrogenation,SPL-APL,55
+Cubic,ITSOFC,SPL-APL,42
+Cubic,Imaging,SPL-APL,33
+Cubic,Industrial Applications,SPL-APL,37
+Cubic,Inserts,SPL-APL,33
+Cubic,Junctions,SPL-APL,55
+Cubic,LED,SPL-APL,96
+Cubic,LEDs,SPL-APL,116
+Cubic,LIBs,SPL-APL,64
+Cubic,Laser,SPL-APL,81
+Cubic,Layers,SPL-APL,49
+Cubic,Li,SPL-APL,40
+Cubic,Li-Ion Battery,SPL-APL,75
+Cubic,Light Emitting Diodes,SPL-APL,56
+Cubic,Liquid Crystal,SPL-APL,38
+Cubic,Lithium Ion Battery,SPL-APL,119
+Cubic,Lithium-Ion Batteries,SPL-APL,66
+Cubic,Machining,SPL-APL,66
+Cubic,Magnet,SPL-APL,46
+Cubic,Magnets,SPL-APL,33
+Cubic,Material,SPL-APL,60
+Cubic,Membrane,SPL-APL,90
+Cubic,Metals,SPL-APL,57
+Cubic,Metamaterial,SPL-APL,44
+Cubic,Methanol Oxidation,SPL-APL,30
+Cubic,Mof,SPL-APL,32
+Cubic,Molecular Sieve,SPL-APL,60
+Cubic,Nanocatalyst,SPL-APL,60
+Cubic,Negative Electrode,SPL-APL,50
+Cubic,OER,SPL-APL,123
+Cubic,ORR,SPL-APL,162
+Cubic,Optoelectronic Application,SPL-APL,61
+Cubic,Optoelectronic Device,SPL-APL,138
+Cubic,Optoelectronics,SPL-APL,67
+Cubic,Oxidation,SPL-APL,90
+Cubic,Oxygen Evolution Reaction,SPL-APL,55
+Cubic,Oxygen Reduction,SPL-APL,32
+Cubic,Oxygen Reduction Reaction,SPL-APL,100
+Cubic,PSC,SPL-APL,66
+Cubic,PSCS,SPL-APL,91
+Cubic,Perovskite Solar Cells,SPL-APL,61
+Cubic,Perovskites,SPL-APL,33
+Cubic,Phosphor,SPL-APL,217
+Cubic,Phosphors,SPL-APL,254
+Cubic,Photoanode,SPL-APL,82
+Cubic,Photocatalysis,SPL-APL,71
+Cubic,Photocatalyst,SPL-APL,236
+Cubic,Photocatalysts,SPL-APL,219
+Cubic,Photocatalytic Degradation,SPL-APL,116
+Cubic,Photocatalytic H2,SPL-APL,36
+Cubic,Photocatalytic Reaction,SPL-APL,51
+Cubic,Photocathodes,SPL-APL,32
+Cubic,Photodetector,SPL-APL,98
+Cubic,Photoelectrodes,SPL-APL,57
+Cubic,Photonic Crystal,SPL-APL,53
+Cubic,Photonics,SPL-APL,30
+Cubic,Photovoltaic Application,SPL-APL,48
+Cubic,Photovoltaic Devices,SPL-APL,71
+Cubic,Photovoltaics,SPL-APL,86
+Cubic,Plating,SPL-APL,30
+Cubic,Positive Electrode,SPL-APL,49
+Cubic,Protective Coating,SPL-APL,55
+Cubic,QD,SPL-APL,51
+Cubic,Quantum Dots,SPL-APL,37
+Cubic,Quantum Well,SPL-APL,52
+Cubic,RHE,SPL-APL,48
+Cubic,Reactors,SPL-APL,46
+Cubic,Red Phosphor,SPL-APL,35
+Cubic,Reductions,SPL-APL,55
+Cubic,Reference Electrode,SPL-APL,63
+Cubic,SOFC,SPL-APL,102
+Cubic,SOFs,SPL-APL,85
+Cubic,Sample Holder,SPL-APL,38
+Cubic,Semiconductor,SPL-APL,38
+Cubic,Sensing,SPL-APL,71
+Cubic,Sensor,SPL-APL,313
+Cubic,Separator,SPL-APL,36
+Cubic,Shape Memory Alloy,SPL-APL,49
+Cubic,Single Cell,SPL-APL,47
+Cubic,Sodium Ion Battery,SPL-APL,36
+Cubic,Solar Cell,SPL-APL,487
+Cubic,Solar Cell Device,SPL-APL,36
+Cubic,Solid Electrolyte,SPL-APL,234
+Cubic,Solid Oxide Fuel Cells,SPL-APL,221
+Cubic,Solid State Electrolyte,SPL-APL,47
+Cubic,Superalloy,SPL-APL,35
+Cubic,Supercapacitor,SPL-APL,97
+Cubic,Support,SPL-APL,37
+Cubic,Symmetrical Cell,SPL-APL,35
+Cubic,TBC,SPL-APL,43
+Cubic,TEM,SPL-APL,35
+Cubic,Thermal Barrier Coating,SPL-APL,64
+Cubic,Thermocouple,SPL-APL,33
+Cubic,Thin Film Solar Cell,SPL-APL,40
+Cubic,Tool,SPL-APL,125
+Cubic,Tools,SPL-APL,89
+Cubic,Water Oxidation,SPL-APL,46
+Cubic,Water Splitting,SPL-APL,86
+Cubic,Wheel,SPL-APL,30
+Cubic,White LEDs,SPL-APL,36
+Cubic,Window,SPL-APL,31
+Cubic,Wled,SPL-APL,30
+Cubic,Working Electrodes,SPL-APL,65
+Cubic,Workpiece,SPL-APL,30
+Cubic,perovskite solar cells,SPL-APL,110
+Cubic Fluorite,Catalyst,SPL-APL,41
+Cubic Fluorite,Electrolyte,SPL-APL,50
+Cubic Fluorite,Solid Oxide Fuel Cells,SPL-APL,35
+Cubic Perovskites,Anode,SPL-APL,54
+Cubic Perovskites,Catalyst,SPL-APL,50
+Cubic Perovskites,Cathode,SPL-APL,99
+Cubic Perovskites,Cathodes,SPL-APL,30
+Cubic Perovskites,Cell,SPL-APL,55
+Cubic Perovskites,Cells,SPL-APL,32
+Cubic Perovskites,Electrode,SPL-APL,55
+Cubic Perovskites,Electrodes,SPL-APL,45
+Cubic Perovskites,Electrolyte,SPL-APL,91
+Cubic Perovskites,Single Cell,SPL-APL,31
+Cubic Perovskites,Solar Cell,SPL-APL,47
+Cubic Perovskites,Solid Oxide Fuel Cells,SPL-APL,65
+Cubic Spinel,Anode,SPL-APL,36
+Cubic Spinel,Catalyst,SPL-APL,48
+Cubic Spinel,Cathode,SPL-APL,90
+Cubic Spinel,Cathodes,SPL-APL,30
+Cubic Spinel,Coatings,SPL-APL,35
+Cubic Spinel,Electrode,SPL-APL,92
+Cubic Spinel,Electrodes,SPL-APL,72
+Cuboctahedral,Catalyst,SPL-APL,57
+Cuboidal,Superalloy,SPL-APL,58
+Cystic,Cf,SPL-APL,55
+Cystic,Fibrosis,SPL-APL,137
+Dawson,Catalyst,SPL-APL,34
+Dawson,POM,SPL-APL,30
+Dendritic,Cells,SPL-APL,34
+Double Perovskite,Anode,SPL-APL,79
+Double Perovskite,Catalyst,SPL-APL,75
+Double Perovskite,Cathode,SPL-APL,103
+Double Perovskite,Cathodes,SPL-APL,41
+Double Perovskite,Cell,SPL-APL,44
+Double Perovskite,Electrode,SPL-APL,73
+Double Perovskite,Electrodes,SPL-APL,43
+Double Perovskite,Electrolyte,SPL-APL,105
+Double Perovskite,ITSOFC,SPL-APL,32
+Double Perovskite,OER,SPL-APL,40
+Double Perovskite,ORR,SPL-APL,35
+Double Perovskite,Optoelectronic Application,SPL-APL,41
+Double Perovskite,Phosphor,SPL-APL,53
+Double Perovskite,Phosphors,SPL-APL,76
+Double Perovskite,Photovoltaics,SPL-APL,37
+Double Perovskite,SOFC,SPL-APL,33
+Double Perovskite,SOFs,SPL-APL,43
+Double Perovskite,Single Cell,SPL-APL,31
+Double Perovskite,Solar Cell,SPL-APL,82
+Double Perovskite,Solid Oxide Fuel Cells,SPL-APL,99
+Duplex,DSS,SPL-APL,35
+Eclogites,Inclusions,SPL-APL,34
+Eclogites,Ophiolites,SPL-APL,35
+Eclogites,Thermometer,SPL-APL,34
+Eclogitic,Inclusions,SPL-APL,33
+Embryonic,Cells,SPL-APL,41
+Embryonic,Stem Cells,SPL-APL,31
+Endometrial,Cancer,SPL-APL,53
+Endothelial,Cells,SPL-APL,30
+Epithelial,Cancer,SPL-APL,44
+Epithelial,Cells,SPL-APL,58
+Esophageal,Cancer,SPL-APL,35
+Esophageal,ESCC,SPL-APL,31
+F,Catalyst,SPL-APL,47
+F,Electrode,SPL-APL,58
+F,Electrodes,SPL-APL,52
+F,P,SPL-APL,30
+FCC,Anode,SPL-APL,100
+FCC,Anodes,SPL-APL,35
+FCC,CO,SPL-APL,33
+FCC,CO Oxidation,SPL-APL,66
+FCC,Catalysis,SPL-APL,65
+FCC,Catalyst,SPL-APL,1070
+FCC,Cathode,SPL-APL,102
+FCC,Cell,SPL-APL,75
+FCC,Cells,SPL-APL,32
+FCC,Coatings,SPL-APL,525
+FCC,Contacts,SPL-APL,43
+FCC,Counter Electrode,SPL-APL,32
+FCC,Cutting Tool,SPL-APL,33
+FCC,Detector,SPL-APL,34
+FCC,Diffusion Couple,SPL-APL,30
+FCC,Electrocatalyst,SPL-APL,133
+FCC,Electrode,SPL-APL,360
+FCC,Electrodes,SPL-APL,247
+FCC,Electrolyte,SPL-APL,121
+FCC,FCC Catalyst,SPL-APL,38
+FCC,Fluidized Catalytic Cracking,SPL-APL,54
+FCC,Fuel Cell,SPL-APL,38
+FCC,HEA,SPL-APL,166
+FCC,HEAs,SPL-APL,50
+FCC,Hard Coating,SPL-APL,31
+FCC,Heas,SPL-APL,108
+FCC,Hydrogenation,SPL-APL,52
+FCC,MEA,SPL-APL,33
+FCC,Methanol Oxidation,SPL-APL,38
+FCC,Nanocatalyst,SPL-APL,45
+FCC,ORR,SPL-APL,100
+FCC,Oxidation,SPL-APL,44
+FCC,Oxygen Reduction Reaction,SPL-APL,52
+FCC,Photonic Crystal,SPL-APL,83
+FCC,RHE,SPL-APL,32
+FCC,Reactors,SPL-APL,51
+FCC,Reductions,SPL-APL,39
+FCC,Risers,SPL-APL,61
+FCC,Sensor,SPL-APL,56
+FCC,Shape Memory Alloy,SPL-APL,32
+FCC,Solar Cell,SPL-APL,31
+FCC,Structural Materials,SPL-APL,34
+FCC,Superalloy,SPL-APL,104
+FD3M,Cathode,SPL-APL,71
+FD3M,Electrode,SPL-APL,30
+Face Centered Cubic,Anode,SPL-APL,44
+Face Centered Cubic,Catalysis,SPL-APL,48
+Face Centered Cubic,Catalyst,SPL-APL,376
+Face Centered Cubic,Cathode,SPL-APL,50
+Face Centered Cubic,Coatings,SPL-APL,242
+Face Centered Cubic,Electrocatalyst,SPL-APL,92
+Face Centered Cubic,Electrode,SPL-APL,146
+Face Centered Cubic,Electrodes,SPL-APL,112
+Face Centered Cubic,Electrolyte,SPL-APL,54
+Face Centered Cubic,Fuel Cell,SPL-APL,32
+Face Centered Cubic,HEA,SPL-APL,81
+Face Centered Cubic,Heas,SPL-APL,55
+Face Centered Cubic,Methanol Oxidation,SPL-APL,32
+Face Centered Cubic,Nanocatalyst,SPL-APL,30
+Face Centered Cubic,ORR,SPL-APL,45
+Face Centered Cubic,Oxygen Reduction Reaction,SPL-APL,45
+Face Centered Cubic,Photonic Crystal,SPL-APL,55
+Face Centered Cubic,Sensor,SPL-APL,46
+Face Centered Cubic,Superalloy,SPL-APL,53
+Faujasite,Catalyst,SPL-APL,56
+Femur,Bone,SPL-APL,53
+Femur,Implants,SPL-APL,32
+Ferritic,Blanket,SPL-APL,61
+Ferritic,Cathode,SPL-APL,39
+Ferritic,Claddings,SPL-APL,50
+Ferritic,Coatings,SPL-APL,150
+Ferritic,First Wall,SPL-APL,31
+Ferritic,Fusion Reactor,SPL-APL,125
+Ferritic,Interconnect,SPL-APL,63
+Ferritic,Iter,SPL-APL,44
+Ferritic,Joints,SPL-APL,75
+Ferritic,Power Plant,SPL-APL,33
+Ferritic,RAFM,SPL-APL,52
+Ferritic,Reactors,SPL-APL,40
+Ferritic,SOFC,SPL-APL,49
+Ferritic,Solid Oxide Fuel Cells,SPL-APL,72
+Ferritic,Structural,SPL-APL,87
+Ferritic,Structural Materials,SPL-APL,117
+Ferritic,Test Blanket Module,SPL-APL,33
+Ferritic,Weld,SPL-APL,49
+Ferritic,Weld Metal,SPL-APL,32
+Fibroblasts,Cells,SPL-APL,80
+Fibroblasts,Stem Cells,SPL-APL,30
+Fluorite,Anode,SPL-APL,51
+Fluorite,Catalyst,SPL-APL,190
+Fluorite,Cathode,SPL-APL,37
+Fluorite,Cell,SPL-APL,35
+Fluorite,Coatings,SPL-APL,40
+Fluorite,Electrode,SPL-APL,55
+Fluorite,Electrodes,SPL-APL,41
+Fluorite,Electrolyte,SPL-APL,150
+Fluorite,Fuel Cell,SPL-APL,36
+Fluorite,SOFC,SPL-APL,41
+Fluorite,SOFs,SPL-APL,32
+Fluorite,Solid Electrolyte,SPL-APL,66
+Fluorite,Solid Oxide Fuel Cells,SPL-APL,104
+Fluorite,Thermal Barrier Coating,SPL-APL,44
+G,Catalyst,SPL-APL,45
+G,Coatings,SPL-APL,106
+G,Electrode,SPL-APL,45
+G,Electrodes,SPL-APL,50
+G,Shape Memory Alloy,SPL-APL,32
+G,Superalloy,SPL-APL,201
+Gamma,Catalyst,SPL-APL,60
+Gamma,Coatings,SPL-APL,41
+Garnet,ARC,SPL-APL,87
+Garnet,All Solid State Batteries,SPL-APL,45
+Garnet,Anode,SPL-APL,110
+Garnet,Anodes,SPL-APL,30
+Garnet,Barometers,SPL-APL,71
+Garnet,Batteries,SPL-APL,64
+Garnet,Battery,SPL-APL,88
+Garnet,Cathode,SPL-APL,142
+Garnet,Cathodes,SPL-APL,35
+Garnet,Cell,SPL-APL,140
+Garnet,Cells,SPL-APL,114
+Garnet,Coatings,SPL-APL,125
+Garnet,Contacts,SPL-APL,52
+Garnet,Crucible,SPL-APL,34
+Garnet,Detector,SPL-APL,31
+Garnet,Electrode,SPL-APL,128
+Garnet,Electrodes,SPL-APL,103
+Garnet,Electrolyte,SPL-APL,290
+Garnet,Fluid Inclusion,SPL-APL,60
+Garnet,Geobarometer,SPL-APL,31
+Garnet,Geothermometer,SPL-APL,43
+Garnet,Inclusions,SPL-APL,115
+Garnet,Island,SPL-APL,33
+Garnet,LED,SPL-APL,45
+Garnet,LEDs,SPL-APL,37
+Garnet,Laser,SPL-APL,153
+Garnet,Lavas,SPL-APL,49
+Garnet,Li,SPL-APL,38
+Garnet,Li-Ion Battery,SPL-APL,32
+Garnet,Mantle,SPL-APL,110
+Garnet,Mantle Xenoliths,SPL-APL,33
+Garnet,Melt Inclusion,SPL-APL,38
+Garnet,Metals,SPL-APL,71
+Garnet,Oceanic,SPL-APL,40
+Garnet,Ophiolites,SPL-APL,68
+Garnet,Ore,SPL-APL,61
+Garnet,Phosphor,SPL-APL,222
+Garnet,Phosphors,SPL-APL,225
+Garnet,Plating,SPL-APL,60
+Garnet,Pluton,SPL-APL,46
+Garnet,SSE,SPL-APL,50
+Garnet,Scintillator,SPL-APL,84
+Garnet,Sensor,SPL-APL,32
+Garnet,Separator,SPL-APL,37
+Garnet,Skarn,SPL-APL,51
+Garnet,Solid Electrolyte,SPL-APL,230
+Garnet,Solid State Batteries,SPL-APL,62
+Garnet,Solid State Electrolyte,SPL-APL,111
+Garnet,Subduction,SPL-APL,37
+Garnet,Symmetrical Cell,SPL-APL,56
+Garnet,Thermometer,SPL-APL,124
+Garnet,Volcanic Rocks,SPL-APL,60
+Garnet,Volcanoes,SPL-APL,37
+Garnet,Waveguide,SPL-APL,36
+Garnet,White LEDs,SPL-APL,44
+Garnet,White Light Emitting Diode,SPL-APL,44
+Garnets,Electrolyte,SPL-APL,39
+Garnets,Inclusions,SPL-APL,35
+Garnets,Phosphors,SPL-APL,40
+Garnets,Scintillator,SPL-APL,30
+Garnets,Solid Electrolyte,SPL-APL,30
+Gastric,Cancer,SPL-APL,189
+Gastric,Carcinoma,SPL-APL,30
+Gastric,Gastric Cancer,SPL-APL,142
+Gastric,Tumours,SPL-APL,31
+Glioblastoma,Brain Tumors,SPL-APL,37
+Glioblastoma,Gliomas,SPL-APL,52
+Gliomas,Brain Tumors,SPL-APL,43
+Gneiss,Ore,SPL-APL,31
+Granite,ARC,SPL-APL,30
+Granite,Ore,SPL-APL,112
+Granite,Orebody,SPL-APL,38
+Granite,Porphyry,SPL-APL,41
+Granite,Volcanic,SPL-APL,38
+Granitic,Ore,SPL-APL,61
+Granitoids,Ore,SPL-APL,54
+Granulite,Fluid Inclusion,SPL-APL,30
+Granulite,Inclusions,SPL-APL,37
+Granulite,Thermometer,SPL-APL,39
+Graphitic,Anode,SPL-APL,141
+Graphitic,Anodes,SPL-APL,49
+Graphitic,Battery,SPL-APL,32
+Graphitic,Catalysis,SPL-APL,30
+Graphitic,Catalyst,SPL-APL,754
+Graphitic,Cathode,SPL-APL,120
+Graphitic,Cathodes,SPL-APL,43
+Graphitic,Cell,SPL-APL,55
+Graphitic,Cells,SPL-APL,36
+Graphitic,Coatings,SPL-APL,107
+Graphitic,Electrocatalyst,SPL-APL,151
+Graphitic,Electrode,SPL-APL,320
+Graphitic,Electrodes,SPL-APL,236
+Graphitic,Electrolyte,SPL-APL,109
+Graphitic,Energy Storage,SPL-APL,32
+Graphitic,Fuel Cell,SPL-APL,79
+Graphitic,Lithium Ion Battery,SPL-APL,34
+Graphitic,OER,SPL-APL,49
+Graphitic,ORR,SPL-APL,228
+Graphitic,Oxidation,SPL-APL,32
+Graphitic,Oxygen Reduction Reaction,SPL-APL,153
+Graphitic,Photocatalysis,SPL-APL,31
+Graphitic,Photocatalyst,SPL-APL,55
+Graphitic,Photocatalysts,SPL-APL,60
+Graphitic,Sensor,SPL-APL,36
+Graphitic,Supercapacitor,SPL-APL,87
+Graphitic,Water Splitting,SPL-APL,30
+Greenstone,Belt,SPL-APL,34
+Greenstone,Greenstone Belt,SPL-APL,31
+HCP,Aerospace,SPL-APL,48
+HCP,Anode,SPL-APL,41
+HCP,Automotive,SPL-APL,39
+HCP,Catalyst,SPL-APL,269
+HCP,Cathode,SPL-APL,33
+HCP,Cell,SPL-APL,35
+HCP,Coatings,SPL-APL,149
+HCP,Electrocatalyst,SPL-APL,32
+HCP,Electrode,SPL-APL,112
+HCP,Electrodes,SPL-APL,76
+HCP,Electrolyte,SPL-APL,40
+HSCs,Cells,SPL-APL,83
+HSCs,HSC,SPL-APL,60
+HSCs,Haematopoietic Stem Cell,SPL-APL,60
+HSCs,Liver,SPL-APL,77
+HSCs,Liver Fibrosis,SPL-APL,41
+HSCs,Stem Cells,SPL-APL,65
+Haematopoietic,Cells,SPL-APL,30
+Haematopoietic,HSCs,SPL-APL,36
+Haematopoietic,Stem Cells,SPL-APL,51
+Hematopoietic,Cell,SPL-APL,32
+Hematopoietic,Cells,SPL-APL,91
+Hematopoietic,HSCs,SPL-APL,33
+Hematopoietic,Haematopoietic Stem Cell,SPL-APL,34
+Hematopoietic,Stem Cells,SPL-APL,48
+Hepatic,Cells,SPL-APL,105
+Hepatic,HSCs,SPL-APL,41
+Hepatic,Liver,SPL-APL,175
+Hepatic,Liver Disease,SPL-APL,34
+Hepatic,Liver Fibrosis,SPL-APL,52
+Hepatocellular,Cancer,SPL-APL,50
+Hepatocellular,Carcinoma,SPL-APL,164
+Hepatocellular,HCC,SPL-APL,338
+Hepatocellular,Hepatocellular Carcinoma,SPL-APL,46
+Hepatocellular,Liver,SPL-APL,119
+Hepatocellular,Liver Cancer,SPL-APL,53
+Hepatocellular,Tumours,SPL-APL,37
+Hepatocellular Carcinoma,HCC,SPL-APL,31
+Hepatocyte,Cells,SPL-APL,33
+Hepatocyte,Liver,SPL-APL,103
+Heusler,Magnetic Tunnel Junction,SPL-APL,30
+Heusler,Material,SPL-APL,39
+Heusler,Shape Memory Alloy,SPL-APL,36
+Heusler,Spintronic Device,SPL-APL,54
+Heusler,Spintronics,SPL-APL,46
+Heusler,Spintronics Applications,SPL-APL,45
+Hexagonal,2D,SPL-APL,30
+Hexagonal,AFM,SPL-APL,35
+Hexagonal,Absorber,SPL-APL,62
+Hexagonal,Active Layer,SPL-APL,52
+Hexagonal,Adhesive,SPL-APL,30
+Hexagonal,Adsorbent,SPL-APL,169
+Hexagonal,Adsorption,SPL-APL,41
+Hexagonal,Anode,SPL-APL,485
+Hexagonal,Anodes,SPL-APL,126
+Hexagonal,Antennae,SPL-APL,42
+Hexagonal,Anvil Cell,SPL-APL,76
+Hexagonal,Barrier Layer,SPL-APL,58
+Hexagonal,Batteries,SPL-APL,76
+Hexagonal,Battery,SPL-APL,105
+Hexagonal,Bio-Medical,SPL-APL,31
+Hexagonal,Bio-Sensor,SPL-APL,77
+Hexagonal,Bioimaging,SPL-APL,40
+Hexagonal,Biomaterial,SPL-APL,47
+Hexagonal,Biomedical Application,SPL-APL,52
+Hexagonal,Biosensing,SPL-APL,30
+Hexagonal,Blue,SPL-APL,34
+Hexagonal,CE,SPL-APL,45
+Hexagonal,CO,SPL-APL,32
+Hexagonal,CO Oxidation,SPL-APL,81
+Hexagonal,CO2 Reduction,SPL-APL,37
+Hexagonal,Cantilevered,SPL-APL,33
+Hexagonal,Capacitor,SPL-APL,82
+Hexagonal,Catalysis,SPL-APL,198
+Hexagonal,Catalyst,SPL-APL,2173
+Hexagonal,Catalysts,SPL-APL,35
+Hexagonal,Catalytic,SPL-APL,77
+Hexagonal,Catalytic Reaction,SPL-APL,47
+Hexagonal,Cathode,SPL-APL,572
+Hexagonal,Cathodes,SPL-APL,166
+Hexagonal,Cavity,SPL-APL,32
+Hexagonal,Cell,SPL-APL,450
+Hexagonal,Cells,SPL-APL,289
+Hexagonal,Channels,SPL-APL,128
+Hexagonal,Chip,SPL-APL,48
+Hexagonal,Circuit,SPL-APL,47
+Hexagonal,Claddings,SPL-APL,39
+Hexagonal,Coatings,SPL-APL,1048
+Hexagonal,Cocatalyst,SPL-APL,34
+Hexagonal,Cof,SPL-APL,30
+Hexagonal,Cofs,SPL-APL,32
+Hexagonal,Columns,SPL-APL,56
+Hexagonal,Contacts,SPL-APL,223
+Hexagonal,Conversion,SPL-APL,36
+Hexagonal,Core,SPL-APL,47
+Hexagonal,Counter,SPL-APL,30
+Hexagonal,Counter Electrode,SPL-APL,133
+Hexagonal,Crucible,SPL-APL,52
+Hexagonal,Crystal,SPL-APL,68
+Hexagonal,Current Collector,SPL-APL,53
+Hexagonal,Cutting Tool,SPL-APL,35
+Hexagonal,DSSCS,SPL-APL,66
+Hexagonal,Degradation,SPL-APL,78
+Hexagonal,Detection,SPL-APL,67
+Hexagonal,Detector,SPL-APL,145
+Hexagonal,Device,SPL-APL,213
+Hexagonal,Device Application,SPL-APL,55
+Hexagonal,Dielectric,SPL-APL,93
+Hexagonal,Dielectric Layer,SPL-APL,37
+Hexagonal,Diodes,SPL-APL,60
+Hexagonal,Displays,SPL-APL,37
+Hexagonal,Drain,SPL-APL,50
+Hexagonal,Drug Delivery,SPL-APL,106
+Hexagonal,Drug Delivery System,SPL-APL,35
+Hexagonal,Dssc,SPL-APL,60
+Hexagonal,Dye-Sensitized Solar Cells,SPL-APL,71
+Hexagonal,Electrical Contact,SPL-APL,33
+Hexagonal,Electrocatalyst,SPL-APL,152
+Hexagonal,Electrochemical Cells,SPL-APL,49
+Hexagonal,Electrochromic Devices,SPL-APL,30
+Hexagonal,Electrode,SPL-APL,1600
+Hexagonal,Electrodes,SPL-APL,1200
+Hexagonal,Electrolyte,SPL-APL,513
+Hexagonal,Electronic,SPL-APL,103
+Hexagonal,Electronic Applications,SPL-APL,46
+Hexagonal,Electronic Devices,SPL-APL,147
+Hexagonal,Electronics,SPL-APL,166
+Hexagonal,Emitters,SPL-APL,68
+Hexagonal,Energy,SPL-APL,34
+Hexagonal,Energy Storage,SPL-APL,86
+Hexagonal,Energy Storage Application,SPL-APL,30
+Hexagonal,Energy Storage Device,SPL-APL,38
+Hexagonal,FET,SPL-APL,138
+Hexagonal,FET Device,SPL-APL,53
+Hexagonal,FETS,SPL-APL,87
+Hexagonal,Field Effect Transistor,SPL-APL,134
+Hexagonal,Filler,SPL-APL,88
+Hexagonal,Filters,SPL-APL,72
+Hexagonal,Flexible,SPL-APL,72
+Hexagonal,Fuel,SPL-APL,94
+Hexagonal,Fuel Assembly,SPL-APL,36
+Hexagonal,Fuel Cell,SPL-APL,73
+Hexagonal,Gas Sensing,SPL-APL,42
+Hexagonal,Gas Sensors,SPL-APL,134
+Hexagonal,Gate,SPL-APL,88
+Hexagonal,Gate Dielectric,SPL-APL,46
+Hexagonal,Grating,SPL-APL,31
+Hexagonal,Grid,SPL-APL,34
+Hexagonal,H2 Evolution,SPL-APL,44
+Hexagonal,H2 Production,SPL-APL,34
+Hexagonal,HDS,SPL-APL,38
+Hexagonal,Half Cell,SPL-APL,46
+Hexagonal,Heaters,SPL-APL,34
+Hexagonal,Heterogeneous Catalysis,SPL-APL,36
+Hexagonal,Heterogeneous Catalyst,SPL-APL,72
+Hexagonal,Heterojunction,SPL-APL,89
+Hexagonal,Hybrid,SPL-APL,47
+Hexagonal,Hydrogen Evolution,SPL-APL,64
+Hexagonal,Hydrogen Evolution Reaction,SPL-APL,82
+Hexagonal,Hydrogen Production,SPL-APL,53
+Hexagonal,Hydrogen Storage,SPL-APL,82
+Hexagonal,Hydrogenation,SPL-APL,69
+Hexagonal,Imaging,SPL-APL,43
+Hexagonal,Implants,SPL-APL,43
+Hexagonal,Industrial Applications,SPL-APL,43
+Hexagonal,Junctions,SPL-APL,126
+Hexagonal,LED,SPL-APL,112
+Hexagonal,LEDs,SPL-APL,107
+Hexagonal,LIB,SPL-APL,31
+Hexagonal,LIBs,SPL-APL,92
+Hexagonal,Laser,SPL-APL,116
+Hexagonal,Layers,SPL-APL,68
+Hexagonal,Lc,SPL-APL,31
+Hexagonal,Lens,SPL-APL,40
+Hexagonal,Li,SPL-APL,37
+Hexagonal,Li-Ion Battery,SPL-APL,98
+Hexagonal,Light Emitting Diodes,SPL-APL,50
+Hexagonal,Liquid Crystal,SPL-APL,78
+Hexagonal,Liquids,SPL-APL,36
+Hexagonal,Lithium Ion Battery,SPL-APL,163
+Hexagonal,Lithium-Ion Batteries,SPL-APL,74
+Hexagonal,Lubricants,SPL-APL,34
+Hexagonal,MOFs,SPL-APL,41
+Hexagonal,Magnet,SPL-APL,58
+Hexagonal,Magnets,SPL-APL,68
+Hexagonal,Mask,SPL-APL,93
+Hexagonal,Material,SPL-APL,42
+Hexagonal,Material Science,SPL-APL,33
+Hexagonal,Membrane,SPL-APL,144
+Hexagonal,Metal Electrode,SPL-APL,30
+Hexagonal,Metals,SPL-APL,65
+Hexagonal,Metamaterial,SPL-APL,71
+Hexagonal,Microelectrode,SPL-APL,34
+Hexagonal,Microfluidic Channels,SPL-APL,33
+Hexagonal,Microwave Absorbers,SPL-APL,30
+Hexagonal,Microwave Devices,SPL-APL,31
+Hexagonal,Mirrors,SPL-APL,66
+Hexagonal,Mof,SPL-APL,41
+Hexagonal,Molecular Sieve,SPL-APL,149
+Hexagonal,Nanocatalyst,SPL-APL,60
+Hexagonal,Nanodevice,SPL-APL,66
+Hexagonal,Nanoelectronics,SPL-APL,93
+Hexagonal,Nanopores,SPL-APL,36
+Hexagonal,Nanotechnology,SPL-APL,47
+Hexagonal,Negative Electrode,SPL-APL,64
+Hexagonal,OER,SPL-APL,119
+Hexagonal,ORR,SPL-APL,112
+Hexagonal,Ohmic Contact,SPL-APL,33
+Hexagonal,Optical,SPL-APL,44
+Hexagonal,Optical Device,SPL-APL,31
+Hexagonal,Optical Fiber,SPL-APL,35
+Hexagonal,Optics,SPL-APL,47
+Hexagonal,Optoelectronic Application,SPL-APL,82
+Hexagonal,Optoelectronic Device,SPL-APL,227
+Hexagonal,Optoelectronics,SPL-APL,190
+Hexagonal,Oxidation,SPL-APL,134
+Hexagonal,Oxygen Evolution Reaction,SPL-APL,68
+Hexagonal,Oxygen Reduction Reaction,SPL-APL,57
+Hexagonal,P-N Junction,SPL-APL,46
+Hexagonal,PC,SPL-APL,34
+Hexagonal,Permanent Magnet,SPL-APL,62
+Hexagonal,Phosphor,SPL-APL,163
+Hexagonal,Phosphors,SPL-APL,202
+Hexagonal,Photoanode,SPL-APL,133
+Hexagonal,Photocatalysis,SPL-APL,116
+Hexagonal,Photocatalyst,SPL-APL,244
+Hexagonal,Photocatalysts,SPL-APL,273
+Hexagonal,Photocatalytic Degradation,SPL-APL,117
+Hexagonal,Photocatalytic H2,SPL-APL,48
+Hexagonal,Photocatalytic H2 Evolution,SPL-APL,34
+Hexagonal,Photocatalytic Hydrogen Evolution,SPL-APL,30
+Hexagonal,Photocatalytic Reaction,SPL-APL,49
+Hexagonal,Photocathodes,SPL-APL,30
+Hexagonal,Photodetector,SPL-APL,164
+Hexagonal,Photoelectrodes,SPL-APL,72
+Hexagonal,Photonic Crystal,SPL-APL,133
+Hexagonal,Photonic Devices,SPL-APL,31
+Hexagonal,Photonics,SPL-APL,77
+Hexagonal,Photovoltaic Devices,SPL-APL,70
+Hexagonal,Photovoltaics,SPL-APL,70
+Hexagonal,Pigment,SPL-APL,34
+Hexagonal,Plasmonic,SPL-APL,32
+Hexagonal,Plating,SPL-APL,31
+Hexagonal,Polarizer,SPL-APL,55
+Hexagonal,Polymers,SPL-APL,49
+Hexagonal,Positive Electrode,SPL-APL,59
+Hexagonal,Probes,SPL-APL,39
+Hexagonal,Protective Coating,SPL-APL,40
+Hexagonal,QD,SPL-APL,39
+Hexagonal,Quantum Dots,SPL-APL,37
+Hexagonal,Quantum Well,SPL-APL,83
+Hexagonal,RHE,SPL-APL,47
+Hexagonal,Reactors,SPL-APL,97
+Hexagonal,Reductions,SPL-APL,51
+Hexagonal,Reference Electrode,SPL-APL,91
+Hexagonal,Reflectors,SPL-APL,39
+Hexagonal,Resonator,SPL-APL,57
+Hexagonal,SAM,SPL-APL,34
+Hexagonal,SC,SPL-APL,35
+Hexagonal,STM,SPL-APL,34
+Hexagonal,Sample Holder,SPL-APL,40
+Hexagonal,Scaffold,SPL-APL,34
+Hexagonal,Scales,SPL-APL,33
+Hexagonal,Semiconductor,SPL-APL,53
+Hexagonal,Sensing,SPL-APL,128
+Hexagonal,Sensor,SPL-APL,484
+Hexagonal,Separation,SPL-APL,42
+Hexagonal,Separator,SPL-APL,46
+Hexagonal,Sers,SPL-APL,36
+Hexagonal,Sieve,SPL-APL,36
+Hexagonal,Sodium Ion Battery,SPL-APL,41
+Hexagonal,Solar Cell,SPL-APL,406
+Hexagonal,Solders,SPL-APL,30
+Hexagonal,Solid Electrolyte,SPL-APL,46
+Hexagonal,Solid Oxide Fuel Cells,SPL-APL,48
+Hexagonal,Sorbent,SPL-APL,32
+Hexagonal,Sorbents,SPL-APL,33
+Hexagonal,Source,SPL-APL,73
+Hexagonal,Spacer,SPL-APL,34
+Hexagonal,Spintronic Device,SPL-APL,51
+Hexagonal,Spintronics,SPL-APL,84
+Hexagonal,Supercapacitor,SPL-APL,211
+Hexagonal,Support,SPL-APL,55
+Hexagonal,Surfactant,SPL-APL,44
+Hexagonal,TEM,SPL-APL,96
+Hexagonal,TEM Grid,SPL-APL,45
+Hexagonal,Thermocouple,SPL-APL,38
+Hexagonal,Thin Film Solar Cell,SPL-APL,38
+Hexagonal,Tip,SPL-APL,68
+Hexagonal,Tool,SPL-APL,33
+Hexagonal,Transistors,SPL-APL,117
+Hexagonal,Transparent Electrodes,SPL-APL,31
+Hexagonal,Tumours,SPL-APL,44
+Hexagonal,Van Der Waals,SPL-APL,36
+Hexagonal,Water Oxidation,SPL-APL,35
+Hexagonal,Water Splitting,SPL-APL,100
+Hexagonal,Waveguide,SPL-APL,86
+Hexagonal,Window,SPL-APL,62
+Hexagonal,Working Electrodes,SPL-APL,118
+Hexagonal,perovskite solar cells,SPL-APL,33
+Hexagonal Close Packed,Aerospace,SPL-APL,34
+Hexagonal Close Packed,Automotive,SPL-APL,31
+Hexagonal Close Packed,Catalyst,SPL-APL,44
+Hexagonal Wurtzite,Catalyst,SPL-APL,101
+Hexagonal Wurtzite,Coatings,SPL-APL,32
+Hexagonal Wurtzite,Gas Sensors,SPL-APL,34
+Hexagonal Wurtzite,Optoelectronic Device,SPL-APL,34
+Hexagonal Wurtzite,Photocatalyst,SPL-APL,47
+Hexagonal Wurtzite,Photocatalysts,SPL-APL,31
+Hexagonal Wurtzite,Sensor,SPL-APL,53
+Hexagonal Wurtzite,Solar Cell,SPL-APL,35
+Hexagonally,Catalyst,SPL-APL,59
+Hexagonally,Electrode,SPL-APL,38
+Hippocampal,Hippocampal Neuron,SPL-APL,37
+Hippocampal,Hippocampus,SPL-APL,120
+Hippocampal,Neuron,SPL-APL,33
+Hippocampal,Neuronal,SPL-APL,32
+Hippocampal,Neurons,SPL-APL,150
+Hippocampal,Pyramidal Neurons,SPL-APL,45
+Hippocampus,Neurons,SPL-APL,31
+Ht,Catalyst,SPL-APL,63
+Huntington,Diseases,SPL-APL,41
+Hybrid,Optoelectronic Device,SPL-APL,33
+Hybrid,Photodetector,SPL-APL,33
+Hybrid,Solar Cell,SPL-APL,100
+Hybrid,perovskite solar cells,SPL-APL,44
+Hydrates,Clathrate Hydrate,SPL-APL,61
+Hydrates,Gas,SPL-APL,30
+Hydrates,Gas Hydrate,SPL-APL,185
+Hydrotalcite,Adsorbent,SPL-APL,38
+Hydrotalcite,Catalyst,SPL-APL,602
+Hydrotalcite,Electrode,SPL-APL,30
+Hydrotalcite-Like,Catalyst,SPL-APL,60
+Hydrous,Electrode,SPL-APL,44
+Hydrous,Electrodes,SPL-APL,38
+Icosahedral,Capsids,SPL-APL,37
+Icosahedral,Catalyst,SPL-APL,87
+Icosahedral,Coatings,SPL-APL,32
+Icosahedral,Electrode,SPL-APL,34
+Inverse Spinel,Catalyst,SPL-APL,35
+Jurkat,Cells,SPL-APL,43
+Jurkat,T Cells,SPL-APL,48
+Keggin,Catalysis,SPL-APL,31
+Keggin,Catalyst,SPL-APL,365
+Keggin,Electrode,SPL-APL,63
+Keggin,Heterogeneous Catalyst,SPL-APL,37
+Keggin,Oxidation,SPL-APL,64
+Keggin,POM,SPL-APL,53
+Keratinocytes,Skin,SPL-APL,46
+Kesterite,Absorber,SPL-APL,115
+Kesterite,Absorber Layer,SPL-APL,88
+Kesterite,Absorbers,SPL-APL,63
+Kesterite,Back Contact,SPL-APL,41
+Kesterite,Photovoltaic Devices,SPL-APL,36
+Kesterite,Photovoltaics,SPL-APL,34
+Kesterite,Solar Cell,SPL-APL,274
+Kesterite,Thin Film Solar Cell,SPL-APL,122
+L10,Catalyst,SPL-APL,33
+L12,Superalloy,SPL-APL,112
+Laves Phase,Electrode,SPL-APL,41
+Lc,Cell,SPL-APL,50
+Lc,Liquid Crystal,SPL-APL,59
+Lc,Polarizer,SPL-APL,33
+Leaves,Superalloy,SPL-APL,33
+Leukemia,Cancer,SPL-APL,38
+Lewis,Tumours,SPL-APL,33
+Like,Catalyst,SPL-APL,71
+Like,Cells,SPL-APL,54
+Like,Coatings,SPL-APL,36
+Liver,Cancer,SPL-APL,63
+Liver,Tumours,SPL-APL,36
+Lung,Adenocarcinoma,SPL-APL,58
+Lung,Anti-Cancer,SPL-APL,40
+Lung,Breast Cancer,SPL-APL,51
+Lung,Cancer,SPL-APL,268
+Lung,Carcinoma,SPL-APL,30
+Lung,Cells,SPL-APL,51
+Lung,Lung Adenocarcinoma,SPL-APL,31
+Lung,Lung Cancer,SPL-APL,226
+Lung,Mice,SPL-APL,30
+Lung,NSCLC,SPL-APL,67
+Lung,Tumor,SPL-APL,30
+Lung,Tumours,SPL-APL,91
+Lymphocytes,Cells,SPL-APL,35
+Lymphocytes,T Cells,SPL-APL,42
+M,Coatings,SPL-APL,33
+M1,Catalyst,SPL-APL,81
+M1,Macrophages,SPL-APL,33
+MFI,Catalyst,SPL-APL,341
+MFI,Membrane,SPL-APL,105
+MFI,Molecular Sieve,SPL-APL,45
+MFI,Support,SPL-APL,36
+MOFs,Catalysis,SPL-APL,50
+MOFs,Gas Storage,SPL-APL,33
+MOFs,Separation,SPL-APL,31
+Macrophages,Atherosclerosis,SPL-APL,45
+Macrophages,Biomaterial,SPL-APL,32
+Macrophages,Bone,SPL-APL,37
+Macrophages,Cell,SPL-APL,62
+Macrophages,Cells,SPL-APL,188
+Macrophages,Coatings,SPL-APL,32
+Macrophages,DCS,SPL-APL,48
+Macrophages,Dendritic Cell,SPL-APL,45
+Macrophages,Diseases,SPL-APL,34
+Macrophages,Implants,SPL-APL,58
+Macrophages,Liver,SPL-APL,68
+Macrophages,Lung,SPL-APL,36
+Macrophages,T,SPL-APL,39
+Macrophages,T Cells,SPL-APL,70
+Macrophages,Tumours,SPL-APL,52
+Mammary,Breast Cancer,SPL-APL,62
+Mammary,Cancer,SPL-APL,43
+Mammary,Carcinoma,SPL-APL,30
+Mammary,Cells,SPL-APL,32
+Mammary,Tumours,SPL-APL,47
+Mangroves,Estuary,SPL-APL,33
+Mangroves,Forests,SPL-APL,57
+Mangroves,Wetland,SPL-APL,31
+Marrow,Bone,SPL-APL,241
+Marrow,Bone Marrow,SPL-APL,51
+Marrow,Cell,SPL-APL,53
+Marrow,Cells,SPL-APL,161
+Marrow,DCS,SPL-APL,37
+Marrow,Dendritic Cell,SPL-APL,47
+Marrow,HSCs,SPL-APL,36
+Marrow,Haematopoietic Stem Cell,SPL-APL,44
+Marrow,Macrophages,SPL-APL,85
+Marrow,Mesenchymal Stem Cell,SPL-APL,42
+Marrow,Osteoclast,SPL-APL,49
+Marrow,Osteoclasts,SPL-APL,43
+Marrow,Stem Cells,SPL-APL,52
+Marrow,T Cells,SPL-APL,40
+Martensite,Actuator,SPL-APL,86
+Martensite,Alloy,SPL-APL,46
+Martensite,Alloys,SPL-APL,113
+Martensite,Automotive,SPL-APL,30
+Martensite,Automotive Industry,SPL-APL,40
+Martensite,Bearings,SPL-APL,43
+Martensite,Coatings,SPL-APL,177
+Martensite,Electrode,SPL-APL,31
+Martensite,Filler,SPL-APL,30
+Martensite,Joints,SPL-APL,125
+Martensite,Pipelines,SPL-APL,38
+Martensite,Rail,SPL-APL,31
+Martensite,SMA,SPL-APL,80
+Martensite,SMAS,SPL-APL,176
+Martensite,SMAs,SPL-APL,31
+Martensite,Sensor,SPL-APL,37
+Martensite,Shape,SPL-APL,84
+Martensite,Shape Memory,SPL-APL,68
+Martensite,Shape Memory Alloy,SPL-APL,516
+Martensite,Sma,SPL-APL,257
+Martensite,Structural Materials,SPL-APL,30
+Martensite,Tensile Specimen,SPL-APL,34
+Martensite,Tool,SPL-APL,73
+Martensite,Tool Steel,SPL-APL,44
+Martensite,Tools,SPL-APL,31
+Martensite,Trip,SPL-APL,74
+Martensite,Weld,SPL-APL,94
+Martensite,Weld Metal,SPL-APL,83
+Martensite,Welds,SPL-APL,32
+Martensite,ahss,SPL-APL,35
+Martensitic,Actuator,SPL-APL,63
+Martensitic,Alloys,SPL-APL,85
+Martensitic,Automotive Industry,SPL-APL,32
+Martensitic,Bearings,SPL-APL,41
+Martensitic,Blanket,SPL-APL,70
+Martensitic,Claddings,SPL-APL,51
+Martensitic,Coatings,SPL-APL,217
+Martensitic,Components,SPL-APL,37
+Martensitic,Electrode,SPL-APL,32
+Martensitic,First Wall,SPL-APL,40
+Martensitic,Fusion Reactor,SPL-APL,150
+Martensitic,Iter,SPL-APL,42
+Martensitic,Joints,SPL-APL,86
+Martensitic,Power Plant,SPL-APL,34
+Martensitic,RAFM,SPL-APL,53
+Martensitic,Reactors,SPL-APL,36
+Martensitic,SMA,SPL-APL,33
+Martensitic,SMAS,SPL-APL,118
+Martensitic,Shape,SPL-APL,58
+Martensitic,Shape Memory,SPL-APL,30
+Martensitic,Shape Memory Alloy,SPL-APL,359
+Martensitic,Sma,SPL-APL,164
+Martensitic,Structural,SPL-APL,102
+Martensitic,Structural Materials,SPL-APL,119
+Martensitic,Test Blanket Module,SPL-APL,34
+Martensitic,Tool,SPL-APL,61
+Martensitic,Tool Steel,SPL-APL,30
+Martensitic,Trip,SPL-APL,40
+Martensitic,Weld,SPL-APL,61
+Martensitic,Weld Metal,SPL-APL,39
+Melanoma,Breast Cancer,SPL-APL,32
+Melanoma,Cancer,SPL-APL,126
+Melanoma,Cell,SPL-APL,31
+Melanoma,Cells,SPL-APL,64
+Melanoma,Melanoma Cells,SPL-APL,33
+Melanoma,Mice,SPL-APL,40
+Melanoma,Skin,SPL-APL,36
+Melanoma,Skin Cancer,SPL-APL,30
+Melanoma,T Cells,SPL-APL,49
+Melanoma,Tumor,SPL-APL,38
+Melanoma,Tumours,SPL-APL,141
+Mesenchymal,Biomaterial,SPL-APL,31
+Mesenchymal,Bone,SPL-APL,75
+Mesenchymal,Cancer,SPL-APL,31
+Mesenchymal,Cell,SPL-APL,97
+Mesenchymal,Cells,SPL-APL,402
+Mesenchymal,MSCS,SPL-APL,81
+Mesenchymal,Mesenchymal Stem Cell,SPL-APL,62
+Mesenchymal,Msc,SPL-APL,53
+Mesenchymal,Regenerative Medicine,SPL-APL,45
+Mesenchymal,Stem Cells,SPL-APL,200
+Mesenchymal,Tissue Engineering,SPL-APL,51
+Mesenchymal,Tumours,SPL-APL,31
+Mesenchymal Stem,Cells,SPL-APL,72
+Mesenchymal Stromal,Cells,SPL-APL,33
+Meso Structured,Catalyst,SPL-APL,51
+Metabolic,Diabetes,SPL-APL,30
+Metabolic,Diseases,SPL-APL,32
+Metabolic,Syndrome,SPL-APL,31
+Meteorite,Asteroid,SPL-APL,48
+Meteorite,Asteroids,SPL-APL,47
+Monoclinic,Anode,SPL-APL,197
+Monoclinic,Anodes,SPL-APL,51
+Monoclinic,Anvil Cell,SPL-APL,77
+Monoclinic,Batteries,SPL-APL,47
+Monoclinic,Battery,SPL-APL,65
+Monoclinic,Capacitor,SPL-APL,46
+Monoclinic,Catalysis,SPL-APL,41
+Monoclinic,Catalyst,SPL-APL,890
+Monoclinic,Catalysts,SPL-APL,40
+Monoclinic,Cathode,SPL-APL,482
+Monoclinic,Cathodes,SPL-APL,132
+Monoclinic,Cell,SPL-APL,215
+Monoclinic,Cells,SPL-APL,133
+Monoclinic,Coatings,SPL-APL,472
+Monoclinic,Contacts,SPL-APL,59
+Monoclinic,Counter Electrode,SPL-APL,44
+Monoclinic,Degradation,SPL-APL,46
+Monoclinic,Device,SPL-APL,32
+Monoclinic,Dielectric,SPL-APL,31
+Monoclinic,Electrocatalyst,SPL-APL,37
+Monoclinic,Electrode,SPL-APL,581
+Monoclinic,Electrodes,SPL-APL,442
+Monoclinic,Electrolyte,SPL-APL,290
+Monoclinic,Full Cell,SPL-APL,34
+Monoclinic,Gas Sensors,SPL-APL,68
+Monoclinic,Gate,SPL-APL,30
+Monoclinic,Gate Dielectric,SPL-APL,33
+Monoclinic,Half Cell,SPL-APL,39
+Monoclinic,LEDs,SPL-APL,34
+Monoclinic,LIBs,SPL-APL,36
+Monoclinic,Laser,SPL-APL,62
+Monoclinic,Li-Ion Battery,SPL-APL,80
+Monoclinic,Lithium Ion Battery,SPL-APL,98
+Monoclinic,Lithium-Ion Batteries,SPL-APL,45
+Monoclinic,OER,SPL-APL,38
+Monoclinic,Oxidation,SPL-APL,57
+Monoclinic,Phosphor,SPL-APL,233
+Monoclinic,Phosphors,SPL-APL,282
+Monoclinic,Photoanode,SPL-APL,120
+Monoclinic,Photocatalysis,SPL-APL,44
+Monoclinic,Photocatalyst,SPL-APL,210
+Monoclinic,Photocatalysts,SPL-APL,173
+Monoclinic,Photocatalytic Degradation,SPL-APL,84
+Monoclinic,Photocatalytic H2,SPL-APL,30
+Monoclinic,Photoelectrodes,SPL-APL,47
+Monoclinic,Pigment,SPL-APL,33
+Monoclinic,Positive Electrode,SPL-APL,54
+Monoclinic,RHE,SPL-APL,37
+Monoclinic,Red Phosphor,SPL-APL,35
+Monoclinic,Reference Electrode,SPL-APL,30
+Monoclinic,Sensor,SPL-APL,165
+Monoclinic,Shape Memory Alloy,SPL-APL,40
+Monoclinic,Sodium Ion Battery,SPL-APL,44
+Monoclinic,Solar Cell,SPL-APL,70
+Monoclinic,Solid Electrolyte,SPL-APL,68
+Monoclinic,Solid Oxide Fuel Cells,SPL-APL,45
+Monoclinic,Supercapacitor,SPL-APL,42
+Monoclinic,TBC,SPL-APL,52
+Monoclinic,TBCS,SPL-APL,50
+Monoclinic,Thermal Barrier Coating,SPL-APL,91
+Monoclinic,Water Oxidation,SPL-APL,41
+Monoclinic,Water Splitting,SPL-APL,59
+Monocytes,Cell,SPL-APL,30
+Monocytes,Cells,SPL-APL,106
+Monocytes,Macrophages,SPL-APL,87
+Monocytes,T Cells,SPL-APL,55
+Multiple,MM,SPL-APL,40
+Multiple,Myeloma,SPL-APL,51
+Myeloid,Bone,SPL-APL,35
+Myeloid,Cell,SPL-APL,37
+Myeloid,Cells,SPL-APL,65
+Myeloid,Haematopoietic Stem Cell,SPL-APL,31
+Myeloid,Leukaemia,SPL-APL,32
+Myeloid,Leukemia,SPL-APL,49
+NASH,Liver,SPL-APL,30
+NASH,NAFLD,SPL-APL,42
+NK,Cells,SPL-APL,79
+NK,NK Cell,SPL-APL,79
+NK,T,SPL-APL,31
+NK,T Cells,SPL-APL,36
+NSCLC,Cancer,SPL-APL,65
+NSCLC,Cell Lung Cancer,SPL-APL,47
+NSCLC,Lung,SPL-APL,76
+NSCLC,Lung Cancer,SPL-APL,135
+NSCLC,Non-Small Cell Lung Cancer,SPL-APL,114
+NSCLC,Non-Small-Cell Lung Cancer,SPL-APL,38
+NSCLC,Tumours,SPL-APL,30
+NaCl,Coatings,SPL-APL,51
+Nasopharyngeal,NPC,SPL-APL,53
+Negative,Breast Cancer,SPL-APL,45
+Nematic,Cell,SPL-APL,121
+Nematic,Cells,SPL-APL,34
+Nematic,Crystal,SPL-APL,82
+Nematic,Electrodes,SPL-APL,35
+Nematic,Lc,SPL-APL,84
+Nematic,Lcs,SPL-APL,46
+Nematic,Liquid Crystal,SPL-APL,186
+Nematic,Liquids,SPL-APL,40
+Nematic,Polarizer,SPL-APL,83
+Neuroblastoma,Neuronal,SPL-APL,31
+Neuroblastoma,Tumours,SPL-APL,33
+Neutrophils,Cells,SPL-APL,37
+Non-Small,Cancer,SPL-APL,49
+Non-Small,Cell,SPL-APL,33
+Non-Small,Cell Lung Cancer,SPL-APL,103
+Non-Small,Lung Cancer,SPL-APL,45
+Non-Small,NSCLC,SPL-APL,133
+Non-Small Cell,Cancer,SPL-APL,41
+Non-Small Cell,Lung,SPL-APL,51
+Non-Small Cell,Lung Cancer,SPL-APL,112
+Non-Small Cell,NSCLC,SPL-APL,69
+O3,Anode,SPL-APL,38
+O3,Cathode,SPL-APL,129
+O3,Cathodes,SPL-APL,63
+O3,Cell,SPL-APL,63
+O3,Cells,SPL-APL,46
+O3,Electrode,SPL-APL,94
+O3,Electrodes,SPL-APL,76
+O3,Electrolyte,SPL-APL,30
+O3,Sibs,SPL-APL,34
+O3,Sodium Ion Battery,SPL-APL,59
+Octahedral,Catalyst,SPL-APL,78
+Olivines,ARC,SPL-APL,41
+Olivines,Anode,SPL-APL,77
+Olivines,Asteroid,SPL-APL,59
+Olivines,Asteroids,SPL-APL,51
+Olivines,Batteries,SPL-APL,42
+Olivines,Battery,SPL-APL,74
+Olivines,Bed,SPL-APL,34
+Olivines,CAI,SPL-APL,34
+Olivines,CAIs,SPL-APL,34
+Olivines,Catalyst,SPL-APL,70
+Olivines,Cathode,SPL-APL,478
+Olivines,Cathodes,SPL-APL,129
+Olivines,Cell,SPL-APL,93
+Olivines,Cells,SPL-APL,72
+Olivines,Chondrule,SPL-APL,36
+Olivines,Coatings,SPL-APL,156
+Olivines,Electric Vehicle,SPL-APL,33
+Olivines,Electrode,SPL-APL,239
+Olivines,Electrodes,SPL-APL,132
+Olivines,Electrolyte,SPL-APL,142
+Olivines,Gasifier,SPL-APL,32
+Olivines,Inclusions,SPL-APL,52
+Olivines,LIBs,SPL-APL,48
+Olivines,Lavas,SPL-APL,38
+Olivines,Li-Ion Battery,SPL-APL,97
+Olivines,Lithium Ion Battery,SPL-APL,124
+Olivines,Lithium-Ion Batteries,SPL-APL,61
+Olivines,Mantle,SPL-APL,69
+Olivines,Melt Inclusion,SPL-APL,68
+Olivines,Meteorite,SPL-APL,83
+Olivines,Ophiolites,SPL-APL,52
+Olivines,Positive Electrode,SPL-APL,50
+Olivines,Thermometer,SPL-APL,32
+Olivines,Volcanoes,SPL-APL,37
+Opal,Photonic Crystal,SPL-APL,35
+Ophiolitic,Ophiolites,SPL-APL,50
+Oral,OSCC,SPL-APL,31
+Oral,Squamous Cell Carcinoma,SPL-APL,37
+Organic,Adsorbent,SPL-APL,73
+Organic,Catalysis,SPL-APL,111
+Organic,Catalyst,SPL-APL,82
+Organic,Cof,SPL-APL,34
+Organic,Cofs,SPL-APL,166
+Organic,Drug Delivery,SPL-APL,38
+Organic,Electrode,SPL-APL,39
+Organic,Energy Storage,SPL-APL,40
+Organic,Framework,SPL-APL,109
+Organic,Gas Storage,SPL-APL,64
+Organic,MOFs,SPL-APL,48
+Organic,Membrane,SPL-APL,35
+Organic,Sensing,SPL-APL,60
+Organic,Sensor,SPL-APL,31
+Organic,Separation,SPL-APL,80
+Orthorhombic,Absorber,SPL-APL,35
+Orthorhombic,Anode,SPL-APL,243
+Orthorhombic,Anodes,SPL-APL,43
+Orthorhombic,Anvil Cell,SPL-APL,92
+Orthorhombic,Batteries,SPL-APL,35
+Orthorhombic,Battery,SPL-APL,55
+Orthorhombic,Capacitor,SPL-APL,51
+Orthorhombic,Catalysis,SPL-APL,32
+Orthorhombic,Catalyst,SPL-APL,481
+Orthorhombic,Cathode,SPL-APL,365
+Orthorhombic,Cathodes,SPL-APL,115
+Orthorhombic,Cell,SPL-APL,209
+Orthorhombic,Cells,SPL-APL,130
+Orthorhombic,Coatings,SPL-APL,207
+Orthorhombic,Contacts,SPL-APL,62
+Orthorhombic,Counter Electrode,SPL-APL,40
+Orthorhombic,Detector,SPL-APL,36
+Orthorhombic,Device,SPL-APL,34
+Orthorhombic,Electrocatalyst,SPL-APL,41
+Orthorhombic,Electrode,SPL-APL,554
+Orthorhombic,Electrodes,SPL-APL,397
+Orthorhombic,Electrolyte,SPL-APL,274
+Orthorhombic,Full Cell,SPL-APL,31
+Orthorhombic,Gas Sensors,SPL-APL,39
+Orthorhombic,Half Cell,SPL-APL,46
+Orthorhombic,Heterojunction,SPL-APL,33
+Orthorhombic,Hydrogen Storage,SPL-APL,30
+Orthorhombic,LEDs,SPL-APL,37
+Orthorhombic,LIBs,SPL-APL,46
+Orthorhombic,Laser,SPL-APL,53
+Orthorhombic,Lead Free Piezoelectric Ceramics,SPL-APL,33
+Orthorhombic,Li-Ion Battery,SPL-APL,58
+Orthorhombic,Lithium Ion Battery,SPL-APL,76
+Orthorhombic,Lithium-Ion Batteries,SPL-APL,32
+Orthorhombic,Magnetic Refrigeration,SPL-APL,35
+Orthorhombic,Material,SPL-APL,35
+Orthorhombic,Multiferroics,SPL-APL,30
+Orthorhombic,OER,SPL-APL,50
+Orthorhombic,ORR,SPL-APL,30
+Orthorhombic,Optoelectronic Application,SPL-APL,42
+Orthorhombic,Optoelectronic Device,SPL-APL,46
+Orthorhombic,Optoelectronics,SPL-APL,44
+Orthorhombic,Oxidation,SPL-APL,38
+Orthorhombic,PSCS,SPL-APL,35
+Orthorhombic,Phosphor,SPL-APL,138
+Orthorhombic,Phosphors,SPL-APL,158
+Orthorhombic,Photoanode,SPL-APL,51
+Orthorhombic,Photocatalysis,SPL-APL,35
+Orthorhombic,Photocatalyst,SPL-APL,115
+Orthorhombic,Photocatalysts,SPL-APL,104
+Orthorhombic,Photocatalytic Degradation,SPL-APL,51
+Orthorhombic,Photodetector,SPL-APL,64
+Orthorhombic,Photovoltaic Devices,SPL-APL,38
+Orthorhombic,Photovoltaics,SPL-APL,50
+Orthorhombic,Positive Electrode,SPL-APL,33
+Orthorhombic,Sensor,SPL-APL,129
+Orthorhombic,Shape Memory Alloy,SPL-APL,32
+Orthorhombic,Sodium Ion Battery,SPL-APL,42
+Orthorhombic,Solar Cell,SPL-APL,195
+Orthorhombic,Solid Electrolyte,SPL-APL,50
+Orthorhombic,Solid Oxide Fuel Cells,SPL-APL,74
+Orthorhombic,Supercapacitor,SPL-APL,54
+Orthorhombic,Water Splitting,SPL-APL,60
+Orthorhombic,perovskite solar cells,SPL-APL,47
+Osteoblastic,Bone,SPL-APL,59
+Osteoblastic,Cells,SPL-APL,40
+Osteoblasts,Biomaterial,SPL-APL,45
+Osteoblasts,Bone,SPL-APL,393
+Osteoblasts,Bone Cells,SPL-APL,50
+Osteoblasts,Bone Defect,SPL-APL,31
+Osteoblasts,Bone Regeneration,SPL-APL,58
+Osteoblasts,Cell,SPL-APL,40
+Osteoblasts,Cells,SPL-APL,196
+Osteoblasts,Coatings,SPL-APL,74
+Osteoblasts,Implants,SPL-APL,138
+Osteoblasts,MSCS,SPL-APL,31
+Osteoblasts,Mesenchymal Stem Cell,SPL-APL,62
+Osteoblasts,Osteoblast Cells,SPL-APL,39
+Osteoblasts,Osteoclast,SPL-APL,95
+Osteoblasts,Osteoclasts,SPL-APL,124
+Osteoblasts,Osteoporosis,SPL-APL,72
+Osteoblasts,Scaffold,SPL-APL,33
+Osteoblasts,Stem Cells,SPL-APL,57
+Osteoblasts,Tissue Engineering,SPL-APL,32
+Osteoclast,Bone,SPL-APL,36
+Osteoclast,Osteoclasts,SPL-APL,39
+Osteoclasts,Bone,SPL-APL,83
+Osteoclasts,Osteoclast,SPL-APL,82
+Ovarian,Anti-Cancer,SPL-APL,42
+Ovarian,Anticancer Drugs,SPL-APL,43
+Ovarian,Breast,SPL-APL,34
+Ovarian,Breast Cancer,SPL-APL,72
+Ovarian,Cancer,SPL-APL,742
+Ovarian,Cancer Cell,SPL-APL,44
+Ovarian,Cancer Therapy,SPL-APL,33
+Ovarian,Cancer Treatments,SPL-APL,30
+Ovarian,Carcinoma,SPL-APL,56
+Ovarian,Cell,SPL-APL,45
+Ovarian,Cells,SPL-APL,49
+Ovarian,Chemotherapy,SPL-APL,40
+Ovarian,Lung Cancer,SPL-APL,37
+Ovarian,Mice,SPL-APL,31
+Ovarian,Ovarian Cancer,SPL-APL,267
+Ovarian,Tumor,SPL-APL,64
+Ovarian,Tumours,SPL-APL,122
+Ovarian,Xenografts,SPL-APL,30
+P,Catalyst,SPL-APL,51
+P,Cell,SPL-APL,45
+P,Electrode,SPL-APL,64
+P,Electrodes,SPL-APL,53
+P1,Catalyst,SPL-APL,32
+P2,Anode,SPL-APL,59
+P2,Battery,SPL-APL,30
+P2,Cathode,SPL-APL,214
+P2,Cathodes,SPL-APL,80
+P2,Cell,SPL-APL,73
+P2,Cells,SPL-APL,59
+P2,Coatings,SPL-APL,37
+P2,Electrode,SPL-APL,166
+P2,Electrodes,SPL-APL,111
+P2,Electrolyte,SPL-APL,60
+P2,Full Cell,SPL-APL,37
+P2,Half Cell,SPL-APL,45
+P2,Sibs,SPL-APL,51
+P2,Sodium Ion Battery,SPL-APL,141
+P2 1/N,Cathode,SPL-APL,31
+P3,Cathode,SPL-APL,73
+P3,Cathodes,SPL-APL,41
+P3,Cell,SPL-APL,41
+P3,Cells,SPL-APL,34
+P3,Electrode,SPL-APL,69
+P3,Electrodes,SPL-APL,64
+P4332,Cathode,SPL-APL,42
+PDAC,Pancreatic Cancer,SPL-APL,31
+PMN21,Cathode,SPL-APL,32
+PNMA,Cathode,SPL-APL,47
+PNMA,Electrode,SPL-APL,46
+Pancreatic,Cancer,SPL-APL,224
+Pancreatic,Cells,SPL-APL,87
+Pancreatic,Diabetes,SPL-APL,42
+Pancreatic,Ductal Adenocarcinoma,SPL-APL,49
+Pancreatic,Pancreas,SPL-APL,43
+Pancreatic,Pancreatic Cancer,SPL-APL,207
+Pancreatic,Tumours,SPL-APL,71
+Parkinson,Diseases,SPL-APL,30
+Pearlitic,Rail,SPL-APL,42
+Pearls,Estuary,SPL-APL,32
+Pediatric,Nephrology,SPL-APL,58
+Periclase,Catalyst,SPL-APL,37
+Peritoneal,Macrophages,SPL-APL,156
+Perovskite-Type,Catalyst,SPL-APL,35
+Perovskites,Absorber,SPL-APL,596
+Perovskites,Absorber Layer,SPL-APL,256
+Perovskites,Absorbers,SPL-APL,275
+Perovskites,Absorbing Layer,SPL-APL,47
+Perovskites,Acceptor,SPL-APL,35
+Perovskites,Active Layer,SPL-APL,439
+Perovskites,Actuator,SPL-APL,88
+Perovskites,Air Electrode,SPL-APL,75
+Perovskites,Air Separation,SPL-APL,33
+Perovskites,Anode,SPL-APL,846
+Perovskites,Anodes,SPL-APL,221
+Perovskites,Anvil Cell,SPL-APL,101
+Perovskites,Applications,SPL-APL,44
+Perovskites,BHJ,SPL-APL,61
+Perovskites,Back Contact,SPL-APL,87
+Perovskites,Back Electrode,SPL-APL,36
+Perovskites,Barrier Layer,SPL-APL,53
+Perovskites,Batteries,SPL-APL,97
+Perovskites,Battery,SPL-APL,75
+Perovskites,Bifunctional Catalysts,SPL-APL,55
+Perovskites,Blade Coating,SPL-APL,32
+Perovskites,Blocking Layer,SPL-APL,107
+Perovskites,Blue,SPL-APL,37
+Perovskites,Blue LED,SPL-APL,43
+Perovskites,Bottom Cell,SPL-APL,127
+Perovskites,Bottom Electrode,SPL-APL,123
+Perovskites,C-Pscs,SPL-APL,32
+Perovskites,CAI,SPL-APL,46
+Perovskites,CAIs,SPL-APL,36
+Perovskites,CE,SPL-APL,83
+Perovskites,CO,SPL-APL,88
+Perovskites,CO Oxidation,SPL-APL,123
+Perovskites,CO2 Reduction,SPL-APL,75
+Perovskites,Capacitor,SPL-APL,202
+Perovskites,Capping,SPL-APL,57
+Perovskites,Capping Layers,SPL-APL,64
+Perovskites,Catalysis,SPL-APL,129
+Perovskites,Catalyst,SPL-APL,2377
+Perovskites,Catalysts,SPL-APL,44
+Perovskites,Catalytic,SPL-APL,69
+Perovskites,Catalytic Combustion,SPL-APL,34
+Perovskites,Catalytic Reaction,SPL-APL,40
+Perovskites,Cathode,SPL-APL,1360
+Perovskites,Cathode Catalyst,SPL-APL,49
+Perovskites,Cathodes,SPL-APL,463
+Perovskites,Cavity,SPL-APL,34
+Perovskites,Cell,SPL-APL,1446
+Perovskites,Cells,SPL-APL,1333
+Perovskites,Ceramic,SPL-APL,59
+Perovskites,Champion,SPL-APL,295
+Perovskites,Champion Cells,SPL-APL,141
+Perovskites,Champion Device,SPL-APL,289
+Perovskites,Champion PSCs,SPL-APL,34
+Perovskites,Channels,SPL-APL,65
+Perovskites,Charge Transporting Layer,SPL-APL,151
+Perovskites,Chip,SPL-APL,34
+Perovskites,Co-Catalysts,SPL-APL,48
+Perovskites,Coatings,SPL-APL,563
+Perovskites,Cocatalyst,SPL-APL,71
+Perovskites,Combustion,SPL-APL,46
+Perovskites,Contact Layer,SPL-APL,50
+Perovskites,Contacts,SPL-APL,392
+Perovskites,Conversion,SPL-APL,67
+Perovskites,Counter Electrode,SPL-APL,171
+Perovskites,Current Collector,SPL-APL,30
+Perovskites,DSSCS,SPL-APL,81
+Perovskites,Degradation,SPL-APL,40
+Perovskites,Detection,SPL-APL,45
+Perovskites,Detector,SPL-APL,137
+Perovskites,Device,SPL-APL,776
+Perovskites,Device Application,SPL-APL,94
+Perovskites,Dielectric,SPL-APL,78
+Perovskites,Diodes,SPL-APL,68
+Perovskites,Display Applications,SPL-APL,48
+Perovskites,Displays,SPL-APL,141
+Perovskites,Dopant,SPL-APL,31
+Perovskites,Dssc,SPL-APL,86
+Perovskites,Dye-Sensitized Solar Cell,SPL-APL,39
+Perovskites,Dye-Sensitized Solar Cells,SPL-APL,128
+Perovskites,ETLs,SPL-APL,81
+Perovskites,ETLs.,SPL-APL,38
+Perovskites,ETM,SPL-APL,78
+Perovskites,ETMS,SPL-APL,69
+Perovskites,El,SPL-APL,31
+Perovskites,Electrical Contact,SPL-APL,30
+Perovskites,Electrocatalysis,SPL-APL,39
+Perovskites,Electrocatalyst,SPL-APL,314
+Perovskites,Electrochemical Applications,SPL-APL,31
+Perovskites,Electrochemical Cells,SPL-APL,59
+Perovskites,Electrochemical Devices,SPL-APL,60
+Perovskites,Electrode,SPL-APL,1947
+Perovskites,Electrodes,SPL-APL,1362
+Perovskites,Electroluminescence,SPL-APL,37
+Perovskites,Electrolysis,SPL-APL,35
+Perovskites,Electrolysis Cell,SPL-APL,31
+Perovskites,Electrolyte,SPL-APL,1254
+Perovskites,Electrolyzer,SPL-APL,33
+Perovskites,Electron Transport,SPL-APL,34
+Perovskites,Electron Transporting,SPL-APL,35
+Perovskites,Electron Transporting Layer,SPL-APL,872
+Perovskites,Electron-Only Device,SPL-APL,231
+Perovskites,Electronic,SPL-APL,81
+Perovskites,Electronic Devices,SPL-APL,136
+Perovskites,Electronics,SPL-APL,110
+Perovskites,Electrons,SPL-APL,108
+Perovskites,Emission Layer,SPL-APL,31
+Perovskites,Emissive Layer,SPL-APL,42
+Perovskites,Emitters,SPL-APL,113
+Perovskites,Emitting Layer,SPL-APL,40
+Perovskites,Encapsulation,SPL-APL,45
+Perovskites,Energy,SPL-APL,100
+Perovskites,Energy Conversion,SPL-APL,52
+Perovskites,Energy Harvester,SPL-APL,33
+Perovskites,Energy Harvesting,SPL-APL,42
+Perovskites,Energy Storage,SPL-APL,96
+Perovskites,Energy Storage Application,SPL-APL,30
+Perovskites,Energy Storage Device,SPL-APL,34
+Perovskites,Etl,SPL-APL,117
+Perovskites,FET,SPL-APL,60
+Perovskites,FETS,SPL-APL,48
+Perovskites,Ferroelectric,SPL-APL,74
+Perovskites,Field Effect Transistor,SPL-APL,86
+Perovskites,Filters,SPL-APL,51
+Perovskites,Flexible,SPL-APL,298
+Perovskites,Flexible Device,SPL-APL,156
+Perovskites,Flexible Electronics,SPL-APL,33
+Perovskites,Flexible Photodetector,SPL-APL,31
+Perovskites,Flexible Solar Cells,SPL-APL,55
+Perovskites,Free,SPL-APL,53
+Perovskites,Fuel,SPL-APL,46
+Perovskites,Fuel Cell,SPL-APL,407
+Perovskites,Functional Devices,SPL-APL,32
+Perovskites,Gas Sensors,SPL-APL,79
+Perovskites,Green LED,SPL-APL,32
+Perovskites,H2,SPL-APL,82
+Perovskites,H2 Evolution,SPL-APL,58
+Perovskites,H2 Production,SPL-APL,50
+Perovskites,HTL,SPL-APL,75
+Perovskites,HTLS,SPL-APL,269
+Perovskites,HTLs,SPL-APL,46
+Perovskites,HTM,SPL-APL,665
+Perovskites,HTM Layer,SPL-APL,39
+Perovskites,HTMS,SPL-APL,394
+Perovskites,Half Cell,SPL-APL,54
+Perovskites,Heterogeneous Catalyst,SPL-APL,41
+Perovskites,Heterojunction,SPL-APL,264
+Perovskites,Heterojunction Solar Cells,SPL-APL,95
+Perovskites,High,SPL-APL,46
+Perovskites,Hole Blocking Layer,SPL-APL,59
+Perovskites,Hole Extraction Layer,SPL-APL,47
+Perovskites,Hole Only Device,SPL-APL,203
+Perovskites,Hole Transport,SPL-APL,40
+Perovskites,Hole Transporter,SPL-APL,41
+Perovskites,Hole Transporting,SPL-APL,122
+Perovskites,Hole Transporting Layer,SPL-APL,788
+Perovskites,Hole Transporting Materials,SPL-APL,390
+Perovskites,Htl,SPL-APL,647
+Perovskites,Hybrid,SPL-APL,160
+Perovskites,Hybrid Solar Cell,SPL-APL,62
+Perovskites,Hydrogen,SPL-APL,61
+Perovskites,Hydrogen Evolution,SPL-APL,49
+Perovskites,Hydrogen Evolution Reaction,SPL-APL,55
+Perovskites,Hydrogen Production,SPL-APL,141
+Perovskites,IT - SOFC,SPL-APL,70
+Perovskites,ITSOFC,SPL-APL,214
+Perovskites,Imaging,SPL-APL,43
+Perovskites,Interconnect,SPL-APL,97
+Perovskites,Interface,SPL-APL,49
+Perovskites,Interfacial Layer,SPL-APL,39
+Perovskites,Interlayers,SPL-APL,83
+Perovskites,Intermediate,SPL-APL,45
+Perovskites,Intermediate Temperature Solid Oxide Fuel Cells,SPL-APL,107
+Perovskites,Inverted,SPL-APL,99
+Perovskites,Inverted PSCs,SPL-APL,109
+Perovskites,Inverted Perovskite Solar Cells,SPL-APL,62
+Perovskites,Junctions,SPL-APL,146
+Perovskites,LED,SPL-APL,363
+Perovskites,LED Device,SPL-APL,79
+Perovskites,LEDs,SPL-APL,596
+Perovskites,Large Area,SPL-APL,31
+Perovskites,Laser,SPL-APL,344
+Perovskites,Lasing,SPL-APL,131
+Perovskites,Layers,SPL-APL,638
+Perovskites,Lead Free,SPL-APL,96
+Perovskites,Lead Free Piezoelectric Ceramics,SPL-APL,51
+Perovskites,Li-Ion Battery,SPL-APL,35
+Perovskites,Light Absorber,SPL-APL,242
+Perovskites,Light Emitter,SPL-APL,42
+Perovskites,Light Emitting Applications,SPL-APL,52
+Perovskites,Light Emitting Devices,SPL-APL,158
+Perovskites,Light Emitting Diode,SPL-APL,83
+Perovskites,Light Emitting Diodes,SPL-APL,718
+Perovskites,Light Harvester,SPL-APL,91
+Perovskites,Light Harvesting,SPL-APL,73
+Perovskites,Lighting,SPL-APL,95
+Perovskites,Lithium Ion Battery,SPL-APL,41
+Perovskites,Low,SPL-APL,40
+Perovskites,Magnetic Refrigeration,SPL-APL,35
+Perovskites,Material,SPL-APL,134
+Perovskites,Membrane,SPL-APL,201
+Perovskites,Membrane Reactor,SPL-APL,107
+Perovskites,Memory,SPL-APL,45
+Perovskites,Memory Device,SPL-APL,91
+Perovskites,Memristor,SPL-APL,43
+Perovskites,Mesoscopic,SPL-APL,72
+Perovskites,Mesoscopic Perovskite Solar Cells,SPL-APL,53
+Perovskites,Metal Air Batteries,SPL-APL,68
+Perovskites,Metal Electrode,SPL-APL,116
+Perovskites,Metals,SPL-APL,63
+Perovskites,Methane Combustion,SPL-APL,69
+Perovskites,Methane Conversion,SPL-APL,32
+Perovskites,Methane Oxidation,SPL-APL,57
+Perovskites,Miec,SPL-APL,58
+Perovskites,Mirrors,SPL-APL,37
+Perovskites,Module,SPL-APL,191
+Perovskites,Monolithic,SPL-APL,45
+Perovskites,Multiferroics,SPL-APL,75
+Perovskites,Multifunctional Devices,SPL-APL,31
+Perovskites,N-I-P,SPL-APL,102
+Perovskites,No Reduction,SPL-APL,31
+Perovskites,Nonvolatile Memory,SPL-APL,38
+Perovskites,O2,SPL-APL,40
+Perovskites,OER,SPL-APL,431
+Perovskites,OER Catalyst,SPL-APL,56
+Perovskites,OLED,SPL-APL,31
+Perovskites,OLEDs,SPL-APL,35
+Perovskites,OPV,SPL-APL,32
+Perovskites,ORR,SPL-APL,336
+Perovskites,OSCS,SPL-APL,44
+Perovskites,Ohmic Contact,SPL-APL,34
+Perovskites,Optical,SPL-APL,42
+Perovskites,Optoelectronic Application,SPL-APL,559
+Perovskites,Optoelectronic Device,SPL-APL,814
+Perovskites,Optoelectronic Material,SPL-APL,109
+Perovskites,Optoelectronics,SPL-APL,410
+Perovskites,Organic Photovoltaic,SPL-APL,31
+Perovskites,Organic Solar Cells,SPL-APL,69
+Perovskites,Oxidation,SPL-APL,130
+Perovskites,Oxidative Coupling Of Methane,SPL-APL,31
+Perovskites,Oxygen,SPL-APL,39
+Perovskites,Oxygen Carrier,SPL-APL,94
+Perovskites,Oxygen Electrode,SPL-APL,80
+Perovskites,Oxygen Evolution,SPL-APL,50
+Perovskites,Oxygen Evolution Reaction,SPL-APL,334
+Perovskites,Oxygen Reduction,SPL-APL,101
+Perovskites,Oxygen Reduction Reaction,SPL-APL,303
+Perovskites,Oxygen Sensor,SPL-APL,32
+Perovskites,Oxygen Separation,SPL-APL,45
+Perovskites,Oxygen Separation Membranes,SPL-APL,30
+Perovskites,Oxygen Transport Membrane,SPL-APL,41
+Perovskites,P,SPL-APL,63
+Perovskites,P-I-N,SPL-APL,121
+Perovskites,P-I-N Perovskite Solar Cells,SPL-APL,36
+Perovskites,P-N Junction,SPL-APL,47
+Perovskites,PELEDs,SPL-APL,234
+Perovskites,PESCS,SPL-APL,63
+Perovskites,PIN,SPL-APL,32
+Perovskites,POM,SPL-APL,40
+Perovskites,PQDS,SPL-APL,63
+Perovskites,PSC,SPL-APL,1522
+Perovskites,PSC Device,SPL-APL,309
+Perovskites,PSCS,SPL-APL,2877
+Perovskites,PSCs,SPL-APL,532
+Perovskites,PV,SPL-APL,178
+Perovskites,PV Cells,SPL-APL,30
+Perovskites,PV Device,SPL-APL,62
+Perovskites,PVSC,SPL-APL,97
+Perovskites,PVSCS,SPL-APL,212
+Perovskites,Partial Oxidation of Methane,SPL-APL,67
+Perovskites,Passivation,SPL-APL,45
+Perovskites,Passivation Layer,SPL-APL,105
+Perovskites,Pds,SPL-APL,103
+Perovskites,Peeled,SPL-APL,115
+Perovskites,Pero,SPL-APL,50
+Perovskites,Perovskite Cells,SPL-APL,49
+Perovskites,Perovskite Devices,SPL-APL,160
+Perovskites,Perovskite Photovoltaic Devices,SPL-APL,43
+Perovskites,Perovskite Photovoltaics,SPL-APL,73
+Perovskites,Perovskite Solar,SPL-APL,91
+Perovskites,Perovskite Solar Cell Device,SPL-APL,79
+Perovskites,Perovskite Solar Cells,SPL-APL,1242
+Perovskites,Perovskite Solar Module,SPL-APL,36
+Perovskites,Phj,SPL-APL,52
+Perovskites,Phosphor,SPL-APL,131
+Perovskites,Phosphors,SPL-APL,155
+Perovskites,Photo Diode,SPL-APL,69
+Perovskites,Photoactive Layer,SPL-APL,130
+Perovskites,Photoanode,SPL-APL,167
+Perovskites,Photocatalysis,SPL-APL,152
+Perovskites,Photocatalysis Application,SPL-APL,44
+Perovskites,Photocatalyst,SPL-APL,245
+Perovskites,Photocatalysts,SPL-APL,304
+Perovskites,Photocatalytic Degradation,SPL-APL,61
+Perovskites,Photocatalytic H2,SPL-APL,61
+Perovskites,Photocatalytic Reaction,SPL-APL,44
+Perovskites,Photocatalytic Water Splitting,SPL-APL,61
+Perovskites,Photocathodes,SPL-APL,44
+Perovskites,Photodetection,SPL-APL,50
+Perovskites,Photodetector,SPL-APL,829
+Perovskites,Photodetector Device,SPL-APL,39
+Perovskites,Photoelectric Devices,SPL-APL,36
+Perovskites,Photoelectrodes,SPL-APL,71
+Perovskites,Photonic Crystal,SPL-APL,37
+Perovskites,Photonic Devices,SPL-APL,42
+Perovskites,Photonics,SPL-APL,58
+Perovskites,Phototransistor,SPL-APL,74
+Perovskites,Photovoltaic Application,SPL-APL,316
+Perovskites,Photovoltaic Cells,SPL-APL,128
+Perovskites,Photovoltaic Devices,SPL-APL,613
+Perovskites,Photovoltaic Material,SPL-APL,137
+Perovskites,Photovoltaic Solar Cells,SPL-APL,33
+Perovskites,Photovoltaic Technology,SPL-APL,235
+Perovskites,Photovoltaics,SPL-APL,1030
+Perovskites,Piezoelectric,SPL-APL,58
+Perovskites,Piezoelectric Ceramics,SPL-APL,47
+Perovskites,Piezoelectric Device,SPL-APL,32
+Perovskites,Planar,SPL-APL,109
+Perovskites,Planar Device,SPL-APL,73
+Perovskites,Planar Heterojunction,SPL-APL,95
+Perovskites,Planar Heterojunction Perovskite Solar Cells,SPL-APL,46
+Perovskites,Planar Heterojunction Solar Cells,SPL-APL,47
+Perovskites,Planar PSC,SPL-APL,127
+Perovskites,Planar Perovskite Solar Cell,SPL-APL,136
+Perovskites,Planar Solar Cells,SPL-APL,60
+Perovskites,Pncs,SPL-APL,58
+Perovskites,Power Generation,SPL-APL,31
+Perovskites,Protective Layer,SPL-APL,38
+Perovskites,Pvs,SPL-APL,69
+Perovskites,QD,SPL-APL,95
+Perovskites,QLEDs,SPL-APL,32
+Perovskites,Quantum Dots,SPL-APL,38
+Perovskites,Quantum Well,SPL-APL,113
+Perovskites,RHE,SPL-APL,38
+Perovskites,Rde,SPL-APL,34
+Perovskites,Reactors,SPL-APL,108
+Perovskites,Red Phosphor,SPL-APL,33
+Perovskites,Reductions,SPL-APL,52
+Perovskites,Reference Electrode,SPL-APL,59
+Perovskites,Reforming,SPL-APL,30
+Perovskites,Renewable Energy,SPL-APL,44
+Perovskites,Resonator,SPL-APL,46
+Perovskites,SC,SPL-APL,88
+Perovskites,SOEC,SPL-APL,48
+Perovskites,SOECS,SPL-APL,38
+Perovskites,SOFC,SPL-APL,453
+Perovskites,SOFC Anode,SPL-APL,40
+Perovskites,SOFC Cathode,SPL-APL,63
+Perovskites,SOFs,SPL-APL,452
+Perovskites,Scaffold,SPL-APL,48
+Perovskites,Schottky Junction,SPL-APL,43
+Perovskites,Scintillator,SPL-APL,54
+Perovskites,Scs,SPL-APL,108
+Perovskites,Selective Contact,SPL-APL,51
+Perovskites,Semiconductor,SPL-APL,146
+Perovskites,Semitransparency,SPL-APL,53
+Perovskites,Sensing,SPL-APL,97
+Perovskites,Sensing Electrode,SPL-APL,31
+Perovskites,Sensitizer,SPL-APL,84
+Perovskites,Sensor,SPL-APL,403
+Perovskites,Single Cell,SPL-APL,238
+Perovskites,Single Junction,SPL-APL,85
+Perovskites,Single-Junction Solar Cell,SPL-APL,85
+Perovskites,Singlet,SPL-APL,30
+Perovskites,Slot Die Coating,SPL-APL,43
+Perovskites,Solar,SPL-APL,106
+Perovskites,Solar Cell,SPL-APL,5519
+Perovskites,Solar Cell Applications,SPL-APL,84
+Perovskites,Solar Cell Device,SPL-APL,249
+Perovskites,Solar Cell Technology,SPL-APL,32
+Perovskites,Solar Devices,SPL-APL,33
+Perovskites,Solar Energy,SPL-APL,82
+Perovskites,Solar Energy Conversion,SPL-APL,69
+Perovskites,Solar Modules,SPL-APL,83
+Perovskites,Solid Electrolyte,SPL-APL,226
+Perovskites,Solid Oxide Cells,SPL-APL,32
+Perovskites,Solid Oxide Electrolysis Cell,SPL-APL,53
+Perovskites,Solid Oxide Fuel Cell Cathode,SPL-APL,35
+Perovskites,Solid Oxide Fuel Cells,SPL-APL,1029
+Perovskites,Solid State Lighting,SPL-APL,47
+Perovskites,Soot,SPL-APL,45
+Perovskites,Soot Combustion,SPL-APL,44
+Perovskites,Soot Oxidation,SPL-APL,33
+Perovskites,Source,SPL-APL,47
+Perovskites,Spintronic Device,SPL-APL,46
+Perovskites,Spintronics,SPL-APL,62
+Perovskites,Stack,SPL-APL,36
+Perovskites,Storages,SPL-APL,38
+Perovskites,Subcell,SPL-APL,95
+Perovskites,Supercapacitor,SPL-APL,109
+Perovskites,Support,SPL-APL,58
+Perovskites,Symmetrical,SPL-APL,41
+Perovskites,Symmetrical Cell,SPL-APL,60
+Perovskites,Syngas,SPL-APL,34
+Perovskites,Syngas Production,SPL-APL,33
+Perovskites,Synthesis Gas,SPL-APL,33
+Perovskites,Tandem Cell,SPL-APL,127
+Perovskites,Tandem Device,SPL-APL,127
+Perovskites,Tandem Solar Cell,SPL-APL,281
+Perovskites,Tandems,SPL-APL,163
+Perovskites,Tco,SPL-APL,33
+Perovskites,Technology,SPL-APL,35
+Perovskites,Temperature Solid Oxide Fuel Cells,SPL-APL,49
+Perovskites,Thin,SPL-APL,32
+Perovskites,Thin Film Solar Cell,SPL-APL,152
+Perovskites,Thin Film Transistor,SPL-APL,31
+Perovskites,Thin Films,SPL-APL,39
+Perovskites,Top,SPL-APL,62
+Perovskites,Top Cell,SPL-APL,136
+Perovskites,Top Contact,SPL-APL,39
+Perovskites,Top Electrode,SPL-APL,128
+Perovskites,Top Electrodes,SPL-APL,38
+Perovskites,Transducer,SPL-APL,47
+Perovskites,Transistors,SPL-APL,77
+Perovskites,Transparent Electrodes,SPL-APL,93
+Perovskites,Transport Layer,SPL-APL,96
+Perovskites,Two,SPL-APL,32
+Perovskites,WLEDs,SPL-APL,54
+Perovskites,Water Electrolysis,SPL-APL,42
+Perovskites,Water Oxidation,SPL-APL,54
+Perovskites,Water Splitting,SPL-APL,242
+Perovskites,Waveguide,SPL-APL,39
+Perovskites,Wearable,SPL-APL,32
+Perovskites,White LEDs,SPL-APL,85
+Perovskites,White Light Emitting Diode,SPL-APL,80
+Perovskites,Wled,SPL-APL,61
+Perovskites,Working Electrodes,SPL-APL,60
+Perovskites,X-Ray Detector,SPL-APL,52
+Perovskites,perovskite solar cells,SPL-APL,4259
+Phase,Columns,SPL-APL,95
+Phase,Electrode,SPL-APL,38
+Phase,Reverse,SPL-APL,109
+Pluripotent,Cell,SPL-APL,52
+Pluripotent,Cells,SPL-APL,80
+Pluripotent,Embryonic Stem Cell,SPL-APL,70
+Pluripotent,HiPSCs,SPL-APL,39
+Pluripotent,Induced,SPL-APL,53
+Pluripotent,Neurons,SPL-APL,39
+Pluripotent,Regenerative Medicine,SPL-APL,61
+Pluripotent,Stem,SPL-APL,48
+Pluripotent,Stem Cells,SPL-APL,358
+Pluripotent,iPS Cells,SPL-APL,30
+Porphyry,Ore,SPL-APL,138
+Porphyry,Orebody,SPL-APL,51
+Porphyry,Porphyry Cu,SPL-APL,38
+Promyelocytic,Leukemia,SPL-APL,57
+Prostate,Breast Cancer,SPL-APL,61
+Prostate,Cancer,SPL-APL,305
+Prostate,Cells,SPL-APL,43
+Prostate,PCA,SPL-APL,128
+Prostate,Prostate Cancer,SPL-APL,379
+Prostate,Tumor,SPL-APL,31
+Prostate,Tumours,SPL-APL,100
+Pyrite,Catalyst,SPL-APL,43
+Pyrochlore,Catalyst,SPL-APL,67
+Pyrochlore,Coatings,SPL-APL,37
+Pyrochlore,Electrode,SPL-APL,42
+Pyrochlore,Electrolyte,SPL-APL,33
+Pyrochlore,Thermal Barrier Coating,SPL-APL,39
+Pyroxene,Asteroid,SPL-APL,53
+Pyroxene,Asteroids,SPL-APL,38
+Pyroxene,CAIs,SPL-APL,31
+Pyroxene,Inclusions,SPL-APL,36
+Pyroxene,Meteorite,SPL-APL,60
+R A,Catalyst,SPL-APL,40
+R A C T,Anode,SPL-APL,87
+R A C T,Catalyst,SPL-APL,368
+R A C T,Cathode,SPL-APL,70
+R A C T,Cell,SPL-APL,38
+R A C T,Coatings,SPL-APL,54
+R A C T,Dye-Sensitized Solar Cells,SPL-APL,41
+R A C T,Electrocatalyst,SPL-APL,30
+R A C T,Electrode,SPL-APL,223
+R A C T,Electrodes,SPL-APL,94
+R A C T,Electrolyte,SPL-APL,39
+R A C T,Lithium Ion Battery,SPL-APL,42
+R A C T,Oxidation,SPL-APL,36
+R A C T,Photoanode,SPL-APL,33
+R A C T,Photocatalyst,SPL-APL,52
+R A C T,Photocatalysts,SPL-APL,49
+R A C T,Sensor,SPL-APL,35
+R A C T,Solar Cell,SPL-APL,32
+R A C T,Supercapacitor,SPL-APL,50
+R-3M,Cathode,SPL-APL,41
+R3M,Cathode,SPL-APL,34
+RAC,Catalyst,SPL-APL,92
+RAC,Electrode,SPL-APL,85
+RAFM,Fusion Reactor,SPL-APL,32
+RAFM,Structural Materials,SPL-APL,39
+RM,Cathode,SPL-APL,30
+RP,Solar Cell,SPL-APL,31
+Renal,Cancer,SPL-APL,69
+Renal,Carcinoma,SPL-APL,31
+Renal,Cell,SPL-APL,31
+Renal,Cell Carcinoma,SPL-APL,62
+Renal,Kidneys,SPL-APL,60
+Renal,RCC,SPL-APL,78
+Renal,Tumours,SPL-APL,30
+Renal Cell,Carcinoma,SPL-APL,47
+Renal Cell,RCC,SPL-APL,85
+Rhombic Dodecahedron,Catalyst,SPL-APL,39
+Rhombohedral,Anode,SPL-APL,107
+Rhombohedral,Battery,SPL-APL,38
+Rhombohedral,Catalyst,SPL-APL,169
+Rhombohedral,Cathode,SPL-APL,214
+Rhombohedral,Cathodes,SPL-APL,75
+Rhombohedral,Cell,SPL-APL,117
+Rhombohedral,Cells,SPL-APL,79
+Rhombohedral,Coatings,SPL-APL,118
+Rhombohedral,Electrode,SPL-APL,297
+Rhombohedral,Electrodes,SPL-APL,229
+Rhombohedral,Electrolyte,SPL-APL,154
+Rhombohedral,Lithium Ion Battery,SPL-APL,38
+Rhombohedral,Magnetic Refrigeration,SPL-APL,32
+Rhombohedral,Photocatalyst,SPL-APL,33
+Rhombohedral,Sensor,SPL-APL,48
+Rhombohedral,Solid Electrolyte,SPL-APL,43
+Rhombohedral,Solid Oxide Fuel Cells,SPL-APL,46
+Rock Salt,Anode,SPL-APL,43
+Rock Salt,Catalyst,SPL-APL,41
+Rock Salt,Cathode,SPL-APL,145
+Rock Salt,Cathodes,SPL-APL,63
+Rock Salt,Cell,SPL-APL,54
+Rock Salt,Cells,SPL-APL,40
+Rock Salt,Coatings,SPL-APL,42
+Rock Salt,Electrode,SPL-APL,114
+Rock Salt,Electrodes,SPL-APL,93
+Rock Salt,Electrolyte,SPL-APL,69
+Rock-Salt,Cathode,SPL-APL,88
+Rock-Salt,Cathodes,SPL-APL,40
+Rock-Salt,Electrode,SPL-APL,45
+Rock-Salt,Electrodes,SPL-APL,34
+Rock-Salt,Electrolyte,SPL-APL,38
+Rock-Salt,Lithium Ion Battery,SPL-APL,38
+Ruddlesden Popper,Cathode,SPL-APL,43
+Ruddlesden Popper,Electrode,SPL-APL,35
+Ruddlesden Popper,Electrodes,SPL-APL,38
+Ruddlesden Popper,Electrolyte,SPL-APL,45
+Ruddlesden Popper,Solar Cell,SPL-APL,63
+Ruddlesden Popper,Solid Oxide Fuel Cells,SPL-APL,40
+Ruddlesden Popper,perovskite solar cells,SPL-APL,33
+Rutile,Anode,SPL-APL,264
+Rutile,Anodes,SPL-APL,94
+Rutile,Battery,SPL-APL,30
+Rutile,Biomaterial,SPL-APL,30
+Rutile,CO,SPL-APL,34
+Rutile,CO Oxidation,SPL-APL,54
+Rutile,CO2 Reduction,SPL-APL,41
+Rutile,Catalysis,SPL-APL,62
+Rutile,Catalyst,SPL-APL,1502
+Rutile,Catalysts,SPL-APL,32
+Rutile,Catalytic,SPL-APL,52
+Rutile,Cathode,SPL-APL,158
+Rutile,Cathodes,SPL-APL,40
+Rutile,Cell,SPL-APL,174
+Rutile,Cells,SPL-APL,131
+Rutile,Co-Catalysts,SPL-APL,38
+Rutile,Coatings,SPL-APL,823
+Rutile,Cocatalyst,SPL-APL,51
+Rutile,Contacts,SPL-APL,55
+Rutile,Counter Electrode,SPL-APL,65
+Rutile,DSSCS,SPL-APL,160
+Rutile,DSSCs,SPL-APL,54
+Rutile,Degradation,SPL-APL,121
+Rutile,Dscs,SPL-APL,37
+Rutile,Dssc,SPL-APL,118
+Rutile,Dye-Sensitized Solar Cell,SPL-APL,73
+Rutile,Dye-Sensitized Solar Cells,SPL-APL,211
+Rutile,Electrocatalyst,SPL-APL,68
+Rutile,Electrode,SPL-APL,707
+Rutile,Electrodes,SPL-APL,590
+Rutile,Electrolyte,SPL-APL,329
+Rutile,Electron Transporting Layer,SPL-APL,30
+Rutile,Gas Sensors,SPL-APL,79
+Rutile,H2,SPL-APL,35
+Rutile,H2 Evolution,SPL-APL,47
+Rutile,H2 Production,SPL-APL,49
+Rutile,Heterojunction,SPL-APL,37
+Rutile,Hydrogen Evolution,SPL-APL,38
+Rutile,Hydrogen Generation,SPL-APL,36
+Rutile,Hydrogen Production,SPL-APL,90
+Rutile,Hydrogenation,SPL-APL,32
+Rutile,Implants,SPL-APL,79
+Rutile,Inclusions,SPL-APL,32
+Rutile,Junctions,SPL-APL,62
+Rutile,LIBs,SPL-APL,32
+Rutile,Li-Ion Battery,SPL-APL,47
+Rutile,Lithium Ion Battery,SPL-APL,78
+Rutile,Lithium-Ion Batteries,SPL-APL,30
+Rutile,Negative Electrode,SPL-APL,31
+Rutile,OER,SPL-APL,100
+Rutile,ORR,SPL-APL,41
+Rutile,Ore,SPL-APL,33
+Rutile,Oxidation,SPL-APL,126
+Rutile,Oxygen Evolution Reaction,SPL-APL,64
+Rutile,PEC,SPL-APL,39
+Rutile,PSC,SPL-APL,31
+Rutile,PSCS,SPL-APL,42
+Rutile,Paint,SPL-APL,46
+Rutile,Photoanode,SPL-APL,360
+Rutile,Photocatalysis,SPL-APL,233
+Rutile,Photocatalysis Application,SPL-APL,47
+Rutile,Photocatalyst,SPL-APL,649
+Rutile,Photocatalysts,SPL-APL,727
+Rutile,Photocatalytic Decomposition,SPL-APL,70
+Rutile,Photocatalytic Degradation,SPL-APL,347
+Rutile,Photocatalytic H2,SPL-APL,114
+Rutile,Photocatalytic H2 Production,SPL-APL,42
+Rutile,Photocatalytic Hydrogen Production,SPL-APL,35
+Rutile,Photocatalytic Oxidation,SPL-APL,88
+Rutile,Photocatalytic Reaction,SPL-APL,135
+Rutile,Photocatalytic Reduction,SPL-APL,33
+Rutile,Photocatalytic Water Splitting,SPL-APL,49
+Rutile,Photodegradation,SPL-APL,64
+Rutile,Photoelectrochemical Cells,SPL-APL,38
+Rutile,Photoelectrodes,SPL-APL,140
+Rutile,Photooxidation,SPL-APL,49
+Rutile,Photoreactors,SPL-APL,30
+Rutile,Photovoltaics,SPL-APL,37
+Rutile,Pigment,SPL-APL,138
+Rutile,RHE,SPL-APL,34
+Rutile,Reactors,SPL-APL,57
+Rutile,Reductions,SPL-APL,36
+Rutile,Reference Electrode,SPL-APL,48
+Rutile,Sensitizer,SPL-APL,37
+Rutile,Sensor,SPL-APL,166
+Rutile,Solar Cell,SPL-APL,219
+Rutile,Supercapacitor,SPL-APL,35
+Rutile,Thermometer,SPL-APL,46
+Rutile,Water Oxidation,SPL-APL,66
+Rutile,Water Splitting,SPL-APL,136
+Rutile,Working Electrodes,SPL-APL,42
+Rutile,perovskite solar cells,SPL-APL,51
+S T,Absorber,SPL-APL,36
+S T,Active Layer,SPL-APL,40
+S T,Adsorbent,SPL-APL,95
+S T,Anode,SPL-APL,317
+S T,Anodes,SPL-APL,64
+S T,Batteries,SPL-APL,51
+S T,Battery,SPL-APL,91
+S T,Bio Diesel,SPL-APL,43
+S T,Bio-Sensor,SPL-APL,68
+S T,Building,SPL-APL,51
+S T,Buildings,SPL-APL,49
+S T,CO2 Capture,SPL-APL,35
+S T,Cancer,SPL-APL,45
+S T,Catalyst,SPL-APL,780
+S T,Catalyst Layer,SPL-APL,31
+S T,Catalytic,SPL-APL,30
+S T,Cathode,SPL-APL,324
+S T,Cathodes,SPL-APL,34
+S T,Cell,SPL-APL,276
+S T,Cells,SPL-APL,183
+S T,Coatings,SPL-APL,266
+S T,Combustion,SPL-APL,31
+S T,Cooling,SPL-APL,34
+S T,Counter Electrode,SPL-APL,34
+S T,Current Collector,SPL-APL,33
+S T,DMFC,SPL-APL,32
+S T,DSSCS,SPL-APL,39
+S T,Detection,SPL-APL,41
+S T,Diesel Engine,SPL-APL,31
+S T,Direct Methanol Fuel Cell,SPL-APL,41
+S T,Dssc,SPL-APL,31
+S T,Dye-Sensitized Solar Cells,SPL-APL,58
+S T,Electrocatalyst,SPL-APL,82
+S T,Electrochemical Sensor,SPL-APL,47
+S T,Electrode,SPL-APL,795
+S T,Electrodes,SPL-APL,412
+S T,Electrolyte,SPL-APL,283
+S T,Energy,SPL-APL,110
+S T,Engines,SPL-APL,71
+S T,Fuel,SPL-APL,52
+S T,Fuel Cell,SPL-APL,186
+S T,Gce,SPL-APL,50
+S T,Heat Exchanger,SPL-APL,53
+S T,Hydrogen Production,SPL-APL,56
+S T,Layers,SPL-APL,31
+S T,Li-Ion Battery,SPL-APL,43
+S T,Lithium Ion Battery,SPL-APL,94
+S T,Lithium-Ion Batteries,SPL-APL,38
+S T,MEA,SPL-APL,40
+S T,MFC,SPL-APL,32
+S T,Membrane,SPL-APL,103
+S T,Membrane Electrode Assembly,SPL-APL,35
+S T,Methanol Oxidation,SPL-APL,32
+S T,Module,SPL-APL,32
+S T,ORR,SPL-APL,58
+S T,Organic Solar Cells,SPL-APL,30
+S T,Oxidation,SPL-APL,94
+S T,Oxygen Reduction Reaction,SPL-APL,71
+S T,PEM,SPL-APL,30
+S T,PEMFC,SPL-APL,63
+S T,PV,SPL-APL,48
+S T,Phosphor,SPL-APL,34
+S T,Phosphors,SPL-APL,44
+S T,Photoanode,SPL-APL,33
+S T,Photocatalyst,SPL-APL,55
+S T,Photocatalysts,SPL-APL,42
+S T,Proton Exchange Membrane Fuel Cells,SPL-APL,62
+S T,Reactors,SPL-APL,126
+S T,Renewable Energy,SPL-APL,35
+S T,SOFC,SPL-APL,54
+S T,SOFs,SPL-APL,34
+S T,Sensor,SPL-APL,214
+S T,Single Cell,SPL-APL,34
+S T,Solar Cell,SPL-APL,212
+S T,Solid Oxide Fuel Cells,SPL-APL,85
+S T,Sorbent,SPL-APL,43
+S T,Stack,SPL-APL,36
+S T,Supercapacitor,SPL-APL,72
+S T,Turbines,SPL-APL,34
+S T,Vehicle,SPL-APL,30
+S T,Water,SPL-APL,34
+SCLC,Lung,SPL-APL,30
+SCLC,Lung Cancer,SPL-APL,32
+SCLC,Small,SPL-APL,30
+SK-BR-3,Breast Cancer,SPL-APL,36
+SSZ,Ophiolites,SPL-APL,35
+STRAC,Anode,SPL-APL,113
+STRAC,Catalyst,SPL-APL,191
+STRAC,Cathode,SPL-APL,98
+STRAC,Cell,SPL-APL,61
+STRAC,Cells,SPL-APL,39
+STRAC,Coatings,SPL-APL,64
+STRAC,Electrode,SPL-APL,207
+STRAC,Electrodes,SPL-APL,95
+STRAC,Electrolyte,SPL-APL,68
+STRAC,Fuel Cell,SPL-APL,30
+STRAC,Sensor,SPL-APL,37
+STRAC,Solar Cell,SPL-APL,58
+Sandy,Aquifer,SPL-APL,30
+Sandy,Beach,SPL-APL,37
+Sandy,Beaches,SPL-APL,35
+Scheelite,Catalyst,SPL-APL,50
+Scheelite,Phosphor,SPL-APL,32
+Scheelite,Phosphors,SPL-APL,69
+Schwann,Cells,SPL-APL,70
+Schwann,Schwann Cells,SPL-APL,62
+Sickle,Cell Disease,SPL-APL,32
+Sjogren,Syndrome,SPL-APL,32
+Skarn,Fluid Inclusion,SPL-APL,35
+Skarn,Ore,SPL-APL,161
+Skarn,Orebody,SPL-APL,59
+Skarn,Ores,SPL-APL,37
+Skarn,Porphyry,SPL-APL,57
+Skin,Cancer,SPL-APL,32
+Skov-3,Cancer,SPL-APL,31
+Sma,Cell,SPL-APL,32
+Sma,Liquid Crystal,SPL-APL,31
+Smectic,Cell,SPL-APL,32
+Smectic,Crystal,SPL-APL,30
+Smectic,Liquid Crystal,SPL-APL,66
+Spinels,ARC,SPL-APL,39
+Spinels,Adsorbent,SPL-APL,47
+Spinels,Anode,SPL-APL,680
+Spinels,Anodes,SPL-APL,178
+Spinels,Batteries,SPL-APL,164
+Spinels,Battery,SPL-APL,240
+Spinels,Bifunctional Catalysts,SPL-APL,31
+Spinels,Biomedical Application,SPL-APL,33
+Spinels,CAI,SPL-APL,58
+Spinels,CAIs,SPL-APL,56
+Spinels,CO,SPL-APL,37
+Spinels,CO Oxidation,SPL-APL,52
+Spinels,Castable,SPL-APL,40
+Spinels,Catalysis,SPL-APL,79
+Spinels,Catalyst,SPL-APL,1616
+Spinels,Catalysts,SPL-APL,35
+Spinels,Catalytic,SPL-APL,37
+Spinels,Catalytic Reaction,SPL-APL,30
+Spinels,Cathode,SPL-APL,1660
+Spinels,Cathode Materials,SPL-APL,31
+Spinels,Cathodes,SPL-APL,505
+Spinels,Cell,SPL-APL,454
+Spinels,Cells,SPL-APL,398
+Spinels,Coatings,SPL-APL,804
+Spinels,Coin Cell,SPL-APL,57
+Spinels,Contacts,SPL-APL,42
+Spinels,Counter Electrode,SPL-APL,55
+Spinels,Crucible,SPL-APL,48
+Spinels,Current Collector,SPL-APL,81
+Spinels,Drug Delivery,SPL-APL,30
+Spinels,Electric Vehicle,SPL-APL,76
+Spinels,Electrocatalyst,SPL-APL,204
+Spinels,Electrochemical Cells,SPL-APL,44
+Spinels,Electrode,SPL-APL,1383
+Spinels,Electrodes,SPL-APL,905
+Spinels,Electrolyte,SPL-APL,822
+Spinels,Electronic Devices,SPL-APL,37
+Spinels,Energy Storage,SPL-APL,60
+Spinels,Ferrofluid,SPL-APL,31
+Spinels,Fuel Cell,SPL-APL,66
+Spinels,Full Cell,SPL-APL,102
+Spinels,Gas Sensors,SPL-APL,50
+Spinels,Glaze,SPL-APL,30
+Spinels,Half Cell,SPL-APL,147
+Spinels,Heterogeneous Catalyst,SPL-APL,37
+Spinels,High Voltage Cathode,SPL-APL,32
+Spinels,Hybrid,SPL-APL,33
+Spinels,Hydrogen Production,SPL-APL,51
+Spinels,Inclusions,SPL-APL,67
+Spinels,Interconnect,SPL-APL,124
+Spinels,LIB,SPL-APL,50
+Spinels,LIBs,SPL-APL,183
+Spinels,Li,SPL-APL,68
+Spinels,Li-Ion Battery,SPL-APL,302
+Spinels,Li-Ion Cell,SPL-APL,44
+Spinels,Lithium,SPL-APL,63
+Spinels,Lithium Battery,SPL-APL,63
+Spinels,Lithium Cell,SPL-APL,108
+Spinels,Lithium Ion Battery,SPL-APL,512
+Spinels,Lithium-Ion Batteries,SPL-APL,247
+Spinels,Lithium-Ion Cells,SPL-APL,57
+Spinels,Mantle,SPL-APL,63
+Spinels,Mantle Xenoliths,SPL-APL,32
+Spinels,Metal Air Batteries,SPL-APL,39
+Spinels,Metals,SPL-APL,37
+Spinels,Microwave Devices,SPL-APL,41
+Spinels,N2O Decomposition,SPL-APL,31
+Spinels,Nanocatalyst,SPL-APL,32
+Spinels,Negative Electrode,SPL-APL,105
+Spinels,OER,SPL-APL,267
+Spinels,OER Catalyst,SPL-APL,30
+Spinels,ORR,SPL-APL,182
+Spinels,Ophiolites,SPL-APL,68
+Spinels,Oxidation,SPL-APL,75
+Spinels,Oxygen Carrier,SPL-APL,47
+Spinels,Oxygen Evolution Reaction,SPL-APL,202
+Spinels,Oxygen Reduction,SPL-APL,30
+Spinels,Oxygen Reduction Reaction,SPL-APL,122
+Spinels,Phosphor,SPL-APL,39
+Spinels,Phosphors,SPL-APL,36
+Spinels,Photocatalyst,SPL-APL,57
+Spinels,Photocatalysts,SPL-APL,49
+Spinels,Pigment,SPL-APL,86
+Spinels,Positive Electrode,SPL-APL,230
+Spinels,Protective Coating,SPL-APL,45
+Spinels,Protective Layer,SPL-APL,42
+Spinels,Reactors,SPL-APL,47
+Spinels,Rechargeable,SPL-APL,41
+Spinels,Rechargeable Lithium Battery,SPL-APL,34
+Spinels,Rechargeable Lithium Ion Battery,SPL-APL,45
+Spinels,Reference Electrode,SPL-APL,37
+Spinels,Refractories,SPL-APL,86
+Spinels,Refractory,SPL-APL,92
+Spinels,SOFC,SPL-APL,95
+Spinels,SOFs,SPL-APL,56
+Spinels,Sei,SPL-APL,93
+Spinels,Sensor,SPL-APL,120
+Spinels,Separator,SPL-APL,59
+Spinels,Solid Electrolyte,SPL-APL,48
+Spinels,Solid Electrolyte Interface,SPL-APL,33
+Spinels,Solid Electrolyte Interphase,SPL-APL,42
+Spinels,Solid Oxide Fuel Cells,SPL-APL,148
+Spinels,Sorbent,SPL-APL,32
+Spinels,Supercapacitor,SPL-APL,129
+Spinels,Support,SPL-APL,30
+Spinels,TBC,SPL-APL,32
+Spinels,Thermal Barrier Coating,SPL-APL,35
+Spinels,Thermistor,SPL-APL,30
+Spinels,Thermometer,SPL-APL,35
+Spinels,Varistor,SPL-APL,47
+Spinels,Volcanic Rocks,SPL-APL,34
+Spinels,Water Oxidation,SPL-APL,35
+Spinels,Water Splitting,SPL-APL,48
+Spleens,Cells,SPL-APL,36
+Spleens,Kidneys,SPL-APL,34
+Spleens,Liver,SPL-APL,40
+Spleens,Mice,SPL-APL,42
+Spleens,T Cells,SPL-APL,61
+Spleens,Tumours,SPL-APL,39
+Squamous,Cell,SPL-APL,35
+Squamous,Cell Carcinoma,SPL-APL,52
+Squamous,HNSCC,SPL-APL,31
+Squamous Cell,Cancer,SPL-APL,62
+Squamous Cell,Carcinoma,SPL-APL,59
+Squamous Cell,Lung,SPL-APL,44
+Squamous Cell,Lung Cancer,SPL-APL,45
+Squamous Cell,NSCLC,SPL-APL,48
+Squamous Cell,Tumours,SPL-APL,30
+Systemic,Diseases,SPL-APL,32
+Systemic,Lupus Erythematosus,SPL-APL,125
+Systemic,Rheumatoid Arthritis,SPL-APL,31
+Systemic,SLE,SPL-APL,116
+T,Adsorbent,SPL-APL,127
+T,Anode,SPL-APL,476
+T,Anodes,SPL-APL,74
+T,Batteries,SPL-APL,30
+T,Battery,SPL-APL,59
+T,Bio Diesel,SPL-APL,75
+T,Bio-Sensor,SPL-APL,79
+T,Biodiesel Production,SPL-APL,34
+T,Biofuel,SPL-APL,47
+T,Buildings,SPL-APL,33
+T,CO Oxidation,SPL-APL,38
+T,Cancer,SPL-APL,32
+T,Catalysis,SPL-APL,58
+T,Catalyst,SPL-APL,1577
+T,Catalytic,SPL-APL,36
+T,Cathode,SPL-APL,308
+T,Cathodes,SPL-APL,46
+T,Cell,SPL-APL,227
+T,Cells,SPL-APL,211
+T,Coatings,SPL-APL,303
+T,Counter Electrode,SPL-APL,48
+T,Current Collector,SPL-APL,39
+T,DSSCS,SPL-APL,74
+T,Degradation,SPL-APL,72
+T,Detection,SPL-APL,49
+T,Direct Methanol Fuel Cell,SPL-APL,35
+T,Diseases,SPL-APL,37
+T,Dssc,SPL-APL,59
+T,Dye-Sensitized Solar Cells,SPL-APL,107
+T,Electrocatalyst,SPL-APL,106
+T,Electrochemical Sensor,SPL-APL,44
+T,Electrode,SPL-APL,1109
+T,Electrodes,SPL-APL,450
+T,Electrolyte,SPL-APL,232
+T,Energy,SPL-APL,99
+T,Energy Storage,SPL-APL,40
+T,Engines,SPL-APL,30
+T,Fuel,SPL-APL,47
+T,Fuel Cell,SPL-APL,109
+T,Fuels,SPL-APL,31
+T,Gas Sensors,SPL-APL,31
+T,Gce,SPL-APL,60
+T,H2O2,SPL-APL,31
+T,Heterogeneous Catalyst,SPL-APL,45
+T,Hydrogen,SPL-APL,30
+T,Hydrogen Evolution Reaction,SPL-APL,32
+T,Hydrogen Production,SPL-APL,73
+T,Hydrogenation,SPL-APL,47
+T,LIBs,SPL-APL,69
+T,Li-Ion Battery,SPL-APL,66
+T,Lithium Ion Battery,SPL-APL,171
+T,Lithium-Ion Batteries,SPL-APL,126
+T,MFC,SPL-APL,39
+T,Membrane,SPL-APL,72
+T,Methanol Oxidation,SPL-APL,42
+T,Mfcs,SPL-APL,32
+T,Microbial Fuel Cell,SPL-APL,33
+T,Negative Electrode,SPL-APL,45
+T,ORR,SPL-APL,80
+T,Oxidation,SPL-APL,134
+T,Oxygen Reduction Reaction,SPL-APL,88
+T,P,SPL-APL,35
+T,Phosphor,SPL-APL,44
+T,Phosphors,SPL-APL,39
+T,Photoanode,SPL-APL,75
+T,Photocatalysis,SPL-APL,31
+T,Photocatalyst,SPL-APL,177
+T,Photocatalysts,SPL-APL,151
+T,Photocatalytic Degradation,SPL-APL,68
+T,Photocatalytic Reaction,SPL-APL,31
+T,Photoelectrodes,SPL-APL,37
+T,Positive Electrode,SPL-APL,48
+T,R A,SPL-APL,53
+T,Reactors,SPL-APL,102
+T,Reductions,SPL-APL,54
+T,Removal,SPL-APL,40
+T,SCR,SPL-APL,36
+T,Sensor,SPL-APL,184
+T,Solar Cell,SPL-APL,122
+T,Solar Energy,SPL-APL,31
+T,Solid Oxide Fuel Cells,SPL-APL,34
+T,Sorbent,SPL-APL,48
+T,Supercapacitor,SPL-APL,237
+T,Supercapacitor Application,SPL-APL,33
+T,Supercapacitor Electrode,SPL-APL,49
+T,T Cells,SPL-APL,90
+T,Thermal Barrier Coating,SPL-APL,45
+T,Wastewater Treatment,SPL-APL,49
+T,Working Electrodes,SPL-APL,33
+T R A C,Catalyst,SPL-APL,30
+T R A C,Electrode,SPL-APL,31
+T-S,Systems,SPL-APL,35
+T2D,Diabetes,SPL-APL,49
+TCP,Superalloy,SPL-APL,31
+TH1,T,SPL-APL,46
+TH1,T Cells,SPL-APL,74
+TH2,T Cells,SPL-APL,45
+TNBC,Breast Cancer,SPL-APL,46
+TNBC,Cancer,SPL-APL,42
+TRACTA,Anode,SPL-APL,37
+TRACTA,Catalyst,SPL-APL,87
+TRACTA,Cathode,SPL-APL,54
+TRACTA,Electrode,SPL-APL,122
+TRACTA,Electrodes,SPL-APL,44
+TRACTA,Electrolyte,SPL-APL,40
+Tetragonal,Absorber,SPL-APL,46
+Tetragonal,Absorber Layer,SPL-APL,30
+Tetragonal,Actuator,SPL-APL,37
+Tetragonal,Anode,SPL-APL,203
+Tetragonal,Anodes,SPL-APL,52
+Tetragonal,Anvil Cell,SPL-APL,56
+Tetragonal,Batteries,SPL-APL,38
+Tetragonal,Battery,SPL-APL,55
+Tetragonal,Bottom Electrode,SPL-APL,33
+Tetragonal,CO Oxidation,SPL-APL,33
+Tetragonal,Capacitor,SPL-APL,80
+Tetragonal,Catalysis,SPL-APL,36
+Tetragonal,Catalyst,SPL-APL,1002
+Tetragonal,Catalysts,SPL-APL,45
+Tetragonal,Catalytic,SPL-APL,31
+Tetragonal,Cathode,SPL-APL,240
+Tetragonal,Cathodes,SPL-APL,67
+Tetragonal,Cell,SPL-APL,220
+Tetragonal,Cells,SPL-APL,164
+Tetragonal,Ceramic,SPL-APL,49
+Tetragonal,Coatings,SPL-APL,530
+Tetragonal,Contacts,SPL-APL,62
+Tetragonal,Counter Electrode,SPL-APL,43
+Tetragonal,Crucible,SPL-APL,39
+Tetragonal,Degradation,SPL-APL,38
+Tetragonal,Device,SPL-APL,47
+Tetragonal,Dielectric,SPL-APL,37
+Tetragonal,Electrocatalyst,SPL-APL,40
+Tetragonal,Electrode,SPL-APL,536
+Tetragonal,Electrodes,SPL-APL,405
+Tetragonal,Electrolyte,SPL-APL,317
+Tetragonal,Fuel Cell,SPL-APL,49
+Tetragonal,Gas Sensors,SPL-APL,59
+Tetragonal,Half Cell,SPL-APL,34
+Tetragonal,Implants,SPL-APL,34
+Tetragonal,LED,SPL-APL,31
+Tetragonal,LEDs,SPL-APL,32
+Tetragonal,Laser,SPL-APL,59
+Tetragonal,Lead Free Piezoelectric Ceramics,SPL-APL,47
+Tetragonal,Li-Ion Battery,SPL-APL,36
+Tetragonal,Lithium Ion Battery,SPL-APL,37
+Tetragonal,Material,SPL-APL,37
+Tetragonal,Negative Electrode,SPL-APL,32
+Tetragonal,OER,SPL-APL,48
+Tetragonal,ORR,SPL-APL,48
+Tetragonal,Optoelectronic Application,SPL-APL,31
+Tetragonal,Optoelectronic Device,SPL-APL,53
+Tetragonal,Oxidation,SPL-APL,41
+Tetragonal,PSC,SPL-APL,40
+Tetragonal,PSCS,SPL-APL,50
+Tetragonal,Perovskite Solar Cells,SPL-APL,33
+Tetragonal,Phosphor,SPL-APL,125
+Tetragonal,Phosphors,SPL-APL,198
+Tetragonal,Photoanode,SPL-APL,48
+Tetragonal,Photocatalysis,SPL-APL,31
+Tetragonal,Photocatalyst,SPL-APL,124
+Tetragonal,Photocatalysts,SPL-APL,111
+Tetragonal,Photocatalytic Degradation,SPL-APL,50
+Tetragonal,Photodetector,SPL-APL,46
+Tetragonal,Photovoltaic Application,SPL-APL,40
+Tetragonal,Photovoltaic Devices,SPL-APL,39
+Tetragonal,Photovoltaics,SPL-APL,42
+Tetragonal,Piezoelectric,SPL-APL,38
+Tetragonal,Piezoelectric Ceramics,SPL-APL,41
+Tetragonal,SOFC,SPL-APL,40
+Tetragonal,Sensor,SPL-APL,155
+Tetragonal,Shape Memory Alloy,SPL-APL,31
+Tetragonal,Solar Cell,SPL-APL,273
+Tetragonal,Solid Electrolyte,SPL-APL,125
+Tetragonal,Solid Oxide Fuel Cells,SPL-APL,86
+Tetragonal,Supercapacitor,SPL-APL,31
+Tetragonal,TBC,SPL-APL,64
+Tetragonal,TBCS,SPL-APL,66
+Tetragonal,Thermal Barrier Coating,SPL-APL,115
+Tetragonal,Thin Film Solar Cell,SPL-APL,32
+Tetragonal,Water Splitting,SPL-APL,38
+Tetragonal,perovskite solar cells,SPL-APL,82
+Th17,Cells,SPL-APL,49
+Th17,T,SPL-APL,68
+Th17,T Cells,SPL-APL,88
+Tholeiitic,ARC,SPL-APL,30
+Thymic,Cells,SPL-APL,35
+Thymus,T Cells,SPL-APL,32
+Thyroid,Cancer,SPL-APL,57
+Triclinic,Catalyst,SPL-APL,65
+Triclinic,Cathode,SPL-APL,60
+Triclinic,Electrode,SPL-APL,64
+Triclinic,Electrodes,SPL-APL,45
+Triclinic,Electrolyte,SPL-APL,31
+Trigonal,Anode,SPL-APL,30
+Trigonal,Catalyst,SPL-APL,118
+Trigonal,Cathode,SPL-APL,47
+Trigonal,Electrode,SPL-APL,88
+Trigonal,Electrodes,SPL-APL,70
+Trigonal,Phosphor,SPL-APL,32
+Trigonal,Phosphors,SPL-APL,42
+Triple,Breast Cancer,SPL-APL,64
+Triple,Cancer,SPL-APL,41
+Triple,TNBC,SPL-APL,38
+Triple Negative,Breast Cancer,SPL-APL,35
+Type,Biomedical Application,SPL-APL,31
+Type,Catalyst,SPL-APL,32
+Ultramafic,Ophiolites,SPL-APL,54
+Ultramafic,Ore,SPL-APL,30
+WZ,Catalyst,SPL-APL,48
+Wenzel,Coatings,SPL-APL,49
+Wenzel,Surfaces,SPL-APL,51
+Wurtzite,Catalyst,SPL-APL,304
+Wurtzite,Coatings,SPL-APL,142
+Wurtzite,Contacts,SPL-APL,41
+Wurtzite,Device,SPL-APL,51
+Wurtzite,Diodes,SPL-APL,35
+Wurtzite,Electrode,SPL-APL,98
+Wurtzite,Electrodes,SPL-APL,106
+Wurtzite,Electrolyte,SPL-APL,41
+Wurtzite,Electronic,SPL-APL,36
+Wurtzite,Electronic Devices,SPL-APL,32
+Wurtzite,Gas Sensors,SPL-APL,39
+Wurtzite,Heterojunction,SPL-APL,35
+Wurtzite,Junctions,SPL-APL,32
+Wurtzite,LED,SPL-APL,41
+Wurtzite,LEDs,SPL-APL,38
+Wurtzite,Laser,SPL-APL,31
+Wurtzite,Light Emitting Diodes,SPL-APL,36
+Wurtzite,Optoelectronic Application,SPL-APL,46
+Wurtzite,Optoelectronic Device,SPL-APL,106
+Wurtzite,Optoelectronics,SPL-APL,67
+Wurtzite,Photoanode,SPL-APL,41
+Wurtzite,Photocatalyst,SPL-APL,85
+Wurtzite,Photocatalysts,SPL-APL,80
+Wurtzite,Photocatalytic Degradation,SPL-APL,30
+Wurtzite,Photodetector,SPL-APL,55
+Wurtzite,Photovoltaics,SPL-APL,41
+Wurtzite,QD,SPL-APL,32
+Wurtzite,QWS,SPL-APL,30
+Wurtzite,Quantum Well,SPL-APL,86
+Wurtzite,Sensor,SPL-APL,103
+Wurtzite,Solar Cell,SPL-APL,169
+Z-Scheme,Photocatalyst,SPL-APL,49
+Z-Scheme,Photocatalysts,SPL-APL,35
+Zb,Catalyst,SPL-APL,44
+Zeolitic,Adsorbent,SPL-APL,44
+Zeolitic,Catalyst,SPL-APL,128
+Zinc Blende,Catalyst,SPL-APL,119
+Zinc Blende,Optoelectronic Device,SPL-APL,36
+Zinc Blende,Quantum Well,SPL-APL,76
+Zinc Blende,Solar Cell,SPL-APL,67
+Δ,Coatings,SPL-APL,40
+α-,Catalyst,SPL-APL,32
+α-Phase,Electrode,SPL-APL,43
+β,Catalyst,SPL-APL,71
+β,Cell,SPL-APL,41
+β,Cells,SPL-APL,53
+β,Coatings,SPL-APL,179
+β,Diabetes,SPL-APL,42
+β,Electrode,SPL-APL,108
+β,Electrodes,SPL-APL,48
+β,Implants,SPL-APL,33
+β-Ni(OH)2,Electrode,SPL-APL,40
+β-Ni(OH)2,Electrodes,SPL-APL,30
+β-Phase,Coatings,SPL-APL,72
+β-Phase,Electrode,SPL-APL,49
+β-Phase,Electrodes,SPL-APL,31
+γ',Coatings,SPL-APL,45
+γ',Superalloy,SPL-APL,50
+γδ,T Cells,SPL-APL,44

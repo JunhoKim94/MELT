@@ -1,0 +1,4272 @@
+Subject,Object,Rel,Count
+110,Annealing,SPL-SMT,34
+1T,Annealed,SPL-SMT,46
+1T,Annealing,SPL-SMT,58
+1T,CVD,SPL-SMT,81
+1T,Chemical Vapour Deposition,SPL-SMT,31
+1T,Chemically Exfoliated,SPL-SMT,40
+1T,Coated,SPL-SMT,30
+1T,Doping,SPL-SMT,39
+1T,Exfoliate,SPL-SMT,44
+1T,Exfoliation,SPL-SMT,49
+1T,Lithiation,SPL-SMT,30
+2H,Annealed,SPL-SMT,63
+2H,Annealing,SPL-SMT,87
+2H,CVD,SPL-SMT,79
+2H,Chemically Exfoliated,SPL-SMT,31
+2H,Doping,SPL-SMT,33
+2H,Exfoliate,SPL-SMT,47
+2H,Exfoliation,SPL-SMT,50
+2H,Heating,SPL-SMT,37
+2H,Lithiation,SPL-SMT,31
+3,Annealing,SPL-SMT,62
+A-Phase,Annealing,SPL-SMT,31
+A-Phase,Heat Treatment,SPL-SMT,35
+A-Type,Fractional Crystallization,SPL-SMT,31
+A-Type,Melting,SPL-SMT,80
+AML,Chemotherapy,SPL-SMT,38
+ARC,Melting,SPL-SMT,32
+Abstract,Aging,SPL-SMT,30
+Abstract,Annealed,SPL-SMT,113
+Abstract,Annealing,SPL-SMT,200
+Abstract,Calcination,SPL-SMT,149
+Abstract,Calcined,SPL-SMT,65
+Abstract,Co-precipitation Method,SPL-SMT,32
+Abstract,Coated,SPL-SMT,172
+Abstract,Coatings,SPL-SMT,58
+Abstract,Cooling,SPL-SMT,52
+Abstract,Doping,SPL-SMT,110
+Abstract,Electrodeposition,SPL-SMT,82
+Abstract,Electrodeposits,SPL-SMT,37
+Abstract,Heat Treatment,SPL-SMT,94
+Abstract,Heated,SPL-SMT,39
+Abstract,Heating,SPL-SMT,94
+Abstract,Hydrolysis,SPL-SMT,37
+Abstract,Hydrothermal,SPL-SMT,63
+Abstract,Hydrothermal Condition,SPL-SMT,42
+Abstract,Hydrothermal Method,SPL-SMT,76
+Abstract,Hydrothermal Synthesis,SPL-SMT,43
+Abstract,Irradiated,SPL-SMT,40
+Abstract,Irradiation,SPL-SMT,80
+Abstract,Oxidation,SPL-SMT,181
+Abstract,Oxidize,SPL-SMT,57
+Abstract,Pulsed Laser Deposition,SPL-SMT,41
+Abstract,Pyrolysis,SPL-SMT,40
+Abstract,Reductions,SPL-SMT,84
+Abstract,Sintered,SPL-SMT,55
+Abstract,Sintering,SPL-SMT,81
+Abstract,Sol-Gel,SPL-SMT,134
+Abstract,Solid State Reaction,SPL-SMT,89
+Abstract,Thermal Decomposition,SPL-SMT,40
+Abstract,Thermal Treatment,SPL-SMT,58
+Acicular,Cooling,SPL-SMT,98
+Acicular,Weld,SPL-SMT,54
+Acicular,Welded,SPL-SMT,37
+Acicular,Welding,SPL-SMT,41
+Adakite,Melting,SPL-SMT,80
+Adakitic,Melting,SPL-SMT,74
+Adakitic,Partial Melting,SPL-SMT,35
+Alkaline,Fractional Crystallization,SPL-SMT,59
+Alkaline,Melting,SPL-SMT,104
+Alkaline,Partial Melting,SPL-SMT,49
+Alpha,Annealed,SPL-SMT,66
+Alpha,Annealing,SPL-SMT,58
+Alpha,Beta,SPL-SMT,69
+Alpha,Cooling,SPL-SMT,76
+Alpha,Deformations,SPL-SMT,52
+Alpha,Heat Treated,SPL-SMT,39
+Alpha,Heat Treatment,SPL-SMT,81
+Alpha,Heating,SPL-SMT,50
+Alpha,Sintered,SPL-SMT,45
+Alpha,Sintering,SPL-SMT,31
+Amphiboles,Melting,SPL-SMT,33
+Amphibolite,Cooling,SPL-SMT,116
+Amphibolite,Decompression,SPL-SMT,35
+Amphibolite,Exhumation,SPL-SMT,83
+Amphibolite,HP,SPL-SMT,46
+Amphibolite,Heating,SPL-SMT,38
+Amphibolite,Melting,SPL-SMT,171
+Amphibolite,Metamorphic,SPL-SMT,121
+Amphibolite,Metamorphism,SPL-SMT,193
+Amphibolite,Metamorphosed,SPL-SMT,75
+Amphibolite,Partial Melting,SPL-SMT,67
+Amphibolite,Recrystallized,SPL-SMT,31
+Amphibolite,Subduction,SPL-SMT,32
+Anatase,ALD,SPL-SMT,45
+Anatase,Acid Treated,SPL-SMT,38
+Anatase,Acid Treatment,SPL-SMT,52
+Anatase,Aged,SPL-SMT,100
+Anatase,Aging,SPL-SMT,135
+Anatase,Ald,SPL-SMT,190
+Anatase,Annealed,SPL-SMT,1287
+Anatase,Annealing,SPL-SMT,1523
+Anatase,Anodic Oxidation,SPL-SMT,111
+Anatase,Anodization,SPL-SMT,436
+Anatase,Anodized,SPL-SMT,269
+Anatase,Anodizing,SPL-SMT,120
+Anatase,As-Anodized,SPL-SMT,61
+Anatase,Atomic Layer Deposition,SPL-SMT,144
+Anatase,Autoclave,SPL-SMT,45
+Anatase,Ball Milling,SPL-SMT,40
+Anatase,Ball-Milled,SPL-SMT,34
+Anatase,CVD,SPL-SMT,105
+Anatase,Calcinated,SPL-SMT,144
+Anatase,Calcination,SPL-SMT,1990
+Anatase,Calcination Treatment,SPL-SMT,31
+Anatase,Calcined,SPL-SMT,1543
+Anatase,Calcining,SPL-SMT,123
+Anatase,Carbonization,SPL-SMT,67
+Anatase,Carbonize,SPL-SMT,41
+Anatase,Chemical Vapour Deposition,SPL-SMT,59
+Anatase,Co-Doping,SPL-SMT,55
+Anatase,Coated,SPL-SMT,979
+Anatase,Coatings,SPL-SMT,247
+Anatase,Combustion,SPL-SMT,30
+Anatase,Cooling,SPL-SMT,83
+Anatase,Dehydration,SPL-SMT,40
+Anatase,Densification,SPL-SMT,41
+Anatase,Dip Coated,SPL-SMT,37
+Anatase,Dip Coating,SPL-SMT,175
+Anatase,Dissolution,SPL-SMT,88
+Anatase,Doping,SPL-SMT,725
+Anatase,Dried,SPL-SMT,257
+Anatase,Drying,SPL-SMT,200
+Anatase,EPD,SPL-SMT,38
+Anatase,Electrochemical Anodization,SPL-SMT,99
+Anatase,Electrodeposition,SPL-SMT,77
+Anatase,Electrodeposits,SPL-SMT,49
+Anatase,Electrophoretic Deposition,SPL-SMT,41
+Anatase,Electrospinning,SPL-SMT,135
+Anatase,Electrospinning Technique,SPL-SMT,35
+Anatase,Electrospun,SPL-SMT,135
+Anatase,Etched,SPL-SMT,89
+Anatase,Etching,SPL-SMT,120
+Anatase,Facile Hydrothermal Method,SPL-SMT,35
+Anatase,Fired,SPL-SMT,67
+Anatase,Firing,SPL-SMT,72
+Anatase,Grinding,SPL-SMT,32
+Anatase,Ground,SPL-SMT,31
+Anatase,Heat Treated,SPL-SMT,282
+Anatase,Heat Treatment,SPL-SMT,679
+Anatase,Heated,SPL-SMT,356
+Anatase,Heating,SPL-SMT,609
+Anatase,High-Energy Ball Milling,SPL-SMT,30
+Anatase,Ht,SPL-SMT,34
+Anatase,Hydrogenated,SPL-SMT,81
+Anatase,Hydrogenation,SPL-SMT,97
+Anatase,Hydrolysis,SPL-SMT,498
+Anatase,Hydrothermal,SPL-SMT,274
+Anatase,Hydrothermal Condition,SPL-SMT,111
+Anatase,Hydrothermal Growth,SPL-SMT,37
+Anatase,Hydrothermal Method,SPL-SMT,349
+Anatase,Hydrothermal Process,SPL-SMT,211
+Anatase,Hydrothermal Reaction,SPL-SMT,193
+Anatase,Hydrothermal Route,SPL-SMT,55
+Anatase,Hydrothermal Synthesis,SPL-SMT,124
+Anatase,Hydrothermal Treatment,SPL-SMT,455
+Anatase,Hydrothermally Synthesized,SPL-SMT,63
+Anatase,Hydrothermally Treated,SPL-SMT,84
+Anatase,Hydroxylated,SPL-SMT,55
+Anatase,Implantations,SPL-SMT,46
+Anatase,Implanted,SPL-SMT,59
+Anatase,Impregnating,SPL-SMT,118
+Anatase,Impregnation Method,SPL-SMT,50
+Anatase,Ion Exchange,SPL-SMT,36
+Anatase,Irradiated,SPL-SMT,327
+Anatase,Irradiation,SPL-SMT,899
+Anatase,Laser Irradiation,SPL-SMT,49
+Anatase,Leaching,SPL-SMT,50
+Anatase,Light Irradiation,SPL-SMT,51
+Anatase,Liquid Phase Deposition,SPL-SMT,46
+Anatase,Lithiated,SPL-SMT,44
+Anatase,Lithiation,SPL-SMT,49
+Anatase,MAO,SPL-SMT,92
+Anatase,MOCVD,SPL-SMT,42
+Anatase,Magnetron Sputtering,SPL-SMT,48
+Anatase,Micro Arc Oxidation,SPL-SMT,85
+Anatase,Microwave Irradiation,SPL-SMT,50
+Anatase,Microwaves,SPL-SMT,32
+Anatase,Milled,SPL-SMT,65
+Anatase,Milling,SPL-SMT,92
+Anatase,Mineralization,SPL-SMT,30
+Anatase,Modification,SPL-SMT,32
+Anatase,Nitridation,SPL-SMT,32
+Anatase,Oxidation,SPL-SMT,376
+Anatase,Oxidize,SPL-SMT,211
+Anatase,PE-CVD,SPL-SMT,30
+Anatase,PEO,SPL-SMT,58
+Anatase,PLD,SPL-SMT,58
+Anatase,Peptization,SPL-SMT,32
+Anatase,Photo,SPL-SMT,42
+Anatase,Photo Decomposition,SPL-SMT,35
+Anatase,Photo Deposition,SPL-SMT,65
+Anatase,Photocatalysis,SPL-SMT,128
+Anatase,Photocatalytic Degradation,SPL-SMT,39
+Anatase,Photocatalytic H2,SPL-SMT,52
+Anatase,Photodegradation,SPL-SMT,169
+Anatase,Photoexcitation,SPL-SMT,42
+Anatase,Photolysis,SPL-SMT,59
+Anatase,Photooxidation,SPL-SMT,88
+Anatase,Photoreduction,SPL-SMT,62
+Anatase,Plasma,SPL-SMT,71
+Anatase,Plasma Electrolytic Oxidation,SPL-SMT,51
+Anatase,Plasma Treated,SPL-SMT,31
+Anatase,Plasma Treatment,SPL-SMT,32
+Anatase,Platinized,SPL-SMT,33
+Anatase,Polished,SPL-SMT,66
+Anatase,Post Annealed,SPL-SMT,47
+Anatase,Postannealing,SPL-SMT,74
+Anatase,Precipitation,SPL-SMT,45
+Anatase,Pretreated,SPL-SMT,30
+Anatase,Pulsed Laser Deposition,SPL-SMT,91
+Anatase,Pyrolysis,SPL-SMT,83
+Anatase,RF Magnetron Sputtering,SPL-SMT,32
+Anatase,Reductions,SPL-SMT,192
+Anatase,SOL,SPL-SMT,74
+Anatase,Self Assembled,SPL-SMT,34
+Anatase,Self Assembly,SPL-SMT,92
+Anatase,Sintered,SPL-SMT,285
+Anatase,Sintering,SPL-SMT,349
+Anatase,Soaking,SPL-SMT,43
+Anatase,Sol Gel,SPL-SMT,132
+Anatase,Sol-Gel,SPL-SMT,1756
+Anatase,Sol-Gel Dip Coating,SPL-SMT,60
+Anatase,Solid State Reaction,SPL-SMT,61
+Anatase,Solvothermal,SPL-SMT,80
+Anatase,Solvothermal Method,SPL-SMT,101
+Anatase,Solvothermal Process,SPL-SMT,46
+Anatase,Solvothermal Reaction,SPL-SMT,48
+Anatase,Solvothermal Treatment,SPL-SMT,53
+Anatase,Sonication,SPL-SMT,53
+Anatase,Spin Coater,SPL-SMT,65
+Anatase,Spin Coating,SPL-SMT,155
+Anatase,Spray Drying,SPL-SMT,32
+Anatase,Spray Pyrolysis,SPL-SMT,43
+Anatase,Sprayed,SPL-SMT,41
+Anatase,Spraying,SPL-SMT,32
+Anatase,Sputtered,SPL-SMT,124
+Anatase,Sputtering,SPL-SMT,218
+Anatase,Supercritical Drying,SPL-SMT,30
+Anatase,Surface Modification,SPL-SMT,110
+Anatase,Surface Treatment,SPL-SMT,42
+Anatase,TICL4,SPL-SMT,38
+Anatase,Thermal Annealing,SPL-SMT,137
+Anatase,Thermal Decomposition,SPL-SMT,63
+Anatase,Thermal Oxidation,SPL-SMT,32
+Anatase,Thermal Treated,SPL-SMT,131
+Anatase,Thermal Treatment,SPL-SMT,482
+Anatase,Treatments,SPL-SMT,31
+Anatase,UV,SPL-SMT,71
+Anatase,UV Irradiated,SPL-SMT,53
+Anatase,UV Irradiation,SPL-SMT,464
+Anatase,UV Light Irradiation,SPL-SMT,66
+Anatase,Ultrasonication,SPL-SMT,36
+Anatase,Washing,SPL-SMT,52
+Anatase,Wet Impregnation,SPL-SMT,30
+Andesitic,Melting,SPL-SMT,49
+Anhydrous,Dehydration,SPL-SMT,57
+Anhydrous,Heating,SPL-SMT,45
+Anhydrous,Melting,SPL-SMT,38
+Apatites,Annealing,SPL-SMT,36
+Apatites,Cooling,SPL-SMT,47
+Apatites,Heat Treatment,SPL-SMT,48
+Apatites,Heating,SPL-SMT,34
+Apatites,Sintered,SPL-SMT,60
+Apatites,Sintering,SPL-SMT,56
+Apatites,Soaking,SPL-SMT,36
+Apatites,Sol-Gel,SPL-SMT,59
+Apatites,Solid State Reaction,SPL-SMT,39
+Archean,Melting,SPL-SMT,41
+Aurivillius,Solid State Reaction,SPL-SMT,31
+Austenite,AM,SPL-SMT,33
+Austenite,Aged,SPL-SMT,437
+Austenite,Ageing,SPL-SMT,129
+Austenite,Aging,SPL-SMT,445
+Austenite,Aging Treatment,SPL-SMT,51
+Austenite,Air Cooled,SPL-SMT,66
+Austenite,Air Cooling,SPL-SMT,112
+Austenite,Alloyed,SPL-SMT,92
+Austenite,Alloying,SPL-SMT,317
+Austenite,Annealed,SPL-SMT,690
+Austenite,Annealing,SPL-SMT,877
+Austenite,As Quenched,SPL-SMT,131
+Austenite,As Rolled,SPL-SMT,40
+Austenite,As-Annealed,SPL-SMT,43
+Austenite,As-Hot-Rolled,SPL-SMT,30
+Austenite,As-Welded,SPL-SMT,54
+Austenite,Austempered,SPL-SMT,188
+Austenite,Austempering,SPL-SMT,201
+Austenite,Austenitisation,SPL-SMT,282
+Austenite,Austenitized,SPL-SMT,161
+Austenite,Austenitizing,SPL-SMT,243
+Austenite,Austenization,SPL-SMT,48
+Austenite,BM,SPL-SMT,56
+Austenite,CG,SPL-SMT,37
+Austenite,Carburization,SPL-SMT,42
+Austenite,Carburized,SPL-SMT,105
+Austenite,Carburizing,SPL-SMT,57
+Austenite,Cast,SPL-SMT,185
+Austenite,Casting,SPL-SMT,71
+Austenite,Charging,SPL-SMT,30
+Austenite,Claddings,SPL-SMT,30
+Austenite,Coated,SPL-SMT,73
+Austenite,Coiling,SPL-SMT,55
+Austenite,Cold Deformation,SPL-SMT,45
+Austenite,Cold Rolled,SPL-SMT,387
+Austenite,Cold Rolling,SPL-SMT,258
+Austenite,Cold Worked,SPL-SMT,90
+Austenite,Cold Working,SPL-SMT,31
+Austenite,Compressional,SPL-SMT,48
+Austenite,Compressive Deformation,SPL-SMT,35
+Austenite,Continuous,SPL-SMT,49
+Austenite,Continuous Cooling,SPL-SMT,81
+Austenite,Continuous Heating,SPL-SMT,46
+Austenite,Cooled,SPL-SMT,297
+Austenite,Cooling,SPL-SMT,1716
+Austenite,Creep,SPL-SMT,37
+Austenite,Cryogenic Treatment,SPL-SMT,33
+Austenite,Deep Cryogenic Treatment,SPL-SMT,39
+Austenite,Deformation Induced,SPL-SMT,64
+Austenite,Deformations,SPL-SMT,879
+Austenite,Deformed,SPL-SMT,305
+Austenite,Dp,SPL-SMT,40
+Austenite,Drx,SPL-SMT,51
+Austenite,Dynamic Recrystallization,SPL-SMT,73
+Austenite,Electro-Polished,SPL-SMT,36
+Austenite,Etched,SPL-SMT,307
+Austenite,Etching,SPL-SMT,167
+Austenite,Extraction Replica,SPL-SMT,45
+Austenite,FIB,SPL-SMT,35
+Austenite,FSW,SPL-SMT,38
+Austenite,FZ,SPL-SMT,36
+Austenite,Fatigue,SPL-SMT,43
+Austenite,Finish Rolling,SPL-SMT,32
+Austenite,Forged,SPL-SMT,44
+Austenite,Forging,SPL-SMT,57
+Austenite,Forming,SPL-SMT,44
+Austenite,Friction Stir Welding,SPL-SMT,34
+Austenite,Furnace,SPL-SMT,39
+Austenite,Grinding,SPL-SMT,38
+Austenite,HAZ,SPL-SMT,149
+Austenite,HPT,SPL-SMT,31
+Austenite,Hardened,SPL-SMT,111
+Austenite,Hardening,SPL-SMT,159
+Austenite,Heat,SPL-SMT,54
+Austenite,Heat Affected Zone,SPL-SMT,74
+Austenite,Heat Treated,SPL-SMT,414
+Austenite,Heat Treating,SPL-SMT,35
+Austenite,Heat Treatment,SPL-SMT,1163
+Austenite,Heat-Affected,SPL-SMT,207
+Austenite,Heated,SPL-SMT,228
+Austenite,Heating,SPL-SMT,1002
+Austenite,Holding,SPL-SMT,38
+Austenite,Homogenised,SPL-SMT,52
+Austenite,Homogenization,SPL-SMT,53
+Austenite,Hot Deformation,SPL-SMT,122
+Austenite,Hot Deformed,SPL-SMT,33
+Austenite,Hot Rolled,SPL-SMT,307
+Austenite,Hot Rolling,SPL-SMT,245
+Austenite,Hot Stamping,SPL-SMT,39
+Austenite,Hot Working,SPL-SMT,32
+Austenite,Hydrogen Charged,SPL-SMT,40
+Austenite,Hydrogen Charging,SPL-SMT,40
+Austenite,Induced,SPL-SMT,30
+Austenite,Intercritical,SPL-SMT,50
+Austenite,Intercritical Annealing,SPL-SMT,279
+Austenite,Intercritically Annealed,SPL-SMT,90
+Austenite,Irradiated,SPL-SMT,95
+Austenite,Irradiation,SPL-SMT,95
+Austenite,Isothermal Ageing,SPL-SMT,31
+Austenite,Isothermal Annealing,SPL-SMT,49
+Austenite,Isothermal Decomposition,SPL-SMT,34
+Austenite,Isothermal Heat Treatment,SPL-SMT,44
+Austenite,Isothermal Holding,SPL-SMT,137
+Austenite,Isothermal Transformation,SPL-SMT,98
+Austenite,Isothermal Treatment,SPL-SMT,58
+Austenite,Isothermally,SPL-SMT,69
+Austenite,Isothermally Transformed,SPL-SMT,31
+Austenite,Isothermally Treated,SPL-SMT,34
+Austenite,Laser,SPL-SMT,33
+Austenite,Laser Cladding,SPL-SMT,30
+Austenite,Laser Welding,SPL-SMT,36
+Austenite,Ma,SPL-SMT,65
+Austenite,Machined,SPL-SMT,52
+Austenite,Machining,SPL-SMT,42
+Austenite,Maraging,SPL-SMT,124
+Austenite,Mechanical Processing,SPL-SMT,31
+Austenite,Melt Spinning,SPL-SMT,30
+Austenite,Melt Spun,SPL-SMT,37
+Austenite,Melted,SPL-SMT,46
+Austenite,Melting,SPL-SMT,50
+Austenite,Microalloyed,SPL-SMT,123
+Austenite,Microalloying,SPL-SMT,56
+Austenite,Milled,SPL-SMT,42
+Austenite,Milling,SPL-SMT,41
+Austenite,Nital,SPL-SMT,89
+Austenite,Nitrided,SPL-SMT,128
+Austenite,Nitriding,SPL-SMT,122
+Austenite,Normalized,SPL-SMT,47
+Austenite,Oxidation,SPL-SMT,85
+Austenite,Oxidize,SPL-SMT,30
+Austenite,P,SPL-SMT,134
+Austenite,PWHT,SPL-SMT,49
+Austenite,Partitioned,SPL-SMT,59
+Austenite,Partitioning,SPL-SMT,128
+Austenite,Plasma Nitrided,SPL-SMT,33
+Austenite,Plasma Nitriding,SPL-SMT,59
+Austenite,Plastic Deformation,SPL-SMT,280
+Austenite,Polished,SPL-SMT,110
+Austenite,Polishing,SPL-SMT,32
+Austenite,Precipitation Hardening,SPL-SMT,56
+Austenite,Precipitation Strengthening,SPL-SMT,43
+Austenite,QT,SPL-SMT,30
+Austenite,Quench,SPL-SMT,92
+Austenite,Quenched,SPL-SMT,605
+Austenite,Quenching,SPL-SMT,699
+Austenite,Quenching and Partitioning,SPL-SMT,90
+Austenite,Rapid Cooling,SPL-SMT,54
+Austenite,Recrystallisation,SPL-SMT,109
+Austenite,Recrystallized,SPL-SMT,250
+Austenite,Reheated,SPL-SMT,73
+Austenite,Reheating,SPL-SMT,155
+Austenite,Rolled,SPL-SMT,149
+Austenite,Rolling,SPL-SMT,560
+Austenite,Selective Laser Melting,SPL-SMT,41
+Austenite,Sintered,SPL-SMT,74
+Austenite,Sintering,SPL-SMT,57
+Austenite,Slm,SPL-SMT,38
+Austenite,Slow Cooling,SPL-SMT,30
+Austenite,Slowly Cooled,SPL-SMT,30
+Austenite,Soaking,SPL-SMT,94
+Austenite,Solid Solution Strengthening,SPL-SMT,35
+Austenite,Solidification,SPL-SMT,147
+Austenite,Solution Annealed,SPL-SMT,105
+Austenite,Solution Annealing,SPL-SMT,42
+Austenite,Solution Treated,SPL-SMT,122
+Austenite,Solution Treatment,SPL-SMT,118
+Austenite,Spinodal Decomposition,SPL-SMT,38
+Austenite,Strain,SPL-SMT,44
+Austenite,Strain Hardening,SPL-SMT,100
+Austenite,Strain-Induced,SPL-SMT,73
+Austenite,Straining,SPL-SMT,74
+Austenite,Strengthening,SPL-SMT,75
+Austenite,Supercooled,SPL-SMT,58
+Austenite,TMCP,SPL-SMT,35
+Austenite,TRIP,SPL-SMT,46
+Austenite,TWIP,SPL-SMT,55
+Austenite,Tempered,SPL-SMT,736
+Austenite,Tempering,SPL-SMT,645
+Austenite,Tensile,SPL-SMT,41
+Austenite,Tensile Deformation,SPL-SMT,184
+Austenite,Tensile Strain,SPL-SMT,32
+Austenite,Thermal,SPL-SMT,77
+Austenite,Thermal Aging,SPL-SMT,47
+Austenite,Thermal Cycling,SPL-SMT,107
+Austenite,Thermal Treatment,SPL-SMT,61
+Austenite,Thermally Cycled,SPL-SMT,187
+Austenite,Thermally Induced,SPL-SMT,31
+Austenite,Thermo,SPL-SMT,78
+Austenite,Thermo-Mechanical Treatment,SPL-SMT,99
+Austenite,Thermomechanical Processing,SPL-SMT,117
+Austenite,Thermomechanically Processed,SPL-SMT,33
+Austenite,Transformation,SPL-SMT,93
+Austenite,Transformation-Induced Plasticity,SPL-SMT,33
+Austenite,Trip,SPL-SMT,242
+Austenite,Trip-Assisted,SPL-SMT,35
+Austenite,Water Quenched,SPL-SMT,123
+Austenite,Water Quenching,SPL-SMT,158
+Austenite,Weld,SPL-SMT,382
+Austenite,Welded,SPL-SMT,264
+Austenite,Welding,SPL-SMT,370
+Austenite,Weldment,SPL-SMT,75
+Austenite,Welds,SPL-SMT,160
+Austenite,Work Hardening,SPL-SMT,155
+Austenitic,Aged,SPL-SMT,185
+Austenitic,Ageing,SPL-SMT,61
+Austenitic,Aging,SPL-SMT,206
+Austenitic,Alloyed,SPL-SMT,54
+Austenitic,Alloying,SPL-SMT,194
+Austenitic,Annealed,SPL-SMT,363
+Austenitic,Annealing,SPL-SMT,457
+Austenitic,Austenitisation,SPL-SMT,31
+Austenitic,Carburization,SPL-SMT,41
+Austenitic,Carburized,SPL-SMT,59
+Austenitic,Carburizing,SPL-SMT,39
+Austenitic,Cast,SPL-SMT,141
+Austenitic,Casting,SPL-SMT,42
+Austenitic,Claddings,SPL-SMT,31
+Austenitic,Coated,SPL-SMT,126
+Austenitic,Cold Formed,SPL-SMT,42
+Austenitic,Cold Rolled,SPL-SMT,179
+Austenitic,Cold Rolling,SPL-SMT,144
+Austenitic,Cold Worked,SPL-SMT,190
+Austenitic,Cold Working,SPL-SMT,56
+Austenitic,Cooled,SPL-SMT,58
+Austenitic,Cooling,SPL-SMT,412
+Austenitic,Creep,SPL-SMT,69
+Austenitic,Cutting,SPL-SMT,38
+Austenitic,Deformations,SPL-SMT,396
+Austenitic,Deformed,SPL-SMT,157
+Austenitic,Drx,SPL-SMT,51
+Austenitic,Dsa,SPL-SMT,35
+Austenitic,Dynamic Recrystallization,SPL-SMT,63
+Austenitic,Dynamic Strain Aging,SPL-SMT,49
+Austenitic,Etched,SPL-SMT,91
+Austenitic,Etching,SPL-SMT,71
+Austenitic,Fatigue,SPL-SMT,55
+Austenitic,Forging,SPL-SMT,35
+Austenitic,Gas Tungsten Arc Welding,SPL-SMT,31
+Austenitic,Grinding,SPL-SMT,36
+Austenitic,HAZ,SPL-SMT,54
+Austenitic,HIP,SPL-SMT,37
+Austenitic,Hardened,SPL-SMT,37
+Austenitic,Hardening,SPL-SMT,109
+Austenitic,Heat Treated,SPL-SMT,130
+Austenitic,Heat Treatment,SPL-SMT,356
+Austenitic,Heat-Affected,SPL-SMT,117
+Austenitic,Heated,SPL-SMT,66
+Austenitic,Heating,SPL-SMT,321
+Austenitic,Hot Deformation,SPL-SMT,57
+Austenitic,Hot Isostatic Pressing,SPL-SMT,38
+Austenitic,Hot Rolled,SPL-SMT,82
+Austenitic,Hot Rolling,SPL-SMT,72
+Austenitic,Hot Working,SPL-SMT,30
+Austenitic,Hydrogen Charging,SPL-SMT,35
+Austenitic,Implantations,SPL-SMT,50
+Austenitic,Implanted,SPL-SMT,61
+Austenitic,Ion Implantation,SPL-SMT,31
+Austenitic,Irradiated,SPL-SMT,351
+Austenitic,Irradiation,SPL-SMT,407
+Austenitic,Joining,SPL-SMT,64
+Austenitic,Laser,SPL-SMT,43
+Austenitic,Laser Cladding,SPL-SMT,37
+Austenitic,Laser Welding,SPL-SMT,40
+Austenitic,Machined,SPL-SMT,53
+Austenitic,Machining,SPL-SMT,52
+Austenitic,Mechanical Alloying,SPL-SMT,36
+Austenitic,Melting,SPL-SMT,46
+Austenitic,Milling,SPL-SMT,35
+Austenitic,Neutron Irradiated,SPL-SMT,52
+Austenitic,Neutron Irradiation,SPL-SMT,106
+Austenitic,Nitrided,SPL-SMT,147
+Austenitic,Nitriding,SPL-SMT,162
+Austenitic,Oxidation,SPL-SMT,227
+Austenitic,Oxidize,SPL-SMT,79
+Austenitic,Plasma Nitrided,SPL-SMT,36
+Austenitic,Plasma Nitriding,SPL-SMT,98
+Austenitic,Plastic Deformation,SPL-SMT,218
+Austenitic,Polished,SPL-SMT,77
+Austenitic,Powder Metallurgy,SPL-SMT,30
+Austenitic,Precipitation Hardening,SPL-SMT,33
+Austenitic,Precipitation Strengthening,SPL-SMT,30
+Austenitic,Quenched,SPL-SMT,105
+Austenitic,Quenching,SPL-SMT,117
+Austenitic,Radiation,SPL-SMT,98
+Austenitic,Radiation Induced,SPL-SMT,35
+Austenitic,Recrystallisation,SPL-SMT,62
+Austenitic,Recrystallized,SPL-SMT,119
+Austenitic,Reversion Annealing,SPL-SMT,31
+Austenitic,Rolled,SPL-SMT,64
+Austenitic,Rolling,SPL-SMT,190
+Austenitic,Selective Laser Melting,SPL-SMT,32
+Austenitic,Sensitised,SPL-SMT,54
+Austenitic,Sensitization,SPL-SMT,63
+Austenitic,Shot Peening,SPL-SMT,30
+Austenitic,Sintered,SPL-SMT,81
+Austenitic,Sintering,SPL-SMT,69
+Austenitic,Solidification,SPL-SMT,81
+Austenitic,Solution Annealed,SPL-SMT,142
+Austenitic,Solution Treated,SPL-SMT,90
+Austenitic,Solution Treatment,SPL-SMT,58
+Austenitic,Sputtering,SPL-SMT,32
+Austenitic,Strain Hardening,SPL-SMT,77
+Austenitic,Strain-Induced,SPL-SMT,60
+Austenitic,Straining,SPL-SMT,34
+Austenitic,Strengthening,SPL-SMT,64
+Austenitic,Surface Modification,SPL-SMT,37
+Austenitic,Surface Treatment,SPL-SMT,55
+Austenitic,TWIP,SPL-SMT,47
+Austenitic,Tempered,SPL-SMT,110
+Austenitic,Tempering,SPL-SMT,85
+Austenitic,Tensile Deformation,SPL-SMT,73
+Austenitic,Thermal Aging,SPL-SMT,49
+Austenitic,Thermal Cycling,SPL-SMT,52
+Austenitic,Thermally Cycled,SPL-SMT,53
+Austenitic,Thermo,SPL-SMT,34
+Austenitic,Thermo-Mechanical Treatment,SPL-SMT,59
+Austenitic,Thermomechanical Processing,SPL-SMT,38
+Austenitic,Trip,SPL-SMT,65
+Austenitic,Unirradiated,SPL-SMT,40
+Austenitic,Water Quenching,SPL-SMT,38
+Austenitic,Weld,SPL-SMT,322
+Austenitic,Welded,SPL-SMT,244
+Austenitic,Welding,SPL-SMT,314
+Austenitic,Weldment,SPL-SMT,64
+Austenitic,Welds,SPL-SMT,168
+Austenitic,Work Hardening,SPL-SMT,92
+B s t,Doping,SPL-SMT,36
+B s t,Oxidation,SPL-SMT,42
+B1,Cooling,SPL-SMT,38
+B2,Aged,SPL-SMT,121
+B2,Ageing,SPL-SMT,37
+B2,Aging,SPL-SMT,122
+B2,Alloying,SPL-SMT,58
+B2,Annealed,SPL-SMT,214
+B2,Annealing,SPL-SMT,270
+B2,Cast,SPL-SMT,41
+B2,Cold Rolled,SPL-SMT,30
+B2,Cold Rolling,SPL-SMT,33
+B2,Cooled,SPL-SMT,31
+B2,Cooling,SPL-SMT,264
+B2,Deformations,SPL-SMT,109
+B2,Deformed,SPL-SMT,32
+B2,Heat Treated,SPL-SMT,77
+B2,Heat Treatment,SPL-SMT,156
+B2,Heated,SPL-SMT,36
+B2,Heating,SPL-SMT,222
+B2,Mechanical Alloying,SPL-SMT,46
+B2,Melt Spun,SPL-SMT,33
+B2,Milling,SPL-SMT,53
+B2,Oxidation,SPL-SMT,37
+B2,Plastic Deformation,SPL-SMT,43
+B2,Quenched,SPL-SMT,78
+B2,Quenching,SPL-SMT,63
+B2,Recrystallized,SPL-SMT,37
+B2,Rolling,SPL-SMT,45
+B2,Solidification,SPL-SMT,51
+B2,Solution Treated,SPL-SMT,34
+B2,Solution Treatment,SPL-SMT,30
+B2,Thermal Cycling,SPL-SMT,47
+B2,Water Quenched,SPL-SMT,30
+BCC,Aged,SPL-SMT,147
+BCC,Ageing,SPL-SMT,46
+BCC,Aging,SPL-SMT,161
+BCC,Alloying,SPL-SMT,230
+BCC,Amorphization,SPL-SMT,31
+BCC,Annealed,SPL-SMT,564
+BCC,Annealing,SPL-SMT,715
+BCC,Arc Melting,SPL-SMT,61
+BCC,As Milled,SPL-SMT,46
+BCC,As Quenched,SPL-SMT,37
+BCC,Ball Milling,SPL-SMT,81
+BCC,Ball-Milled,SPL-SMT,60
+BCC,Cast,SPL-SMT,75
+BCC,Coated,SPL-SMT,88
+BCC,Cold Rolled,SPL-SMT,96
+BCC,Cold Rolling,SPL-SMT,94
+BCC,Compressional,SPL-SMT,59
+BCC,Cooled,SPL-SMT,58
+BCC,Cooling,SPL-SMT,407
+BCC,Crystallization,SPL-SMT,34
+BCC,Deformations,SPL-SMT,259
+BCC,Deformed,SPL-SMT,90
+BCC,Electrodeposition,SPL-SMT,38
+BCC,Electrodeposits,SPL-SMT,49
+BCC,Etched,SPL-SMT,79
+BCC,Etching,SPL-SMT,46
+BCC,FIB,SPL-SMT,50
+BCC,HEA,SPL-SMT,30
+BCC,HPT,SPL-SMT,49
+BCC,Hardening,SPL-SMT,45
+BCC,Heat Treated,SPL-SMT,142
+BCC,Heat Treatment,SPL-SMT,308
+BCC,Heated,SPL-SMT,94
+BCC,Heating,SPL-SMT,416
+BCC,Homogenised,SPL-SMT,48
+BCC,Homogenization,SPL-SMT,42
+BCC,Hot Rolled,SPL-SMT,42
+BCC,Hydrogenated,SPL-SMT,38
+BCC,Hydrogenation,SPL-SMT,68
+BCC,Implanted,SPL-SMT,33
+BCC,Irradiated,SPL-SMT,162
+BCC,Irradiation,SPL-SMT,232
+BCC,Isothermal Annealing,SPL-SMT,33
+BCC,MD,SPL-SMT,33
+BCC,Ma,SPL-SMT,84
+BCC,Mechanical Alloyed,SPL-SMT,69
+BCC,Mechanical Alloying,SPL-SMT,186
+BCC,Melt Spun,SPL-SMT,36
+BCC,Melting,SPL-SMT,80
+BCC,Milled,SPL-SMT,137
+BCC,Milling,SPL-SMT,243
+BCC,Neutron Irradiation,SPL-SMT,45
+BCC,Oxidation,SPL-SMT,116
+BCC,Oxidize,SPL-SMT,68
+BCC,Plastic Deformation,SPL-SMT,144
+BCC,Polished,SPL-SMT,53
+BCC,Quenched,SPL-SMT,137
+BCC,Quenching,SPL-SMT,130
+BCC,Radiation,SPL-SMT,57
+BCC,Rapid Solidification,SPL-SMT,31
+BCC,Recrystallized,SPL-SMT,97
+BCC,Reductions,SPL-SMT,47
+BCC,Rolled,SPL-SMT,59
+BCC,Rolling,SPL-SMT,184
+BCC,SLM,SPL-SMT,32
+BCC,SPS,SPL-SMT,53
+BCC,Self Assembly,SPL-SMT,39
+BCC,Severe Plastic Deformation,SPL-SMT,34
+BCC,Sintered,SPL-SMT,94
+BCC,Sintering,SPL-SMT,80
+BCC,Solid Solution Strengthening,SPL-SMT,52
+BCC,Solidification,SPL-SMT,100
+BCC,Solution Treated,SPL-SMT,39
+BCC,Solution Treatment,SPL-SMT,32
+BCC,Spark Plasma Sintering,SPL-SMT,57
+BCC,Spinodal Decomposition,SPL-SMT,50
+BCC,Sputtered,SPL-SMT,50
+BCC,Sputtering,SPL-SMT,59
+BCC,Strain Hardening,SPL-SMT,35
+BCC,Strengthening,SPL-SMT,37
+BCC,Tempered,SPL-SMT,55
+BCC,Tempering,SPL-SMT,54
+BCC,Tensile Deformation,SPL-SMT,82
+BCC,Thermal Treatment,SPL-SMT,44
+BCC,Thermomechanical Processing,SPL-SMT,34
+BCC,Vacuum Arc Melting,SPL-SMT,31
+BCC,Water Quenched,SPL-SMT,38
+BCC,Water Quenching,SPL-SMT,31
+BCC,Weld,SPL-SMT,49
+BCC,Welding,SPL-SMT,42
+BCC,Work Hardening,SPL-SMT,42
+BSTRAct,Annealed,SPL-SMT,32
+BSTRAct,Annealing,SPL-SMT,68
+BSTRAct,Coated,SPL-SMT,54
+BSTRAct,Doping,SPL-SMT,75
+BSTRAct,Heating,SPL-SMT,30
+BSTRAct,Irradiation,SPL-SMT,31
+BSTRAct,Oxidation,SPL-SMT,67
+BSTRAct,Sol-Gel,SPL-SMT,37
+Bainite,Alloying,SPL-SMT,31
+Bainite,Austempering,SPL-SMT,38
+Bainite,Cooled,SPL-SMT,36
+Bainite,Cooling,SPL-SMT,176
+Bainite,Deformations,SPL-SMT,42
+Bainite,Heat Treatment,SPL-SMT,104
+Bainite,Heating,SPL-SMT,45
+Bainite,Isothermal Holding,SPL-SMT,35
+Bainite,Quenched,SPL-SMT,51
+Bainite,Quenching,SPL-SMT,89
+Bainite,Rolling,SPL-SMT,33
+Bainite,Tempered,SPL-SMT,71
+Bainite,Tempering,SPL-SMT,47
+Bainite,Weld,SPL-SMT,37
+Bainite,Welding,SPL-SMT,45
+Bainitic,Annealing,SPL-SMT,32
+Bainitic,Austempered,SPL-SMT,81
+Bainitic,Austempering,SPL-SMT,100
+Bainitic,Austenitisation,SPL-SMT,40
+Bainitic,Austenitizing,SPL-SMT,33
+Bainitic,Cooled,SPL-SMT,50
+Bainitic,Cooling,SPL-SMT,217
+Bainitic,Deformations,SPL-SMT,54
+Bainitic,Heat Treated,SPL-SMT,44
+Bainitic,Heat Treatment,SPL-SMT,164
+Bainitic,Heating,SPL-SMT,43
+Bainitic,Hot Rolled,SPL-SMT,37
+Bainitic,Intercritical Annealing,SPL-SMT,32
+Bainitic,Isothermal Holding,SPL-SMT,43
+Bainitic,Isothermal Transformation,SPL-SMT,45
+Bainitic,Isothermal Treatment,SPL-SMT,33
+Bainitic,Isothermally,SPL-SMT,30
+Bainitic,Quenched,SPL-SMT,76
+Bainitic,Quenching,SPL-SMT,87
+Bainitic,Rolling,SPL-SMT,51
+Bainitic,Tempered,SPL-SMT,137
+Bainitic,Tempering,SPL-SMT,104
+Bainitic,Weld,SPL-SMT,42
+Bainitic,Welding,SPL-SMT,30
+Basaltic,Cooling,SPL-SMT,48
+Basaltic,Fractional Crystallization,SPL-SMT,91
+Basaltic,Melting,SPL-SMT,244
+Basaltic,Partial Melting,SPL-SMT,89
+Basaltic,Subducted,SPL-SMT,30
+Basaltic,Weathering,SPL-SMT,41
+Beta,Annealed,SPL-SMT,37
+Beta,Annealing,SPL-SMT,50
+Beta,Cooling,SPL-SMT,50
+Beta,Deformations,SPL-SMT,36
+Beta,Heat Treatment,SPL-SMT,54
+Beta,Heating,SPL-SMT,36
+Biotites,Cooling,SPL-SMT,30
+Bituminous,Combustion,SPL-SMT,51
+Bituminous,Pyrolysis,SPL-SMT,40
+Bixbyite,Annealing,SPL-SMT,38
+Blueschists,Exhumation,SPL-SMT,50
+Blueschists,Metamorphic,SPL-SMT,30
+Blueschists,Metamorphism,SPL-SMT,47
+Body Centred Cubic,Aging,SPL-SMT,44
+Body Centred Cubic,Alloying,SPL-SMT,98
+Body Centred Cubic,Annealed,SPL-SMT,83
+Body Centred Cubic,Annealing,SPL-SMT,155
+Body Centred Cubic,Cooling,SPL-SMT,89
+Body Centred Cubic,Deformations,SPL-SMT,48
+Body Centred Cubic,Heat Treatment,SPL-SMT,78
+Body Centred Cubic,Heating,SPL-SMT,81
+Body Centred Cubic,Irradiation,SPL-SMT,58
+Body Centred Cubic,Mechanical Alloying,SPL-SMT,36
+Body Centred Cubic,Milling,SPL-SMT,31
+Body Centred Cubic,Oxidation,SPL-SMT,34
+Body Centred Cubic,Plastic Deformation,SPL-SMT,62
+Body Centred Cubic,Quenched,SPL-SMT,31
+Boundary,Condition,SPL-SMT,52
+Boundary,Periodic,SPL-SMT,94
+Breast,Chemotherapy,SPL-SMT,75
+Breast,Coated,SPL-SMT,46
+Breast,Irradiated,SPL-SMT,33
+Breast,Irradiation,SPL-SMT,60
+Breast,Radiation,SPL-SMT,34
+Breast,Radiotherapy,SPL-SMT,51
+Breast,siRNA,SPL-SMT,31
+Brookite,Annealed,SPL-SMT,78
+Brookite,Annealing,SPL-SMT,72
+Brookite,Calcination,SPL-SMT,118
+Brookite,Calcined,SPL-SMT,113
+Brookite,Coated,SPL-SMT,50
+Brookite,Doping,SPL-SMT,36
+Brookite,Dried,SPL-SMT,37
+Brookite,Heat Treatment,SPL-SMT,41
+Brookite,Heating,SPL-SMT,39
+Brookite,Hydrolysis,SPL-SMT,36
+Brookite,Hydrothermal,SPL-SMT,41
+Brookite,Hydrothermal Method,SPL-SMT,34
+Brookite,Hydrothermal Treatment,SPL-SMT,61
+Brookite,Irradiation,SPL-SMT,77
+Brookite,Sol-Gel,SPL-SMT,107
+Brookite,Thermal Treatment,SPL-SMT,34
+Brownmillerite,Heating,SPL-SMT,32
+Brownmillerite,Reductions,SPL-SMT,31
+C14,Annealing,SPL-SMT,33
+C2/C,Cooling,SPL-SMT,40
+C2/C,Heating,SPL-SMT,58
+C2/C,Hydrothermal,SPL-SMT,55
+C2/C,Hydrothermal Condition,SPL-SMT,43
+C2/C,Hydrothermal Reaction,SPL-SMT,35
+C2/C,Solid State Reaction,SPL-SMT,59
+C2/M,Heating,SPL-SMT,32
+C2/M,Solid State Reaction,SPL-SMT,42
+CI Chondrite,Melting,SPL-SMT,35
+COLH,Cooling,SPL-SMT,81
+COLH,Heating,SPL-SMT,61
+CPX,Melting,SPL-SMT,32
+Calc,Fractional Crystallization,SPL-SMT,53
+Calc,Melting,SPL-SMT,110
+Calc,Partial Melting,SPL-SMT,47
+Calcite,Carbonation,SPL-SMT,37
+Cassie,Coated,SPL-SMT,64
+Chalcopyrite,Annealed,SPL-SMT,97
+Chalcopyrite,Annealing,SPL-SMT,164
+Chalcopyrite,Coated,SPL-SMT,51
+Chalcopyrite,Electrodeposition,SPL-SMT,50
+Chalcopyrite,Heated,SPL-SMT,31
+Chalcopyrite,Heating,SPL-SMT,43
+Chalcopyrite,Oxidation,SPL-SMT,38
+Chalcopyrite,Selenization,SPL-SMT,88
+Chalcopyrite,Selenized,SPL-SMT,32
+Chalcopyrite,Sputtering,SPL-SMT,41
+Chalcopyrite,Sulfurization,SPL-SMT,44
+Chondrite,Alteration,SPL-SMT,67
+Chondrite,Aqueous Alteration,SPL-SMT,55
+Chondrite,Cooling,SPL-SMT,80
+Chondrite,Fractional Crystallization,SPL-SMT,66
+Chondrite,Heated,SPL-SMT,38
+Chondrite,Heating,SPL-SMT,62
+Chondrite,Impacts,SPL-SMT,40
+Chondrite,Melting,SPL-SMT,260
+Chondrite,Metamorphic,SPL-SMT,54
+Chondrite,Metamorphism,SPL-SMT,68
+Chondrite,Metamorphosed,SPL-SMT,45
+Chondrite,Metasomatism,SPL-SMT,34
+Chondrite,Oxidation,SPL-SMT,36
+Chondrite,Oxidize,SPL-SMT,44
+Chondrite,Partial Melting,SPL-SMT,65
+Chondrite,Polished,SPL-SMT,43
+Chondrite,Thermal Metamorphism,SPL-SMT,52
+Chondrite,Weathering,SPL-SMT,37
+Chondrite Normalized,Melting,SPL-SMT,46
+Chondritic,Cooling,SPL-SMT,34
+Chondritic,Heating,SPL-SMT,44
+Chondritic,Melting,SPL-SMT,108
+Clinker,Hydration,SPL-SMT,33
+Clinopyroxenes,Alteration,SPL-SMT,31
+Clinopyroxenes,Archean,SPL-SMT,34
+Clinopyroxenes,Batch Melting,SPL-SMT,35
+Clinopyroxenes,Cooling,SPL-SMT,91
+Clinopyroxenes,Fractional Crystallization,SPL-SMT,71
+Clinopyroxenes,Fractional Melting,SPL-SMT,40
+Clinopyroxenes,Heating,SPL-SMT,38
+Clinopyroxenes,Melting,SPL-SMT,347
+Clinopyroxenes,Metamorphic,SPL-SMT,52
+Clinopyroxenes,Metamorphism,SPL-SMT,44
+Clinopyroxenes,Metasomatic,SPL-SMT,36
+Clinopyroxenes,Metasomatism,SPL-SMT,81
+Clinopyroxenes,Metasomatized,SPL-SMT,57
+Clinopyroxenes,Partial Melting,SPL-SMT,85
+Clinopyroxenes,Polished,SPL-SMT,44
+Clinopyroxenes,Quenched,SPL-SMT,32
+Clinopyroxenes,Recrystallized,SPL-SMT,47
+Clinopyroxenes,Serpentinized,SPL-SMT,34
+Clinopyroxenes,Subduction,SPL-SMT,32
+Colon,Irradiation,SPL-SMT,30
+Cooling,Annealed,SPL-SMT,40
+Cooling,Annealing,SPL-SMT,57
+Cooling,Cooled,SPL-SMT,110
+Cooling,Heated,SPL-SMT,35
+Cooling,Heating,SPL-SMT,245
+Cooling,Non Isothermal Crystallization,SPL-SMT,32
+Cooling,Quenched,SPL-SMT,47
+Corundum,Oxidation,SPL-SMT,32
+Cr,Cooling,SPL-SMT,94
+Cr,Heating,SPL-SMT,67
+Crohn,IBD,SPL-SMT,32
+Crystal,Cooling,SPL-SMT,39
+Crystal,Heating,SPL-SMT,31
+Crystalline,Cooling,SPL-SMT,34
+Cube,Annealed,SPL-SMT,34
+Cube,Annealing,SPL-SMT,45
+Cube,Rolling,SPL-SMT,44
+Cubic,3D Printed,SPL-SMT,58
+Cubic,3D Printing,SPL-SMT,34
+Cubic,AM,SPL-SMT,30
+Cubic,Ablation,SPL-SMT,43
+Cubic,Aged,SPL-SMT,224
+Cubic,Ageing,SPL-SMT,90
+Cubic,Aging,SPL-SMT,331
+Cubic,Ald,SPL-SMT,123
+Cubic,Alloying,SPL-SMT,175
+Cubic,Ammonolysis,SPL-SMT,31
+Cubic,Amorphization,SPL-SMT,48
+Cubic,Anneal,SPL-SMT,72
+Cubic,Annealed,SPL-SMT,1510
+Cubic,Annealing,SPL-SMT,2044
+Cubic,Arc Melting,SPL-SMT,53
+Cubic,Atomic Layer Deposition,SPL-SMT,91
+Cubic,Autoclave,SPL-SMT,45
+Cubic,Ball Milling,SPL-SMT,154
+Cubic,Ball-Milled,SPL-SMT,99
+Cubic,CBD,SPL-SMT,92
+Cubic,CVD,SPL-SMT,221
+Cubic,Calcinated,SPL-SMT,58
+Cubic,Calcination,SPL-SMT,823
+Cubic,Calcined,SPL-SMT,801
+Cubic,Calcining,SPL-SMT,95
+Cubic,Carbonization,SPL-SMT,72
+Cubic,Cast,SPL-SMT,64
+Cubic,Chemical Bath Deposition,SPL-SMT,167
+Cubic,Chemical Co-Precipitation Method,SPL-SMT,40
+Cubic,Chemical Etching,SPL-SMT,33
+Cubic,Chemical Vapour Deposition,SPL-SMT,143
+Cubic,Co-Doping,SPL-SMT,46
+Cubic,Co-Precipitation,SPL-SMT,70
+Cubic,Co-precipitation Method,SPL-SMT,96
+Cubic,Coated,SPL-SMT,762
+Cubic,Coatings,SPL-SMT,176
+Cubic,Combustion,SPL-SMT,51
+Cubic,Combustion Method,SPL-SMT,34
+Cubic,Compaction,SPL-SMT,33
+Cubic,Compressional,SPL-SMT,70
+Cubic,Cooled,SPL-SMT,196
+Cubic,Cooling,SPL-SMT,1079
+Cubic,Coprecipitation,SPL-SMT,42
+Cubic,Coprecipitation Method,SPL-SMT,43
+Cubic,Crushed,SPL-SMT,42
+Cubic,Crystallization,SPL-SMT,60
+Cubic,Cured,SPL-SMT,33
+Cubic,Curing,SPL-SMT,34
+Cubic,Cutting,SPL-SMT,53
+Cubic,Decomposition,SPL-SMT,45
+Cubic,Deformations,SPL-SMT,113
+Cubic,Deformed,SPL-SMT,33
+Cubic,Dehydrated,SPL-SMT,72
+Cubic,Dehydration,SPL-SMT,101
+Cubic,Dehydrogenation,SPL-SMT,35
+Cubic,Delithiation,SPL-SMT,37
+Cubic,Densification,SPL-SMT,153
+Cubic,Densified,SPL-SMT,49
+Cubic,Dip Coating,SPL-SMT,73
+Cubic,Discharge,SPL-SMT,34
+Cubic,Dissolution,SPL-SMT,97
+Cubic,Doping,SPL-SMT,801
+Cubic,Dried,SPL-SMT,177
+Cubic,Drying,SPL-SMT,162
+Cubic,Electrochemical,SPL-SMT,38
+Cubic,Electrochemical Cycling,SPL-SMT,33
+Cubic,Electrochemical Deposition,SPL-SMT,40
+Cubic,Electrodeposition,SPL-SMT,152
+Cubic,Electrodeposits,SPL-SMT,124
+Cubic,Electrolysis,SPL-SMT,39
+Cubic,Electrospinning,SPL-SMT,46
+Cubic,Electrospun,SPL-SMT,43
+Cubic,Etched,SPL-SMT,183
+Cubic,Etching,SPL-SMT,244
+Cubic,Evaporation,SPL-SMT,70
+Cubic,Extruded,SPL-SMT,34
+Cubic,Extrusion,SPL-SMT,40
+Cubic,FIB,SPL-SMT,37
+Cubic,Facile Hydrothermal Method,SPL-SMT,32
+Cubic,Fired,SPL-SMT,74
+Cubic,Firing,SPL-SMT,65
+Cubic,Freeze-Dried,SPL-SMT,30
+Cubic,Furnace,SPL-SMT,66
+Cubic,Fused,SPL-SMT,38
+Cubic,Grinding,SPL-SMT,140
+Cubic,Ground,SPL-SMT,57
+Cubic,Hardened,SPL-SMT,59
+Cubic,Heat Treated,SPL-SMT,359
+Cubic,Heat Treatment,SPL-SMT,721
+Cubic,Heated,SPL-SMT,596
+Cubic,Heating,SPL-SMT,1803
+Cubic,Heating/Cooling,SPL-SMT,41
+Cubic,High-Energy Ball Milling,SPL-SMT,63
+Cubic,Homogenised,SPL-SMT,33
+Cubic,Homogenization,SPL-SMT,40
+Cubic,Hot Injection Method,SPL-SMT,31
+Cubic,Hot Pressed,SPL-SMT,70
+Cubic,Hot-Pressing,SPL-SMT,72
+Cubic,Hpht,SPL-SMT,30
+Cubic,Ht,SPL-SMT,40
+Cubic,Hydrated,SPL-SMT,58
+Cubic,Hydration,SPL-SMT,87
+Cubic,Hydrogenated,SPL-SMT,66
+Cubic,Hydrogenation,SPL-SMT,94
+Cubic,Hydrolysis,SPL-SMT,143
+Cubic,Hydrothermal,SPL-SMT,211
+Cubic,Hydrothermal Condition,SPL-SMT,101
+Cubic,Hydrothermal Method,SPL-SMT,276
+Cubic,Hydrothermal Process,SPL-SMT,98
+Cubic,Hydrothermal Reaction,SPL-SMT,101
+Cubic,Hydrothermal Route,SPL-SMT,54
+Cubic,Hydrothermal Synthesis,SPL-SMT,141
+Cubic,Hydrothermal Treatment,SPL-SMT,139
+Cubic,Hydrothermally Synthesized,SPL-SMT,36
+Cubic,Implantations,SPL-SMT,64
+Cubic,Implanted,SPL-SMT,83
+Cubic,Impregnating,SPL-SMT,48
+Cubic,Ion Bombardment,SPL-SMT,47
+Cubic,Ion Exchange,SPL-SMT,51
+Cubic,Ion Implantation,SPL-SMT,30
+Cubic,Ion Irradiation,SPL-SMT,48
+Cubic,Irradiated,SPL-SMT,283
+Cubic,Irradiation,SPL-SMT,463
+Cubic,Laser,SPL-SMT,34
+Cubic,Laser Ablation,SPL-SMT,51
+Cubic,Laser Irradiation,SPL-SMT,51
+Cubic,Leaching,SPL-SMT,41
+Cubic,Lithiated,SPL-SMT,62
+Cubic,Lithiation,SPL-SMT,73
+Cubic,MD,SPL-SMT,38
+Cubic,MOCVD,SPL-SMT,58
+Cubic,Ma,SPL-SMT,35
+Cubic,Machined,SPL-SMT,61
+Cubic,Machining,SPL-SMT,67
+Cubic,Magnetron Sputtering,SPL-SMT,77
+Cubic,Mbe,SPL-SMT,56
+Cubic,Mechanical Alloying,SPL-SMT,57
+Cubic,Melt Spun,SPL-SMT,53
+Cubic,Melting,SPL-SMT,124
+Cubic,Microemulsion,SPL-SMT,33
+Cubic,Microwave Heating,SPL-SMT,32
+Cubic,Microwave Irradiation,SPL-SMT,51
+Cubic,Microwaves,SPL-SMT,32
+Cubic,Milled,SPL-SMT,139
+Cubic,Milling,SPL-SMT,232
+Cubic,Molecular Beam Epitaxy,SPL-SMT,97
+Cubic,Nitridation,SPL-SMT,98
+Cubic,Nitrided,SPL-SMT,50
+Cubic,Nitriding,SPL-SMT,34
+Cubic,Oxidation,SPL-SMT,589
+Cubic,Oxidize,SPL-SMT,275
+Cubic,PLD,SPL-SMT,128
+Cubic,PVD,SPL-SMT,76
+Cubic,Physical Vapour Deposition,SPL-SMT,60
+Cubic,Plasma,SPL-SMT,64
+Cubic,Plasma Spray,SPL-SMT,34
+Cubic,Plastic Deformation,SPL-SMT,64
+Cubic,Polished,SPL-SMT,245
+Cubic,Polishing,SPL-SMT,62
+Cubic,Post Annealed,SPL-SMT,36
+Cubic,Postannealing,SPL-SMT,80
+Cubic,Precipitation,SPL-SMT,45
+Cubic,Precipitation Method,SPL-SMT,46
+Cubic,Pressed,SPL-SMT,68
+Cubic,Pressing,SPL-SMT,41
+Cubic,Printed,SPL-SMT,38
+Cubic,Pulsed Laser Ablation,SPL-SMT,32
+Cubic,Pulsed Laser Deposition,SPL-SMT,219
+Cubic,Pyrolysis,SPL-SMT,123
+Cubic,Quenched,SPL-SMT,241
+Cubic,Quenching,SPL-SMT,181
+Cubic,RF Magnetron Sputtering,SPL-SMT,62
+Cubic,Radiation,SPL-SMT,43
+Cubic,Radio Frequency (RF) Magnetron Sputtering,SPL-SMT,45
+Cubic,Re-Oxidation,SPL-SMT,36
+Cubic,Reactive Magnetron Sputtering,SPL-SMT,50
+Cubic,Recrystallisation,SPL-SMT,39
+Cubic,Recrystallized,SPL-SMT,56
+Cubic,Reduced,SPL-SMT,43
+Cubic,Reductions,SPL-SMT,399
+Cubic,Refluxing,SPL-SMT,36
+Cubic,Rolling,SPL-SMT,72
+Cubic,SLM,SPL-SMT,42
+Cubic,SPS,SPL-SMT,116
+Cubic,Self,SPL-SMT,45
+Cubic,Self Assembled,SPL-SMT,47
+Cubic,Self Assembly,SPL-SMT,218
+Cubic,Silar,SPL-SMT,36
+Cubic,Sintered,SPL-SMT,1118
+Cubic,Sintering,SPL-SMT,900
+Cubic,Slow Cooling,SPL-SMT,47
+Cubic,Slowly Cooled,SPL-SMT,39
+Cubic,Sol Gel,SPL-SMT,53
+Cubic,Sol-Gel,SPL-SMT,633
+Cubic,Solid State,SPL-SMT,30
+Cubic,Solid State Method,SPL-SMT,58
+Cubic,Solid State Reaction,SPL-SMT,392
+Cubic,Solid State Reaction Method,SPL-SMT,182
+Cubic,Solid State Reaction Route,SPL-SMT,33
+Cubic,Solidification,SPL-SMT,54
+Cubic,Solution Processed,SPL-SMT,36
+Cubic,Solvothermal,SPL-SMT,65
+Cubic,Solvothermal Method,SPL-SMT,90
+Cubic,Solvothermal Process,SPL-SMT,37
+Cubic,Solvothermal Reaction,SPL-SMT,34
+Cubic,Solvothermal Synthesis,SPL-SMT,36
+Cubic,Sonication,SPL-SMT,69
+Cubic,Spark Plasma Sintering,SPL-SMT,99
+Cubic,Spin Coater,SPL-SMT,80
+Cubic,Spin Coating,SPL-SMT,140
+Cubic,Spinodal Decomposition,SPL-SMT,53
+Cubic,Spray Pyrolysis,SPL-SMT,142
+Cubic,Sprayed,SPL-SMT,44
+Cubic,Sputter,SPL-SMT,33
+Cubic,Sputtered,SPL-SMT,143
+Cubic,Sputtering,SPL-SMT,180
+Cubic,Supercooled,SPL-SMT,34
+Cubic,Surface Modification,SPL-SMT,69
+Cubic,Surface Treatment,SPL-SMT,30
+Cubic,Thermal,SPL-SMT,37
+Cubic,Thermal Annealing,SPL-SMT,169
+Cubic,Thermal Cycling,SPL-SMT,50
+Cubic,Thermal Decomposition,SPL-SMT,245
+Cubic,Thermal Evaporation,SPL-SMT,39
+Cubic,Thermal Treated,SPL-SMT,71
+Cubic,Thermal Treatment,SPL-SMT,372
+Cubic,Thermally Anneal,SPL-SMT,31
+Cubic,Thermally Cycled,SPL-SMT,33
+Cubic,Thermally Etched,SPL-SMT,38
+Cubic,Thermolysis,SPL-SMT,51
+Cubic,UV Irradiation,SPL-SMT,79
+Cubic,Ultrasonication,SPL-SMT,33
+Cubic,VLS,SPL-SMT,33
+Cubic,Vacuum Annealing,SPL-SMT,33
+Cubic,Washing,SPL-SMT,33
+Cubic Fluorite,Annealing,SPL-SMT,32
+Cubic Fluorite,Calcination,SPL-SMT,31
+Cubic Fluorite,Calcined,SPL-SMT,43
+Cubic Fluorite,Sintered,SPL-SMT,67
+Cubic Fluorite,Sintering,SPL-SMT,48
+Cubic Perovskites,Annealed,SPL-SMT,62
+Cubic Perovskites,Annealing,SPL-SMT,84
+Cubic Perovskites,Calcination,SPL-SMT,34
+Cubic Perovskites,Calcined,SPL-SMT,37
+Cubic Perovskites,Cooling,SPL-SMT,67
+Cubic Perovskites,Doping,SPL-SMT,102
+Cubic Perovskites,Heated,SPL-SMT,30
+Cubic Perovskites,Heating,SPL-SMT,76
+Cubic Perovskites,Oxidation,SPL-SMT,32
+Cubic Perovskites,Reductions,SPL-SMT,35
+Cubic Perovskites,Sintered,SPL-SMT,121
+Cubic Perovskites,Sintering,SPL-SMT,80
+Cubic Perovskites,Sol-Gel,SPL-SMT,46
+Cubic Perovskites,Solid State Reaction,SPL-SMT,60
+Cubic Perovskites,Solid State Reaction Method,SPL-SMT,54
+Cubic Spinel,Annealed,SPL-SMT,93
+Cubic Spinel,Annealing,SPL-SMT,84
+Cubic Spinel,Calcination,SPL-SMT,58
+Cubic Spinel,Calcined,SPL-SMT,54
+Cubic Spinel,Co-precipitation Method,SPL-SMT,30
+Cubic Spinel,Coated,SPL-SMT,38
+Cubic Spinel,Doping,SPL-SMT,61
+Cubic Spinel,Heat Treatment,SPL-SMT,34
+Cubic Spinel,Heating,SPL-SMT,45
+Cubic Spinel,Sintered,SPL-SMT,75
+Cubic Spinel,Sintering,SPL-SMT,59
+Cubic Spinel,Sol-Gel,SPL-SMT,81
+Cubic Spinel,Solid State Reaction,SPL-SMT,32
+Cuboidal,Aged,SPL-SMT,50
+Cuboidal,Aging,SPL-SMT,49
+Cuboidal,Annealing,SPL-SMT,35
+Cuboidal,Cooling,SPL-SMT,47
+Cuboidal,Heat Treated,SPL-SMT,30
+Cuboidal,Heat Treatment,SPL-SMT,63
+D03,Annealed,SPL-SMT,41
+D03,Annealing,SPL-SMT,40
+D03,Cooling,SPL-SMT,30
+D03,Heating,SPL-SMT,33
+Decagonal,Annealing,SPL-SMT,31
+Delafossite,Annealing,SPL-SMT,35
+Delafossite,Doping,SPL-SMT,33
+Delafossite,Solid State Reaction,SPL-SMT,31
+Diamonds,Heating,SPL-SMT,34
+Dihydrate,Dehydration,SPL-SMT,37
+Dihydrate,Heating,SPL-SMT,31
+Double Perovskite,Annealed,SPL-SMT,32
+Double Perovskite,Annealing,SPL-SMT,50
+Double Perovskite,Cooling,SPL-SMT,40
+Double Perovskite,Doping,SPL-SMT,136
+Double Perovskite,Heating,SPL-SMT,46
+Double Perovskite,Pulsed Laser Deposition,SPL-SMT,38
+Double Perovskite,Sintered,SPL-SMT,45
+Double Perovskite,Sintering,SPL-SMT,48
+Double Perovskite,Sol-Gel,SPL-SMT,46
+Double Perovskite,Solid State Reaction,SPL-SMT,90
+Double Perovskite,Solid State Reaction Method,SPL-SMT,47
+Dp,Intercritical Annealing,SPL-SMT,47
+Duplex,Aged,SPL-SMT,62
+Duplex,Aging,SPL-SMT,56
+Duplex,Annealed,SPL-SMT,34
+Duplex,Annealing,SPL-SMT,51
+Duplex,Cast,SPL-SMT,45
+Duplex,Cold Rolled,SPL-SMT,43
+Duplex,Cold Rolling,SPL-SMT,31
+Duplex,Cooling,SPL-SMT,41
+Duplex,Deformations,SPL-SMT,44
+Duplex,Heat Treatment,SPL-SMT,54
+Duplex,Rolling,SPL-SMT,38
+Duplex,Weld,SPL-SMT,46
+Duplex,Welded,SPL-SMT,58
+Duplex,Welding,SPL-SMT,72
+E-Martensite,Annealing,SPL-SMT,33
+E-Martensite,Deformations,SPL-SMT,70
+E-Martensite,Rolling,SPL-SMT,31
+Eclogites,Cooling,SPL-SMT,126
+Eclogites,Decompression,SPL-SMT,62
+Eclogites,Dehydration,SPL-SMT,59
+Eclogites,Eclogitization,SPL-SMT,33
+Eclogites,Exhumation,SPL-SMT,183
+Eclogites,HP,SPL-SMT,91
+Eclogites,Heating,SPL-SMT,53
+Eclogites,Melting,SPL-SMT,172
+Eclogites,Metamorphic,SPL-SMT,130
+Eclogites,Metamorphism,SPL-SMT,218
+Eclogites,Metamorphosed,SPL-SMT,64
+Eclogites,Metasomatism,SPL-SMT,45
+Eclogites,Partial Melting,SPL-SMT,63
+Eclogites,Recrystallized,SPL-SMT,33
+Eclogites,Subducted,SPL-SMT,51
+Eclogites,Subduction,SPL-SMT,92
+Eclogites,UHP,SPL-SMT,50
+Eclogites,Uhp,SPL-SMT,38
+Eclogitic,Melting,SPL-SMT,92
+Eclogitic,Metamorphism,SPL-SMT,34
+Eclogitic,Partial Melting,SPL-SMT,31
+Eclogitic,Subduction,SPL-SMT,30
+F,Annealed,SPL-SMT,56
+F,Annealing,SPL-SMT,68
+F,Cooling,SPL-SMT,52
+F,Etching,SPL-SMT,30
+F,Heat Treatment,SPL-SMT,46
+F,Heated,SPL-SMT,35
+F,Heating,SPL-SMT,87
+F,Irradiation,SPL-SMT,47
+F,Oxidation,SPL-SMT,37
+F,T,SPL-SMT,39
+FCC,Aged,SPL-SMT,261
+FCC,Ageing,SPL-SMT,75
+FCC,Aging,SPL-SMT,267
+FCC,Alloyed,SPL-SMT,44
+FCC,Alloying,SPL-SMT,267
+FCC,Amorphization,SPL-SMT,36
+FCC,Anneal,SPL-SMT,46
+FCC,Annealed,SPL-SMT,948
+FCC,Annealing,SPL-SMT,1298
+FCC,Arc Melting,SPL-SMT,46
+FCC,As Milled,SPL-SMT,41
+FCC,As Quenched,SPL-SMT,40
+FCC,As-Annealed,SPL-SMT,32
+FCC,Ball Milling,SPL-SMT,101
+FCC,Ball-Milled,SPL-SMT,64
+FCC,CVD,SPL-SMT,59
+FCC,Calcination,SPL-SMT,85
+FCC,Calcined,SPL-SMT,73
+FCC,Cast,SPL-SMT,90
+FCC,Casting,SPL-SMT,43
+FCC,Chemical Vapour Deposition,SPL-SMT,32
+FCC,Co-Deposition,SPL-SMT,31
+FCC,Coated,SPL-SMT,274
+FCC,Coatings,SPL-SMT,52
+FCC,Cold Rolled,SPL-SMT,118
+FCC,Cold Rolling,SPL-SMT,136
+FCC,Cold Worked,SPL-SMT,36
+FCC,Compressional,SPL-SMT,74
+FCC,Cooled,SPL-SMT,89
+FCC,Cooling,SPL-SMT,603
+FCC,Crystallization,SPL-SMT,35
+FCC,Deformations,SPL-SMT,361
+FCC,Deformed,SPL-SMT,148
+FCC,Dehydrogenation,SPL-SMT,43
+FCC,Dissolution,SPL-SMT,44
+FCC,Doping,SPL-SMT,67
+FCC,Dried,SPL-SMT,74
+FCC,Drying,SPL-SMT,56
+FCC,ECAP,SPL-SMT,72
+FCC,Electrodeposition,SPL-SMT,152
+FCC,Electrodeposits,SPL-SMT,168
+FCC,Electron Irradiation,SPL-SMT,38
+FCC,Equal Channel Angular Pressing,SPL-SMT,32
+FCC,Etched,SPL-SMT,113
+FCC,Etching,SPL-SMT,103
+FCC,Evaporation,SPL-SMT,36
+FCC,Extruded,SPL-SMT,34
+FCC,Extrusion,SPL-SMT,38
+FCC,FIB,SPL-SMT,49
+FCC,HEA,SPL-SMT,40
+FCC,HPT,SPL-SMT,62
+FCC,Hardening,SPL-SMT,83
+FCC,Heat Treated,SPL-SMT,219
+FCC,Heat Treatment,SPL-SMT,445
+FCC,Heated,SPL-SMT,205
+FCC,Heating,SPL-SMT,761
+FCC,High Pressure Torsion,SPL-SMT,31
+FCC,High-Energy Ball Milling,SPL-SMT,46
+FCC,Homogenised,SPL-SMT,80
+FCC,Homogenization,SPL-SMT,58
+FCC,Hot Rolled,SPL-SMT,48
+FCC,Hot Rolling,SPL-SMT,38
+FCC,Hydrogenated,SPL-SMT,80
+FCC,Hydrogenation,SPL-SMT,140
+FCC,Implantations,SPL-SMT,33
+FCC,Implanted,SPL-SMT,43
+FCC,Indentation,SPL-SMT,40
+FCC,Irradiated,SPL-SMT,211
+FCC,Irradiation,SPL-SMT,271
+FCC,Isothermal Annealing,SPL-SMT,46
+FCC,MD,SPL-SMT,64
+FCC,Ma,SPL-SMT,78
+FCC,Magnetron Sputtering,SPL-SMT,58
+FCC,Mechanical Alloyed,SPL-SMT,78
+FCC,Mechanical Alloying,SPL-SMT,184
+FCC,Melt Spinning,SPL-SMT,30
+FCC,Melt Spun,SPL-SMT,65
+FCC,Melting,SPL-SMT,126
+FCC,Milled,SPL-SMT,142
+FCC,Milling,SPL-SMT,251
+FCC,Nitrided,SPL-SMT,43
+FCC,Nitriding,SPL-SMT,46
+FCC,Oxidation,SPL-SMT,305
+FCC,Oxidize,SPL-SMT,156
+FCC,PVD,SPL-SMT,33
+FCC,Physical Vapour Deposition,SPL-SMT,31
+FCC,Plastic Deformation,SPL-SMT,222
+FCC,Polished,SPL-SMT,70
+FCC,Precipitation Strengthening,SPL-SMT,39
+FCC,Pyrolysis,SPL-SMT,33
+FCC,Quenched,SPL-SMT,143
+FCC,Quenching,SPL-SMT,142
+FCC,Radiation,SPL-SMT,46
+FCC,Rapid Solidification,SPL-SMT,36
+FCC,Rapidly Solidified,SPL-SMT,38
+FCC,Recrystallisation,SPL-SMT,52
+FCC,Recrystallized,SPL-SMT,155
+FCC,Reductions,SPL-SMT,264
+FCC,Rolled,SPL-SMT,93
+FCC,Rolling,SPL-SMT,251
+FCC,SPD,SPL-SMT,38
+FCC,SPS,SPL-SMT,75
+FCC,Self Assembly,SPL-SMT,81
+FCC,Severe Plastic Deformation,SPL-SMT,55
+FCC,Shear Deformation,SPL-SMT,34
+FCC,Sintered,SPL-SMT,158
+FCC,Sintering,SPL-SMT,163
+FCC,Sol-Gel,SPL-SMT,43
+FCC,Solid Solution Strengthening,SPL-SMT,52
+FCC,Solidification,SPL-SMT,120
+FCC,Solution Treated,SPL-SMT,56
+FCC,Solution Treatment,SPL-SMT,48
+FCC,Spark Plasma Sintering,SPL-SMT,78
+FCC,Spinodal Decomposition,SPL-SMT,66
+FCC,Sputtered,SPL-SMT,85
+FCC,Sputtering,SPL-SMT,105
+FCC,Strain Hardening,SPL-SMT,69
+FCC,Straining,SPL-SMT,35
+FCC,Strengthening,SPL-SMT,73
+FCC,Supercooled,SPL-SMT,41
+FCC,Tempered,SPL-SMT,47
+FCC,Tempering,SPL-SMT,54
+FCC,Tensile Deformation,SPL-SMT,104
+FCC,Thermal Annealing,SPL-SMT,69
+FCC,Thermal Decomposition,SPL-SMT,53
+FCC,Thermal Treatment,SPL-SMT,120
+FCC,Thermomechanical Processing,SPL-SMT,33
+FCC,Water Quenched,SPL-SMT,31
+FCC,Water Quenching,SPL-SMT,43
+FCC,Weld,SPL-SMT,49
+FCC,Welding,SPL-SMT,40
+FCC,Work Hardening,SPL-SMT,67
+FCT,Annealed,SPL-SMT,45
+FCT,Annealing,SPL-SMT,71
+Face Centered Cubic,Aged,SPL-SMT,40
+Face Centered Cubic,Aging,SPL-SMT,73
+Face Centered Cubic,Alloying,SPL-SMT,123
+Face Centered Cubic,Annealed,SPL-SMT,186
+Face Centered Cubic,Annealing,SPL-SMT,388
+Face Centered Cubic,Calcination,SPL-SMT,51
+Face Centered Cubic,Calcined,SPL-SMT,35
+Face Centered Cubic,Coated,SPL-SMT,120
+Face Centered Cubic,Cooling,SPL-SMT,108
+Face Centered Cubic,Deformations,SPL-SMT,96
+Face Centered Cubic,Doping,SPL-SMT,36
+Face Centered Cubic,Electrodeposition,SPL-SMT,98
+Face Centered Cubic,Electrodeposits,SPL-SMT,75
+Face Centered Cubic,Heat Treated,SPL-SMT,41
+Face Centered Cubic,Heat Treatment,SPL-SMT,129
+Face Centered Cubic,Heated,SPL-SMT,44
+Face Centered Cubic,Heating,SPL-SMT,120
+Face Centered Cubic,Irradiated,SPL-SMT,54
+Face Centered Cubic,Irradiation,SPL-SMT,97
+Face Centered Cubic,Magnetron Sputtering,SPL-SMT,34
+Face Centered Cubic,Mechanical Alloying,SPL-SMT,44
+Face Centered Cubic,Melting,SPL-SMT,33
+Face Centered Cubic,Milling,SPL-SMT,32
+Face Centered Cubic,Oxidation,SPL-SMT,100
+Face Centered Cubic,Oxidize,SPL-SMT,35
+Face Centered Cubic,Plastic Deformation,SPL-SMT,101
+Face Centered Cubic,Quenching,SPL-SMT,32
+Face Centered Cubic,Recrystallized,SPL-SMT,36
+Face Centered Cubic,Reductions,SPL-SMT,119
+Face Centered Cubic,Rolling,SPL-SMT,38
+Face Centered Cubic,Self Assembly,SPL-SMT,53
+Face Centered Cubic,Severe Plastic Deformation,SPL-SMT,33
+Face Centered Cubic,Sintered,SPL-SMT,42
+Face Centered Cubic,Sintering,SPL-SMT,54
+Face Centered Cubic,Sol-Gel,SPL-SMT,45
+Face Centered Cubic,Solid Solution Strengthening,SPL-SMT,31
+Face Centered Cubic,Spark Plasma Sintering,SPL-SMT,40
+Face Centered Cubic,Strengthening,SPL-SMT,31
+Face Centered Cubic,Thermal Treatment,SPL-SMT,41
+Face-Centered Tetragonal,Annealing,SPL-SMT,32
+Ferrite,Annealing,SPL-SMT,38
+Ferrite,Cooling,SPL-SMT,82
+Ferrite,Heat Treatment,SPL-SMT,34
+Ferrite,Heating,SPL-SMT,33
+Ferrite,Welding,SPL-SMT,42
+Ferritic,Aged,SPL-SMT,49
+Ferritic,Aging,SPL-SMT,53
+Ferritic,Alloying,SPL-SMT,83
+Ferritic,Annealed,SPL-SMT,76
+Ferritic,Annealing,SPL-SMT,124
+Ferritic,Austempered,SPL-SMT,31
+Ferritic,Cast,SPL-SMT,48
+Ferritic,Coated,SPL-SMT,71
+Ferritic,Cold Rolled,SPL-SMT,54
+Ferritic,Cold Rolling,SPL-SMT,36
+Ferritic,Cooling,SPL-SMT,133
+Ferritic,Creep,SPL-SMT,36
+Ferritic,Deformations,SPL-SMT,66
+Ferritic,Hardening,SPL-SMT,38
+Ferritic,Heat Treated,SPL-SMT,59
+Ferritic,Heat Treatment,SPL-SMT,187
+Ferritic,Heat-Affected,SPL-SMT,43
+Ferritic,Heating,SPL-SMT,71
+Ferritic,Hot Rolled,SPL-SMT,40
+Ferritic,Hot Rolling,SPL-SMT,40
+Ferritic,Ion Irradiation,SPL-SMT,30
+Ferritic,Irradiated,SPL-SMT,193
+Ferritic,Irradiation,SPL-SMT,342
+Ferritic,Irradiation Hardening,SPL-SMT,33
+Ferritic,Joining,SPL-SMT,40
+Ferritic,Mechanical Alloying,SPL-SMT,33
+Ferritic,Neutron Irradiation,SPL-SMT,73
+Ferritic,Normalized,SPL-SMT,33
+Ferritic,Oxidation,SPL-SMT,137
+Ferritic,Oxidize,SPL-SMT,30
+Ferritic,Plastic Deformation,SPL-SMT,45
+Ferritic,Quenched,SPL-SMT,36
+Ferritic,Quenching,SPL-SMT,41
+Ferritic,Radiation,SPL-SMT,72
+Ferritic,Recrystallized,SPL-SMT,32
+Ferritic,Reduced,SPL-SMT,43
+Ferritic,Reduced Activation,SPL-SMT,134
+Ferritic,Rolled,SPL-SMT,30
+Ferritic,Rolling,SPL-SMT,78
+Ferritic,Sintered,SPL-SMT,40
+Ferritic,Sintering,SPL-SMT,37
+Ferritic,Strengthened,SPL-SMT,34
+Ferritic,Strengthening,SPL-SMT,32
+Ferritic,Tempered,SPL-SMT,133
+Ferritic,Tempering,SPL-SMT,94
+Ferritic,Thermal Aging,SPL-SMT,30
+Ferritic,Unirradiated,SPL-SMT,32
+Ferritic,Weld,SPL-SMT,115
+Ferritic,Welded,SPL-SMT,69
+Ferritic,Welding,SPL-SMT,102
+Ferritic,Welds,SPL-SMT,53
+Fluorite,Annealed,SPL-SMT,86
+Fluorite,Annealing,SPL-SMT,115
+Fluorite,Calcination,SPL-SMT,88
+Fluorite,Calcined,SPL-SMT,81
+Fluorite,Cooling,SPL-SMT,62
+Fluorite,Doping,SPL-SMT,70
+Fluorite,Heat Treated,SPL-SMT,31
+Fluorite,Heat Treatment,SPL-SMT,63
+Fluorite,Heated,SPL-SMT,41
+Fluorite,Heating,SPL-SMT,113
+Fluorite,Irradiated,SPL-SMT,56
+Fluorite,Irradiation,SPL-SMT,69
+Fluorite,Oxidation,SPL-SMT,69
+Fluorite,Oxidize,SPL-SMT,30
+Fluorite,Reductions,SPL-SMT,53
+Fluorite,Sintered,SPL-SMT,153
+Fluorite,Sintering,SPL-SMT,132
+Fluorite,Sol-Gel,SPL-SMT,56
+Fluorite,Solid State Reaction,SPL-SMT,56
+Fluorite,Thermal Treatment,SPL-SMT,34
+Fm3m,Heating,SPL-SMT,32
+G,Aged,SPL-SMT,115
+G,Ageing,SPL-SMT,42
+G,Aging,SPL-SMT,150
+G,Alloying,SPL-SMT,80
+G,Annealed,SPL-SMT,92
+G,Annealing,SPL-SMT,157
+G,Cast,SPL-SMT,68
+G,Coated,SPL-SMT,38
+G,Cooling,SPL-SMT,201
+G,Creep,SPL-SMT,61
+G,Deformations,SPL-SMT,73
+G,Heat Treated,SPL-SMT,72
+G,Heat Treatment,SPL-SMT,204
+G,Heating,SPL-SMT,118
+G,Irradiated,SPL-SMT,49
+G,Irradiation,SPL-SMT,76
+G,Oxidation,SPL-SMT,63
+G,Plastic Deformation,SPL-SMT,44
+G,Quenched,SPL-SMT,38
+G,Quenching,SPL-SMT,46
+G,Recrystallized,SPL-SMT,32
+G,Rolling,SPL-SMT,35
+G,Sintering,SPL-SMT,34
+G,Solidification,SPL-SMT,58
+G,Solution Treatment,SPL-SMT,39
+G,Spinodal Decomposition,SPL-SMT,37
+G,Strengthening,SPL-SMT,36
+G,Welding,SPL-SMT,33
+Gamma,Annealing,SPL-SMT,31
+Gamma,Cooling,SPL-SMT,30
+Gamma,Heat Treatment,SPL-SMT,43
+Gamma,Heating,SPL-SMT,42
+Garnet,Ablation,SPL-SMT,30
+Garnet,Alteration,SPL-SMT,65
+Garnet,Altered,SPL-SMT,37
+Garnet,Annealed,SPL-SMT,125
+Garnet,Annealing,SPL-SMT,213
+Garnet,Archean,SPL-SMT,78
+Garnet,Batch Melting,SPL-SMT,69
+Garnet,Calcination,SPL-SMT,96
+Garnet,Calcined,SPL-SMT,79
+Garnet,Calcining,SPL-SMT,30
+Garnet,Carbonated,SPL-SMT,43
+Garnet,Co-precipitation Method,SPL-SMT,37
+Garnet,Coated,SPL-SMT,96
+Garnet,Cooling,SPL-SMT,477
+Garnet,Czochralski,SPL-SMT,31
+Garnet,Czochralski Method,SPL-SMT,39
+Garnet,Decompression,SPL-SMT,174
+Garnet,Deformations,SPL-SMT,73
+Garnet,Dehydration,SPL-SMT,107
+Garnet,Dehydration Melting,SPL-SMT,86
+Garnet,Densification,SPL-SMT,46
+Garnet,Dissolution,SPL-SMT,43
+Garnet,Doping,SPL-SMT,88
+Garnet,Exhumation,SPL-SMT,240
+Garnet,Foliated,SPL-SMT,32
+Garnet,Fractional Crystallization,SPL-SMT,180
+Garnet,Fractional Melting,SPL-SMT,64
+Garnet,HP,SPL-SMT,127
+Garnet,Heat Treated,SPL-SMT,43
+Garnet,Heat Treatment,SPL-SMT,93
+Garnet,Heated,SPL-SMT,85
+Garnet,Heating,SPL-SMT,300
+Garnet,Hot-Pressing,SPL-SMT,30
+Garnet,Hydration,SPL-SMT,54
+Garnet,Hydrothermal,SPL-SMT,37
+Garnet,Hydrothermal Alteration,SPL-SMT,40
+Garnet,Irradiated,SPL-SMT,61
+Garnet,Irradiation,SPL-SMT,68
+Garnet,Isobaric Cooling,SPL-SMT,41
+Garnet,Isothermal Decompression,SPL-SMT,68
+Garnet,Laser,SPL-SMT,43
+Garnet,Laser Ablation,SPL-SMT,51
+Garnet,Liquid Phase Epitaxy,SPL-SMT,88
+Garnet,Lpe,SPL-SMT,95
+Garnet,Mantle Melting,SPL-SMT,42
+Garnet,Melt,SPL-SMT,50
+Garnet,Melt Extraction,SPL-SMT,55
+Garnet,Melted,SPL-SMT,31
+Garnet,Melting,SPL-SMT,1102
+Garnet,Metamorphic,SPL-SMT,381
+Garnet,Metamorphism,SPL-SMT,519
+Garnet,Metamorphosed,SPL-SMT,138
+Garnet,Metasomatic,SPL-SMT,95
+Garnet,Metasomatism,SPL-SMT,200
+Garnet,Metasomatized,SPL-SMT,144
+Garnet,Mylonitic,SPL-SMT,46
+Garnet,Near,SPL-SMT,39
+Garnet,Oxidation,SPL-SMT,67
+Garnet,Oxidize,SPL-SMT,38
+Garnet,PLD,SPL-SMT,34
+Garnet,Partial,SPL-SMT,72
+Garnet,Partial Melting,SPL-SMT,390
+Garnet,Polished,SPL-SMT,146
+Garnet,Pulsed Laser Deposition,SPL-SMT,63
+Garnet,Pyrope,SPL-SMT,105
+Garnet,Quenched,SPL-SMT,86
+Garnet,Recrystallized,SPL-SMT,138
+Garnet,SPS,SPL-SMT,36
+Garnet,Serpentinized,SPL-SMT,81
+Garnet,Sheared,SPL-SMT,53
+Garnet,Sintered,SPL-SMT,224
+Garnet,Sintering,SPL-SMT,282
+Garnet,Sol-Gel,SPL-SMT,163
+Garnet,Solid State Reaction,SPL-SMT,110
+Garnet,Solid State Reaction Method,SPL-SMT,38
+Garnet,Subducted,SPL-SMT,129
+Garnet,Subduction,SPL-SMT,159
+Garnet,UHP,SPL-SMT,60
+Garnet,Uhp,SPL-SMT,38
+Garnet,Underplating,SPL-SMT,36
+Garnet,Weathered,SPL-SMT,32
+Garnet,Weathering,SPL-SMT,41
+Garnets,Cooling,SPL-SMT,79
+Garnets,Heating,SPL-SMT,49
+Garnets,Liquid Phase Epitaxy,SPL-SMT,34
+Garnets,Melting,SPL-SMT,110
+Garnets,Metamorphic,SPL-SMT,64
+Garnets,Metamorphism,SPL-SMT,74
+Garnets,Metasomatism,SPL-SMT,62
+Garnets,Partial Melting,SPL-SMT,34
+Garnets,Polished,SPL-SMT,36
+Garnets,Pyrope,SPL-SMT,45
+Garnets,Sintered,SPL-SMT,35
+Garnets,Sintering,SPL-SMT,31
+Gneiss,Archean,SPL-SMT,34
+Gneiss,Cooling,SPL-SMT,104
+Gneiss,Decompression,SPL-SMT,38
+Gneiss,Exhumation,SPL-SMT,68
+Gneiss,Heating,SPL-SMT,30
+Gneiss,Melting,SPL-SMT,151
+Gneiss,Metamorphic,SPL-SMT,144
+Gneiss,Metamorphism,SPL-SMT,179
+Gneiss,Metamorphosed,SPL-SMT,50
+Gneiss,Partial Melting,SPL-SMT,55
+Gneiss,Polished,SPL-SMT,33
+Gneiss,Recrystallized,SPL-SMT,53
+Gneisses,Cooling,SPL-SMT,91
+Gneisses,Exhumation,SPL-SMT,46
+Gneisses,Melting,SPL-SMT,137
+Gneisses,Metamorphic,SPL-SMT,75
+Gneisses,Metamorphism,SPL-SMT,153
+Gneisses,Metamorphosed,SPL-SMT,60
+Gneisses,Partial Melting,SPL-SMT,57
+Gneisses,Weathering,SPL-SMT,30
+Gneissic,Melting,SPL-SMT,47
+Gneissic,Metamorphic,SPL-SMT,30
+Gneissic,Metamorphism,SPL-SMT,44
+Goss,Annealing,SPL-SMT,55
+Goss,Cold Rolling,SPL-SMT,35
+Goss,Rolling,SPL-SMT,42
+Gp,Aging,SPL-SMT,35
+Granite,Cooling,SPL-SMT,57
+Granite,Fractional Crystallization,SPL-SMT,83
+Granite,Hydrothermal,SPL-SMT,31
+Granite,Melting,SPL-SMT,276
+Granite,Metamorphic,SPL-SMT,38
+Granite,Metamorphism,SPL-SMT,63
+Granite,Partial Melting,SPL-SMT,100
+Granitic,Cooling,SPL-SMT,61
+Granitic,Fractional Crystallization,SPL-SMT,46
+Granitic,Melting,SPL-SMT,161
+Granitic,Metamorphic,SPL-SMT,40
+Granitic,Metamorphism,SPL-SMT,57
+Granitic,Partial Melting,SPL-SMT,55
+Granitic,Weathering,SPL-SMT,63
+Granitoids,Fractional Crystallization,SPL-SMT,43
+Granitoids,Melting,SPL-SMT,134
+Granitoids,Metamorphism,SPL-SMT,36
+Granitoids,Partial Melting,SPL-SMT,51
+Granitoids,Weathering,SPL-SMT,37
+Granodiorites,Melting,SPL-SMT,52
+Granodioritic,Melting,SPL-SMT,40
+Granulite,Cooling,SPL-SMT,254
+Granulite,Decompression,SPL-SMT,104
+Granulite,Dehydration Melting,SPL-SMT,38
+Granulite,Exhumation,SPL-SMT,98
+Granulite,HP,SPL-SMT,68
+Granulite,Heating,SPL-SMT,75
+Granulite,Hydration,SPL-SMT,32
+Granulite,Isobaric Cooling,SPL-SMT,59
+Granulite,Isothermal Decompression,SPL-SMT,57
+Granulite,Melting,SPL-SMT,213
+Granulite,Metamorphic,SPL-SMT,162
+Granulite,Metamorphism,SPL-SMT,302
+Granulite,Metamorphosed,SPL-SMT,77
+Granulite,Near,SPL-SMT,36
+Granulite,Partial Melting,SPL-SMT,64
+Granulite,Recrystallized,SPL-SMT,47
+Granulite,Subduction,SPL-SMT,31
+Granulite,Uht,SPL-SMT,35
+Graphitic,Annealed,SPL-SMT,83
+Graphitic,Annealing,SPL-SMT,166
+Graphitic,CVD,SPL-SMT,107
+Graphitic,Calcination,SPL-SMT,48
+Graphitic,Carbonization,SPL-SMT,169
+Graphitic,Carbonize,SPL-SMT,80
+Graphitic,Chemical Vapour Deposition,SPL-SMT,79
+Graphitic,Coated,SPL-SMT,90
+Graphitic,Doping,SPL-SMT,100
+Graphitic,Etching,SPL-SMT,44
+Graphitic,Graphitization,SPL-SMT,161
+Graphitic,Graphitized,SPL-SMT,77
+Graphitic,Heat Treated,SPL-SMT,47
+Graphitic,Heat Treatment,SPL-SMT,120
+Graphitic,Heated,SPL-SMT,56
+Graphitic,Heating,SPL-SMT,90
+Graphitic,Hydrogenated,SPL-SMT,40
+Graphitic,Irradiated,SPL-SMT,33
+Graphitic,Irradiation,SPL-SMT,50
+Graphitic,Oxidation,SPL-SMT,147
+Graphitic,Oxidize,SPL-SMT,106
+Graphitic,Pyrolysis,SPL-SMT,200
+Graphitic,Pyrolyzed,SPL-SMT,63
+Graphitic,Reductions,SPL-SMT,94
+Graphitic,Thermal Annealing,SPL-SMT,30
+Graphitic,Thermal Decomposition,SPL-SMT,30
+Graphitic,Thermal Treatment,SPL-SMT,66
+Greenschist,Cooling,SPL-SMT,36
+Greenschist,Exhumation,SPL-SMT,34
+Greenschist,Metamorphic,SPL-SMT,35
+Greenschist,Metamorphism,SPL-SMT,80
+Greenschist,Metamorphosed,SPL-SMT,33
+Greenstone,Melting,SPL-SMT,36
+Grossular,Pyrope,SPL-SMT,31
+HCP,Aged,SPL-SMT,88
+HCP,Aging,SPL-SMT,77
+HCP,Alloying,SPL-SMT,105
+HCP,Annealed,SPL-SMT,292
+HCP,Annealing,SPL-SMT,407
+HCP,Ball Milling,SPL-SMT,35
+HCP,Cast,SPL-SMT,34
+HCP,Coated,SPL-SMT,77
+HCP,Cold Rolled,SPL-SMT,44
+HCP,Cold Rolling,SPL-SMT,33
+HCP,Compressional,SPL-SMT,46
+HCP,Cooled,SPL-SMT,33
+HCP,Cooling,SPL-SMT,218
+HCP,Deformations,SPL-SMT,155
+HCP,Deformed,SPL-SMT,60
+HCP,Drying,SPL-SMT,33
+HCP,ECAP,SPL-SMT,35
+HCP,Electrodeposition,SPL-SMT,75
+HCP,Electrodeposits,SPL-SMT,63
+HCP,Etched,SPL-SMT,46
+HCP,Etching,SPL-SMT,33
+HCP,Extruded,SPL-SMT,66
+HCP,Extrusion,SPL-SMT,43
+HCP,HPT,SPL-SMT,30
+HCP,Hardened,SPL-SMT,64
+HCP,Heat Treated,SPL-SMT,70
+HCP,Heat Treatment,SPL-SMT,131
+HCP,Heated,SPL-SMT,69
+HCP,Heating,SPL-SMT,267
+HCP,Hydrogenation,SPL-SMT,61
+HCP,Irradiated,SPL-SMT,70
+HCP,Irradiation,SPL-SMT,95
+HCP,Mechanical Alloying,SPL-SMT,32
+HCP,Melting,SPL-SMT,49
+HCP,Milled,SPL-SMT,35
+HCP,Milling,SPL-SMT,62
+HCP,Oxidation,SPL-SMT,106
+HCP,Oxidize,SPL-SMT,61
+HCP,Plastic Deformation,SPL-SMT,130
+HCP,Quenched,SPL-SMT,54
+HCP,Quenching,SPL-SMT,57
+HCP,Recrystallized,SPL-SMT,47
+HCP,Reductions,SPL-SMT,82
+HCP,Rolled,SPL-SMT,55
+HCP,Rolling,SPL-SMT,110
+HCP,Self Assembly,SPL-SMT,31
+HCP,Severe Plastic Deformation,SPL-SMT,31
+HCP,Sintered,SPL-SMT,35
+HCP,Sintering,SPL-SMT,37
+HCP,Solidification,SPL-SMT,50
+HCP,Sputtered,SPL-SMT,34
+HCP,Tensile Deformation,SPL-SMT,55
+HP,Exhumation,SPL-SMT,30
+Half,Doping,SPL-SMT,31
+Heating,Annealed,SPL-SMT,49
+Heating,Annealing,SPL-SMT,44
+Heating,Cooling,SPL-SMT,46
+Heating,Heated,SPL-SMT,42
+Hepatocellular,Radiofrequency Ablation,SPL-SMT,30
+Heusler,Annealed,SPL-SMT,85
+Heusler,Annealing,SPL-SMT,95
+Heusler,Cooling,SPL-SMT,51
+Heusler,Doping,SPL-SMT,63
+Heusler,Heat Treatment,SPL-SMT,31
+Heusler,Heating,SPL-SMT,39
+Hex,Heating,SPL-SMT,36
+Hexagonal,3D Printed,SPL-SMT,56
+Hexagonal,3D Printing,SPL-SMT,38
+Hexagonal,APCVD,SPL-SMT,30
+Hexagonal,Ablation,SPL-SMT,43
+Hexagonal,Aged,SPL-SMT,214
+Hexagonal,Ageing,SPL-SMT,95
+Hexagonal,Aging,SPL-SMT,324
+Hexagonal,Ald,SPL-SMT,108
+Hexagonal,Alloying,SPL-SMT,138
+Hexagonal,Amorphization,SPL-SMT,34
+Hexagonal,Anneal,SPL-SMT,69
+Hexagonal,Annealed,SPL-SMT,1444
+Hexagonal,Annealing,SPL-SMT,2231
+Hexagonal,Anodization,SPL-SMT,151
+Hexagonal,Anodized,SPL-SMT,85
+Hexagonal,Anodizing,SPL-SMT,42
+Hexagonal,Arc Melting,SPL-SMT,56
+Hexagonal,Assembled,SPL-SMT,36
+Hexagonal,Assembly,SPL-SMT,43
+Hexagonal,Atmospheric Pressure Chemical Vapour Deposition,SPL-SMT,30
+Hexagonal,Atomic Layer Deposition,SPL-SMT,98
+Hexagonal,Autoclave,SPL-SMT,71
+Hexagonal,Ball Milling,SPL-SMT,138
+Hexagonal,Ball-Milled,SPL-SMT,82
+Hexagonal,CBD,SPL-SMT,97
+Hexagonal,CVD,SPL-SMT,629
+Hexagonal,Calcinated,SPL-SMT,55
+Hexagonal,Calcination,SPL-SMT,915
+Hexagonal,Calcined,SPL-SMT,826
+Hexagonal,Calcining,SPL-SMT,69
+Hexagonal,Carbonization,SPL-SMT,121
+Hexagonal,Carbonize,SPL-SMT,49
+Hexagonal,Carbothermal Reduction,SPL-SMT,30
+Hexagonal,Cast,SPL-SMT,72
+Hexagonal,Casting,SPL-SMT,45
+Hexagonal,Centrifugation,SPL-SMT,65
+Hexagonal,Chemical Bath Deposition,SPL-SMT,143
+Hexagonal,Chemical Etching,SPL-SMT,74
+Hexagonal,Chemical Method,SPL-SMT,34
+Hexagonal,Chemical Reaction,SPL-SMT,32
+Hexagonal,Chemical Reduction,SPL-SMT,43
+Hexagonal,Chemical Synthesis,SPL-SMT,37
+Hexagonal,Chemical Vapour Deposition,SPL-SMT,478
+Hexagonal,Cleaved,SPL-SMT,52
+Hexagonal,Co-Condensation,SPL-SMT,61
+Hexagonal,Co-Precipitation,SPL-SMT,54
+Hexagonal,Co-precipitation Method,SPL-SMT,96
+Hexagonal,Coated,SPL-SMT,1074
+Hexagonal,Coatings,SPL-SMT,237
+Hexagonal,Combustion,SPL-SMT,57
+Hexagonal,Compressional,SPL-SMT,102
+Hexagonal,Cooled,SPL-SMT,191
+Hexagonal,Cooling,SPL-SMT,1114
+Hexagonal,Coprecipitation,SPL-SMT,46
+Hexagonal,Cross-Linking,SPL-SMT,53
+Hexagonal,Crosslinked,SPL-SMT,33
+Hexagonal,Crushed,SPL-SMT,35
+Hexagonal,Crystallization,SPL-SMT,61
+Hexagonal,Cured,SPL-SMT,45
+Hexagonal,Curing,SPL-SMT,58
+Hexagonal,Cutting,SPL-SMT,54
+Hexagonal,Deformations,SPL-SMT,120
+Hexagonal,Deformed,SPL-SMT,58
+Hexagonal,Dehydrated,SPL-SMT,65
+Hexagonal,Dehydration,SPL-SMT,123
+Hexagonal,Dehydrogenation,SPL-SMT,54
+Hexagonal,Delithiation,SPL-SMT,40
+Hexagonal,Densification,SPL-SMT,90
+Hexagonal,Deposition,SPL-SMT,33
+Hexagonal,Dewetting,SPL-SMT,39
+Hexagonal,Dip Coated,SPL-SMT,34
+Hexagonal,Dip Coating,SPL-SMT,117
+Hexagonal,Discharge,SPL-SMT,34
+Hexagonal,Dissolution,SPL-SMT,200
+Hexagonal,Doping,SPL-SMT,650
+Hexagonal,Drawing,SPL-SMT,32
+Hexagonal,Dried,SPL-SMT,218
+Hexagonal,Drop Casting,SPL-SMT,44
+Hexagonal,Drying,SPL-SMT,257
+Hexagonal,EISA,SPL-SMT,31
+Hexagonal,Electrochemical,SPL-SMT,57
+Hexagonal,Electrochemical Deposition,SPL-SMT,101
+Hexagonal,Electrodeposition,SPL-SMT,315
+Hexagonal,Electrodeposits,SPL-SMT,218
+Hexagonal,Electroless Deposition,SPL-SMT,30
+Hexagonal,Electrolysis,SPL-SMT,35
+Hexagonal,Electron Beam Irradiation,SPL-SMT,46
+Hexagonal,Electron Beam Lithography,SPL-SMT,39
+Hexagonal,Electron Irradiation,SPL-SMT,57
+Hexagonal,Electroplating,SPL-SMT,37
+Hexagonal,Electrospinning,SPL-SMT,56
+Hexagonal,Electrospun,SPL-SMT,45
+Hexagonal,Etch,SPL-SMT,70
+Hexagonal,Etched,SPL-SMT,377
+Hexagonal,Etching,SPL-SMT,578
+Hexagonal,Evaporated,SPL-SMT,30
+Hexagonal,Evaporation,SPL-SMT,145
+Hexagonal,Evaporation-Induced Self-Assembly,SPL-SMT,34
+Hexagonal,Exchange,SPL-SMT,32
+Hexagonal,Exfoliate,SPL-SMT,158
+Hexagonal,Exfoliation,SPL-SMT,217
+Hexagonal,Extruded,SPL-SMT,76
+Hexagonal,Extrusion,SPL-SMT,69
+Hexagonal,FIB,SPL-SMT,38
+Hexagonal,Facile Hydrothermal Method,SPL-SMT,52
+Hexagonal,Field Cooling,SPL-SMT,34
+Hexagonal,Filtration,SPL-SMT,30
+Hexagonal,Fired,SPL-SMT,50
+Hexagonal,Firing,SPL-SMT,62
+Hexagonal,Fluorination,SPL-SMT,35
+Hexagonal,Freeze Drying,SPL-SMT,33
+Hexagonal,Freeze-Dried,SPL-SMT,30
+Hexagonal,Freezing,SPL-SMT,45
+Hexagonal,Functionalization,SPL-SMT,30
+Hexagonal,Furnace,SPL-SMT,69
+Hexagonal,Graphitization,SPL-SMT,57
+Hexagonal,Graphitized,SPL-SMT,40
+Hexagonal,Grinding,SPL-SMT,63
+Hexagonal,Ground,SPL-SMT,47
+Hexagonal,HVPE,SPL-SMT,42
+Hexagonal,Heat Treated,SPL-SMT,286
+Hexagonal,Heat Treatment,SPL-SMT,682
+Hexagonal,Heated,SPL-SMT,635
+Hexagonal,Heating,SPL-SMT,1803
+Hexagonal,Heating/Cooling,SPL-SMT,31
+Hexagonal,High-Energy Ball Milling,SPL-SMT,47
+Hexagonal,Homogenised,SPL-SMT,45
+Hexagonal,Homogenization,SPL-SMT,41
+Hexagonal,Hot Pressed,SPL-SMT,57
+Hexagonal,Hot-Pressing,SPL-SMT,57
+Hexagonal,Ht,SPL-SMT,51
+Hexagonal,Hydrated,SPL-SMT,70
+Hexagonal,Hydration,SPL-SMT,75
+Hexagonal,Hydrogenated,SPL-SMT,163
+Hexagonal,Hydrogenation,SPL-SMT,169
+Hexagonal,Hydrolysis,SPL-SMT,196
+Hexagonal,Hydrothermal,SPL-SMT,320
+Hexagonal,Hydrothermal Condition,SPL-SMT,153
+Hexagonal,Hydrothermal Growth,SPL-SMT,39
+Hexagonal,Hydrothermal Method,SPL-SMT,486
+Hexagonal,Hydrothermal Process,SPL-SMT,123
+Hexagonal,Hydrothermal Reaction,SPL-SMT,139
+Hexagonal,Hydrothermal Route,SPL-SMT,78
+Hexagonal,Hydrothermal Synthesis,SPL-SMT,194
+Hexagonal,Hydrothermal Treatment,SPL-SMT,265
+Hexagonal,Hydrothermally Synthesized,SPL-SMT,40
+Hexagonal,Hydrothermally Treated,SPL-SMT,34
+Hexagonal,Hydroxylated,SPL-SMT,50
+Hexagonal,Hydroxylation,SPL-SMT,30
+Hexagonal,Implantations,SPL-SMT,62
+Hexagonal,Implanted,SPL-SMT,68
+Hexagonal,Impregnating,SPL-SMT,67
+Hexagonal,Indentation,SPL-SMT,34
+Hexagonal,Ion Bombardment,SPL-SMT,38
+Hexagonal,Ion Exchange,SPL-SMT,61
+Hexagonal,Ion Implantation,SPL-SMT,31
+Hexagonal,Irradiated,SPL-SMT,314
+Hexagonal,Irradiation,SPL-SMT,566
+Hexagonal,LPCVD,SPL-SMT,36
+Hexagonal,Langmuir-Blodgett,SPL-SMT,32
+Hexagonal,Laser,SPL-SMT,51
+Hexagonal,Laser Ablation,SPL-SMT,63
+Hexagonal,Laser Irradiation,SPL-SMT,73
+Hexagonal,Lb,SPL-SMT,31
+Hexagonal,Leaching,SPL-SMT,49
+Hexagonal,Light Irradiation,SPL-SMT,37
+Hexagonal,Liquid Phase Exfoliation,SPL-SMT,33
+Hexagonal,Lithiated,SPL-SMT,50
+Hexagonal,Lithiation,SPL-SMT,80
+Hexagonal,Lithographic,SPL-SMT,31
+Hexagonal,Lithography,SPL-SMT,58
+Hexagonal,Low Pressure Chemical Vapor Deposition,SPL-SMT,37
+Hexagonal,MD,SPL-SMT,36
+Hexagonal,MOCVD,SPL-SMT,94
+Hexagonal,Ma,SPL-SMT,37
+Hexagonal,Magnetron Sputtering,SPL-SMT,92
+Hexagonal,Mbe,SPL-SMT,102
+Hexagonal,Mechanical Alloying,SPL-SMT,70
+Hexagonal,Mechanical Exfoliation,SPL-SMT,61
+Hexagonal,Mechanical Milling,SPL-SMT,34
+Hexagonal,Mechanically Exfoliated,SPL-SMT,56
+Hexagonal,Melt Spun,SPL-SMT,36
+Hexagonal,Melted,SPL-SMT,51
+Hexagonal,Melting,SPL-SMT,160
+Hexagonal,Metal Organic Chemical Vapor Deposition,SPL-SMT,39
+Hexagonal,Metal Organic Vapor Phase Epitaxy,SPL-SMT,37
+Hexagonal,Microemulsion,SPL-SMT,33
+Hexagonal,Microwave Heating,SPL-SMT,41
+Hexagonal,Microwave Irradiation,SPL-SMT,75
+Hexagonal,Microwaves,SPL-SMT,37
+Hexagonal,Milled,SPL-SMT,133
+Hexagonal,Milling,SPL-SMT,188
+Hexagonal,Mineralization,SPL-SMT,30
+Hexagonal,Mineralized,SPL-SMT,38
+Hexagonal,Modification,SPL-SMT,39
+Hexagonal,Molecular Beam Epitaxy,SPL-SMT,134
+Hexagonal,Movpe,SPL-SMT,35
+Hexagonal,Nanosphere Lithography,SPL-SMT,32
+Hexagonal,Nanostructuring,SPL-SMT,31
+Hexagonal,Nitridation,SPL-SMT,103
+Hexagonal,Nitrided,SPL-SMT,48
+Hexagonal,Nitriding,SPL-SMT,30
+Hexagonal,Oxidation,SPL-SMT,714
+Hexagonal,Oxidize,SPL-SMT,390
+Hexagonal,Oxygen Plasma,SPL-SMT,31
+Hexagonal,PE-CVD,SPL-SMT,55
+Hexagonal,PLD,SPL-SMT,115
+Hexagonal,PVD,SPL-SMT,63
+Hexagonal,Patterned,SPL-SMT,102
+Hexagonal,Patterning,SPL-SMT,77
+Hexagonal,Photolithography,SPL-SMT,65
+Hexagonal,Photopolymerization,SPL-SMT,31
+Hexagonal,Physical Vapour Deposition,SPL-SMT,58
+Hexagonal,Planetary Ball Mill,SPL-SMT,31
+Hexagonal,Plasma,SPL-SMT,68
+Hexagonal,Plasma Assisted Molecular Beam Epitaxy,SPL-SMT,31
+Hexagonal,Plasma Enhanced Chemical Vapour Deposition,SPL-SMT,40
+Hexagonal,Plasma Etching,SPL-SMT,48
+Hexagonal,Plasma Treatment,SPL-SMT,54
+Hexagonal,Plastic Deformation,SPL-SMT,77
+Hexagonal,Plating,SPL-SMT,33
+Hexagonal,Polished,SPL-SMT,186
+Hexagonal,Polishing,SPL-SMT,54
+Hexagonal,Polymerisation,SPL-SMT,39
+Hexagonal,Post Annealed,SPL-SMT,37
+Hexagonal,Postannealing,SPL-SMT,63
+Hexagonal,Precipitation,SPL-SMT,57
+Hexagonal,Precipitation Method,SPL-SMT,32
+Hexagonal,Pressed,SPL-SMT,60
+Hexagonal,Printed,SPL-SMT,45
+Hexagonal,Printing,SPL-SMT,41
+Hexagonal,Pulsed Laser Deposition,SPL-SMT,161
+Hexagonal,Pyrolysis,SPL-SMT,198
+Hexagonal,Pyrolyzed,SPL-SMT,45
+Hexagonal,Quenched,SPL-SMT,184
+Hexagonal,Quenching,SPL-SMT,147
+Hexagonal,RF Magnetron Sputtering,SPL-SMT,52
+Hexagonal,RIE,SPL-SMT,65
+Hexagonal,Radiation,SPL-SMT,47
+Hexagonal,Radio Frequency (RF) Magnetron Sputtering,SPL-SMT,43
+Hexagonal,Re-Oxidation,SPL-SMT,30
+Hexagonal,Reaction,SPL-SMT,33
+Hexagonal,Reactive Ion Etching,SPL-SMT,50
+Hexagonal,Reactive Magnetron Sputtering,SPL-SMT,31
+Hexagonal,Recrystallisation,SPL-SMT,64
+Hexagonal,Recrystallized,SPL-SMT,79
+Hexagonal,Reductions,SPL-SMT,376
+Hexagonal,Refluxing,SPL-SMT,36
+Hexagonal,Rolled,SPL-SMT,50
+Hexagonal,Rolling,SPL-SMT,129
+Hexagonal,SPS,SPL-SMT,75
+Hexagonal,Self,SPL-SMT,88
+Hexagonal,Self Assembled,SPL-SMT,166
+Hexagonal,Self Assembly,SPL-SMT,494
+Hexagonal,Silar,SPL-SMT,36
+Hexagonal,Sintered,SPL-SMT,629
+Hexagonal,Sintering,SPL-SMT,493
+Hexagonal,Slow Cooling,SPL-SMT,64
+Hexagonal,Soaking,SPL-SMT,32
+Hexagonal,Sol Gel,SPL-SMT,68
+Hexagonal,Sol-Gel,SPL-SMT,574
+Hexagonal,Solid State Method,SPL-SMT,36
+Hexagonal,Solid State Reaction,SPL-SMT,288
+Hexagonal,Solid State Reaction Method,SPL-SMT,107
+Hexagonal,Solid State Synthesis,SPL-SMT,30
+Hexagonal,Solidification,SPL-SMT,78
+Hexagonal,Solvent Annealing,SPL-SMT,32
+Hexagonal,Solvent Evaporation,SPL-SMT,60
+Hexagonal,Solvothermal,SPL-SMT,97
+Hexagonal,Solvothermal Method,SPL-SMT,132
+Hexagonal,Solvothermal Process,SPL-SMT,43
+Hexagonal,Solvothermal Reaction,SPL-SMT,63
+Hexagonal,Solvothermal Synthesis,SPL-SMT,48
+Hexagonal,Solvothermal Treatment,SPL-SMT,38
+Hexagonal,Sonicated,SPL-SMT,36
+Hexagonal,Sonication,SPL-SMT,160
+Hexagonal,Spark Plasma Sintering,SPL-SMT,66
+Hexagonal,Spin Coater,SPL-SMT,162
+Hexagonal,Spin Coating,SPL-SMT,230
+Hexagonal,Spray Drying,SPL-SMT,30
+Hexagonal,Spray Pyrolysis,SPL-SMT,136
+Hexagonal,Sputtered,SPL-SMT,150
+Hexagonal,Sputtering,SPL-SMT,213
+Hexagonal,Stirring,SPL-SMT,31
+Hexagonal,Stretching,SPL-SMT,46
+Hexagonal,Sublimation,SPL-SMT,50
+Hexagonal,Sulfidation,SPL-SMT,46
+Hexagonal,Sulfurization,SPL-SMT,35
+Hexagonal,Supercooled,SPL-SMT,50
+Hexagonal,Surface,SPL-SMT,33
+Hexagonal,Surface Modification,SPL-SMT,104
+Hexagonal,Surface Treatment,SPL-SMT,32
+Hexagonal,Swelling,SPL-SMT,39
+Hexagonal,Synthesis,SPL-SMT,34
+Hexagonal,Tempering,SPL-SMT,31
+Hexagonal,Templating,SPL-SMT,33
+Hexagonal,Thermal,SPL-SMT,45
+Hexagonal,Thermal Annealing,SPL-SMT,199
+Hexagonal,Thermal Decomposition,SPL-SMT,246
+Hexagonal,Thermal Evaporation,SPL-SMT,94
+Hexagonal,Thermal Oxidation,SPL-SMT,37
+Hexagonal,Thermal Treated,SPL-SMT,72
+Hexagonal,Thermal Treatment,SPL-SMT,379
+Hexagonal,Thermally Anneal,SPL-SMT,37
+Hexagonal,Thermolysis,SPL-SMT,69
+Hexagonal,UV,SPL-SMT,36
+Hexagonal,UV Irradiation,SPL-SMT,119
+Hexagonal,Ultrasonication,SPL-SMT,60
+Hexagonal,VLS,SPL-SMT,67
+Hexagonal,Vacuum Annealing,SPL-SMT,45
+Hexagonal,Vapor Deposition,SPL-SMT,37
+Hexagonal,Vapor Liquid Solid,SPL-SMT,32
+Hexagonal,Vapor Solid,SPL-SMT,30
+Hexagonal,Washing,SPL-SMT,53
+Hexagonal,Wet Chemical Method,SPL-SMT,32
+Hexagonal,Wet Etching,SPL-SMT,30
+Hexagonal Close Packed,Alloying,SPL-SMT,45
+Hexagonal Close Packed,Annealed,SPL-SMT,31
+Hexagonal Close Packed,Annealing,SPL-SMT,56
+Hexagonal Close Packed,Cooling,SPL-SMT,33
+Hexagonal Close Packed,Deformations,SPL-SMT,39
+Hexagonal Close Packed,Heating,SPL-SMT,34
+Hexagonal Close Packed,Plastic Deformation,SPL-SMT,60
+Hexagonal Close Packed,Rolling,SPL-SMT,30
+Hexagonal Columnar,Cooling,SPL-SMT,72
+Hexagonal Columnar,Heating,SPL-SMT,45
+Hexagonal Wurtzite,Annealed,SPL-SMT,142
+Hexagonal Wurtzite,Annealing,SPL-SMT,165
+Hexagonal Wurtzite,Calcination,SPL-SMT,41
+Hexagonal Wurtzite,Chemical Bath Deposition,SPL-SMT,40
+Hexagonal Wurtzite,Co-precipitation Method,SPL-SMT,41
+Hexagonal Wurtzite,Coated,SPL-SMT,40
+Hexagonal Wurtzite,Doping,SPL-SMT,240
+Hexagonal Wurtzite,Hydrothermal Method,SPL-SMT,54
+Hexagonal Wurtzite,Pulsed Laser Deposition,SPL-SMT,43
+Hexagonal Wurtzite,RF Magnetron Sputtering,SPL-SMT,52
+Hexagonal Wurtzite,Radio Frequency (RF) Magnetron Sputtering,SPL-SMT,31
+Hexagonal Wurtzite,Sol-Gel,SPL-SMT,187
+Hexagonal Wurtzite,Sol-Gel Spin-Coating,SPL-SMT,39
+Hexagonal Wurtzite,Spin Coating,SPL-SMT,32
+Hexagonal Wurtzite,Spray Pyrolysis,SPL-SMT,59
+Hexagonally,Annealing,SPL-SMT,52
+Hexagonally,Coated,SPL-SMT,50
+Hexagonally,Heating,SPL-SMT,32
+Ht,Calcined,SPL-SMT,31
+Ht,Cooling,SPL-SMT,47
+Ht,Heating,SPL-SMT,64
+Hydrates,Cooling,SPL-SMT,49
+Hydrates,Dehydration,SPL-SMT,65
+Hydrates,Heating,SPL-SMT,77
+Hydrates,Hydration,SPL-SMT,57
+Hydrotalcite,Calcination,SPL-SMT,264
+Hydrotalcite,Calcined,SPL-SMT,275
+Hydrotalcite,Co-Precipitation,SPL-SMT,52
+Hydrotalcite,Co-precipitation Method,SPL-SMT,65
+Hydrotalcite,Coprecipitation,SPL-SMT,70
+Hydrotalcite,Coprecipitation Method,SPL-SMT,54
+Hydrotalcite,Ht,SPL-SMT,64
+Hydrotalcite,Hydrothermal Treatment,SPL-SMT,31
+Hydrotalcite,Impregnating,SPL-SMT,31
+Hydrotalcite,Reductions,SPL-SMT,71
+Hydrotalcite,Thermal Decomposition,SPL-SMT,73
+Hydrotalcite,Thermal Treatment,SPL-SMT,37
+Hydrotalcite-Like,Calcination,SPL-SMT,35
+Hydrotalcite-Like,Calcined,SPL-SMT,39
+I4/MMM,Heating,SPL-SMT,30
+I4/MMM,Solid State Reaction,SPL-SMT,36
+IA3D,Heating,SPL-SMT,31
+IH,Heating,SPL-SMT,35
+IIA,CVD,SPL-SMT,36
+Icosahedral,Annealed,SPL-SMT,106
+Icosahedral,Annealing,SPL-SMT,149
+Icosahedral,Cooling,SPL-SMT,124
+Icosahedral,Heat Treatment,SPL-SMT,47
+Icosahedral,Heating,SPL-SMT,114
+Icosahedral,Mechanical Alloying,SPL-SMT,33
+Icosahedral,Melt Spun,SPL-SMT,50
+Icosahedral,Melting,SPL-SMT,39
+Icosahedral,Oxidation,SPL-SMT,40
+Icosahedral,Rapidly Solidified,SPL-SMT,39
+Icosahedral,Solidification,SPL-SMT,36
+Icosahedral,Supercooled,SPL-SMT,50
+Island,Melting,SPL-SMT,31
+K,Heating,SPL-SMT,34
+Keggin,Hydrolysis,SPL-SMT,33
+Keggin,Hydrothermal,SPL-SMT,55
+Keggin,Hydrothermal Condition,SPL-SMT,49
+Keggin,Oxidation,SPL-SMT,45
+Kesterite,Annealed,SPL-SMT,98
+Kesterite,Annealing,SPL-SMT,139
+Kesterite,Coated,SPL-SMT,49
+Kesterite,Selenization,SPL-SMT,57
+Kesterite,Selenized,SPL-SMT,31
+Kesterite,Sulfurization,SPL-SMT,73
+Kesterite,Sulfurized,SPL-SMT,38
+L,Cooling,SPL-SMT,35
+L,Heating,SPL-SMT,36
+L10,Annealed,SPL-SMT,152
+L10,Annealing,SPL-SMT,242
+L10,Cooling,SPL-SMT,40
+L10,Heat Treatment,SPL-SMT,40
+L10,Heating,SPL-SMT,50
+L10,Sputtering,SPL-SMT,31
+L12,Aged,SPL-SMT,121
+L12,Aging,SPL-SMT,108
+L12,Alloying,SPL-SMT,67
+L12,Annealed,SPL-SMT,96
+L12,Annealing,SPL-SMT,140
+L12,Cooling,SPL-SMT,53
+L12,Deformations,SPL-SMT,37
+L12,Heat Treated,SPL-SMT,39
+L12,Heat Treatment,SPL-SMT,70
+L12,Heating,SPL-SMT,62
+L12,Strengthening,SPL-SMT,31
+L21,Annealed,SPL-SMT,33
+L21,Annealing,SPL-SMT,47
+LS,Cooling,SPL-SMT,49
+LS,Heating,SPL-SMT,41
+LT,HT,SPL-SMT,48
+Lamellar,Heating,SPL-SMT,36
+Lateritic,Weathering,SPL-SMT,39
+Lath,Aging,SPL-SMT,33
+Lath,Annealing,SPL-SMT,32
+Lath,Cooling,SPL-SMT,90
+Lath,Deformations,SPL-SMT,31
+Lath,Heat Treatment,SPL-SMT,55
+Lath,Heat-Affected,SPL-SMT,31
+Lath,Quenched,SPL-SMT,39
+Lath,Quenching,SPL-SMT,42
+Lath,Tempered,SPL-SMT,116
+Lath,Tempering,SPL-SMT,79
+Lath,Weld,SPL-SMT,47
+Lath,Welding,SPL-SMT,43
+Lath Martensite,Tempered,SPL-SMT,30
+Laves Phase,Aged,SPL-SMT,67
+Laves Phase,Aging,SPL-SMT,75
+Laves Phase,Alloying,SPL-SMT,35
+Laves Phase,Annealed,SPL-SMT,83
+Laves Phase,Annealing,SPL-SMT,88
+Laves Phase,Cooling,SPL-SMT,49
+Laves Phase,Creep,SPL-SMT,42
+Laves Phase,Heat Treated,SPL-SMT,41
+Laves Phase,Heat Treatment,SPL-SMT,81
+Laves Phase,Hydrogenation,SPL-SMT,30
+Laves Phase,Solidification,SPL-SMT,33
+Laves Phase,Tempered,SPL-SMT,31
+Lc,Annealing,SPL-SMT,33
+Lc,Coated,SPL-SMT,33
+Lc,Cooling,SPL-SMT,134
+Lc,Heating,SPL-SMT,127
+Lc,Irradiation,SPL-SMT,51
+Lc,UV Irradiation,SPL-SMT,32
+Leaves,Aged,SPL-SMT,55
+Leaves,Aging,SPL-SMT,91
+Leaves,Alloying,SPL-SMT,37
+Leaves,Annealed,SPL-SMT,40
+Leaves,Annealing,SPL-SMT,68
+Leaves,Cast,SPL-SMT,36
+Leaves,Cooling,SPL-SMT,44
+Leaves,Creep,SPL-SMT,54
+Leaves,Heat Treatment,SPL-SMT,86
+Leaves,Solidification,SPL-SMT,32
+Leaves,Tempered,SPL-SMT,47
+Leaves,Weld,SPL-SMT,42
+Leucogranite,Melting,SPL-SMT,65
+Leucosomes,Melting,SPL-SMT,38
+Lherzolites,Melting,SPL-SMT,100
+Lherzolites,Metasomatism,SPL-SMT,37
+Lherzolites,Partial Melting,SPL-SMT,52
+Like,Calcination,SPL-SMT,42
+Like,Calcined,SPL-SMT,33
+Lpso,Extruded,SPL-SMT,59
+Lpso,Extrusion,SPL-SMT,43
+Lt,Cooling,SPL-SMT,50
+Lt,Heating,SPL-SMT,48
+Lt,Ht,SPL-SMT,67
+M,Annealed,SPL-SMT,42
+M,Annealing,SPL-SMT,57
+M,Cooling,SPL-SMT,114
+M,Heat Treatment,SPL-SMT,65
+M,Heating,SPL-SMT,80
+M,Quenching,SPL-SMT,30
+M,Sintered,SPL-SMT,38
+M,Sintering,SPL-SMT,31
+M1,Cooling,SPL-SMT,41
+M1,Heating,SPL-SMT,41
+MC,Irradiation,SPL-SMT,34
+MFI,Calcination,SPL-SMT,97
+MFI,Calcined,SPL-SMT,72
+MFI,Coated,SPL-SMT,30
+MFI,Heating,SPL-SMT,38
+MFI,Hydrothermal,SPL-SMT,34
+MFI,Hydrothermal Synthesis,SPL-SMT,58
+MFI,Hydrothermal Treatment,SPL-SMT,38
+Macrophages,Coated,SPL-SMT,40
+Mafic,Cooling,SPL-SMT,40
+Mafic,Melting,SPL-SMT,46
+Mafic,Metamorphism,SPL-SMT,56
+Mantle,Melting,SPL-SMT,56
+Marrow,Irradiated,SPL-SMT,35
+Martensite,AM,SPL-SMT,49
+Martensite,Aged,SPL-SMT,370
+Martensite,Ageing,SPL-SMT,149
+Martensite,Aging,SPL-SMT,458
+Martensite,Aging Treatment,SPL-SMT,66
+Martensite,Air Cooled,SPL-SMT,64
+Martensite,Air Cooling,SPL-SMT,123
+Martensite,Alloyed,SPL-SMT,55
+Martensite,Alloying,SPL-SMT,212
+Martensite,Annealed,SPL-SMT,667
+Martensite,Annealing,SPL-SMT,825
+Martensite,As Quenched,SPL-SMT,160
+Martensite,As Rolled,SPL-SMT,51
+Martensite,As-Annealed,SPL-SMT,46
+Martensite,As-Welded,SPL-SMT,48
+Martensite,Austempered,SPL-SMT,104
+Martensite,Austempering,SPL-SMT,96
+Martensite,Austenitisation,SPL-SMT,176
+Martensite,Austenitized,SPL-SMT,125
+Martensite,Austenitizing,SPL-SMT,150
+Martensite,Austenization,SPL-SMT,38
+Martensite,BM,SPL-SMT,59
+Martensite,CG,SPL-SMT,31
+Martensite,Carburized,SPL-SMT,59
+Martensite,Cast,SPL-SMT,105
+Martensite,Casting,SPL-SMT,45
+Martensite,Charging,SPL-SMT,31
+Martensite,Coated,SPL-SMT,67
+Martensite,Cold Deformation,SPL-SMT,48
+Martensite,Cold Rolled,SPL-SMT,354
+Martensite,Cold Rolling,SPL-SMT,293
+Martensite,Cold Worked,SPL-SMT,101
+Martensite,Cold Working,SPL-SMT,35
+Martensite,Compressional,SPL-SMT,60
+Martensite,Compressive Deformation,SPL-SMT,30
+Martensite,Continuous Cooling,SPL-SMT,52
+Martensite,Cooled,SPL-SMT,240
+Martensite,Cooling,SPL-SMT,1551
+Martensite,Creep,SPL-SMT,58
+Martensite,Cryogenic Treatment,SPL-SMT,33
+Martensite,Cutting,SPL-SMT,37
+Martensite,Cyclic Deformation,SPL-SMT,44
+Martensite,DP,SPL-SMT,55
+Martensite,Deep Cryogenic Treatment,SPL-SMT,33
+Martensite,Deformation Induced,SPL-SMT,91
+Martensite,Deformations,SPL-SMT,819
+Martensite,Deformed,SPL-SMT,226
+Martensite,Dp,SPL-SMT,122
+Martensite,Etched,SPL-SMT,260
+Martensite,Etching,SPL-SMT,122
+Martensite,FIB,SPL-SMT,43
+Martensite,FZ,SPL-SMT,67
+Martensite,Fatigue,SPL-SMT,57
+Martensite,Forged,SPL-SMT,35
+Martensite,Forging,SPL-SMT,53
+Martensite,Forming,SPL-SMT,52
+Martensite,Furnace Cooled,SPL-SMT,33
+Martensite,Furnace Cooling,SPL-SMT,35
+Martensite,Grinding,SPL-SMT,40
+Martensite,HAZ,SPL-SMT,143
+Martensite,Hardened,SPL-SMT,127
+Martensite,Hardening,SPL-SMT,148
+Martensite,Heat,SPL-SMT,55
+Martensite,Heat Affected Zone,SPL-SMT,74
+Martensite,Heat Treated,SPL-SMT,400
+Martensite,Heat Treating,SPL-SMT,30
+Martensite,Heat Treatment,SPL-SMT,1096
+Martensite,Heat-Affected,SPL-SMT,216
+Martensite,Heated,SPL-SMT,231
+Martensite,Heating,SPL-SMT,1091
+Martensite,Heating/Cooling,SPL-SMT,38
+Martensite,Homogenised,SPL-SMT,62
+Martensite,Homogenization,SPL-SMT,49
+Martensite,Hot Deformation,SPL-SMT,40
+Martensite,Hot Rolled,SPL-SMT,207
+Martensite,Hot Rolling,SPL-SMT,137
+Martensite,Hot Stamping,SPL-SMT,44
+Martensite,Hydrogen Charging,SPL-SMT,41
+Martensite,Induced,SPL-SMT,36
+Martensite,Intercritical,SPL-SMT,51
+Martensite,Intercritical Annealing,SPL-SMT,243
+Martensite,Intercritically Annealed,SPL-SMT,82
+Martensite,Irradiated,SPL-SMT,93
+Martensite,Irradiation,SPL-SMT,95
+Martensite,Isothermal Ageing,SPL-SMT,35
+Martensite,Isothermal Holding,SPL-SMT,79
+Martensite,Isothermal Transformation,SPL-SMT,51
+Martensite,Isothermal Treatment,SPL-SMT,33
+Martensite,Isothermally,SPL-SMT,37
+Martensite,Laser,SPL-SMT,51
+Martensite,Laser Cladding,SPL-SMT,37
+Martensite,Laser Welded,SPL-SMT,49
+Martensite,Laser Welding,SPL-SMT,48
+Martensite,MT,SPL-SMT,31
+Martensite,Ma,SPL-SMT,57
+Martensite,Machined,SPL-SMT,56
+Martensite,Machining,SPL-SMT,37
+Martensite,Maraging,SPL-SMT,101
+Martensite,Melt Spun,SPL-SMT,56
+Martensite,Melted,SPL-SMT,58
+Martensite,Melting,SPL-SMT,47
+Martensite,Microalloyed,SPL-SMT,56
+Martensite,Milled,SPL-SMT,39
+Martensite,Milling,SPL-SMT,43
+Martensite,Nital,SPL-SMT,77
+Martensite,Nitrided,SPL-SMT,43
+Martensite,Nitriding,SPL-SMT,35
+Martensite,Normalized,SPL-SMT,62
+Martensite,Normalizing,SPL-SMT,31
+Martensite,Oil Quenching,SPL-SMT,30
+Martensite,Oxidation,SPL-SMT,81
+Martensite,P,SPL-SMT,104
+Martensite,PWHT,SPL-SMT,56
+Martensite,Partitioned,SPL-SMT,49
+Martensite,Partitioning,SPL-SMT,119
+Martensite,Plastic Deformation,SPL-SMT,338
+Martensite,Plastically Deformed,SPL-SMT,34
+Martensite,Polished,SPL-SMT,110
+Martensite,Polishing,SPL-SMT,34
+Martensite,Post Weld Heat Treatment,SPL-SMT,36
+Martensite,Pre-strained,SPL-SMT,36
+Martensite,Pre-straining,SPL-SMT,47
+Martensite,Precipitation Hardening,SPL-SMT,47
+Martensite,Precipitation Strengthening,SPL-SMT,37
+Martensite,Preheating,SPL-SMT,30
+Martensite,Quench,SPL-SMT,98
+Martensite,Quenched,SPL-SMT,635
+Martensite,Quenching,SPL-SMT,794
+Martensite,Quenching and Partitioning,SPL-SMT,73
+Martensite,Rapid Cooling,SPL-SMT,54
+Martensite,Recrystallisation,SPL-SMT,61
+Martensite,Recrystallized,SPL-SMT,158
+Martensite,Reheated,SPL-SMT,42
+Martensite,Reheating,SPL-SMT,77
+Martensite,Reversion Annealing,SPL-SMT,32
+Martensite,Rolled,SPL-SMT,125
+Martensite,Rolling,SPL-SMT,406
+Martensite,SLM,SPL-SMT,36
+Martensite,Selective Laser Melting,SPL-SMT,82
+Martensite,Severe Plastic Deformation,SPL-SMT,37
+Martensite,Sintered,SPL-SMT,85
+Martensite,Sintering,SPL-SMT,56
+Martensite,Slm,SPL-SMT,76
+Martensite,Soaking,SPL-SMT,52
+Martensite,Solid Solution Strengthening,SPL-SMT,41
+Martensite,Solidification,SPL-SMT,65
+Martensite,Solution Annealed,SPL-SMT,81
+Martensite,Solution Treated,SPL-SMT,144
+Martensite,Solution Treatment,SPL-SMT,120
+Martensite,Strain,SPL-SMT,51
+Martensite,Strain Hardening,SPL-SMT,92
+Martensite,Strain-Induced,SPL-SMT,107
+Martensite,Straining,SPL-SMT,71
+Martensite,Strengthening,SPL-SMT,82
+Martensite,Stress - Induced,SPL-SMT,33
+Martensite,T,SPL-SMT,31
+Martensite,TMCP,SPL-SMT,32
+Martensite,TRIP,SPL-SMT,40
+Martensite,TWIP,SPL-SMT,44
+Martensite,Tempered,SPL-SMT,1108
+Martensite,Tempering,SPL-SMT,753
+Martensite,Tensile,SPL-SMT,35
+Martensite,Tensile Deformation,SPL-SMT,196
+Martensite,Tensile Strain,SPL-SMT,31
+Martensite,Thermal,SPL-SMT,85
+Martensite,Thermal Cycling,SPL-SMT,183
+Martensite,Thermal Treatment,SPL-SMT,72
+Martensite,Thermally Cycled,SPL-SMT,202
+Martensite,Thermally Induced,SPL-SMT,48
+Martensite,Thermo,SPL-SMT,73
+Martensite,Thermo-Mechanical Treatment,SPL-SMT,100
+Martensite,Thermomechanical Processing,SPL-SMT,81
+Martensite,Transformation,SPL-SMT,83
+Martensite,Trip,SPL-SMT,163
+Martensite,Unloading,SPL-SMT,40
+Martensite,Untempered,SPL-SMT,35
+Martensite,Water Quenched,SPL-SMT,161
+Martensite,Water Quenching,SPL-SMT,201
+Martensite,Weld,SPL-SMT,345
+Martensite,Welded,SPL-SMT,251
+Martensite,Welding,SPL-SMT,306
+Martensite,Weldment,SPL-SMT,71
+Martensite,Welds,SPL-SMT,140
+Martensite,Work Hardening,SPL-SMT,166
+Martensitic,AM,SPL-SMT,39
+Martensitic,Activation,SPL-SMT,30
+Martensitic,Aged,SPL-SMT,201
+Martensitic,Ageing,SPL-SMT,87
+Martensitic,Aging,SPL-SMT,274
+Martensitic,Air Cooling,SPL-SMT,62
+Martensitic,Alloyed,SPL-SMT,42
+Martensitic,Alloying,SPL-SMT,181
+Martensitic,Annealed,SPL-SMT,318
+Martensitic,Annealing,SPL-SMT,405
+Martensitic,As Quenched,SPL-SMT,86
+Martensitic,Austempered,SPL-SMT,40
+Martensitic,Austenitisation,SPL-SMT,92
+Martensitic,Austenitized,SPL-SMT,54
+Martensitic,Austenitizing,SPL-SMT,87
+Martensitic,Carburized,SPL-SMT,31
+Martensitic,Cast,SPL-SMT,89
+Martensitic,Coated,SPL-SMT,81
+Martensitic,Cold Rolled,SPL-SMT,134
+Martensitic,Cold Rolling,SPL-SMT,113
+Martensitic,Cold Worked,SPL-SMT,56
+Martensitic,Compressional,SPL-SMT,35
+Martensitic,Cooled,SPL-SMT,116
+Martensitic,Cooling,SPL-SMT,856
+Martensitic,Creep,SPL-SMT,62
+Martensitic,Cutting,SPL-SMT,34
+Martensitic,Deformations,SPL-SMT,379
+Martensitic,Deformed,SPL-SMT,93
+Martensitic,Etched,SPL-SMT,105
+Martensitic,Etching,SPL-SMT,61
+Martensitic,Forging,SPL-SMT,31
+Martensitic,Grinding,SPL-SMT,34
+Martensitic,HAZ,SPL-SMT,62
+Martensitic,HIP,SPL-SMT,46
+Martensitic,HPT,SPL-SMT,32
+Martensitic,Hardened,SPL-SMT,83
+Martensitic,Hardening,SPL-SMT,151
+Martensitic,Heat Treated,SPL-SMT,229
+Martensitic,Heat Treatment,SPL-SMT,615
+Martensitic,Heat-Affected,SPL-SMT,103
+Martensitic,Heated,SPL-SMT,126
+Martensitic,Heating,SPL-SMT,620
+Martensitic,Hot Isostatic Pressing,SPL-SMT,44
+Martensitic,Hot Rolled,SPL-SMT,67
+Martensitic,Hot Rolling,SPL-SMT,51
+Martensitic,Hot Stamping,SPL-SMT,30
+Martensitic,Implantations,SPL-SMT,38
+Martensitic,Implanted,SPL-SMT,38
+Martensitic,Intercritical Annealing,SPL-SMT,59
+Martensitic,Irradiated,SPL-SMT,275
+Martensitic,Irradiation,SPL-SMT,387
+Martensitic,Irradiation Hardening,SPL-SMT,48
+Martensitic,Joining,SPL-SMT,46
+Martensitic,Machined,SPL-SMT,49
+Martensitic,Machining,SPL-SMT,41
+Martensitic,Maraging,SPL-SMT,61
+Martensitic,Melt Spun,SPL-SMT,44
+Martensitic,Melted,SPL-SMT,40
+Martensitic,Melting,SPL-SMT,51
+Martensitic,Neutron Irradiation,SPL-SMT,83
+Martensitic,Nital,SPL-SMT,35
+Martensitic,Nitrided,SPL-SMT,56
+Martensitic,Nitriding,SPL-SMT,43
+Martensitic,Normalized,SPL-SMT,64
+Martensitic,Normalizing,SPL-SMT,32
+Martensitic,Oxidation,SPL-SMT,129
+Martensitic,P,SPL-SMT,37
+Martensitic,PWHT,SPL-SMT,41
+Martensitic,Plastic Deformation,SPL-SMT,227
+Martensitic,Polished,SPL-SMT,77
+Martensitic,Precipitation Hardening,SPL-SMT,52
+Martensitic,Precipitation Strengthening,SPL-SMT,30
+Martensitic,Quench,SPL-SMT,30
+Martensitic,Quenched,SPL-SMT,312
+Martensitic,Quenching,SPL-SMT,350
+Martensitic,Radiation,SPL-SMT,52
+Martensitic,Rapid Cooling,SPL-SMT,37
+Martensitic,Recrystallisation,SPL-SMT,40
+Martensitic,Recrystallized,SPL-SMT,70
+Martensitic,Reduced,SPL-SMT,58
+Martensitic,Reduced Activation,SPL-SMT,149
+Martensitic,Rolled,SPL-SMT,49
+Martensitic,Rolling,SPL-SMT,181
+Martensitic,SLM,SPL-SMT,31
+Martensitic,Selective Laser Melting,SPL-SMT,71
+Martensitic,Sintered,SPL-SMT,64
+Martensitic,Sintering,SPL-SMT,56
+Martensitic,Slm,SPL-SMT,68
+Martensitic,Solidification,SPL-SMT,53
+Martensitic,Solution Annealed,SPL-SMT,39
+Martensitic,Solution Treated,SPL-SMT,71
+Martensitic,Solution Treatment,SPL-SMT,58
+Martensitic,Strain Hardening,SPL-SMT,64
+Martensitic,Strain-Induced,SPL-SMT,37
+Martensitic,Straining,SPL-SMT,31
+Martensitic,Strengthening,SPL-SMT,62
+Martensitic,Tempered,SPL-SMT,679
+Martensitic,Tempering,SPL-SMT,454
+Martensitic,Tensile Deformation,SPL-SMT,85
+Martensitic,Thermal,SPL-SMT,56
+Martensitic,Thermal Cycling,SPL-SMT,112
+Martensitic,Thermal Treatment,SPL-SMT,49
+Martensitic,Thermally Cycled,SPL-SMT,89
+Martensitic,Thermo,SPL-SMT,41
+Martensitic,Thermo-Mechanical Treatment,SPL-SMT,66
+Martensitic,Transformation,SPL-SMT,98
+Martensitic,Trip,SPL-SMT,84
+Martensitic,Unirradiated,SPL-SMT,39
+Martensitic,Water Quenched,SPL-SMT,65
+Martensitic,Water Quenching,SPL-SMT,78
+Martensitic,Weld,SPL-SMT,183
+Martensitic,Welded,SPL-SMT,129
+Martensitic,Welding,SPL-SMT,176
+Martensitic,Weldment,SPL-SMT,61
+Martensitic,Welds,SPL-SMT,77
+Martensitic,Work Hardening,SPL-SMT,89
+Melanoma,Irradiated,SPL-SMT,35
+Melanoma,Irradiation,SPL-SMT,44
+Merocyanine,Irradiation,SPL-SMT,69
+Merocyanine,UV Irradiation,SPL-SMT,34
+Mesenchymal,Marrow,SPL-SMT,47
+Meso Structured,Calcination,SPL-SMT,39
+Mesophase,Cooling,SPL-SMT,45
+Mesophase,Heating,SPL-SMT,41
+Mesophilic,Thermophilic,SPL-SMT,48
+Metamorphic,Melting,SPL-SMT,31
+Metamorphic,Metamorphism,SPL-SMT,54
+Metapelites,Metamorphism,SPL-SMT,30
+Meteorite,Cooling,SPL-SMT,38
+Meteorite,Melting,SPL-SMT,44
+Migmatites,Melting,SPL-SMT,50
+Migmatitic,Melting,SPL-SMT,34
+Migmatitic,Metamorphism,SPL-SMT,45
+Monoclinic,APS,SPL-SMT,34
+Monoclinic,Aged,SPL-SMT,117
+Monoclinic,Ageing,SPL-SMT,66
+Monoclinic,Aging,SPL-SMT,188
+Monoclinic,Ald,SPL-SMT,54
+Monoclinic,Alloying,SPL-SMT,38
+Monoclinic,Anneal,SPL-SMT,39
+Monoclinic,Annealed,SPL-SMT,814
+Monoclinic,Annealing,SPL-SMT,1092
+Monoclinic,Anodization,SPL-SMT,30
+Monoclinic,Anodized,SPL-SMT,30
+Monoclinic,Atomic Layer Deposition,SPL-SMT,65
+Monoclinic,Autoclave,SPL-SMT,59
+Monoclinic,Ball Milling,SPL-SMT,69
+Monoclinic,Ball-Milled,SPL-SMT,43
+Monoclinic,CVD,SPL-SMT,55
+Monoclinic,Calcinated,SPL-SMT,33
+Monoclinic,Calcination,SPL-SMT,618
+Monoclinic,Calcined,SPL-SMT,565
+Monoclinic,Calcining,SPL-SMT,59
+Monoclinic,Charging,SPL-SMT,35
+Monoclinic,Chemical Vapour Deposition,SPL-SMT,46
+Monoclinic,Co-Precipitation,SPL-SMT,35
+Monoclinic,Co-precipitation Method,SPL-SMT,44
+Monoclinic,Coated,SPL-SMT,308
+Monoclinic,Coatings,SPL-SMT,69
+Monoclinic,Combustion,SPL-SMT,31
+Monoclinic,Compressional,SPL-SMT,35
+Monoclinic,Cooled,SPL-SMT,119
+Monoclinic,Cooling,SPL-SMT,839
+Monoclinic,Crystallization,SPL-SMT,33
+Monoclinic,Deformations,SPL-SMT,35
+Monoclinic,Dehydration,SPL-SMT,132
+Monoclinic,Densification,SPL-SMT,81
+Monoclinic,Densified,SPL-SMT,44
+Monoclinic,Dip Coating,SPL-SMT,31
+Monoclinic,Discharge,SPL-SMT,37
+Monoclinic,Dissolution,SPL-SMT,53
+Monoclinic,Doping,SPL-SMT,356
+Monoclinic,Dried,SPL-SMT,95
+Monoclinic,Drying,SPL-SMT,67
+Monoclinic,Electrochemical,SPL-SMT,31
+Monoclinic,Electrodeposition,SPL-SMT,38
+Monoclinic,Electrospinning,SPL-SMT,32
+Monoclinic,Etched,SPL-SMT,45
+Monoclinic,Etching,SPL-SMT,65
+Monoclinic,Evaporation,SPL-SMT,37
+Monoclinic,Fired,SPL-SMT,57
+Monoclinic,Firing,SPL-SMT,60
+Monoclinic,Flux Method,SPL-SMT,45
+Monoclinic,Furnace,SPL-SMT,33
+Monoclinic,Grinding,SPL-SMT,85
+Monoclinic,Ground,SPL-SMT,55
+Monoclinic,Heat Treated,SPL-SMT,192
+Monoclinic,Heat Treatment,SPL-SMT,436
+Monoclinic,Heated,SPL-SMT,340
+Monoclinic,Heating,SPL-SMT,1184
+Monoclinic,Hot Pressed,SPL-SMT,43
+Monoclinic,Hot-Pressing,SPL-SMT,51
+Monoclinic,Ht,SPL-SMT,34
+Monoclinic,Hydrated,SPL-SMT,31
+Monoclinic,Hydration,SPL-SMT,37
+Monoclinic,Hydrogenated,SPL-SMT,31
+Monoclinic,Hydrogenation,SPL-SMT,32
+Monoclinic,Hydrolysis,SPL-SMT,120
+Monoclinic,Hydrothermal,SPL-SMT,386
+Monoclinic,Hydrothermal Condition,SPL-SMT,197
+Monoclinic,Hydrothermal Method,SPL-SMT,280
+Monoclinic,Hydrothermal Process,SPL-SMT,59
+Monoclinic,Hydrothermal Reaction,SPL-SMT,182
+Monoclinic,Hydrothermal Route,SPL-SMT,36
+Monoclinic,Hydrothermal Synthesis,SPL-SMT,133
+Monoclinic,Hydrothermal Technique,SPL-SMT,34
+Monoclinic,Hydrothermal Treatment,SPL-SMT,116
+Monoclinic,Hydrothermally Synthesized,SPL-SMT,40
+Monoclinic,Implanted,SPL-SMT,30
+Monoclinic,Impregnating,SPL-SMT,47
+Monoclinic,Ion Exchange,SPL-SMT,35
+Monoclinic,Irradiated,SPL-SMT,123
+Monoclinic,Irradiation,SPL-SMT,210
+Monoclinic,Leaching,SPL-SMT,32
+Monoclinic,Lithiated,SPL-SMT,40
+Monoclinic,Lithiation,SPL-SMT,41
+Monoclinic,Magnetron Sputtering,SPL-SMT,31
+Monoclinic,Melting,SPL-SMT,102
+Monoclinic,Microwave Irradiation,SPL-SMT,31
+Monoclinic,Mild Hydrothermal Conditions,SPL-SMT,47
+Monoclinic,Milled,SPL-SMT,68
+Monoclinic,Milling,SPL-SMT,103
+Monoclinic,Oxidation,SPL-SMT,441
+Monoclinic,Oxidize,SPL-SMT,183
+Monoclinic,PLD,SPL-SMT,40
+Monoclinic,Plasma Spray,SPL-SMT,46
+Monoclinic,Polished,SPL-SMT,175
+Monoclinic,Polishing,SPL-SMT,37
+Monoclinic,Postannealing,SPL-SMT,44
+Monoclinic,Precipitation,SPL-SMT,42
+Monoclinic,Pressed,SPL-SMT,46
+Monoclinic,Pulsed Laser Deposition,SPL-SMT,83
+Monoclinic,Pyrolysis,SPL-SMT,50
+Monoclinic,Quenched,SPL-SMT,147
+Monoclinic,Quenching,SPL-SMT,103
+Monoclinic,Reductions,SPL-SMT,201
+Monoclinic,SPS,SPL-SMT,40
+Monoclinic,Self Assembly,SPL-SMT,59
+Monoclinic,Sintered,SPL-SMT,678
+Monoclinic,Sintering,SPL-SMT,557
+Monoclinic,Slow Cooling,SPL-SMT,35
+Monoclinic,Slow Evaporation,SPL-SMT,48
+Monoclinic,Slow Evaporation Method,SPL-SMT,37
+Monoclinic,Slow Evaporation Technique,SPL-SMT,35
+Monoclinic,Sol Gel,SPL-SMT,44
+Monoclinic,Sol-Gel,SPL-SMT,464
+Monoclinic,Solid State Method,SPL-SMT,67
+Monoclinic,Solid State Reaction,SPL-SMT,416
+Monoclinic,Solid State Reaction Method,SPL-SMT,139
+Monoclinic,Solid State Reaction Technique,SPL-SMT,34
+Monoclinic,Solid State Synthesis,SPL-SMT,34
+Monoclinic,Solvothermal,SPL-SMT,64
+Monoclinic,Solvothermal Condition,SPL-SMT,65
+Monoclinic,Solvothermal Method,SPL-SMT,40
+Monoclinic,Solvothermal Reaction,SPL-SMT,44
+Monoclinic,Spark Plasma Sintering,SPL-SMT,37
+Monoclinic,Spin Coater,SPL-SMT,33
+Monoclinic,Spin Coating,SPL-SMT,60
+Monoclinic,Spray Pyrolysis,SPL-SMT,41
+Monoclinic,Sputtered,SPL-SMT,73
+Monoclinic,Sputtering,SPL-SMT,85
+Monoclinic,Thermal,SPL-SMT,39
+Monoclinic,Thermal Annealing,SPL-SMT,58
+Monoclinic,Thermal Cycling,SPL-SMT,33
+Monoclinic,Thermal Decomposition,SPL-SMT,172
+Monoclinic,Thermal Oxidation,SPL-SMT,40
+Monoclinic,Thermal Treated,SPL-SMT,51
+Monoclinic,Thermal Treatment,SPL-SMT,263
+Monoclinic,Thermally Etched,SPL-SMT,52
+Monoclinic,Thermolysis,SPL-SMT,31
+Monohydrates,Dehydration,SPL-SMT,34
+Monohydrates,Heating,SPL-SMT,31
+Morb,Melting,SPL-SMT,38
+Myeloid,Acute,SPL-SMT,52
+Mylonitic,Recrystallized,SPL-SMT,35
+N-Morb,Melting,SPL-SMT,36
+NSCLC,Chemotherapy,SPL-SMT,47
+NSCLC,Radiation,SPL-SMT,36
+NSCLC,Radiation Therapy,SPL-SMT,30
+NSCLC,Radiotherapy,SPL-SMT,44
+NaCl,Annealing,SPL-SMT,39
+Nematic,Annealing,SPL-SMT,37
+Nematic,Coated,SPL-SMT,38
+Nematic,Cooled,SPL-SMT,36
+Nematic,Cooling,SPL-SMT,318
+Nematic,Heated,SPL-SMT,39
+Nematic,Heating,SPL-SMT,235
+Nematic,Irradiated,SPL-SMT,34
+Nematic,Irradiation,SPL-SMT,70
+Nematic,Self Assembly,SPL-SMT,31
+Nematic,UV Irradiation,SPL-SMT,42
+North China Craton,Melting,SPL-SMT,43
+North China Craton,Metamorphic,SPL-SMT,32
+OIB,Melting,SPL-SMT,32
+Oceanic,Melting,SPL-SMT,67
+Olivine;,Melting,SPL-SMT,30
+Olivines,Alteration,SPL-SMT,66
+Olivines,Annealed,SPL-SMT,61
+Olivines,Annealing,SPL-SMT,88
+Olivines,Archean,SPL-SMT,32
+Olivines,Batch Melting,SPL-SMT,46
+Olivines,Calcination,SPL-SMT,53
+Olivines,Calcined,SPL-SMT,50
+Olivines,Carbonated,SPL-SMT,34
+Olivines,Carbonation,SPL-SMT,43
+Olivines,Coated,SPL-SMT,140
+Olivines,Coatings,SPL-SMT,64
+Olivines,Cooling,SPL-SMT,181
+Olivines,Deformations,SPL-SMT,56
+Olivines,Dehydration,SPL-SMT,46
+Olivines,Delithiated,SPL-SMT,40
+Olivines,Delithiation,SPL-SMT,40
+Olivines,Dissolution,SPL-SMT,53
+Olivines,Doping,SPL-SMT,57
+Olivines,FIB,SPL-SMT,41
+Olivines,Fractional Crystallization,SPL-SMT,143
+Olivines,Fractional Melting,SPL-SMT,54
+Olivines,Gasification,SPL-SMT,54
+Olivines,Heat Treatment,SPL-SMT,48
+Olivines,Heated,SPL-SMT,72
+Olivines,Heating,SPL-SMT,165
+Olivines,Hydrothermal,SPL-SMT,31
+Olivines,Impacts,SPL-SMT,34
+Olivines,Melted,SPL-SMT,31
+Olivines,Melting,SPL-SMT,466
+Olivines,Metamorphic,SPL-SMT,30
+Olivines,Metamorphism,SPL-SMT,46
+Olivines,Metasomatic,SPL-SMT,40
+Olivines,Metasomatism,SPL-SMT,81
+Olivines,Metasomatized,SPL-SMT,68
+Olivines,Oxidation,SPL-SMT,92
+Olivines,Oxidize,SPL-SMT,75
+Olivines,Partial Melting,SPL-SMT,138
+Olivines,Polished,SPL-SMT,83
+Olivines,Quenched,SPL-SMT,95
+Olivines,Quenching,SPL-SMT,35
+Olivines,Recrystallized,SPL-SMT,75
+Olivines,Serpentinization,SPL-SMT,50
+Olivines,Serpentinized,SPL-SMT,84
+Olivines,Sintered,SPL-SMT,40
+Olivines,Sintering,SPL-SMT,40
+Olivines,Sol-Gel,SPL-SMT,53
+Olivines,Solid State Reaction,SPL-SMT,47
+Olivines,Subducted,SPL-SMT,36
+Olivines,Subduction,SPL-SMT,47
+Olivines,Weathered,SPL-SMT,39
+Olivines,Weathering,SPL-SMT,68
+Ophiolites,Melting,SPL-SMT,64
+Ophiolites,Serpentinized,SPL-SMT,49
+Orthopyroxene,Melting,SPL-SMT,44
+Orthorhombic,Aged,SPL-SMT,79
+Orthorhombic,Ageing,SPL-SMT,34
+Orthorhombic,Aging,SPL-SMT,119
+Orthorhombic,Ald,SPL-SMT,38
+Orthorhombic,Alloying,SPL-SMT,68
+Orthorhombic,Annealed,SPL-SMT,686
+Orthorhombic,Annealing,SPL-SMT,907
+Orthorhombic,Arc Melting,SPL-SMT,55
+Orthorhombic,Atomic Layer Deposition,SPL-SMT,35
+Orthorhombic,Ball Milling,SPL-SMT,68
+Orthorhombic,Ball-Milled,SPL-SMT,49
+Orthorhombic,CVD,SPL-SMT,44
+Orthorhombic,Calcination,SPL-SMT,341
+Orthorhombic,Calcined,SPL-SMT,322
+Orthorhombic,Calcining,SPL-SMT,43
+Orthorhombic,Chemical Bath Deposition,SPL-SMT,39
+Orthorhombic,Chemical Vapour Deposition,SPL-SMT,41
+Orthorhombic,Co-precipitation Method,SPL-SMT,38
+Orthorhombic,Coated,SPL-SMT,230
+Orthorhombic,Coatings,SPL-SMT,55
+Orthorhombic,Compressional,SPL-SMT,38
+Orthorhombic,Cooled,SPL-SMT,115
+Orthorhombic,Cooling,SPL-SMT,802
+Orthorhombic,Crystallization,SPL-SMT,47
+Orthorhombic,Deformations,SPL-SMT,45
+Orthorhombic,Dehydration,SPL-SMT,89
+Orthorhombic,Dehydrogenation,SPL-SMT,31
+Orthorhombic,Delithiation,SPL-SMT,30
+Orthorhombic,Densification,SPL-SMT,58
+Orthorhombic,Dissolution,SPL-SMT,34
+Orthorhombic,Doping,SPL-SMT,600
+Orthorhombic,Dried,SPL-SMT,69
+Orthorhombic,Drying,SPL-SMT,49
+Orthorhombic,Electrodeposition,SPL-SMT,34
+Orthorhombic,Electrodeposits,SPL-SMT,30
+Orthorhombic,Etched,SPL-SMT,32
+Orthorhombic,Etching,SPL-SMT,55
+Orthorhombic,Field Cooling,SPL-SMT,40
+Orthorhombic,Fired,SPL-SMT,35
+Orthorhombic,Firing,SPL-SMT,43
+Orthorhombic,Grinding,SPL-SMT,34
+Orthorhombic,Heat Treated,SPL-SMT,180
+Orthorhombic,Heat Treatment,SPL-SMT,396
+Orthorhombic,Heated,SPL-SMT,307
+Orthorhombic,Heating,SPL-SMT,1113
+Orthorhombic,High-Energy Ball Milling,SPL-SMT,32
+Orthorhombic,Ht,SPL-SMT,32
+Orthorhombic,Hydrogenated,SPL-SMT,39
+Orthorhombic,Hydrogenation,SPL-SMT,52
+Orthorhombic,Hydrolysis,SPL-SMT,67
+Orthorhombic,Hydrothermal,SPL-SMT,194
+Orthorhombic,Hydrothermal Condition,SPL-SMT,113
+Orthorhombic,Hydrothermal Method,SPL-SMT,196
+Orthorhombic,Hydrothermal Process,SPL-SMT,50
+Orthorhombic,Hydrothermal Reaction,SPL-SMT,117
+Orthorhombic,Hydrothermal Route,SPL-SMT,38
+Orthorhombic,Hydrothermal Synthesis,SPL-SMT,128
+Orthorhombic,Hydrothermal Treatment,SPL-SMT,88
+Orthorhombic,Hydrothermally Synthesized,SPL-SMT,31
+Orthorhombic,Irradiated,SPL-SMT,88
+Orthorhombic,Irradiation,SPL-SMT,180
+Orthorhombic,Lithiated,SPL-SMT,48
+Orthorhombic,Lithiation,SPL-SMT,51
+Orthorhombic,Melt Spun,SPL-SMT,33
+Orthorhombic,Melting,SPL-SMT,88
+Orthorhombic,Mild Hydrothermal Conditions,SPL-SMT,37
+Orthorhombic,Milled,SPL-SMT,58
+Orthorhombic,Milling,SPL-SMT,85
+Orthorhombic,Oxidation,SPL-SMT,270
+Orthorhombic,Oxidize,SPL-SMT,125
+Orthorhombic,PLD,SPL-SMT,40
+Orthorhombic,Pechini Method,SPL-SMT,30
+Orthorhombic,Polished,SPL-SMT,90
+Orthorhombic,Postannealing,SPL-SMT,41
+Orthorhombic,Pressed,SPL-SMT,40
+Orthorhombic,Pulsed Laser Deposition,SPL-SMT,100
+Orthorhombic,Pyrolysis,SPL-SMT,31
+Orthorhombic,Quenched,SPL-SMT,175
+Orthorhombic,Quenching,SPL-SMT,109
+Orthorhombic,Recrystallized,SPL-SMT,30
+Orthorhombic,Reductions,SPL-SMT,176
+Orthorhombic,SPS,SPL-SMT,43
+Orthorhombic,Self Assembly,SPL-SMT,45
+Orthorhombic,Sintered,SPL-SMT,567
+Orthorhombic,Sintering,SPL-SMT,461
+Orthorhombic,Slow Cooling,SPL-SMT,36
+Orthorhombic,Slowly Cooled,SPL-SMT,37
+Orthorhombic,Sol-Gel,SPL-SMT,362
+Orthorhombic,Solid State Method,SPL-SMT,89
+Orthorhombic,Solid State Reaction,SPL-SMT,480
+Orthorhombic,Solid State Reaction Method,SPL-SMT,278
+Orthorhombic,Solid State Reaction Route,SPL-SMT,65
+Orthorhombic,Solid State Reaction Technique,SPL-SMT,61
+Orthorhombic,Solid State Sintering,SPL-SMT,39
+Orthorhombic,Solid State Synthesis,SPL-SMT,39
+Orthorhombic,Solvothermal,SPL-SMT,40
+Orthorhombic,Solvothermal Method,SPL-SMT,44
+Orthorhombic,Spark Plasma Sintering,SPL-SMT,34
+Orthorhombic,Spin Coater,SPL-SMT,35
+Orthorhombic,Spin Coating,SPL-SMT,59
+Orthorhombic,Spray Pyrolysis,SPL-SMT,61
+Orthorhombic,Sputtered,SPL-SMT,40
+Orthorhombic,Sputtering,SPL-SMT,52
+Orthorhombic,Thermal Annealing,SPL-SMT,65
+Orthorhombic,Thermal Decomposition,SPL-SMT,133
+Orthorhombic,Thermal Treated,SPL-SMT,36
+Orthorhombic,Thermal Treatment,SPL-SMT,159
+Orthorhombic,Thermolysis,SPL-SMT,30
+Orthorhombic Perovskite,Sintered,SPL-SMT,58
+Orthorhombic Perovskite,Sintering,SPL-SMT,45
+Orthorhombic Perovskite,Sol-Gel,SPL-SMT,36
+Osteoblasts,Coated,SPL-SMT,66
+Osteoblasts,Implantations,SPL-SMT,58
+Osteoblasts,Mineralization,SPL-SMT,31
+Ovarian,Chemotherapy,SPL-SMT,45
+P,Annealed,SPL-SMT,38
+P,Annealing,SPL-SMT,60
+P,Coated,SPL-SMT,31
+P,Cooling,SPL-SMT,76
+P,Heat Treatment,SPL-SMT,45
+P,Heating,SPL-SMT,87
+P,Oxidation,SPL-SMT,31
+P,Quenching,SPL-SMT,34
+P,Sintered,SPL-SMT,35
+P,T,SPL-SMT,31
+P-1,Hydrothermal,SPL-SMT,33
+P1,Cooling,SPL-SMT,41
+P1,Heating,SPL-SMT,58
+P1,Hydrothermal,SPL-SMT,42
+P1,Hydrothermal Condition,SPL-SMT,47
+P1,Oxidation,SPL-SMT,38
+P2,Annealing,SPL-SMT,31
+P2,Coated,SPL-SMT,42
+P2,Cooling,SPL-SMT,30
+P2,Doping,SPL-SMT,33
+P2,Heating,SPL-SMT,33
+P2 1/N,Cooling,SPL-SMT,36
+P2 1/N,Heating,SPL-SMT,46
+P2 1/N,Solid State Reaction,SPL-SMT,51
+P21,Heating,SPL-SMT,33
+P21/C,Cooling,SPL-SMT,51
+P21/C,Heating,SPL-SMT,88
+P21/C,Hydrothermal,SPL-SMT,65
+P21/C,Hydrothermal Condition,SPL-SMT,40
+P21/C,Hydrothermal Reaction,SPL-SMT,34
+P21/C,Solid State Reaction,SPL-SMT,49
+P212121,Heating,SPL-SMT,32
+P21C,Heating,SPL-SMT,30
+P63/MMC,Annealing,SPL-SMT,37
+P63/MMC,Cooling,SPL-SMT,30
+P63/MMC,Heating,SPL-SMT,34
+PBNM,Doping,SPL-SMT,62
+PBNM,Heating,SPL-SMT,31
+PBNM,Sol-Gel,SPL-SMT,38
+PBNM,Solid State Reaction,SPL-SMT,35
+PBNM,Solid State Reaction Method,SPL-SMT,34
+PNMA,Annealed,SPL-SMT,31
+PNMA,Annealing,SPL-SMT,54
+PNMA,Arc Melting,SPL-SMT,30
+PNMA,Cooling,SPL-SMT,59
+PNMA,Doping,SPL-SMT,75
+PNMA,Heating,SPL-SMT,80
+PNMA,Sintered,SPL-SMT,34
+PNMA,Sol-Gel,SPL-SMT,67
+PNMA,Solid State Reaction,SPL-SMT,92
+PNMA,Solid State Reaction Method,SPL-SMT,49
+Pearlitic,Annealing,SPL-SMT,46
+Pearlitic,Cold Drawing,SPL-SMT,34
+Pearlitic,Cold Drawn,SPL-SMT,40
+Pearlitic,Cooling,SPL-SMT,60
+Pearlitic,Deformations,SPL-SMT,32
+Pearlitic,Drawing,SPL-SMT,36
+Pearlitic,Heat Treatment,SPL-SMT,60
+Pearlitic,Tempered,SPL-SMT,33
+Pelitic,Melting,SPL-SMT,33
+Pelitic,Metamorphism,SPL-SMT,48
+Peraluminous,Melting,SPL-SMT,32
+Peritectic,Cooling,SPL-SMT,33
+Peritectic,Melting,SPL-SMT,34
+Peritectic,Solidification,SPL-SMT,49
+Perovskites,Aged,SPL-SMT,280
+Perovskites,Ageing,SPL-SMT,91
+Perovskites,Aging,SPL-SMT,422
+Perovskites,Ald,SPL-SMT,167
+Perovskites,Alloying,SPL-SMT,75
+Perovskites,Anneal,SPL-SMT,57
+Perovskites,Annealed,SPL-SMT,1271
+Perovskites,Annealing,SPL-SMT,1956
+Perovskites,Antisolvent,SPL-SMT,41
+Perovskites,Antisolvent Method,SPL-SMT,47
+Perovskites,Atomic Layer Deposition,SPL-SMT,116
+Perovskites,Ball Milling,SPL-SMT,99
+Perovskites,Blade Coated,SPL-SMT,35
+Perovskites,Blade Coating,SPL-SMT,49
+Perovskites,CS,SPL-SMT,32
+Perovskites,CSD,SPL-SMT,45
+Perovskites,CVD,SPL-SMT,110
+Perovskites,Calcination,SPL-SMT,858
+Perovskites,Calcined,SPL-SMT,772
+Perovskites,Calcining,SPL-SMT,105
+Perovskites,Ceramic Method,SPL-SMT,52
+Perovskites,Ceramic Technique,SPL-SMT,37
+Perovskites,Chemical Doping,SPL-SMT,42
+Perovskites,Chemical Solution Deposition,SPL-SMT,134
+Perovskites,Chemical Vapour Deposition,SPL-SMT,62
+Perovskites,Citrate Method,SPL-SMT,78
+Perovskites,Co-Doping,SPL-SMT,75
+Perovskites,Co-Precipitation,SPL-SMT,58
+Perovskites,Co-precipitation Method,SPL-SMT,56
+Perovskites,Coated,SPL-SMT,928
+Perovskites,Coatings,SPL-SMT,250
+Perovskites,Colloidal Synthesis,SPL-SMT,35
+Perovskites,Combustion,SPL-SMT,60
+Perovskites,Combustion Method,SPL-SMT,44
+Perovskites,Combustion Synthesis,SPL-SMT,51
+Perovskites,Cooled,SPL-SMT,91
+Perovskites,Cooling,SPL-SMT,688
+Perovskites,Coprecipitation,SPL-SMT,40
+Perovskites,Coprecipitation Method,SPL-SMT,31
+Perovskites,Crystallization,SPL-SMT,47
+Perovskites,Decomposition,SPL-SMT,30
+Perovskites,Dehydration,SPL-SMT,60
+Perovskites,Densification,SPL-SMT,155
+Perovskites,Densified,SPL-SMT,48
+Perovskites,Dip Coating,SPL-SMT,89
+Perovskites,Dissolution,SPL-SMT,59
+Perovskites,Doping,SPL-SMT,1612
+Perovskites,Dried,SPL-SMT,154
+Perovskites,Drop Casting,SPL-SMT,46
+Perovskites,Drying,SPL-SMT,140
+Perovskites,Electrodeposition,SPL-SMT,43
+Perovskites,Electrodeposits,SPL-SMT,38
+Perovskites,Electrolysis,SPL-SMT,31
+Perovskites,Electrospinning,SPL-SMT,77
+Perovskites,Electrospun,SPL-SMT,33
+Perovskites,Engineering,SPL-SMT,43
+Perovskites,Etched,SPL-SMT,69
+Perovskites,Etching,SPL-SMT,113
+Perovskites,Evaporated,SPL-SMT,30
+Perovskites,Evaporation,SPL-SMT,67
+Perovskites,Exchange,SPL-SMT,42
+Perovskites,Exfoliate,SPL-SMT,55
+Perovskites,Exfoliation,SPL-SMT,55
+Perovskites,Field Cooling,SPL-SMT,36
+Perovskites,Fired,SPL-SMT,93
+Perovskites,Firing,SPL-SMT,114
+Perovskites,Fluorination,SPL-SMT,35
+Perovskites,Freeze Drying,SPL-SMT,31
+Perovskites,Furnace,SPL-SMT,34
+Perovskites,Fused,SPL-SMT,35
+Perovskites,Glycine Nitrate Process,SPL-SMT,35
+Perovskites,Grinding,SPL-SMT,50
+Perovskites,Ground,SPL-SMT,42
+Perovskites,Heat Treated,SPL-SMT,152
+Perovskites,Heat Treatment,SPL-SMT,471
+Perovskites,Heated,SPL-SMT,427
+Perovskites,Heating,SPL-SMT,1181
+Perovskites,High-Energy Ball Milling,SPL-SMT,46
+Perovskites,Hot Casting,SPL-SMT,47
+Perovskites,Hot Injection Method,SPL-SMT,53
+Perovskites,Ht,SPL-SMT,33
+Perovskites,Hydrated,SPL-SMT,30
+Perovskites,Hydration,SPL-SMT,51
+Perovskites,Hydrolysis,SPL-SMT,65
+Perovskites,Hydrothermal,SPL-SMT,114
+Perovskites,Hydrothermal Condition,SPL-SMT,31
+Perovskites,Hydrothermal Method,SPL-SMT,188
+Perovskites,Hydrothermal Process,SPL-SMT,47
+Perovskites,Hydrothermal Reaction,SPL-SMT,56
+Perovskites,Hydrothermal Route,SPL-SMT,32
+Perovskites,Hydrothermal Synthesis,SPL-SMT,85
+Perovskites,Hydrothermal Treatment,SPL-SMT,57
+Perovskites,Impregnating,SPL-SMT,64
+Perovskites,Infiltrated,SPL-SMT,38
+Perovskites,Infiltration,SPL-SMT,46
+Perovskites,Ink Jet Printed,SPL-SMT,36
+Perovskites,Inkjet Printing,SPL-SMT,77
+Perovskites,Ion Exchange,SPL-SMT,53
+Perovskites,Irradiated,SPL-SMT,149
+Perovskites,Irradiation,SPL-SMT,331
+Perovskites,Larp,SPL-SMT,32
+Perovskites,Laser,SPL-SMT,38
+Perovskites,Laser Ablation,SPL-SMT,41
+Perovskites,Laser Heated,SPL-SMT,58
+Perovskites,Laser Heating,SPL-SMT,38
+Perovskites,Laser Irradiation,SPL-SMT,42
+Perovskites,Leaching,SPL-SMT,30
+Perovskites,Light Irradiation,SPL-SMT,38
+Perovskites,Light Soaking,SPL-SMT,35
+Perovskites,MOCVD,SPL-SMT,47
+Perovskites,Ma,SPL-SMT,63
+Perovskites,Magnetron Sputtering,SPL-SMT,34
+Perovskites,Mbe,SPL-SMT,32
+Perovskites,Mechanical Activation,SPL-SMT,55
+Perovskites,Mechanosynthesis,SPL-SMT,35
+Perovskites,Melting,SPL-SMT,102
+Perovskites,Methods,SPL-SMT,35
+Perovskites,Microwave Irradiation,SPL-SMT,36
+Perovskites,Milled,SPL-SMT,59
+Perovskites,Milling,SPL-SMT,130
+Perovskites,Mixed Oxide Method,SPL-SMT,33
+Perovskites,Mixed Oxide Route,SPL-SMT,33
+Perovskites,Modification,SPL-SMT,48
+Perovskites,Molecular Beam Epitaxy,SPL-SMT,71
+Perovskites,Molten Salt Method,SPL-SMT,33
+Perovskites,Molten Salt Synthesis,SPL-SMT,31
+Perovskites,Nitridation,SPL-SMT,34
+Perovskites,One - Step,SPL-SMT,32
+Perovskites,Oxidation,SPL-SMT,495
+Perovskites,Oxidize,SPL-SMT,248
+Perovskites,PLD,SPL-SMT,172
+Perovskites,Passivated,SPL-SMT,30
+Perovskites,Passivation,SPL-SMT,43
+Perovskites,Patterning,SPL-SMT,45
+Perovskites,Pechini Method,SPL-SMT,117
+Perovskites,Photo,SPL-SMT,31
+Perovskites,Photoexcitation,SPL-SMT,76
+Perovskites,Plasma,SPL-SMT,40
+Perovskites,Platinized,SPL-SMT,51
+Perovskites,Poling,SPL-SMT,52
+Perovskites,Polished,SPL-SMT,132
+Perovskites,Polishing,SPL-SMT,31
+Perovskites,Polymeric Precursors Method,SPL-SMT,33
+Perovskites,Post Annealed,SPL-SMT,57
+Perovskites,Postannealing,SPL-SMT,144
+Perovskites,Precipitation,SPL-SMT,32
+Perovskites,Pressed,SPL-SMT,77
+Perovskites,Printed,SPL-SMT,30
+Perovskites,Printing,SPL-SMT,52
+Perovskites,Process,SPL-SMT,41
+Perovskites,Processed,SPL-SMT,73
+Perovskites,Processing,SPL-SMT,32
+Perovskites,Pulsed Laser Deposition,SPL-SMT,422
+Perovskites,Pyrolysis,SPL-SMT,88
+Perovskites,Quenched,SPL-SMT,155
+Perovskites,Quenching,SPL-SMT,69
+Perovskites,RF Magnetron Sputtering,SPL-SMT,76
+Perovskites,Radiation,SPL-SMT,39
+Perovskites,Radio Frequency (RF) Magnetron Sputtering,SPL-SMT,58
+Perovskites,Rapid Thermal Annealing,SPL-SMT,63
+Perovskites,Re-Oxidation,SPL-SMT,95
+Perovskites,Recrystallisation,SPL-SMT,32
+Perovskites,Reduced,SPL-SMT,64
+Perovskites,Reductions,SPL-SMT,529
+Perovskites,Rta,SPL-SMT,39
+Perovskites,SA,SPL-SMT,32
+Perovskites,SAM,SPL-SMT,31
+Perovskites,SPS,SPL-SMT,45
+Perovskites,SSR,SPL-SMT,37
+Perovskites,Screen Printed,SPL-SMT,65
+Perovskites,Screen Printing,SPL-SMT,69
+Perovskites,Self Assembled,SPL-SMT,50
+Perovskites,Self Assembly,SPL-SMT,72
+Perovskites,Sequential Deposition,SPL-SMT,76
+Perovskites,Sequential Deposition Method,SPL-SMT,31
+Perovskites,Sintered,SPL-SMT,1364
+Perovskites,Sintering,SPL-SMT,1354
+Perovskites,Slot Die Coating,SPL-SMT,30
+Perovskites,Slowly Cooled,SPL-SMT,34
+Perovskites,Soaking,SPL-SMT,36
+Perovskites,Sol Gel,SPL-SMT,77
+Perovskites,Sol-Gel,SPL-SMT,1228
+Perovskites,Solid State,SPL-SMT,54
+Perovskites,Solid State Method,SPL-SMT,116
+Perovskites,Solid State Reaction,SPL-SMT,716
+Perovskites,Solid State Reaction Method,SPL-SMT,458
+Perovskites,Solid State Reaction Route,SPL-SMT,74
+Perovskites,Solid State Reaction Technique,SPL-SMT,83
+Perovskites,Solid State Route,SPL-SMT,65
+Perovskites,Solid State Sintering,SPL-SMT,49
+Perovskites,Solid State Synthesis,SPL-SMT,77
+Perovskites,Solution,SPL-SMT,40
+Perovskites,Solution Based,SPL-SMT,33
+Perovskites,Solution Combustion Synthesis,SPL-SMT,42
+Perovskites,Solution Deposition,SPL-SMT,30
+Perovskites,Solution Method,SPL-SMT,49
+Perovskites,Solution Processable,SPL-SMT,42
+Perovskites,Solution Processed,SPL-SMT,479
+Perovskites,Solution Processing,SPL-SMT,191
+Perovskites,Solvent Annealing,SPL-SMT,64
+Perovskites,Solvent Engineering,SPL-SMT,46
+Perovskites,Solvothermal,SPL-SMT,33
+Perovskites,Solvothermal Method,SPL-SMT,37
+Perovskites,Spark Plasma Sintering,SPL-SMT,59
+Perovskites,Spin,SPL-SMT,41
+Perovskites,Spin Cast,SPL-SMT,31
+Perovskites,Spin Coater,SPL-SMT,519
+Perovskites,Spin Coating,SPL-SMT,987
+Perovskites,Spinning,SPL-SMT,42
+Perovskites,Spray,SPL-SMT,56
+Perovskites,Spray Coating,SPL-SMT,69
+Perovskites,Spray Pyrolysis,SPL-SMT,68
+Perovskites,Spray-Coated,SPL-SMT,43
+Perovskites,Sprayed,SPL-SMT,41
+Perovskites,Sputtered,SPL-SMT,136
+Perovskites,Sputtering,SPL-SMT,185
+Perovskites,Step,SPL-SMT,56
+Perovskites,Subducted,SPL-SMT,34
+Perovskites,Surface,SPL-SMT,32
+Perovskites,Surface Modification,SPL-SMT,90
+Perovskites,Surface Treatment,SPL-SMT,74
+Perovskites,Ta,SPL-SMT,34
+Perovskites,Tape Casting,SPL-SMT,32
+Perovskites,Temperature Programmed Reduction,SPL-SMT,56
+Perovskites,Thermal,SPL-SMT,49
+Perovskites,Thermal Aging,SPL-SMT,38
+Perovskites,Thermal Annealing,SPL-SMT,397
+Perovskites,Thermal Cycling,SPL-SMT,39
+Perovskites,Thermal Decomposition,SPL-SMT,166
+Perovskites,Thermal Evaporated,SPL-SMT,39
+Perovskites,Thermal Evaporation,SPL-SMT,59
+Perovskites,Thermal Reduction,SPL-SMT,30
+Perovskites,Thermal Treated,SPL-SMT,47
+Perovskites,Thermal Treatment,SPL-SMT,279
+Perovskites,Thermally Anneal,SPL-SMT,60
+Perovskites,Thermally Etched,SPL-SMT,39
+Perovskites,Two Step Method,SPL-SMT,62
+Perovskites,Two-Step Deposition,SPL-SMT,32
+Perovskites,UV Irradiation,SPL-SMT,98
+Perovskites,VASP,SPL-SMT,36
+Perovskites,Vacuum Deposited,SPL-SMT,44
+Perovskites,Vacuum Deposition,SPL-SMT,31
+Perovskites,Vapor Deposited,SPL-SMT,38
+Perovskites,Vapor Deposition,SPL-SMT,46
+Phase,Annealing,SPL-SMT,47
+Phase,Cooling,SPL-SMT,41
+Phase,Heat Treatment,SPL-SMT,36
+Phase,Heating,SPL-SMT,37
+Phase,Oxidation,SPL-SMT,33
+Phase,Reverse,SPL-SMT,86
+Phase,Solid Phase Extraction,SPL-SMT,50
+Plagioclase,Cooling,SPL-SMT,51
+Plagioclase,Fractional Crystallization,SPL-SMT,37
+Plagioclase,Melting,SPL-SMT,101
+Plagioclase,Partial Melting,SPL-SMT,34
+Pluripotent,Induced,SPL-SMT,120
+Pluripotent,Stem,SPL-SMT,41
+Polygonal,Cooling,SPL-SMT,113
+Polygonal,Deformations,SPL-SMT,37
+Polygonal,Heat Treatment,SPL-SMT,36
+Polygonal,Rolling,SPL-SMT,43
+Porphyry,Melting,SPL-SMT,53
+Potassic,Melting,SPL-SMT,36
+Primitive Mantle,Melting,SPL-SMT,79
+Proeutectoid,Cooling,SPL-SMT,33
+Pseudocubic,Annealed,SPL-SMT,38
+Pseudocubic,Annealing,SPL-SMT,59
+Pseudocubic,Cooling,SPL-SMT,57
+Pseudocubic,Doping,SPL-SMT,49
+Pseudocubic,Heating,SPL-SMT,81
+Pseudocubic,Sintered,SPL-SMT,71
+Pseudocubic,Sintering,SPL-SMT,75
+Pseudocubic,Solid State Reaction Method,SPL-SMT,51
+Pyrochlore,Annealed,SPL-SMT,80
+Pyrochlore,Annealing,SPL-SMT,114
+Pyrochlore,Calcination,SPL-SMT,75
+Pyrochlore,Calcined,SPL-SMT,62
+Pyrochlore,Cooling,SPL-SMT,39
+Pyrochlore,Doping,SPL-SMT,50
+Pyrochlore,Heat Treatment,SPL-SMT,48
+Pyrochlore,Heated,SPL-SMT,45
+Pyrochlore,Heating,SPL-SMT,89
+Pyrochlore,Irradiated,SPL-SMT,38
+Pyrochlore,Irradiation,SPL-SMT,43
+Pyrochlore,Pulsed Laser Deposition,SPL-SMT,36
+Pyrochlore,Sintered,SPL-SMT,139
+Pyrochlore,Sintering,SPL-SMT,123
+Pyrochlore,Sol-Gel,SPL-SMT,97
+Pyrochlore,Solid State Reaction,SPL-SMT,63
+Pyroxene,Alteration,SPL-SMT,45
+Pyroxene,Cooling,SPL-SMT,119
+Pyroxene,Fractional Crystallization,SPL-SMT,62
+Pyroxene,Heated,SPL-SMT,37
+Pyroxene,Heating,SPL-SMT,64
+Pyroxene,Melting,SPL-SMT,206
+Pyroxene,Metamorphism,SPL-SMT,53
+Pyroxene,Oxidation,SPL-SMT,35
+Pyroxene,Oxidize,SPL-SMT,42
+Pyroxene,Partial Melting,SPL-SMT,65
+Pyroxene,Polished,SPL-SMT,36
+Pyroxene,Quenched,SPL-SMT,42
+Pyroxene,Recrystallized,SPL-SMT,41
+Pyroxene,Weathering,SPL-SMT,42
+R A C T,Annealing,SPL-SMT,45
+R A C T,Calcination,SPL-SMT,87
+R A C T,Calcined,SPL-SMT,30
+R A C T,Coated,SPL-SMT,46
+R A C T,Hydrothermal Method,SPL-SMT,61
+R A C T,Oxidation,SPL-SMT,60
+R A C T,Reductions,SPL-SMT,43
+R A C T,Sol-Gel,SPL-SMT,45
+R3c,Doping,SPL-SMT,79
+R3c,Heating,SPL-SMT,44
+R3c,Sintered,SPL-SMT,33
+R3c,Sol-Gel,SPL-SMT,46
+R3c,Solid State Reaction,SPL-SMT,32
+R3c,Solid State Reaction Method,SPL-SMT,41
+RAFM,Reduced Activation,SPL-SMT,71
+Rectangular,Cooling,SPL-SMT,38
+Rhombohedral,Aged,SPL-SMT,44
+Rhombohedral,Aging,SPL-SMT,66
+Rhombohedral,Alloying,SPL-SMT,34
+Rhombohedral,Annealed,SPL-SMT,258
+Rhombohedral,Annealing,SPL-SMT,327
+Rhombohedral,CVD,SPL-SMT,32
+Rhombohedral,Calcination,SPL-SMT,143
+Rhombohedral,Calcined,SPL-SMT,164
+Rhombohedral,Carbonation,SPL-SMT,36
+Rhombohedral,Coated,SPL-SMT,112
+Rhombohedral,Cooled,SPL-SMT,37
+Rhombohedral,Cooling,SPL-SMT,283
+Rhombohedral,Dissolution,SPL-SMT,50
+Rhombohedral,Doping,SPL-SMT,349
+Rhombohedral,Etching,SPL-SMT,32
+Rhombohedral,Heat Treated,SPL-SMT,50
+Rhombohedral,Heat Treatment,SPL-SMT,99
+Rhombohedral,Heated,SPL-SMT,102
+Rhombohedral,Heating,SPL-SMT,386
+Rhombohedral,Hydrothermal,SPL-SMT,35
+Rhombohedral,Hydrothermal Method,SPL-SMT,51
+Rhombohedral,Irradiated,SPL-SMT,36
+Rhombohedral,Irradiation,SPL-SMT,56
+Rhombohedral,Milling,SPL-SMT,39
+Rhombohedral,Oxidation,SPL-SMT,92
+Rhombohedral,Oxidize,SPL-SMT,42
+Rhombohedral,Poled,SPL-SMT,34
+Rhombohedral,Polished,SPL-SMT,60
+Rhombohedral,Pulsed Laser Deposition,SPL-SMT,53
+Rhombohedral,Quenched,SPL-SMT,55
+Rhombohedral,Quenching,SPL-SMT,44
+Rhombohedral,Reductions,SPL-SMT,61
+Rhombohedral,Sintered,SPL-SMT,370
+Rhombohedral,Sintering,SPL-SMT,271
+Rhombohedral,Sol-Gel,SPL-SMT,245
+Rhombohedral,Solid State Method,SPL-SMT,32
+Rhombohedral,Solid State Reaction,SPL-SMT,143
+Rhombohedral,Solid State Reaction Method,SPL-SMT,183
+Rhombohedral,Spark Plasma Sintering,SPL-SMT,30
+Rhombohedral,Thermal Decomposition,SPL-SMT,40
+Rhombohedral,Thermal Treatment,SPL-SMT,60
+Rock Salt,Annealed,SPL-SMT,72
+Rock Salt,Annealing,SPL-SMT,102
+Rock Salt,Coated,SPL-SMT,32
+Rock Salt,Cooling,SPL-SMT,50
+Rock Salt,Doping,SPL-SMT,41
+Rock Salt,Heated,SPL-SMT,35
+Rock Salt,Heating,SPL-SMT,85
+Rock Salt,Oxidation,SPL-SMT,55
+Rock Salt,Sintered,SPL-SMT,35
+Rock-Salt,Annealing,SPL-SMT,42
+Rock-Salt,Heating,SPL-SMT,32
+Ruddlesden Popper,Doping,SPL-SMT,42
+Ruddlesden Popper,Heating,SPL-SMT,39
+Ruddlesden Popper,Reductions,SPL-SMT,33
+Rutile,Aged,SPL-SMT,55
+Rutile,Aging,SPL-SMT,86
+Rutile,Ald,SPL-SMT,89
+Rutile,Annealed,SPL-SMT,909
+Rutile,Annealing,SPL-SMT,1103
+Rutile,Anodic Oxidation,SPL-SMT,61
+Rutile,Anodization,SPL-SMT,186
+Rutile,Anodized,SPL-SMT,148
+Rutile,Anodizing,SPL-SMT,64
+Rutile,Atomic Layer Deposition,SPL-SMT,74
+Rutile,Ball Milling,SPL-SMT,38
+Rutile,Ball-Milled,SPL-SMT,33
+Rutile,CVD,SPL-SMT,79
+Rutile,Calcinated,SPL-SMT,78
+Rutile,Calcination,SPL-SMT,1111
+Rutile,Calcined,SPL-SMT,883
+Rutile,Calcining,SPL-SMT,78
+Rutile,Chemical Vapour Deposition,SPL-SMT,52
+Rutile,Co-Doping,SPL-SMT,37
+Rutile,Coated,SPL-SMT,546
+Rutile,Coatings,SPL-SMT,103
+Rutile,Cooling,SPL-SMT,220
+Rutile,Dehydration,SPL-SMT,48
+Rutile,Densification,SPL-SMT,42
+Rutile,Dip Coating,SPL-SMT,67
+Rutile,Dissolution,SPL-SMT,66
+Rutile,Doping,SPL-SMT,433
+Rutile,Dried,SPL-SMT,142
+Rutile,Drying,SPL-SMT,100
+Rutile,Electrochemical Anodization,SPL-SMT,38
+Rutile,Electrodeposition,SPL-SMT,41
+Rutile,Electrodeposits,SPL-SMT,32
+Rutile,Electrospinning,SPL-SMT,81
+Rutile,Electrospun,SPL-SMT,64
+Rutile,Etched,SPL-SMT,72
+Rutile,Etching,SPL-SMT,91
+Rutile,Exhumation,SPL-SMT,66
+Rutile,Fired,SPL-SMT,73
+Rutile,Firing,SPL-SMT,73
+Rutile,Furnace,SPL-SMT,30
+Rutile,Grinding,SPL-SMT,31
+Rutile,Ground,SPL-SMT,34
+Rutile,HP,SPL-SMT,48
+Rutile,Heat Treated,SPL-SMT,208
+Rutile,Heat Treatment,SPL-SMT,453
+Rutile,Heated,SPL-SMT,280
+Rutile,Heating,SPL-SMT,560
+Rutile,Hydrogenated,SPL-SMT,61
+Rutile,Hydrogenation,SPL-SMT,74
+Rutile,Hydrolysis,SPL-SMT,234
+Rutile,Hydrothermal,SPL-SMT,184
+Rutile,Hydrothermal Condition,SPL-SMT,68
+Rutile,Hydrothermal Method,SPL-SMT,215
+Rutile,Hydrothermal Process,SPL-SMT,99
+Rutile,Hydrothermal Reaction,SPL-SMT,110
+Rutile,Hydrothermal Synthesis,SPL-SMT,75
+Rutile,Hydrothermal Treatment,SPL-SMT,212
+Rutile,Hydrothermally Treated,SPL-SMT,34
+Rutile,Hydroxylated,SPL-SMT,64
+Rutile,Implantations,SPL-SMT,48
+Rutile,Implanted,SPL-SMT,67
+Rutile,Impregnating,SPL-SMT,42
+Rutile,Irradiated,SPL-SMT,197
+Rutile,Irradiation,SPL-SMT,514
+Rutile,Laser Ablation,SPL-SMT,43
+Rutile,Leaching,SPL-SMT,55
+Rutile,Light Irradiation,SPL-SMT,30
+Rutile,Lithiated,SPL-SMT,30
+Rutile,MAO,SPL-SMT,78
+Rutile,MOCVD,SPL-SMT,35
+Rutile,Magnetron Sputtering,SPL-SMT,38
+Rutile,Melting,SPL-SMT,135
+Rutile,Metamorphic,SPL-SMT,98
+Rutile,Metamorphism,SPL-SMT,76
+Rutile,Micro Arc Oxidation,SPL-SMT,76
+Rutile,Microwave Irradiation,SPL-SMT,30
+Rutile,Milled,SPL-SMT,70
+Rutile,Milling,SPL-SMT,91
+Rutile,Oxidation,SPL-SMT,549
+Rutile,Oxidised,SPL-SMT,40
+Rutile,Oxidize,SPL-SMT,311
+Rutile,PEO,SPL-SMT,47
+Rutile,PLD,SPL-SMT,58
+Rutile,Partial Melting,SPL-SMT,43
+Rutile,Photo Deposition,SPL-SMT,40
+Rutile,Photocatalysis,SPL-SMT,65
+Rutile,Photodegradation,SPL-SMT,81
+Rutile,Photolysis,SPL-SMT,35
+Rutile,Photooxidation,SPL-SMT,50
+Rutile,Photoreduction,SPL-SMT,37
+Rutile,Plasma,SPL-SMT,55
+Rutile,Plasma Electrolytic Oxidation,SPL-SMT,43
+Rutile,Polished,SPL-SMT,103
+Rutile,Post Annealed,SPL-SMT,30
+Rutile,Postannealing,SPL-SMT,40
+Rutile,Pulsed Laser Deposition,SPL-SMT,92
+Rutile,Pyrolysis,SPL-SMT,58
+Rutile,Quenched,SPL-SMT,49
+Rutile,RF Magnetron Sputtering,SPL-SMT,33
+Rutile,Recrystallized,SPL-SMT,32
+Rutile,Reductions,SPL-SMT,178
+Rutile,SPS,SPL-SMT,32
+Rutile,Self Assembly,SPL-SMT,41
+Rutile,Sintered,SPL-SMT,328
+Rutile,Sintering,SPL-SMT,352
+Rutile,Soaking,SPL-SMT,34
+Rutile,Sol Gel,SPL-SMT,73
+Rutile,Sol-Gel,SPL-SMT,743
+Rutile,Solid State Reaction,SPL-SMT,69
+Rutile,Solvothermal,SPL-SMT,33
+Rutile,Solvothermal Method,SPL-SMT,32
+Rutile,Sonication,SPL-SMT,35
+Rutile,Spin Coater,SPL-SMT,35
+Rutile,Spin Coating,SPL-SMT,66
+Rutile,Sprayed,SPL-SMT,33
+Rutile,Sputtered,SPL-SMT,101
+Rutile,Sputtering,SPL-SMT,163
+Rutile,Subducted,SPL-SMT,31
+Rutile,Subduction,SPL-SMT,33
+Rutile,Surface Modification,SPL-SMT,59
+Rutile,Surface Treatment,SPL-SMT,38
+Rutile,TICL4,SPL-SMT,33
+Rutile,Thermal,SPL-SMT,33
+Rutile,Thermal Annealing,SPL-SMT,79
+Rutile,Thermal Decomposition,SPL-SMT,62
+Rutile,Thermal Oxidation,SPL-SMT,73
+Rutile,Thermal Treated,SPL-SMT,76
+Rutile,Thermal Treatment,SPL-SMT,278
+Rutile,UV,SPL-SMT,35
+Rutile,UV Irradiation,SPL-SMT,248
+Rutile,UV Light Irradiation,SPL-SMT,36
+Rutile,Washing,SPL-SMT,33
+S T,Aging,SPL-SMT,51
+S T,Annealed,SPL-SMT,84
+S T,Annealing,SPL-SMT,196
+S T,Ball Milling,SPL-SMT,31
+S T,Calcination,SPL-SMT,97
+S T,Calcined,SPL-SMT,46
+S T,Carbonization,SPL-SMT,39
+S T,Chemical Vapour Deposition,SPL-SMT,43
+S T,Coated,SPL-SMT,175
+S T,Coatings,SPL-SMT,46
+S T,Cooling,SPL-SMT,54
+S T,Doping,SPL-SMT,106
+S T,Drying,SPL-SMT,39
+S T,Electrochemical,SPL-SMT,30
+S T,Electrodeposition,SPL-SMT,90
+S T,Electrodeposits,SPL-SMT,31
+S T,Electrospinning,SPL-SMT,32
+S T,Gasification,SPL-SMT,43
+S T,Heat Treatment,SPL-SMT,99
+S T,Heated,SPL-SMT,68
+S T,Heating,SPL-SMT,122
+S T,Hydrolysis,SPL-SMT,49
+S T,Hydrothermal,SPL-SMT,32
+S T,Hydrothermal Method,SPL-SMT,53
+S T,Irradiated,SPL-SMT,55
+S T,Irradiation,SPL-SMT,78
+S T,Oxidation,SPL-SMT,221
+S T,Oxidize,SPL-SMT,64
+S T,Pulsed Laser Deposition,SPL-SMT,38
+S T,Pyrolysis,SPL-SMT,73
+S T,Reductions,SPL-SMT,70
+S T,Sintered,SPL-SMT,61
+S T,Sintering,SPL-SMT,96
+S T,Sol-Gel,SPL-SMT,130
+S T,Solid State Reaction,SPL-SMT,50
+S T,Solid State Reaction Method,SPL-SMT,31
+S T,Spin Coating,SPL-SMT,37
+S T,Sputtering,SPL-SMT,32
+S T,Surface Modification,SPL-SMT,32
+S T,Thermal Decomposition,SPL-SMT,39
+S T,Thermal Treatment,SPL-SMT,60
+SG,Sol-Gel,SPL-SMT,35
+SMC,Cooling,SPL-SMT,102
+SMC,Heating,SPL-SMT,48
+STRAC,Annealing,SPL-SMT,42
+STRAC,Coated,SPL-SMT,46
+STRAC,Oxidation,SPL-SMT,38
+Scheelite,Sintered,SPL-SMT,38
+Schist,Metamorphism,SPL-SMT,49
+Shoshonitic,Melting,SPL-SMT,40
+Skutterudites,Annealing,SPL-SMT,46
+Skutterudites,Doping,SPL-SMT,43
+Skutterudites,Hot-Pressing,SPL-SMT,37
+Skutterudites,Spark Plasma Sintering,SPL-SMT,66
+Sma,Cooling,SPL-SMT,137
+Sma,Heating,SPL-SMT,86
+Smectic,Cooling,SPL-SMT,179
+Smectic,Heating,SPL-SMT,121
+Smectic A,Cooling,SPL-SMT,49
+Smectic C,Cooling,SPL-SMT,34
+Sodic,Melting,SPL-SMT,33
+Solvothermal,Facile,SPL-SMT,36
+Sp,Irradiation,SPL-SMT,34
+Sphalerite,Annealing,SPL-SMT,30
+Spinels,Aged,SPL-SMT,76
+Spinels,Ageing,SPL-SMT,31
+Spinels,Aging,SPL-SMT,104
+Spinels,Ald,SPL-SMT,50
+Spinels,Alloying,SPL-SMT,38
+Spinels,Alteration,SPL-SMT,48
+Spinels,Annealed,SPL-SMT,570
+Spinels,Annealing,SPL-SMT,763
+Spinels,Atomic Layer Deposition,SPL-SMT,44
+Spinels,Ball Milling,SPL-SMT,85
+Spinels,Ball-Milled,SPL-SMT,48
+Spinels,Batch Melting,SPL-SMT,54
+Spinels,Calcinated,SPL-SMT,47
+Spinels,Calcination,SPL-SMT,902
+Spinels,Calcined,SPL-SMT,714
+Spinels,Calcining,SPL-SMT,102
+Spinels,Castable,SPL-SMT,30
+Spinels,Ceramic Method,SPL-SMT,58
+Spinels,Charging,SPL-SMT,48
+Spinels,Chemical Co-Precipitation Method,SPL-SMT,34
+Spinels,Co-Precipitation,SPL-SMT,124
+Spinels,Co-precipitation Method,SPL-SMT,175
+Spinels,Coated,SPL-SMT,646
+Spinels,Coatings,SPL-SMT,178
+Spinels,Combustion,SPL-SMT,78
+Spinels,Combustion Method,SPL-SMT,49
+Spinels,Combustion Synthesis,SPL-SMT,37
+Spinels,Cooled,SPL-SMT,61
+Spinels,Cooling,SPL-SMT,337
+Spinels,Coprecipitation,SPL-SMT,128
+Spinels,Coprecipitation Method,SPL-SMT,71
+Spinels,Cycling,SPL-SMT,31
+Spinels,Decomposition,SPL-SMT,33
+Spinels,Decompression,SPL-SMT,34
+Spinels,Deformations,SPL-SMT,37
+Spinels,Dehydration,SPL-SMT,41
+Spinels,Delithiated,SPL-SMT,109
+Spinels,Delithiation,SPL-SMT,85
+Spinels,Densification,SPL-SMT,122
+Spinels,Densified,SPL-SMT,31
+Spinels,Discharge,SPL-SMT,59
+Spinels,Dissolution,SPL-SMT,49
+Spinels,Doping,SPL-SMT,415
+Spinels,Dried,SPL-SMT,104
+Spinels,Drying,SPL-SMT,48
+Spinels,Electrochemical,SPL-SMT,43
+Spinels,Electrochemical Cycling,SPL-SMT,45
+Spinels,Electrodeposition,SPL-SMT,36
+Spinels,Electrodeposits,SPL-SMT,40
+Spinels,Electrospinning,SPL-SMT,48
+Spinels,Etched,SPL-SMT,54
+Spinels,Etching,SPL-SMT,47
+Spinels,FIB,SPL-SMT,32
+Spinels,Fired,SPL-SMT,169
+Spinels,Firing,SPL-SMT,163
+Spinels,Fractional Crystallization,SPL-SMT,78
+Spinels,Fractional Melting,SPL-SMT,70
+Spinels,Furnace,SPL-SMT,50
+Spinels,Grinding,SPL-SMT,62
+Spinels,Ground,SPL-SMT,40
+Spinels,HIP,SPL-SMT,39
+Spinels,Heat Treated,SPL-SMT,200
+Spinels,Heat Treatment,SPL-SMT,468
+Spinels,Heated,SPL-SMT,316
+Spinels,Heating,SPL-SMT,697
+Spinels,High-Energy Ball Milling,SPL-SMT,54
+Spinels,Hot Isostatic Pressing,SPL-SMT,36
+Spinels,Hot Pressed,SPL-SMT,42
+Spinels,Hot-Pressing,SPL-SMT,51
+Spinels,Ht,SPL-SMT,32
+Spinels,Hydrolysis,SPL-SMT,58
+Spinels,Hydrothermal,SPL-SMT,115
+Spinels,Hydrothermal Method,SPL-SMT,175
+Spinels,Hydrothermal Process,SPL-SMT,47
+Spinels,Hydrothermal Reaction,SPL-SMT,54
+Spinels,Hydrothermal Synthesis,SPL-SMT,60
+Spinels,Hydrothermal Treatment,SPL-SMT,58
+Spinels,Implanted,SPL-SMT,31
+Spinels,Impregnating,SPL-SMT,62
+Spinels,Ion Exchange,SPL-SMT,38
+Spinels,Irradiated,SPL-SMT,100
+Spinels,Irradiation,SPL-SMT,139
+Spinels,Isothermal Oxidation,SPL-SMT,33
+Spinels,Leaching,SPL-SMT,89
+Spinels,Lithiated,SPL-SMT,144
+Spinels,Lithiation,SPL-SMT,100
+Spinels,Melt Extraction,SPL-SMT,35
+Spinels,Melting,SPL-SMT,489
+Spinels,Metamorphic,SPL-SMT,32
+Spinels,Metamorphism,SPL-SMT,56
+Spinels,Metasomatic,SPL-SMT,46
+Spinels,Metasomatism,SPL-SMT,103
+Spinels,Metasomatized,SPL-SMT,71
+Spinels,Milled,SPL-SMT,70
+Spinels,Milling,SPL-SMT,117
+Spinels,Oxidation,SPL-SMT,801
+Spinels,Oxidize,SPL-SMT,315
+Spinels,PLD,SPL-SMT,35
+Spinels,Partial,SPL-SMT,30
+Spinels,Partial Melting,SPL-SMT,146
+Spinels,Pechini Method,SPL-SMT,30
+Spinels,Polished,SPL-SMT,166
+Spinels,Polishing,SPL-SMT,36
+Spinels,Postannealing,SPL-SMT,35
+Spinels,Precipitation,SPL-SMT,49
+Spinels,Pressed,SPL-SMT,33
+Spinels,Pulsed Laser Deposition,SPL-SMT,72
+Spinels,Pyrolysis,SPL-SMT,81
+Spinels,Quenched,SPL-SMT,180
+Spinels,Quenching,SPL-SMT,76
+Spinels,Re-Oxidation,SPL-SMT,31
+Spinels,Recrystallized,SPL-SMT,57
+Spinels,Reduced,SPL-SMT,36
+Spinels,Reductions,SPL-SMT,309
+Spinels,SPS,SPL-SMT,56
+Spinels,Serpentinization,SPL-SMT,30
+Spinels,Serpentinized,SPL-SMT,80
+Spinels,Sintered,SPL-SMT,648
+Spinels,Sintering,SPL-SMT,722
+Spinels,Sol Gel,SPL-SMT,45
+Spinels,Sol-Gel,SPL-SMT,686
+Spinels,Sol-Gel Auto-Combustion Method,SPL-SMT,36
+Spinels,Solid State Method,SPL-SMT,59
+Spinels,Solid State Reaction,SPL-SMT,356
+Spinels,Solid State Reaction Method,SPL-SMT,81
+Spinels,Solid State Synthesis,SPL-SMT,36
+Spinels,Solidification,SPL-SMT,31
+Spinels,Solution Combustion Synthesis,SPL-SMT,30
+Spinels,Solvothermal,SPL-SMT,30
+Spinels,Solvothermal Method,SPL-SMT,40
+Spinels,Spark Plasma Sintering,SPL-SMT,51
+Spinels,Spin Coating,SPL-SMT,32
+Spinels,Spray Drying,SPL-SMT,43
+Spinels,Spray Pyrolysis,SPL-SMT,56
+Spinels,Sputtered,SPL-SMT,42
+Spinels,Sputtering,SPL-SMT,64
+Spinels,Subduction,SPL-SMT,42
+Spinels,Surface Modification,SPL-SMT,80
+Spinels,Surface Treatment,SPL-SMT,36
+Spinels,Thermal Annealing,SPL-SMT,48
+Spinels,Thermal Cycling,SPL-SMT,37
+Spinels,Thermal Decomposition,SPL-SMT,263
+Spinels,Thermal Treated,SPL-SMT,33
+Spinels,Thermal Treatment,SPL-SMT,274
+Spinels,Thermally Grown,SPL-SMT,47
+Spinels,Weathering,SPL-SMT,30
+Spleens,Irradiated,SPL-SMT,32
+Squamous Cell,Chemotherapy,SPL-SMT,38
+Squamous Cell,Irradiation,SPL-SMT,32
+Squamous Cell,Radiation,SPL-SMT,30
+Squamous Cell,Radiation Therapy,SPL-SMT,32
+Squamous Cell,Radiotherapy,SPL-SMT,70
+Sub-Bituminous,Combustion,SPL-SMT,32
+Sub-Bituminous,Pyrolysis,SPL-SMT,31
+Systemic,SLE,SPL-SMT,41
+T,Aged,SPL-SMT,48
+T,Ageing,SPL-SMT,33
+T,Aging,SPL-SMT,83
+T,Annealed,SPL-SMT,139
+T,Annealing,SPL-SMT,264
+T,Anodization,SPL-SMT,44
+T,Ball Milling,SPL-SMT,33
+T,CVD,SPL-SMT,52
+T,Calcination,SPL-SMT,369
+T,Calcined,SPL-SMT,179
+T,Carbonization,SPL-SMT,96
+T,Chemical Vapour Deposition,SPL-SMT,62
+T,Co-Precipitation,SPL-SMT,30
+T,Co-precipitation Method,SPL-SMT,59
+T,Coated,SPL-SMT,236
+T,Coatings,SPL-SMT,100
+T,Combustion,SPL-SMT,36
+T,Cooling,SPL-SMT,117
+T,Doping,SPL-SMT,119
+T,Dried,SPL-SMT,43
+T,Drying,SPL-SMT,48
+T,Electrochemical,SPL-SMT,37
+T,Electrochemical Oxidation,SPL-SMT,39
+T,Electrodeposition,SPL-SMT,105
+T,Electrodeposits,SPL-SMT,44
+T,Electrolysis,SPL-SMT,35
+T,Electrospinning,SPL-SMT,78
+T,Electrospun,SPL-SMT,36
+T,Etching,SPL-SMT,37
+T,Facile Hydrothermal Method,SPL-SMT,46
+T,Firing,SPL-SMT,32
+T,Gasification,SPL-SMT,32
+T,Heat Treated,SPL-SMT,52
+T,Heat Treatment,SPL-SMT,160
+T,Heated,SPL-SMT,71
+T,Heating,SPL-SMT,201
+T,Hydrogenation,SPL-SMT,45
+T,Hydrolysis,SPL-SMT,93
+T,Hydrothermal,SPL-SMT,81
+T,Hydrothermal Condition,SPL-SMT,43
+T,Hydrothermal Method,SPL-SMT,241
+T,Hydrothermal Process,SPL-SMT,79
+T,Hydrothermal Reaction,SPL-SMT,57
+T,Hydrothermal Route,SPL-SMT,40
+T,Hydrothermal Synthesis,SPL-SMT,49
+T,Hydrothermal Treatment,SPL-SMT,61
+T,Impregnating,SPL-SMT,49
+T,Impregnation Method,SPL-SMT,50
+T,Irradiated,SPL-SMT,51
+T,Irradiation,SPL-SMT,112
+T,Microwave Irradiation,SPL-SMT,50
+T,Milling,SPL-SMT,30
+T,Oxidation,SPL-SMT,264
+T,Oxidize,SPL-SMT,77
+T,Pre-Treatment,SPL-SMT,39
+T,Pyrolysis,SPL-SMT,98
+T,Reductions,SPL-SMT,172
+T,Self Assembly,SPL-SMT,41
+T,Sintered,SPL-SMT,96
+T,Sintering,SPL-SMT,116
+T,Sol-Gel,SPL-SMT,256
+T,Solid State Reaction,SPL-SMT,68
+T,Solvothermal Method,SPL-SMT,48
+T,Surface Modification,SPL-SMT,36
+T,Thermal Annealing,SPL-SMT,33
+T,Thermal Decomposition,SPL-SMT,55
+T,Thermal Treatment,SPL-SMT,92
+T,Transesterification,SPL-SMT,31
+T,UV Irradiation,SPL-SMT,30
+T1,Aged,SPL-SMT,67
+T1,Ageing,SPL-SMT,39
+T1,Aging,SPL-SMT,51
+T1,Heat Treatment,SPL-SMT,33
+TD,Rolling,SPL-SMT,40
+TRACTA,Calcination,SPL-SMT,30
+TTG,Melting,SPL-SMT,49
+Tetragonal,APS,SPL-SMT,37
+Tetragonal,Aged,SPL-SMT,161
+Tetragonal,Ageing,SPL-SMT,80
+Tetragonal,Aging,SPL-SMT,243
+Tetragonal,Ald,SPL-SMT,56
+Tetragonal,Alloying,SPL-SMT,69
+Tetragonal,Anneal,SPL-SMT,43
+Tetragonal,Annealed,SPL-SMT,961
+Tetragonal,Annealing,SPL-SMT,1322
+Tetragonal,Arc Melting,SPL-SMT,51
+Tetragonal,Atomic Layer Deposition,SPL-SMT,67
+Tetragonal,Autoclave,SPL-SMT,48
+Tetragonal,Ball Milling,SPL-SMT,89
+Tetragonal,Ball-Milled,SPL-SMT,54
+Tetragonal,CVD,SPL-SMT,48
+Tetragonal,Calcinated,SPL-SMT,34
+Tetragonal,Calcination,SPL-SMT,695
+Tetragonal,Calcined,SPL-SMT,659
+Tetragonal,Calcining,SPL-SMT,65
+Tetragonal,Chemical Vapour Deposition,SPL-SMT,36
+Tetragonal,Co-Precipitation,SPL-SMT,53
+Tetragonal,Co-precipitation Method,SPL-SMT,49
+Tetragonal,Coated,SPL-SMT,326
+Tetragonal,Coatings,SPL-SMT,60
+Tetragonal,Cooled,SPL-SMT,127
+Tetragonal,Cooling,SPL-SMT,842
+Tetragonal,Coprecipitation,SPL-SMT,46
+Tetragonal,Coprecipitation Method,SPL-SMT,33
+Tetragonal,Crystallization,SPL-SMT,46
+Tetragonal,Deformations,SPL-SMT,47
+Tetragonal,Dehydration,SPL-SMT,48
+Tetragonal,Dehydrogenation,SPL-SMT,30
+Tetragonal,Densification,SPL-SMT,150
+Tetragonal,Densified,SPL-SMT,39
+Tetragonal,Dip Coating,SPL-SMT,34
+Tetragonal,Dissolution,SPL-SMT,43
+Tetragonal,Doping,SPL-SMT,605
+Tetragonal,Dried,SPL-SMT,105
+Tetragonal,Drying,SPL-SMT,72
+Tetragonal,Electrodeposition,SPL-SMT,44
+Tetragonal,Electrodeposits,SPL-SMT,44
+Tetragonal,Electrospinning,SPL-SMT,46
+Tetragonal,Etched,SPL-SMT,70
+Tetragonal,Etching,SPL-SMT,47
+Tetragonal,Field Cooling,SPL-SMT,34
+Tetragonal,Fired,SPL-SMT,62
+Tetragonal,Firing,SPL-SMT,69
+Tetragonal,Furnace,SPL-SMT,42
+Tetragonal,Grinding,SPL-SMT,81
+Tetragonal,Ground,SPL-SMT,68
+Tetragonal,Heat Treated,SPL-SMT,244
+Tetragonal,Heat Treatment,SPL-SMT,550
+Tetragonal,Heated,SPL-SMT,369
+Tetragonal,Heating,SPL-SMT,1168
+Tetragonal,Heating/Cooling,SPL-SMT,30
+Tetragonal,High-Energy Ball Milling,SPL-SMT,38
+Tetragonal,Hot Pressed,SPL-SMT,56
+Tetragonal,Hot-Pressing,SPL-SMT,71
+Tetragonal,Hydrogenated,SPL-SMT,38
+Tetragonal,Hydrogenation,SPL-SMT,60
+Tetragonal,Hydrolysis,SPL-SMT,128
+Tetragonal,Hydrothermal,SPL-SMT,154
+Tetragonal,Hydrothermal Condition,SPL-SMT,72
+Tetragonal,Hydrothermal Method,SPL-SMT,183
+Tetragonal,Hydrothermal Process,SPL-SMT,66
+Tetragonal,Hydrothermal Reaction,SPL-SMT,72
+Tetragonal,Hydrothermal Route,SPL-SMT,35
+Tetragonal,Hydrothermal Synthesis,SPL-SMT,85
+Tetragonal,Hydrothermal Treatment,SPL-SMT,91
+Tetragonal,Hydrothermally Synthesized,SPL-SMT,36
+Tetragonal,Implanted,SPL-SMT,39
+Tetragonal,Impregnating,SPL-SMT,47
+Tetragonal,Irradiated,SPL-SMT,121
+Tetragonal,Irradiation,SPL-SMT,215
+Tetragonal,Leaching,SPL-SMT,30
+Tetragonal,Lithiated,SPL-SMT,36
+Tetragonal,Lithiation,SPL-SMT,40
+Tetragonal,Ma,SPL-SMT,31
+Tetragonal,Magnetron Sputtering,SPL-SMT,36
+Tetragonal,Melt Spun,SPL-SMT,41
+Tetragonal,Melting,SPL-SMT,80
+Tetragonal,Microwave Heating,SPL-SMT,31
+Tetragonal,Milled,SPL-SMT,83
+Tetragonal,Milling,SPL-SMT,135
+Tetragonal,Molecular Beam Epitaxy,SPL-SMT,31
+Tetragonal,Oxidation,SPL-SMT,387
+Tetragonal,Oxidize,SPL-SMT,191
+Tetragonal,PLD,SPL-SMT,59
+Tetragonal,Plasma Spray,SPL-SMT,59
+Tetragonal,Plastic Deformation,SPL-SMT,31
+Tetragonal,Poled,SPL-SMT,32
+Tetragonal,Poling,SPL-SMT,44
+Tetragonal,Polished,SPL-SMT,185
+Tetragonal,Polishing,SPL-SMT,42
+Tetragonal,Postannealing,SPL-SMT,55
+Tetragonal,Precipitation,SPL-SMT,42
+Tetragonal,Pressed,SPL-SMT,51
+Tetragonal,Pressureless Sintering,SPL-SMT,51
+Tetragonal,Pulsed Laser Deposition,SPL-SMT,122
+Tetragonal,Pyrolysis,SPL-SMT,54
+Tetragonal,Quenched,SPL-SMT,169
+Tetragonal,Quenching,SPL-SMT,120
+Tetragonal,Radiation,SPL-SMT,31
+Tetragonal,Reductions,SPL-SMT,198
+Tetragonal,SPS,SPL-SMT,75
+Tetragonal,Self Assembly,SPL-SMT,59
+Tetragonal,Sintered,SPL-SMT,1083
+Tetragonal,Sintering,SPL-SMT,960
+Tetragonal,Slow Cooling,SPL-SMT,42
+Tetragonal,Slowly Cooled,SPL-SMT,33
+Tetragonal,Sol Gel,SPL-SMT,47
+Tetragonal,Sol-Gel,SPL-SMT,592
+Tetragonal,Solid State Method,SPL-SMT,66
+Tetragonal,Solid State Reaction,SPL-SMT,368
+Tetragonal,Solid State Reaction Method,SPL-SMT,271
+Tetragonal,Solid State Reaction Route,SPL-SMT,55
+Tetragonal,Solid State Reaction Technique,SPL-SMT,45
+Tetragonal,Solid State Sintering,SPL-SMT,50
+Tetragonal,Solid State Synthesis,SPL-SMT,30
+Tetragonal,Solvothermal,SPL-SMT,32
+Tetragonal,Solvothermal Method,SPL-SMT,45
+Tetragonal,Spark Plasma Sintering,SPL-SMT,75
+Tetragonal,Spin Coater,SPL-SMT,47
+Tetragonal,Spin Coating,SPL-SMT,90
+Tetragonal,Spray Pyrolysis,SPL-SMT,99
+Tetragonal,Sprayed,SPL-SMT,30
+Tetragonal,Sputtered,SPL-SMT,62
+Tetragonal,Sputtering,SPL-SMT,94
+Tetragonal,Surface Modification,SPL-SMT,31
+Tetragonal,Surface Treatment,SPL-SMT,33
+Tetragonal,Thermal,SPL-SMT,37
+Tetragonal,Thermal Annealing,SPL-SMT,82
+Tetragonal,Thermal Cycling,SPL-SMT,36
+Tetragonal,Thermal Decomposition,SPL-SMT,120
+Tetragonal,Thermal Treated,SPL-SMT,53
+Tetragonal,Thermal Treatment,SPL-SMT,229
+Tetragonal,Thermally Cycled,SPL-SMT,30
+Tetragonal,Thermally Etched,SPL-SMT,60
+Tholeiites,Melting,SPL-SMT,59
+Tholeiitic,Fractional Crystallization,SPL-SMT,43
+Tholeiitic,Melting,SPL-SMT,96
+Tholeiitic,Partial Melting,SPL-SMT,38
+Tobermorite,Autoclave,SPL-SMT,31
+Tobermorite,Hydration,SPL-SMT,40
+Tonalitic,Melting,SPL-SMT,31
+Triclinic,Annealed,SPL-SMT,74
+Triclinic,Annealing,SPL-SMT,95
+Triclinic,Calcination,SPL-SMT,36
+Triclinic,Calcined,SPL-SMT,33
+Triclinic,Cooling,SPL-SMT,133
+Triclinic,Doping,SPL-SMT,41
+Triclinic,Heat Treatment,SPL-SMT,38
+Triclinic,Heated,SPL-SMT,51
+Triclinic,Heating,SPL-SMT,190
+Triclinic,Hydrolysis,SPL-SMT,35
+Triclinic,Hydrothermal,SPL-SMT,124
+Triclinic,Hydrothermal Condition,SPL-SMT,91
+Triclinic,Hydrothermal Method,SPL-SMT,33
+Triclinic,Hydrothermal Reaction,SPL-SMT,62
+Triclinic,Hydrothermal Synthesis,SPL-SMT,44
+Triclinic,Oxidation,SPL-SMT,64
+Triclinic,Reductions,SPL-SMT,34
+Triclinic,Sintered,SPL-SMT,46
+Triclinic,Sintering,SPL-SMT,39
+Triclinic,Solid State Reaction,SPL-SMT,57
+Triclinic,Thermal Decomposition,SPL-SMT,42
+Trigonal,Annealed,SPL-SMT,70
+Trigonal,Annealing,SPL-SMT,107
+Trigonal,Calcination,SPL-SMT,33
+Trigonal,Coated,SPL-SMT,32
+Trigonal,Cooling,SPL-SMT,112
+Trigonal,Heated,SPL-SMT,56
+Trigonal,Heating,SPL-SMT,169
+Trigonal,Oxidation,SPL-SMT,54
+Trigonal,Quenched,SPL-SMT,37
+Trigonal,Reductions,SPL-SMT,37
+Trigonal,Self Assembly,SPL-SMT,37
+Trigonal,Sintered,SPL-SMT,38
+Trigonal,Solid State Reaction,SPL-SMT,74
+Trigonal,Thermal Treatment,SPL-SMT,31
+Type,Annealing,SPL-SMT,33
+Type,Melting,SPL-SMT,108
+Type,Partial Melting,SPL-SMT,34
+Uhp,Exhumation,SPL-SMT,57
+Uhp,Melting,SPL-SMT,30
+Ultramafic,Cooling,SPL-SMT,32
+Ultramafic,Fractional Crystallization,SPL-SMT,33
+Ultramafic,Melting,SPL-SMT,115
+Ultramafic,Metamorphic,SPL-SMT,30
+Ultramafic,Metamorphism,SPL-SMT,54
+Ultramafic,Metamorphosed,SPL-SMT,31
+Ultramafic,Metasomatism,SPL-SMT,37
+Ultramafic,Partial Melting,SPL-SMT,49
+Ultramafic,Serpentinization,SPL-SMT,64
+Ultramafic,Serpentinized,SPL-SMT,97
+Ultramafic,Weathering,SPL-SMT,56
+WZ,Weld,SPL-SMT,43
+WZ,Welded,SPL-SMT,30
+WZ,Welding,SPL-SMT,35
+Wenzel,Coated,SPL-SMT,50
+Widmanstatten,Annealing,SPL-SMT,37
+Widmanstatten,Cooling,SPL-SMT,89
+Widmanstatten,Heat Treatment,SPL-SMT,61
+Widmanstatten,Weld,SPL-SMT,65
+Widmanstatten,Welding,SPL-SMT,53
+Wurtzite,Ald,SPL-SMT,32
+Wurtzite,Alloying,SPL-SMT,53
+Wurtzite,Annealed,SPL-SMT,296
+Wurtzite,Annealing,SPL-SMT,424
+Wurtzite,Atomic Layer Deposition,SPL-SMT,30
+Wurtzite,CVD,SPL-SMT,60
+Wurtzite,Calcination,SPL-SMT,85
+Wurtzite,Calcined,SPL-SMT,55
+Wurtzite,Chemical Bath Deposition,SPL-SMT,49
+Wurtzite,Chemical Vapour Deposition,SPL-SMT,77
+Wurtzite,Co-precipitation Method,SPL-SMT,34
+Wurtzite,Coated,SPL-SMT,140
+Wurtzite,Cooling,SPL-SMT,35
+Wurtzite,Doping,SPL-SMT,318
+Wurtzite,Electrodeposition,SPL-SMT,51
+Wurtzite,Electrodeposits,SPL-SMT,37
+Wurtzite,Etched,SPL-SMT,33
+Wurtzite,Etching,SPL-SMT,62
+Wurtzite,Heat Treatment,SPL-SMT,58
+Wurtzite,Heated,SPL-SMT,49
+Wurtzite,Heating,SPL-SMT,133
+Wurtzite,Hydrothermal,SPL-SMT,36
+Wurtzite,Hydrothermal Method,SPL-SMT,111
+Wurtzite,Irradiated,SPL-SMT,36
+Wurtzite,Irradiation,SPL-SMT,65
+Wurtzite,MOCVD,SPL-SMT,65
+Wurtzite,Magnetron Sputtering,SPL-SMT,36
+Wurtzite,Mbe,SPL-SMT,39
+Wurtzite,Metal Organic Chemical Vapor Deposition,SPL-SMT,47
+Wurtzite,Metal Organic Vapor Phase Epitaxy,SPL-SMT,36
+Wurtzite,Molecular Beam Epitaxy,SPL-SMT,93
+Wurtzite,Nitridation,SPL-SMT,52
+Wurtzite,Oxidation,SPL-SMT,94
+Wurtzite,Oxidize,SPL-SMT,52
+Wurtzite,PLD,SPL-SMT,33
+Wurtzite,Plasma Assisted Molecular Beam Epitaxy,SPL-SMT,36
+Wurtzite,Pulsed Laser Deposition,SPL-SMT,95
+Wurtzite,RF Magnetron Sputtering,SPL-SMT,31
+Wurtzite,Radio Frequency (RF) Magnetron Sputtering,SPL-SMT,38
+Wurtzite,Sintered,SPL-SMT,48
+Wurtzite,Sol-Gel,SPL-SMT,186
+Wurtzite,Solvothermal Method,SPL-SMT,38
+Wurtzite,Spin Coating,SPL-SMT,31
+Wurtzite,Spray Pyrolysis,SPL-SMT,62
+Wurtzite,Sputtered,SPL-SMT,38
+Wurtzite,Sputtering,SPL-SMT,88
+Wurtzite,Thermal Annealing,SPL-SMT,74
+Wurtzite,Thermal Decomposition,SPL-SMT,42
+Wurtzite,Thermal Evaporation,SPL-SMT,59
+Wurtzite,Thermal Treatment,SPL-SMT,50
+Wurtzite,VLS,SPL-SMT,43
+Wurtzite,Vapor Liquid Solid,SPL-SMT,47
+Zinc Blende,Alloying,SPL-SMT,30
+Zinc Blende,Annealed,SPL-SMT,67
+Zinc Blende,Annealing,SPL-SMT,99
+Zinc Blende,Coated,SPL-SMT,31
+Zinc Blende,Doping,SPL-SMT,60
+Zinc Blende,Heating,SPL-SMT,45
+Zinc Blende,Mbe,SPL-SMT,44
+Zinc Blende,Molecular Beam Epitaxy,SPL-SMT,93
+Δ,Aged,SPL-SMT,60
+Δ,Aging,SPL-SMT,69
+Δ,Annealed,SPL-SMT,65
+Δ,Annealing,SPL-SMT,66
+Δ,Cooling,SPL-SMT,93
+Δ,Deformations,SPL-SMT,34
+Δ,Heat Treated,SPL-SMT,47
+Δ,Heat Treatment,SPL-SMT,81
+Δ,Heating,SPL-SMT,75
+Δ-Phase,Annealing,SPL-SMT,36
+Δ-Phase,Cooling,SPL-SMT,30
+Θ,Aged,SPL-SMT,36
+Θ,Aging,SPL-SMT,35
+Θ,Annealing,SPL-SMT,30
+Θ,Heating,SPL-SMT,35
+α' Martensite,Annealed,SPL-SMT,54
+α' Martensite,Annealing,SPL-SMT,54
+α' Martensite,Cold Rolled,SPL-SMT,34
+α' Martensite,Cooling,SPL-SMT,34
+α' Martensite,Deformations,SPL-SMT,56
+α-,Annealed,SPL-SMT,39
+α-,Annealing,SPL-SMT,53
+α-,Cooling,SPL-SMT,44
+α-,Heating,SPL-SMT,84
+α-Fiber,Cold Rolled,SPL-SMT,31
+α-Fiber,Rolling,SPL-SMT,33
+α-Form,Heating,SPL-SMT,30
+α-Phase,Aged,SPL-SMT,32
+α-Phase,Annealed,SPL-SMT,88
+α-Phase,Annealing,SPL-SMT,123
+α-Phase,Cooling,SPL-SMT,84
+α-Phase,Deformations,SPL-SMT,33
+α-Phase,Heat Treated,SPL-SMT,38
+α-Phase,Heat Treatment,SPL-SMT,56
+α-Phase,Heating,SPL-SMT,120
+α-Phase,Oxidation,SPL-SMT,30
+α-Phase,Quenched,SPL-SMT,39
+α2,Aged,SPL-SMT,37
+α2,Aging,SPL-SMT,32
+α2,Annealed,SPL-SMT,38
+α2,Annealing,SPL-SMT,68
+α2,Cooling,SPL-SMT,48
+α2,Heat Treated,SPL-SMT,50
+α2,Heat Treatment,SPL-SMT,56
+α2,Heating,SPL-SMT,34
+β,AM,SPL-SMT,42
+β,Aged,SPL-SMT,334
+β,Ageing,SPL-SMT,144
+β,Aging,SPL-SMT,304
+β,Air Cooling,SPL-SMT,46
+β,Alloying,SPL-SMT,64
+β,Anneal,SPL-SMT,35
+β,Annealed,SPL-SMT,396
+β,Annealing,SPL-SMT,429
+β,As Rolled,SPL-SMT,43
+β,Cast,SPL-SMT,89
+β,Coated,SPL-SMT,62
+β,Cold Rolled,SPL-SMT,92
+β,Cold Rolling,SPL-SMT,75
+β,Compressional,SPL-SMT,44
+β,Cooled,SPL-SMT,96
+β,Cooling,SPL-SMT,497
+β,Deformations,SPL-SMT,265
+β,Deformed,SPL-SMT,130
+β,EBM,SPL-SMT,48
+β,Electrospinning,SPL-SMT,31
+β,Etched,SPL-SMT,83
+β,Etching,SPL-SMT,39
+β,Extruded,SPL-SMT,61
+β,Extrusion,SPL-SMT,67
+β,Forged,SPL-SMT,49
+β,Forging,SPL-SMT,63
+β,Furnace Cooling,SPL-SMT,31
+β,Heat Treated,SPL-SMT,249
+β,Heat Treatment,SPL-SMT,396
+β,Heated,SPL-SMT,124
+β,Heating,SPL-SMT,467
+β,Homogenised,SPL-SMT,48
+β,Hot Rolled,SPL-SMT,37
+β,Hydrogenated,SPL-SMT,51
+β,Hydrogenation,SPL-SMT,46
+β,Irradiated,SPL-SMT,53
+β,Irradiation,SPL-SMT,47
+β,Isothermal Ageing,SPL-SMT,33
+β,Machined,SPL-SMT,33
+β,Melting,SPL-SMT,78
+β,Milling,SPL-SMT,40
+β,Oxidation,SPL-SMT,128
+β,Oxidize,SPL-SMT,56
+β,Peak Aged,SPL-SMT,51
+β,Plastic Deformation,SPL-SMT,54
+β,Polished,SPL-SMT,87
+β,Quenched,SPL-SMT,207
+β,Quenching,SPL-SMT,153
+β,Recrystallisation,SPL-SMT,40
+β,Recrystallized,SPL-SMT,107
+β,Rolled,SPL-SMT,65
+β,Rolling,SPL-SMT,160
+β,SLM,SPL-SMT,61
+β,ST,SPL-SMT,39
+β,Sintered,SPL-SMT,92
+β,Sintering,SPL-SMT,82
+β,Solidification,SPL-SMT,64
+β,Solution Treated,SPL-SMT,177
+β,Solution Treatment,SPL-SMT,148
+β,Tensile Deformation,SPL-SMT,60
+β,Thermal Cycling,SPL-SMT,40
+β,Thermal Treatment,SPL-SMT,64
+β,Thermally Cycled,SPL-SMT,41
+β,Water Quenched,SPL-SMT,89
+β,Water Quenching,SPL-SMT,90
+β,Weld,SPL-SMT,67
+β,Welded,SPL-SMT,42
+β,Welding,SPL-SMT,61
+β,Welds,SPL-SMT,32
+β,Work Hardening,SPL-SMT,41
+β-,Cooling,SPL-SMT,37
+β-,Heating,SPL-SMT,43
+β-Phase,Aged,SPL-SMT,59
+β-Phase,Aging,SPL-SMT,49
+β-Phase,Annealed,SPL-SMT,97
+β-Phase,Annealing,SPL-SMT,138
+β-Phase,Cast,SPL-SMT,31
+β-Phase,Coated,SPL-SMT,32
+β-Phase,Cooling,SPL-SMT,111
+β-Phase,Deformations,SPL-SMT,53
+β-Phase,Heat Treated,SPL-SMT,58
+β-Phase,Heat Treatment,SPL-SMT,70
+β-Phase,Heated,SPL-SMT,36
+β-Phase,Heating,SPL-SMT,139
+β-Phase,Oxidation,SPL-SMT,46
+β-Phase,Quenched,SPL-SMT,62
+β-Phase,Quenching,SPL-SMT,43
+β-Phase,Rolling,SPL-SMT,32
+β1,Aged,SPL-SMT,31
+γ',Aged,SPL-SMT,125
+γ',Ageing,SPL-SMT,36
+γ',Aging,SPL-SMT,130
+γ',Annealed,SPL-SMT,42
+γ',Annealing,SPL-SMT,52
+γ',Cooling,SPL-SMT,73
+γ',Creep,SPL-SMT,74
+γ',Etched,SPL-SMT,31
+γ',Heat Treated,SPL-SMT,88
+γ',Heat Treatment,SPL-SMT,151
+γ',Heating,SPL-SMT,45
+γ',Oxidation,SPL-SMT,41
+γ-Phase,Annealed,SPL-SMT,46
+γ-Phase,Annealing,SPL-SMT,70
+γ-Phase,Cooling,SPL-SMT,64
+γ-Phase,Heat Treatment,SPL-SMT,43
+γ-Phase,Heating,SPL-SMT,77
+η,Aged,SPL-SMT,64
+η,Aging,SPL-SMT,55
+η,Heat Treatment,SPL-SMT,36
+η,Heating,SPL-SMT,34
+σ,Aged,SPL-SMT,101
+σ,Aging,SPL-SMT,81
+σ,Annealed,SPL-SMT,64
+σ,Annealing,SPL-SMT,72
+σ,Cooling,SPL-SMT,35
+σ,Heat Treated,SPL-SMT,34
+σ,Heat Treatment,SPL-SMT,63
+σ,Heating,SPL-SMT,33
+ω,Aged,SPL-SMT,79
+ω,Ageing,SPL-SMT,37
+ω,Aging,SPL-SMT,64
+ω,Annealed,SPL-SMT,37
+ω,Annealing,SPL-SMT,32
+ω,Deformations,SPL-SMT,37
+ω,Heat Treated,SPL-SMT,33
+ω,Heat Treatment,SPL-SMT,36
+ω,Heating,SPL-SMT,42
+ω,Quenched,SPL-SMT,48
+ω,Quenching,SPL-SMT,36
+ω,Solution Treated,SPL-SMT,39

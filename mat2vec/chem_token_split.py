@@ -130,67 +130,12 @@ tokenizer = AutoTokenizer.from_pretrained('m3rg-iitd/matscibert', **tokenizer_kw
 
 #print(sentences)
 test_mode = False
-max_length = 126
-#dictionary_dataset = "chem_matscivec_embedding"
-#dictionary_dataset = "combine"
-dictionary_dataset = "matkg"
-#dictionary_dataset = "matkg_extend"
-#dictionary_dataset = "chem_matscivec"
-#dictionary_dataset = "mat_clean"
-#dictionary_dataset = "chem_matscivec_embedding"
-#dictionary_dataset = "chem_matscivec"
+dictionary_dataset = "chem_matscivec_embedding"
 
 #with open("./data/concept_dict.pkl", "rb") as f:
 
-if dictionary_dataset == "chem_extend":
-    #Chem+Mat2Vec
-    with open("/home/user10/MatSciBERT/mat2vec/data/extended_concept_chem.pkl", "rb") as f:
-        concept2idx = pickle.load(f)
-elif dictionary_dataset == "matkg":
-    #MatKG
-    with open("/home/user10/MatSciBERT/matkg/chem_dict.pkl", "rb") as f:
-        concept2idx = pickle.load(f)
-    
-elif dictionary_dataset == "matkg_extend":
-    with open("/home/user10/MatSciBERT/mat2vec/data/extended_concept_matkg.pkl", "rb") as f:
-        concept2idx = pickle.load(f)
-    
-elif dictionary_dataset == "combine":
-    with open("/home/user10/MatSciBERT/mat2vec/data/extended_concept_chem.pkl", "rb") as f:
-        concept2idx1 = pickle.load(f)
-    with open("/home/user10/MatSciBERT/matkg/chem_dict.pkl", "rb") as f:
-        concept2idx2 = pickle.load(f)
-    
-    concept2idx = dict()
-    for k,v in concept2idx1.items():
-        if k not in concept2idx:
-            concept2idx[k] = len(concept2idx)
-    
-    for k,v in concept2idx2.items():
-        if k not in concept2idx:
-            concept2idx[k] = len(concept2idx)
-    
-elif dictionary_dataset == "chem_clean":
-    with open("/home/user10/MatSciBERT/mat2vec/data/cleaned/02.extended_concept_chem_sort.txt", "r") as f:
-        x = f.readlines()    
-    concept2idx = dict()
-    for s in x:
-        concept2idx[s[:-1]] = len(concept2idx)
-
-elif dictionary_dataset == "mat_clean":
-    with open("/home/user10/MatSciBERT/mat2vec/data/cleaned/02.extended_concept_MatKG_sort.txt", "r") as f:
-        x = f.readlines()
-    concept2idx = dict()
-    for s in x:
-        concept2idx[s[:-1]] = len(concept2idx)
-
-elif dictionary_dataset == "chem_matscivec":
-    with open("/home/user10/MatSciBERT/mat2vec/data/mat2vec_ours/extended_concept_chem_matscivec.pkl", "rb") as f:
-        concept2idx = pickle.load(f)
-
-elif dictionary_dataset == "chem_matscivec_embedding":
-    with open("/home/user10/MatSciBERT/mat2vec/data/mat2vec_ours/extended_concept_chem_matscivec_keywords_embedding_50.pkl", "rb") as f:
-        concept2idx = pickle.load(f)
+with open("./raw_data/triplet_chem_dict_mat2vec_matscivec_keywords_embedding_50_similarity_0.4.pkl", "rb") as f:
+    concept2idx = pickle.load(f)
 
 
 print(len(concept2idx))
@@ -201,154 +146,92 @@ for k,v in concept2idx.items():
         temp[k.lower()] = len(temp)
 concept2idx = temp
 
-'''
-num_p = 0
-for k, v in concept2idx.items():
-    if "_" in k:
-        num_p += 1
-        t = ""
-        for s in k.split("_"):
-            t += s + " "
-        k = k[:-1]
-
-    if k not in temp:
-        temp[k.lower()] = len(temp)
-
-concept2idx = temp
-print(len(concept2idx), num_p)
-'''
-
-
-#with open("/home/user10/MatSciBERT/data/train_norm.txt", "r") as f:
-#    x = f.readlines()
-    #sents = f.read().strip().split('\n')
-
-#with open("/home/user10/MatSciBERT/mat2vec/data/quick_preprocessed_512_extend.pkl", "rb") as f:
-#    x = pickle.load(f)
-
-#x = x["train_data"]
-#print(x[:10], len(x[0]))
-#exit()
-#with open("/home/user10/MatSciBERT/mat2vec/data/temp.pkl", "wb") as f:
-#    pickle.dump(x[:10000], f)
-'''
-with open("/home/user10/MatSciBERT/data/concept_126_mat2vec_clean_real/mat2vec_concept_preprocessed_126.pkl", "rb") as f:
-    x = pickle.load(f)
-
-x = x["train_data"]
-
-import random
-
-random.shuffle(x)
-
-total = len(x)
-folder = total // 10
-for i in range(10):
-    with open("/home/user10/MatSciBERT/data/concept_126_mat2vec_clean_real/split/train_data_%d"%(i+1), "wb") as f:
-        temp = x[i * folder : (i+1) * folder]
-        pickle.dump(temp, f)
-'''
-#sentences = ''
-#for s in x:
-#    sentences += s
-
 
 check_dict = dict()
 index = 0
 
-for j in range(10):
-    with open("/home/user10/MatSciBERT/data/concept_128_ngram_chem/split/train_data_%d.pkl"%(j+1), "rb") as f:
-        x = pickle.load(f)
-        x = x["train_data"]
+#for j in range(10):
+with open("./raw_data/train_128_split.pkl", "rb") as f:
+    x = pickle.load(f)
+    x = x["input_ids"]
 
-    train_data = []
-    total_concept = []
-    total_tokenized_concept = []
-    #concepts = []
-    length = 0
-    temp = []
+train_data = []
+total_concept = []
+total_tokenized_concept = []
+#concepts = []
+length = 0
+temp = []
 
-    for i in tqdm(range(len(x)), ncols = 100):
-        concepts = []
-        tokenized_concepts = []
-        eg_sam = x[i]
-        #print(text_processor.tokenize(eg_sam))
-        #print(tokenizer.tokenize(eg_sam))
+for i in tqdm(range(len(x)), ncols = 100):
+    concepts = []
+    tokenized_concepts = []
+    eg_sam = x[i]
+    #print(text_processor.tokenize(eg_sam))
+    #print(tokenizer.tokenize(eg_sam))
 
-        eg_sam = tokenizer.decode(eg_sam, add_special_tokens = False)
-        #temp = []
-        #s = text_processor.tokenize(eg_sam, keep_sentences=False)
-        #print(s)
-        #print(s)
-        #print(eg_sam)
+    eg_sam = tokenizer.decode(eg_sam, add_special_tokens = False)
+    #temp = []
+    s = text_processor.tokenize(eg_sam, keep_sentences=False)
+    #print(s)
+    #print(s)
+    #print(eg_sam)
+    
+    multi_ngram_s = split_text_ngram(s)
+    #multi_ngram_s = split_text_ngram_split_blank(eg_sam)
+
+    for token in multi_ngram_s:
+        if token in nltk_stop_words_set:
+            continue
         
-        #multi_ngram_s = split_text_ngram(s)
-        multi_ngram_s = split_text_ngram_split_blank(eg_sam)
+        if token in spacy_stop_words_set:
+            continue
+        
+        if token in concept2idx:
+            concepts.append(token)
+            tokenized_concepts.append(tokenizer.encode(token, add_special_tokens = False))
+            
+            length += 1
+            
+            if token not in check_dict:
+                check_dict[token] = 1
+            else:
+                check_dict[token] += 1
 
-        for token in multi_ngram_s:
-            #tokenized = tokenizer.tokenize(token, add_special_tokens = False)
-            #curr_len = len(temp)
-            #tokenized_len = len(tokenized)
-            #temp += [token]
-            #temp += tokenized
+    temp = x[i]
+    new_concepts = []
+    for j, encoded_key in enumerate(tokenized_concepts):
+        cursor = 0
+        length = len(encoded_key)
+        for idx, encoded_id in enumerate(temp):
             
-            if token in nltk_stop_words_set:
-                continue
-            
-            if token in spacy_stop_words_set:
-                continue
-            
-            if token in concept2idx:
-                #print(token)
-                #concepts.append((token, curr_len, curr_len + tokenized_len))
-                concepts.append(token)
-                tokenized_concepts.append(tokenizer.encode(token, add_special_tokens = False))
-                
-                length += 1
-                
-                if token not in check_dict:
-                    check_dict[token] = len(check_dict)
-            
-
-        temp = x[i]
-        new_concepts = []
-        for j, encoded_key in enumerate(tokenized_concepts):
-            cursor = 0
-            length = len(encoded_key)
-            #print(encoded_key)
-            for idx, encoded_id in enumerate(temp):
-                
-                
-                if encoded_id == encoded_key[cursor]:
-                    cursor += 1
-                    if cursor == len(encoded_key):
-                        start_point = idx + 1 - cursor
-                        end_point = idx + 1
-                        #start_n_end_point_list.append([start_point, end_point])
-                        #concepts[j] = [concepts[j], start_point, end_point]
-                        new_concepts.append([concepts[j], start_point, end_point])
-                        
-                        #print(concepts[j], tokenizer.decode(temp[start_point:end_point], add_special_tokens = False))
-                        cursor = 0
-                else:
+            if encoded_id == encoded_key[cursor]:
+                cursor += 1
+                if cursor == len(encoded_key):
+                    start_point = idx + 1 - cursor
+                    end_point = idx + 1
+                    new_concepts.append([concepts[j], start_point, end_point])
                     cursor = 0
-            
-        total_concept.append(new_concepts)
-        #print(new_concepts)
-        #total_tokenized_concept.append(tokenized_concepts)   
-        #temp += tokenizer.encode(token, add_special_tokens = False)
-            
-        #print(len(temp), length)
-
-    print(len(train_data), len(total_concept))
-    ret = {"train_data": x, "concepts" : total_concept}
-
-    with open('/home/user10/MatSciBERT/data/concept_128_ngram_%s/split_real/train_data_%d.pkl'%(dictionary_dataset, index+1), 'wb') as f:
-        pickle.dump(ret, f)
+            else:
+                cursor = 0
         
-    index += 1
-    
+    total_concept.append(new_concepts)
+
+
+print(len(train_data), len(total_concept))
+ret = {"input_ids": x, "concept_positions" : total_concept}
+
+with open('./raw_data/melt/train_data.pkl', 'wb') as f:
+    pickle.dump(ret, f)
+
 print(len(check_dict))
-with open("/home/user10/MatSciBERT/data/concept_128_ngram_%s/check_dict_128_real.pkl"%dictionary_dataset, "wb") as f:
+with open("./raw_data/melt/entity_dict_128.pkl", "wb") as f:
     pickle.dump(check_dict, f)
-    
+
+sorted_dict = sorted(check_dict.items(), key = lambda x: x[1], reverse = True)
+#sorted_dict = ret_dict.items()
+
+f = open("./raw_data/melt/chem_dict.txt", "w")
+#for key, item in ret_dict.items():   
+for key, item in sorted_dict:
+    f.write("%s\t%d\n"%(key, item))
+f.close()

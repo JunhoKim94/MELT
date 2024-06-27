@@ -4,9 +4,8 @@ import numpy as np
 import copy
 
 similarity = 0.4
-concept_name = "chem_matscivec_embedding_similarity_0.4_combine"
 
-with open("/mnt/user10/all/triplet_chem_dict_mat2vec_matscivec_keywords_embedding_50_similarity_0.400000_all.txt", "r") as f:
+with open("./raw_data/expand_entities/triplet_chem_dict_mat2vec_matscivec_keywords_embedding_50_similarity_0.400000_all.txt", "r") as f:
     x = f.readlines()
 
 ret_dict = dict()
@@ -57,7 +56,7 @@ print(len(key2length))
 sorted_dict = sorted(key2length.items(), key = lambda x: x[1], reverse = True)
 
 
-with open("/mnt/user10/bert/concept_128_ngram_%s/chem_dict.txt"%concept_name, "r") as f:
+with open("./raw_data/melt/chem_dict.txt", "r") as f:
     x = f.readlines()
 
 corpus2freq = dict()
@@ -88,7 +87,6 @@ print(idx)
 sorted_corpus = sorted(corpus2rel.items(), key = lambda x: x[1], reverse = True)
 total_length = len(sorted_corpus)
 
-
 for num_curriculum in [2, 3, 4]:
 
     t = dict()
@@ -101,7 +99,7 @@ for num_curriculum in [2, 3, 4]:
         ret.append(new_temp)
         print(len(new_temp))
 
-    with open("/mnt/user10/bert/concept_128_ngram_%s/curriculum_%d.pkl"%(concept_name, num_curriculum), "wb") as f:
+    with open("./raw_data/melt/curriculum_%d.pkl"%num_curriculum, "wb") as f:
         pickle.dump(ret, f)
 
     t = dict()
@@ -114,7 +112,7 @@ for num_curriculum in [2, 3, 4]:
         ret.append(new_temp)
         print(len(new_temp))
 
-    with open("/mnt/user10/bert/concept_128_ngram_%s/curriculum_anti_%d.pkl"%(concept_name, num_curriculum), "wb") as f:
+    with open("./raw_data/melt/curriculum_anti_%d.pkl"%num_curriculum, "wb") as f:
         pickle.dump(ret, f)
 
 

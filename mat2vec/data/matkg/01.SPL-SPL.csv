@@ -1,0 +1,5003 @@
+Subject,Object,Rel,Count
+100,101,SPL-SPL,33
+100,110,SPL-SPL,56
+100,Anatase,SPL-SPL,48
+100,Cubic,SPL-SPL,36
+100,FCC,SPL-SPL,59
+100,Rutile,SPL-SPL,47
+101,100,SPL-SPL,33
+101,110,SPL-SPL,94
+101,Anatase,SPL-SPL,353
+101,Rutile,SPL-SPL,137
+110,100,SPL-SPL,56
+110,101,SPL-SPL,94
+110,Anatase,SPL-SPL,124
+110,BCC,SPL-SPL,36
+110,FCC,SPL-SPL,46
+110,Perovskites,SPL-SPL,43
+110,Rutile,SPL-SPL,332
+12,C2/M,SPL-SPL,43
+12,Monoclinic,SPL-SPL,44
+14,Monoclinic,SPL-SPL,147
+14,P2 1/N,SPL-SPL,38
+14,P21/C,SPL-SPL,60
+14,P21C,SPL-SPL,39
+194,Hexagonal,SPL-SPL,31
+194,P63/MMC,SPL-SPL,41
+1H,1T,SPL-SPL,46
+1T,1H,SPL-SPL,46
+1T,2H,SPL-SPL,488
+1T,Hexagonal,SPL-SPL,107
+1T,Trigonal,SPL-SPL,46
+1Tphase,2H,SPL-SPL,38
+2212,2223,SPL-SPL,48
+2223,2212,SPL-SPL,48
+225,Cubic,SPL-SPL,39
+2D,Hexagonal,SPL-SPL,40
+2D,Perovskites,SPL-SPL,49
+2H,1T,SPL-SPL,488
+2H,1Tphase,SPL-SPL,38
+2H,4H,SPL-SPL,52
+2H,Cubic,SPL-SPL,66
+2H,Hexagonal,SPL-SPL,252
+2H,Orthorhombic,SPL-SPL,35
+2H,Perovskites,SPL-SPL,46
+2H,Rhombohedral,SPL-SPL,50
+2H,Tetragonal,SPL-SPL,30
+2H,Trigonal,SPL-SPL,50
+3,Cubic,SPL-SPL,39
+3,Hexagonal,SPL-SPL,41
+3,P,SPL-SPL,41
+3,Perovskites,SPL-SPL,31
+304,Austenitic,SPL-SPL,77
+3D,Cubic,SPL-SPL,36
+3D,Perovskites,SPL-SPL,118
+4H,2H,SPL-SPL,52
+4H,6H,SPL-SPL,100
+4H,Cubic,SPL-SPL,53
+4H,Hexagonal,SPL-SPL,105
+60,Orthorhombic,SPL-SPL,31
+60,PBCN,SPL-SPL,32
+6H,4H,SPL-SPL,100
+6H,Cubic,SPL-SPL,51
+6H,Hexagonal,SPL-SPL,104
+6H,Perovskites,SPL-SPL,43
+A-Phase,G,SPL-SPL,58
+A-Phase,Perovskites,SPL-SPL,38
+A-Phase,Phase,SPL-SPL,55
+A-Type,B-Type,SPL-SPL,46
+A-Type,Calc,SPL-SPL,32
+A-Type,Chondrite,SPL-SPL,33
+A-Type,Garnet,SPL-SPL,43
+A-Type,Granite,SPL-SPL,157
+A-Type,Granitic,SPL-SPL,49
+A-Type,Granitoids,SPL-SPL,56
+A-Type,Hexagonal,SPL-SPL,34
+A-Type,Type,SPL-SPL,75
+A1,A2,SPL-SPL,50
+A15,BCC,SPL-SPL,39
+A2,A1,SPL-SPL,50
+A2,B2,SPL-SPL,40
+A21am,Orthorhombic,SPL-SPL,37
+A:,Anatase,SPL-SPL,48
+A:,Rutile,SPL-SPL,46
+ABA2,Orthorhombic,SPL-SPL,32
+ABO3,Perovskites,SPL-SPL,73
+ACT,B s t,SPL-SPL,97
+ACT,S T,SPL-SPL,396
+ACT,T,SPL-SPL,389
+AFM,AFT,SPL-SPL,33
+AFT,AFM,SPL-SPL,33
+AM,Amphibolite,SPL-SPL,34
+AM,Eclogites,SPL-SPL,30
+AML,Acute,SPL-SPL,52
+AML,Acute Myeloid,SPL-SPL,198
+AML,Acute Myeloid Leukemia,SPL-SPL,112
+AML,Leukemia,SPL-SPL,55
+AML,MDS,SPL-SPL,36
+AML,Myelodysplastic,SPL-SPL,37
+AML,Myeloid,SPL-SPL,35
+AMM2,Orthorhombic,SPL-SPL,47
+ARC,Calc,SPL-SPL,30
+Abstract,Anatase,SPL-SPL,127
+Abstract,Cubic,SPL-SPL,156
+Abstract,Double Perovskite,SPL-SPL,37
+Abstract,FCC,SPL-SPL,31
+Abstract,Hexagonal,SPL-SPL,216
+Abstract,Martensite,SPL-SPL,32
+Abstract,Monoclinic,SPL-SPL,178
+Abstract,Orthorhombic,SPL-SPL,134
+Abstract,Perovskites,SPL-SPL,187
+Abstract,Rhombohedral,SPL-SPL,63
+Abstract,Rutile,SPL-SPL,82
+Abstract,Spinels,SPL-SPL,122
+Abstract,Tetragonal,SPL-SPL,133
+Abstract,Triclinic,SPL-SPL,32
+Abstract,Wurtzite,SPL-SPL,31
+Abyssal,Olivines,SPL-SPL,30
+Abyssal,Spinels,SPL-SPL,30
+Achondrite,Chondrite,SPL-SPL,53
+Acicular,Austenite,SPL-SPL,124
+Acicular,Bainitic,SPL-SPL,53
+Acicular,Martensite,SPL-SPL,110
+Acicular,Polygonal,SPL-SPL,76
+Acicular,Widmanstatten,SPL-SPL,30
+Actinobacteria,Proteobacteria,SPL-SPL,36
+Acute,AML,SPL-SPL,52
+Acute Myeloid,AML,SPL-SPL,198
+Acute Myeloid,Myeloid,SPL-SPL,31
+Acute Myeloid Leukemia,AML,SPL-SPL,112
+Adakite,Adakitic,SPL-SPL,43
+Adakite,Calc,SPL-SPL,31
+Adakite,Chondrite,SPL-SPL,32
+Adakite,Garnet,SPL-SPL,51
+Adakitic,Adakite,SPL-SPL,43
+Adakitic,Garnet,SPL-SPL,49
+Adakitic,Granite,SPL-SPL,32
+Adenocarcinoma,Lung,SPL-SPL,60
+Adenocarcinoma,NSCLC,SPL-SPL,65
+Adenocarcinoma,Scc,SPL-SPL,34
+Adenocarcinoma,Squamous Cell,SPL-SPL,111
+Adenocarcinoma,Squamous Cell Carcinoma,SPL-SPL,51
+Alkaline,Basaltic,SPL-SPL,64
+Alkaline,Calc,SPL-SPL,295
+Alkaline,Chondrite,SPL-SPL,49
+Alkaline,Garnet,SPL-SPL,71
+Alkaline,Granite,SPL-SPL,79
+Alkaline,Granitic,SPL-SPL,31
+Alkaline,Granitoids,SPL-SPL,51
+Alkaline,Shoshonitic,SPL-SPL,45
+Alkaline,Tholeiites,SPL-SPL,34
+Alkaline,Tholeiitic,SPL-SPL,91
+All,Perovskites,SPL-SPL,40
+Allotriomorphic,Austenite,SPL-SPL,64
+Allotriomorphic,Martensite,SPL-SPL,34
+Allotriomorphic,Widmanstatten,SPL-SPL,33
+Alpha,BCC,SPL-SPL,42
+Alpha,Beta,SPL-SPL,386
+Alpha,Cubic,SPL-SPL,31
+Alpha,Delta,SPL-SPL,33
+Alpha,Gamma,SPL-SPL,109
+Alpha,Hexagonal,SPL-SPL,31
+Alpha,Martensite,SPL-SPL,31
+Alpha,β,SPL-SPL,64
+Amphiboles,Amphibolite,SPL-SPL,61
+Amphiboles,Biotites,SPL-SPL,31
+Amphiboles,Calcic,SPL-SPL,33
+Amphiboles,Chondrite,SPL-SPL,36
+Amphiboles,Clinopyroxenes,SPL-SPL,84
+Amphiboles,Eclogites,SPL-SPL,56
+Amphiboles,Garnet,SPL-SPL,141
+Amphiboles,Granulite,SPL-SPL,42
+Amphiboles,Olivines,SPL-SPL,40
+Amphiboles,Plagioclase,SPL-SPL,51
+Amphiboles,Pyroxene,SPL-SPL,66
+Amphiboles,Rutile,SPL-SPL,44
+Amphiboles,Spinels,SPL-SPL,31
+Amphibolite,AM,SPL-SPL,34
+Amphibolite,Amphiboles,SPL-SPL,61
+Amphibolite,Basaltic,SPL-SPL,41
+Amphibolite,Biotites,SPL-SPL,31
+Amphibolite,Blueschists,SPL-SPL,94
+Amphibolite,Chondrite,SPL-SPL,73
+Amphibolite,Clinopyroxenes,SPL-SPL,74
+Amphibolite,Eclogites,SPL-SPL,311
+Amphibolite,Eclogitic,SPL-SPL,50
+Amphibolite,Epidote,SPL-SPL,60
+Amphibolite,GS,SPL-SPL,31
+Amphibolite,Garnet,SPL-SPL,489
+Amphibolite,Garnets,SPL-SPL,59
+Amphibolite,Gneiss,SPL-SPL,202
+Amphibolite,Gneisses,SPL-SPL,215
+Amphibolite,Gneissic,SPL-SPL,58
+Amphibolite,Granite,SPL-SPL,87
+Amphibolite,Granitic,SPL-SPL,80
+Amphibolite,Granitoids,SPL-SPL,49
+Amphibolite,Granulite,SPL-SPL,380
+Amphibolite,Greenschist,SPL-SPL,147
+Amphibolite,HP,SPL-SPL,40
+Amphibolite,Mafic,SPL-SPL,67
+Amphibolite,Metamorphic,SPL-SPL,55
+Amphibolite,Migmatites,SPL-SPL,36
+Amphibolite,Migmatitic,SPL-SPL,38
+Amphibolite,Omphacite,SPL-SPL,37
+Amphibolite,Ophiolites,SPL-SPL,31
+Amphibolite,Pelitic,SPL-SPL,34
+Amphibolite,Plagioclase,SPL-SPL,45
+Amphibolite,Pyroxene,SPL-SPL,43
+Amphibolite,Rutile,SPL-SPL,90
+Amphibolite,Schist,SPL-SPL,48
+Amphibolite,Spinels,SPL-SPL,31
+Amphibolite,TTG,SPL-SPL,31
+Amphibolite,Tholeiitic,SPL-SPL,35
+Amphibolite,Tonalitic,SPL-SPL,31
+Amphibolite,Uhp,SPL-SPL,33
+Amphibolite,Ultramafic,SPL-SPL,57
+Anatase,100,SPL-SPL,48
+Anatase,101,SPL-SPL,353
+Anatase,110,SPL-SPL,124
+Anatase,A:,SPL-SPL,48
+Anatase,Abstract,SPL-SPL,127
+Anatase,Anatase-,SPL-SPL,38
+Anatase,Anatase/Rutile,SPL-SPL,63
+Anatase,BSTRAct,SPL-SPL,45
+Anatase,Baddeleyite,SPL-SPL,30
+Anatase,Brookite,SPL-SPL,921
+Anatase,Cubic,SPL-SPL,349
+Anatase,FCC,SPL-SPL,52
+Anatase,Face Centered Cubic,SPL-SPL,40
+Anatase,Fluorite,SPL-SPL,47
+Anatase,Hexagonal,SPL-SPL,302
+Anatase,Lepidocrocite,SPL-SPL,35
+Anatase,Monoclinic,SPL-SPL,234
+Anatase,Orthorhombic,SPL-SPL,158
+Anatase,P25,SPL-SPL,43
+Anatase,Perovskites,SPL-SPL,233
+Anatase,R,SPL-SPL,45
+Anatase,R A C T,SPL-SPL,82
+Anatase,Rutile,SPL-SPL,7028
+Anatase,S T,SPL-SPL,87
+Anatase,Spinels,SPL-SPL,150
+Anatase,T,SPL-SPL,233
+Anatase,Tetragonal,SPL-SPL,348
+Anatase,Wurtzite,SPL-SPL,83
+Anatase-,Anatase,SPL-SPL,38
+Anatase-,Rutile,SPL-SPL,36
+Anatase/Rutile,Anatase,SPL-SPL,63
+Anatase/Rutile,Rutile,SPL-SPL,54
+Andesitic,Basaltic,SPL-SPL,134
+Andesitic,Dacitic,SPL-SPL,76
+Andesitic,Garnet,SPL-SPL,37
+Andesitic,Rhyolitic,SPL-SPL,44
+Anhydrate,Hydrates,SPL-SPL,43
+Anhydrate,Monohydrates,SPL-SPL,34
+Anhydrous,Dihydrate,SPL-SPL,32
+Anhydrous,Garnet,SPL-SPL,38
+Anhydrous,Hydrates,SPL-SPL,58
+Anhydrous,Monoclinic,SPL-SPL,34
+Anhydrous,Monohydrates,SPL-SPL,61
+Anhydrous,Olivines,SPL-SPL,40
+Anti-Perovskites,Cubic,SPL-SPL,49
+Anti-Perovskites,Perovskites,SPL-SPL,34
+Apatites,Hexagonal,SPL-SPL,99
+Apatites,P63/M,SPL-SPL,62
+Apatites,Perovskites,SPL-SPL,32
+Aragonite,Calcite,SPL-SPL,118
+Aragonite,Vaterite,SPL-SPL,57
+Aragonitic,Calcitic,SPL-SPL,50
+Archean,Garnet,SPL-SPL,63
+Archean,Gneiss,SPL-SPL,30
+Archean,Gneisses,SPL-SPL,42
+Archean,Proterozoic,SPL-SPL,30
+Armchair,Hexagonal,SPL-SPL,33
+Armchair,Zigzag,SPL-SPL,31
+Aurivillius,Fluorite,SPL-SPL,31
+Aurivillius,Orthorhombic,SPL-SPL,71
+Aurivillius,Perovskites,SPL-SPL,151
+Aurivillius,Tetragonal,SPL-SPL,34
+Austenite,Acicular,SPL-SPL,124
+Austenite,Allotriomorphic,SPL-SPL,64
+Austenite,Austenite-Martensite,SPL-SPL,47
+Austenite,Austenitic,SPL-SPL,1644
+Austenite,B2,SPL-SPL,238
+Austenite,BCC,SPL-SPL,472
+Austenite,BCT,SPL-SPL,36
+Austenite,Bainite,SPL-SPL,422
+Austenite,Bainitic,SPL-SPL,580
+Austenite,Body Centred Cubic,SPL-SPL,74
+Austenite,Cooling,SPL-SPL,47
+Austenite,Cubic,SPL-SPL,228
+Austenite,Cubic Austenite,SPL-SPL,30
+Austenite,Cuboidal,SPL-SPL,32
+Austenite,Delta,SPL-SPL,50
+Austenite,Dp,SPL-SPL,53
+Austenite,Duplex,SPL-SPL,301
+Austenite,E-Martensite,SPL-SPL,127
+Austenite,F,SPL-SPL,92
+Austenite,FCC,SPL-SPL,538
+Austenite,Face Centered Cubic,SPL-SPL,110
+Austenite,Ferrite,SPL-SPL,400
+Austenite,Ferritic,SPL-SPL,353
+Austenite,G,SPL-SPL,237
+Austenite,HCP,SPL-SPL,107
+Austenite,Heusler,SPL-SPL,106
+Austenite,Hexagonal,SPL-SPL,93
+Austenite,L10,SPL-SPL,33
+Austenite,L21,SPL-SPL,54
+Austenite,Lath,SPL-SPL,297
+Austenite,Lath Martensite,SPL-SPL,92
+Austenite,Leaves,SPL-SPL,41
+Austenite,Lower,SPL-SPL,47
+Austenite,M,SPL-SPL,218
+Austenite,Ma,SPL-SPL,42
+Austenite,Martensite,SPL-SPL,4985
+Austenite,Martensite Lath,SPL-SPL,40
+Austenite,Martensite-Austenite,SPL-SPL,68
+Austenite,Martensitic,SPL-SPL,1851
+Austenite,Monoclinic,SPL-SPL,90
+Austenite,Orthorhombic,SPL-SPL,91
+Austenite,P,SPL-SPL,55
+Austenite,Pearlite,SPL-SPL,31
+Austenite,Pearlitic,SPL-SPL,117
+Austenite,Polygonal,SPL-SPL,138
+Austenite,Proeutectoid,SPL-SPL,82
+Austenite,Ra,SPL-SPL,99
+Austenite,Super,SPL-SPL,47
+Austenite,Tetragonal,SPL-SPL,112
+Austenite,Trip,SPL-SPL,33
+Austenite,Widmanstatten,SPL-SPL,133
+Austenite,Δ,SPL-SPL,68
+Austenite,α' Martensite,SPL-SPL,174
+Austenite,β,SPL-SPL,72
+Austenite,γ,SPL-SPL,43
+Austenite,γ-Austenite,SPL-SPL,58
+Austenite,γ-Phase,SPL-SPL,35
+Austenite,γ:,SPL-SPL,43
+Austenite,σ,SPL-SPL,103
+Austenite-Martensite,Austenite,SPL-SPL,47
+Austenite-Martensite,Martensite,SPL-SPL,50
+Austenitic,304,SPL-SPL,77
+Austenitic,Austenite,SPL-SPL,1644
+Austenitic,B2,SPL-SPL,61
+Austenitic,BCC,SPL-SPL,173
+Austenitic,Bainitic,SPL-SPL,60
+Austenitic,Body Centred Cubic,SPL-SPL,39
+Austenitic,Cubic,SPL-SPL,90
+Austenitic,Delta,SPL-SPL,37
+Austenitic,Duplex,SPL-SPL,289
+Austenitic,E-Martensite,SPL-SPL,94
+Austenitic,FCC,SPL-SPL,303
+Austenitic,Face Centered Cubic,SPL-SPL,106
+Austenitic,Ferrite,SPL-SPL,72
+Austenitic,Ferritic,SPL-SPL,795
+Austenitic,G,SPL-SPL,104
+Austenitic,HCP,SPL-SPL,60
+Austenitic,Heusler,SPL-SPL,40
+Austenitic,Hexagonal,SPL-SPL,57
+Austenitic,Leaves,SPL-SPL,32
+Austenitic,M,SPL-SPL,31
+Austenitic,Martensite,SPL-SPL,1124
+Austenitic,Martensitic,SPL-SPL,1185
+Austenitic,Monoclinic,SPL-SPL,31
+Austenitic,Orthorhombic,SPL-SPL,33
+Austenitic,Pearlitic,SPL-SPL,36
+Austenitic,Spinels,SPL-SPL,56
+Austenitic,Tetragonal,SPL-SPL,51
+Austenitic,α' Martensite,SPL-SPL,82
+Austenitic,γ-Austenite,SPL-SPL,38
+Austenitic,σ,SPL-SPL,61
+B Cell,DLBCL,SPL-SPL,31
+B Cell,Lymphoma,SPL-SPL,30
+B s t,ACT,SPL-SPL,97
+B-Type,A-Type,SPL-SPL,46
+B1,B2,SPL-SPL,297
+B1,B3,SPL-SPL,30
+B1,Cscl,SPL-SPL,86
+B1,Cubic,SPL-SPL,106
+B1,FCC,SPL-SPL,36
+B1,Hexagonal,SPL-SPL,61
+B1,NaCl,SPL-SPL,131
+B1,Rock Salt,SPL-SPL,98
+B1,Rock-Salt,SPL-SPL,35
+B1,Tetragonal,SPL-SPL,37
+B1,Wurtzite,SPL-SPL,52
+B1,Zinc Blende,SPL-SPL,59
+B19,B2,SPL-SPL,71
+B19,Martensite,SPL-SPL,63
+B19,Martensitic,SPL-SPL,33
+B2,A2,SPL-SPL,40
+B2,Austenite,SPL-SPL,238
+B2,Austenitic,SPL-SPL,61
+B2,B1,SPL-SPL,297
+B2,B19,SPL-SPL,71
+B2,BCC,SPL-SPL,386
+B2,Body Centred Cubic,SPL-SPL,106
+B2,Cscl,SPL-SPL,137
+B2,Cubic,SPL-SPL,141
+B2,D03,SPL-SPL,86
+B2,Do3,SPL-SPL,35
+B2,FCC,SPL-SPL,285
+B2,Face Centered Cubic,SPL-SPL,76
+B2,G,SPL-SPL,75
+B2,HCP,SPL-SPL,46
+B2,Heusler,SPL-SPL,93
+B2,Hexagonal,SPL-SPL,54
+B2,L10,SPL-SPL,74
+B2,L12,SPL-SPL,108
+B2,L21,SPL-SPL,109
+B2,Martensite,SPL-SPL,350
+B2,Martensitic,SPL-SPL,244
+B2,Monoclinic,SPL-SPL,80
+B2,NaCl,SPL-SPL,68
+B2,Orthorhombic,SPL-SPL,88
+B2,Rhombohedral,SPL-SPL,36
+B2,Tetragonal,SPL-SPL,79
+B2,α2,SPL-SPL,47
+B2,β,SPL-SPL,94
+B3,B1,SPL-SPL,30
+BCC,110,SPL-SPL,36
+BCC,A15,SPL-SPL,39
+BCC,Alpha,SPL-SPL,42
+BCC,Austenite,SPL-SPL,472
+BCC,Austenitic,SPL-SPL,173
+BCC,B2,SPL-SPL,386
+BCC,BCT,SPL-SPL,117
+BCC,Bainitic,SPL-SPL,32
+BCC,Basal Cell Carcinoma,SPL-SPL,40
+BCC,Beta,SPL-SPL,42
+BCC,Body Centred Cubic,SPL-SPL,1366
+BCC,Body-Centered Tetragonal,SPL-SPL,52
+BCC,C14,SPL-SPL,74
+BCC,C15,SPL-SPL,36
+BCC,Cscl,SPL-SPL,49
+BCC,Cubic,SPL-SPL,537
+BCC,D03,SPL-SPL,53
+BCC,FCC,SPL-SPL,3512
+BCC,Face Centered Cubic,SPL-SPL,623
+BCC,Fcc,SPL-SPL,117
+BCC,Ferritic,SPL-SPL,80
+BCC,G,SPL-SPL,73
+BCC,HCP,SPL-SPL,1334
+BCC,Hex,SPL-SPL,47
+BCC,Hexagonal,SPL-SPL,463
+BCC,Hexagonal Close Packed,SPL-SPL,199
+BCC,Icosahedral,SPL-SPL,109
+BCC,L10,SPL-SPL,39
+BCC,L12,SPL-SPL,90
+BCC,Lath,SPL-SPL,33
+BCC,Laves Phase,SPL-SPL,90
+BCC,Leaves,SPL-SPL,97
+BCC,Martensite,SPL-SPL,468
+BCC,Martensitic,SPL-SPL,270
+BCC,Monoclinic,SPL-SPL,95
+BCC,Orthorhombic,SPL-SPL,178
+BCC,Perovskites,SPL-SPL,37
+BCC,Rhombohedral,SPL-SPL,62
+BCC,SC,SPL-SPL,131
+BCC,Simple Cubic,SPL-SPL,62
+BCC,Spinels,SPL-SPL,46
+BCC,Tetragonal,SPL-SPL,220
+BCC,Trigonal,SPL-SPL,33
+BCC,Δ,SPL-SPL,43
+BCC,α' Martensite,SPL-SPL,42
+BCC,α-Phase,SPL-SPL,49
+BCC,β,SPL-SPL,295
+BCC,β-Phase,SPL-SPL,73
+BCC,σ,SPL-SPL,77
+BCC,ω,SPL-SPL,86
+BCT,Austenite,SPL-SPL,36
+BCT,BCC,SPL-SPL,117
+BCT,Body Centred Cubic,SPL-SPL,48
+BCT,Body-Centered Tetragonal,SPL-SPL,132
+BCT,FCC,SPL-SPL,152
+BCT,Face Centered Cubic,SPL-SPL,53
+BCT,HCP,SPL-SPL,49
+BCT,Hexagonal,SPL-SPL,30
+BCT,Martensite,SPL-SPL,58
+BSTRAct,Anatase,SPL-SPL,45
+BSTRAct,Cubic,SPL-SPL,92
+BSTRAct,Hexagonal,SPL-SPL,66
+BSTRAct,Monoclinic,SPL-SPL,45
+BSTRAct,Orthorhombic,SPL-SPL,49
+BSTRAct,Perovskites,SPL-SPL,87
+BSTRAct,Rutile,SPL-SPL,35
+BSTRAct,Spinels,SPL-SPL,43
+BSTRAct,Tetragonal,SPL-SPL,53
+Baddeleyite,Anatase,SPL-SPL,30
+Baddeleyite,Monoclinic,SPL-SPL,30
+Baddeleyite,Rutile,SPL-SPL,33
+Bainite,Austenite,SPL-SPL,422
+Bainite,Bainitic,SPL-SPL,194
+Bainite,Lower,SPL-SPL,42
+Bainite,M,SPL-SPL,31
+Bainite,Martensite,SPL-SPL,384
+Bainite,Martensitic,SPL-SPL,69
+Bainitic,Acicular,SPL-SPL,53
+Bainitic,Austenite,SPL-SPL,580
+Bainitic,Austenitic,SPL-SPL,60
+Bainitic,BCC,SPL-SPL,32
+Bainitic,Bainite,SPL-SPL,194
+Bainitic,Ferritic,SPL-SPL,106
+Bainitic,Lath,SPL-SPL,43
+Bainitic,M,SPL-SPL,48
+Bainitic,Martensite,SPL-SPL,387
+Bainitic,Martensitic,SPL-SPL,253
+Bainitic,Pearlitic,SPL-SPL,85
+Bainitic,Polygonal,SPL-SPL,74
+Basal Cell Carcinoma,BCC,SPL-SPL,40
+Basaltic,Alkaline,SPL-SPL,64
+Basaltic,Amphibolite,SPL-SPL,41
+Basaltic,Andesitic,SPL-SPL,134
+Basaltic,Calc,SPL-SPL,68
+Basaltic,Chondrite,SPL-SPL,98
+Basaltic,Clinopyroxenes,SPL-SPL,64
+Basaltic,Dacitic,SPL-SPL,45
+Basaltic,Eclogites,SPL-SPL,44
+Basaltic,Garnet,SPL-SPL,191
+Basaltic,Granite,SPL-SPL,38
+Basaltic,Granitic,SPL-SPL,32
+Basaltic,N-Morb,SPL-SPL,31
+Basaltic,Olivines,SPL-SPL,147
+Basaltic,Plagioclase,SPL-SPL,52
+Basaltic,Pyroxene,SPL-SPL,112
+Basaltic,Rhyolitic,SPL-SPL,62
+Basaltic,Spinels,SPL-SPL,74
+Basaltic,Tholeiites,SPL-SPL,30
+Basaltic,Tholeiitic,SPL-SPL,67
+Basaltic,Ultramafic,SPL-SPL,44
+Baxter,Cassie,SPL-SPL,73
+Baxter,Wenzel,SPL-SPL,47
+Beta,Alpha,SPL-SPL,386
+Beta,BCC,SPL-SPL,42
+Beta,Gamma,SPL-SPL,56
+Beta,Hexagonal,SPL-SPL,33
+Beta,Martensite,SPL-SPL,31
+Beta,β,SPL-SPL,69
+Beta Sheet,α-Helix,SPL-SPL,41
+Betaproteobacteria,Gammaproteobacteria,SPL-SPL,32
+Biotites,Amphiboles,SPL-SPL,31
+Biotites,Amphibolite,SPL-SPL,31
+Biotites,Garnet,SPL-SPL,142
+Biotites,Gneiss,SPL-SPL,62
+Biotites,Gneisses,SPL-SPL,31
+Biotites,Granite,SPL-SPL,67
+Biotites,Granitic,SPL-SPL,31
+Biotites,Granitoids,SPL-SPL,41
+Biotites,Granulite,SPL-SPL,30
+Biotites,Plagioclase,SPL-SPL,41
+Birnessites,Hexagonal,SPL-SPL,43
+Birnessites,Spinels,SPL-SPL,41
+Bituminous,Sub-Bituminous,SPL-SPL,76
+Bixbyite,Cubic,SPL-SPL,91
+Bixbyite,Fluorite,SPL-SPL,43
+Bixbyite,Spinels,SPL-SPL,39
+Blacks,Perovskites,SPL-SPL,40
+Bladder,Breast,SPL-SPL,41
+Bladder,Prostate,SPL-SPL,33
+Blue,Green,SPL-SPL,39
+Blueschists,Amphibolite,SPL-SPL,94
+Blueschists,Eclogites,SPL-SPL,192
+Blueschists,Eclogitic,SPL-SPL,36
+Blueschists,Epidote,SPL-SPL,48
+Blueschists,Garnet,SPL-SPL,138
+Blueschists,Granulite,SPL-SPL,56
+Blueschists,Greenschist,SPL-SPL,77
+Blueschists,Rutile,SPL-SPL,34
+Body Centred Cubic,Austenite,SPL-SPL,74
+Body Centred Cubic,Austenitic,SPL-SPL,39
+Body Centred Cubic,B2,SPL-SPL,106
+Body Centred Cubic,BCC,SPL-SPL,1366
+Body Centred Cubic,BCT,SPL-SPL,48
+Body Centred Cubic,Body-Centered Tetragonal,SPL-SPL,64
+Body Centred Cubic,Cubic,SPL-SPL,278
+Body Centred Cubic,FCC,SPL-SPL,629
+Body Centred Cubic,Face Centered Cubic,SPL-SPL,933
+Body Centred Cubic,G,SPL-SPL,36
+Body Centred Cubic,HCP,SPL-SPL,241
+Body Centred Cubic,Hexagonal,SPL-SPL,276
+Body Centred Cubic,Hexagonal Close Packed,SPL-SPL,252
+Body Centred Cubic,Icosahedral,SPL-SPL,35
+Body Centred Cubic,Martensite,SPL-SPL,100
+Body Centred Cubic,Martensitic,SPL-SPL,87
+Body Centred Cubic,Monoclinic,SPL-SPL,56
+Body Centred Cubic,Orthorhombic,SPL-SPL,84
+Body Centred Cubic,Rhombohedral,SPL-SPL,47
+Body Centred Cubic,SC,SPL-SPL,56
+Body Centred Cubic,Simple Cubic,SPL-SPL,66
+Body Centred Cubic,Tetragonal,SPL-SPL,85
+Body Centred Cubic,β,SPL-SPL,58
+Body-Centered Tetragonal,BCC,SPL-SPL,52
+Body-Centered Tetragonal,BCT,SPL-SPL,132
+Body-Centered Tetragonal,Body Centred Cubic,SPL-SPL,64
+Body-Centered Tetragonal,Cubic,SPL-SPL,47
+Body-Centered Tetragonal,FCC,SPL-SPL,73
+Body-Centered Tetragonal,Face Centered Cubic,SPL-SPL,79
+Body-Centered Tetragonal,Hexagonal,SPL-SPL,43
+Body-Centered Tetragonal,Tetragonal,SPL-SPL,59
+Breast,Bladder,SPL-SPL,41
+Breast,Breast Cancer,SPL-SPL,48
+Breast,Cervical,SPL-SPL,123
+Breast,Colon,SPL-SPL,339
+Breast,Colorectal,SPL-SPL,164
+Breast,Gastric,SPL-SPL,77
+Breast,Hepatocellular,SPL-SPL,48
+Breast,Leukemia,SPL-SPL,63
+Breast,Liver,SPL-SPL,83
+Breast,Lung,SPL-SPL,376
+Breast,MCF-7,SPL-SPL,46
+Breast,Mammary,SPL-SPL,74
+Breast,Melanoma,SPL-SPL,186
+Breast,Non-Small,SPL-SPL,30
+Breast,Non-Small Cell,SPL-SPL,36
+Breast,Ovarian,SPL-SPL,340
+Breast,Pancreatic,SPL-SPL,90
+Breast,Prostate,SPL-SPL,353
+Breast,Renal,SPL-SPL,56
+Breast,TNBC,SPL-SPL,49
+Breast,Triple,SPL-SPL,50
+Breast Cancer,Breast,SPL-SPL,48
+Bronze,Perovskites,SPL-SPL,35
+Bronze,Tetragonal,SPL-SPL,118
+Bronze,Ttb,SPL-SPL,39
+Brookite,Anatase,SPL-SPL,921
+Brookite,Orthorhombic,SPL-SPL,35
+Brookite,Rutile,SPL-SPL,690
+Brookite,Tetragonal,SPL-SPL,43
+Brown,Brown Adipocytes,SPL-SPL,31
+Brown Adipocytes,Brown,SPL-SPL,31
+Brownmillerite,Cubic,SPL-SPL,66
+Brownmillerite,Cubic Perovskites,SPL-SPL,69
+Brownmillerite,Orthorhombic,SPL-SPL,63
+Brownmillerite,Perovskites,SPL-SPL,290
+Brucite,Hydrotalcite,SPL-SPL,32
+Burkitt,Lymphoma,SPL-SPL,30
+C,Cubic,SPL-SPL,45
+C1,C2,SPL-SPL,30
+C1,C2V,SPL-SPL,40
+C1,CS,SPL-SPL,42
+C1,Chondrite,SPL-SPL,47
+C14,BCC,SPL-SPL,74
+C14,C15,SPL-SPL,110
+C14,Cubic,SPL-SPL,35
+C14,Hexagonal,SPL-SPL,69
+C14,Laves Phase,SPL-SPL,138
+C14,Leaves,SPL-SPL,172
+C15,BCC,SPL-SPL,36
+C15,C14,SPL-SPL,110
+C15,Cubic,SPL-SPL,61
+C15,Laves Phase,SPL-SPL,144
+C15,Leaves,SPL-SPL,117
+C2,C1,SPL-SPL,30
+C2/C,C2/M,SPL-SPL,57
+C2/C,Cc,SPL-SPL,39
+C2/C,Cubic,SPL-SPL,41
+C2/C,Hexagonal,SPL-SPL,68
+C2/C,Monoclinic,SPL-SPL,1406
+C2/C,No. 15,SPL-SPL,58
+C2/C,Orthorhombic,SPL-SPL,214
+C2/C,P,SPL-SPL,58
+C2/C,P-1,SPL-SPL,37
+C2/C,P1,SPL-SPL,198
+C2/C,P2 1/N,SPL-SPL,78
+C2/C,P21/C,SPL-SPL,139
+C2/C,P21C,SPL-SPL,124
+C2/C,P21n,SPL-SPL,84
+C2/C,PBCA,SPL-SPL,43
+C2/C,PNMA,SPL-SPL,46
+C2/C,Rhombohedral,SPL-SPL,37
+C2/C,Tetragonal,SPL-SPL,61
+C2/C,Triclinic,SPL-SPL,259
+C2/C,Trigonal,SPL-SPL,50
+C2/M,12,SPL-SPL,43
+C2/M,C2/C,SPL-SPL,57
+C2/M,Cubic,SPL-SPL,48
+C2/M,Hexagonal,SPL-SPL,67
+C2/M,M,SPL-SPL,31
+C2/M,Monoclinic,SPL-SPL,609
+C2/M,Orthorhombic,SPL-SPL,92
+C2/M,P21/C,SPL-SPL,35
+C2/M,R3M,SPL-SPL,34
+C2/M,Rhombohedral,SPL-SPL,47
+C2/M,Spinels,SPL-SPL,40
+C2/M,Tetragonal,SPL-SPL,49
+C2/M,Triclinic,SPL-SPL,47
+C2/M,Trigonal,SPL-SPL,41
+C2/c,Monoclinic,SPL-SPL,30
+C2/m,Monoclinic,SPL-SPL,32
+C2221,Orthorhombic,SPL-SPL,66
+C2C,Monoclinic,SPL-SPL,59
+C2V,C1,SPL-SPL,40
+C2V,C3V,SPL-SPL,51
+C2V,C4V,SPL-SPL,38
+C2V,CS,SPL-SPL,212
+C2V,Cs,SPL-SPL,30
+C2V,D2d,SPL-SPL,51
+C2V,D3H,SPL-SPL,48
+C2V,TD,SPL-SPL,32
+C2m,Monoclinic,SPL-SPL,46
+C3V,C2V,SPL-SPL,51
+C4V,C2V,SPL-SPL,38
+CCP,HCP,SPL-SPL,47
+CI,Chondrite,SPL-SPL,78
+CI,Chondritic,SPL-SPL,31
+CI Chondrite,Chondrite,SPL-SPL,56
+CI Chondrite,Chondritic,SPL-SPL,41
+CI Chondrite,Olivines,SPL-SPL,58
+CI Chondrite,Pyroxene,SPL-SPL,40
+CI Chondrite,Spinels,SPL-SPL,35
+CKD,Chronic,SPL-SPL,43
+CMC21,Orthorhombic,SPL-SPL,107
+CMCA,Orthorhombic,SPL-SPL,94
+CML,Chronic,SPL-SPL,59
+CML,Chronic Myeloid,SPL-SPL,51
+CMMM,Orthorhombic,SPL-SPL,91
+CMMM,Perovskites,SPL-SPL,32
+CMMM,Tetragonal,SPL-SPL,31
+COLH,Hexagonal,SPL-SPL,79
+COLH,Hexagonal Columnar,SPL-SPL,65
+CPX,Clinopyroxenes,SPL-SPL,103
+CPX,Garnet,SPL-SPL,71
+CPX,OL,SPL-SPL,30
+CPX,Olivines,SPL-SPL,64
+CPX,Orthopyroxene,SPL-SPL,30
+CPX,Plagioclase,SPL-SPL,45
+CPX,Pyroxene,SPL-SPL,32
+CPX,Spinels,SPL-SPL,43
+CRC,Colorectal,SPL-SPL,140
+CS,C1,SPL-SPL,42
+CS,C2V,SPL-SPL,212
+CS,Monoclinic,SPL-SPL,36
+CS,Perovskites,SPL-SPL,53
+CUB,Cubic,SPL-SPL,34
+CV,Chondrite,SPL-SPL,56
+CV3,Chondrite,SPL-SPL,40
+Calc,A-Type,SPL-SPL,32
+Calc,ARC,SPL-SPL,30
+Calc,Adakite,SPL-SPL,31
+Calc,Alkaline,SPL-SPL,295
+Calc,Basaltic,SPL-SPL,68
+Calc,Chondrite,SPL-SPL,44
+Calc,Garnet,SPL-SPL,72
+Calc,Granite,SPL-SPL,85
+Calc,Granitic,SPL-SPL,34
+Calc,Granitoids,SPL-SPL,64
+Calc,Shoshonitic,SPL-SPL,49
+Calc,Tholeiites,SPL-SPL,37
+Calc,Tholeiitic,SPL-SPL,84
+Calcic,Amphiboles,SPL-SPL,33
+Calcic,Clinopyroxenes,SPL-SPL,32
+Calcic,Garnet,SPL-SPL,61
+Calcic,Pyroxene,SPL-SPL,39
+Calcic,Sodic,SPL-SPL,30
+Calcite,Aragonite,SPL-SPL,118
+Calcite,Hexagonal,SPL-SPL,41
+Calcite,Rhombohedral,SPL-SPL,75
+Calcite,Vaterite,SPL-SPL,125
+Calcitic,Aragonitic,SPL-SPL,50
+Callovo,Oxfordian,SPL-SPL,75
+Carbonaceous,Chondrite,SPL-SPL,69
+Carbonaceous,Cm,SPL-SPL,30
+Cassie,Baxter,SPL-SPL,73
+Cassie,Wenzel,SPL-SPL,256
+Cassie Baxter,Wenzel,SPL-SPL,37
+Cassiterite,Rutile,SPL-SPL,31
+Cassiterite,Tetragonal,SPL-SPL,35
+Cc,C2/C,SPL-SPL,39
+Cc,Monoclinic,SPL-SPL,255
+Cc,Orthorhombic,SPL-SPL,47
+Cc,P1,SPL-SPL,33
+Cc,Triclinic,SPL-SPL,41
+Cervical,Breast,SPL-SPL,123
+Cervical,Colon,SPL-SPL,40
+Cervical,Lung,SPL-SPL,57
+Cervical,Ovarian,SPL-SPL,33
+Cervical,Prostate,SPL-SPL,32
+Cf,Cystic,SPL-SPL,93
+Cf,Fibrosis,SPL-SPL,36
+Chalcopyrite,Cubic,SPL-SPL,63
+Chalcopyrite,Kesterite,SPL-SPL,41
+Chalcopyrite,Sphalerite,SPL-SPL,51
+Chalcopyrite,Tetragonal,SPL-SPL,87
+Chalcopyrite,Wurtzite,SPL-SPL,65
+Chalcopyrite,Zinc Blende,SPL-SPL,85
+Cholesteric,Nematic,SPL-SPL,44
+Chondrite,A-Type,SPL-SPL,33
+Chondrite,Achondrite,SPL-SPL,53
+Chondrite,Adakite,SPL-SPL,32
+Chondrite,Alkaline,SPL-SPL,49
+Chondrite,Amphiboles,SPL-SPL,36
+Chondrite,Amphibolite,SPL-SPL,73
+Chondrite,Basaltic,SPL-SPL,98
+Chondrite,C1,SPL-SPL,47
+Chondrite,CI,SPL-SPL,78
+Chondrite,CI Chondrite,SPL-SPL,56
+Chondrite,CV,SPL-SPL,56
+Chondrite,CV3,SPL-SPL,40
+Chondrite,Calc,SPL-SPL,44
+Chondrite,Carbonaceous,SPL-SPL,69
+Chondrite,Chondrite Normalized,SPL-SPL,33
+Chondrite,Chondritic,SPL-SPL,174
+Chondrite,Clinopyroxenes,SPL-SPL,159
+Chondrite,Cm,SPL-SPL,75
+Chondrite,Eclogites,SPL-SPL,94
+Chondrite,Garnet,SPL-SPL,306
+Chondrite,Garnets,SPL-SPL,62
+Chondrite,Gneiss,SPL-SPL,73
+Chondrite,Gneisses,SPL-SPL,47
+Chondrite,Gneissic,SPL-SPL,31
+Chondrite,Granite,SPL-SPL,119
+Chondrite,Granitic,SPL-SPL,58
+Chondrite,Granitoids,SPL-SPL,70
+Chondrite,Granulite,SPL-SPL,69
+Chondrite,L,SPL-SPL,67
+Chondrite,LL,SPL-SPL,68
+Chondrite,Lherzolites,SPL-SPL,34
+Chondrite,Mafic,SPL-SPL,30
+Chondrite,Mantle,SPL-SPL,37
+Chondrite,Meteorite,SPL-SPL,128
+Chondrite,Murchison,SPL-SPL,56
+Chondrite,N-Morb,SPL-SPL,50
+Chondrite,North China Craton,SPL-SPL,44
+Chondrite,Oceanic,SPL-SPL,36
+Chondrite,Olivines,SPL-SPL,270
+Chondrite,Ordinary,SPL-SPL,169
+Chondrite,Perovskites,SPL-SPL,51
+Chondrite,Plagioclase,SPL-SPL,86
+Chondrite,Primitive Mantle,SPL-SPL,143
+Chondrite,Pyroxene,SPL-SPL,180
+Chondrite,Rutile,SPL-SPL,65
+Chondrite,Spinels,SPL-SPL,168
+Chondrite,Tholeiitic,SPL-SPL,36
+Chondrite,Type,SPL-SPL,35
+Chondrite,Ultramafic,SPL-SPL,50
+Chondrite,Volcanic,SPL-SPL,34
+Chondrite Normalized,Chondrite,SPL-SPL,33
+Chondrite Normalized,Clinopyroxenes,SPL-SPL,32
+Chondrite Normalized,Garnet,SPL-SPL,54
+Chondrite Normalized,Spinels,SPL-SPL,32
+Chondritic,CI,SPL-SPL,31
+Chondritic,CI Chondrite,SPL-SPL,41
+Chondritic,Chondrite,SPL-SPL,174
+Chondritic,Garnet,SPL-SPL,59
+Chondritic,Meteorite,SPL-SPL,76
+Chondritic,Olivines,SPL-SPL,104
+Chondritic,Perovskites,SPL-SPL,30
+Chondritic,Pyroxene,SPL-SPL,58
+Chondritic,Spinels,SPL-SPL,34
+Chondrocyte,Osteoblasts,SPL-SPL,51
+Chondrule,Olivines,SPL-SPL,54
+Chondrule,Pyroxene,SPL-SPL,30
+Chronic,CKD,SPL-SPL,43
+Chronic,CML,SPL-SPL,59
+Chronic,Cll,SPL-SPL,75
+Chronic Myeloid,CML,SPL-SPL,51
+Clathrate,Clathrate Hydrate,SPL-SPL,49
+Clathrate,Cubic,SPL-SPL,74
+Clathrate,Hexagonal,SPL-SPL,48
+Clathrate,Hydrates,SPL-SPL,76
+Clathrate Hydrate,Clathrate,SPL-SPL,49
+Clathrate Hydrate,Hydrates,SPL-SPL,63
+Clinopyroxenes,Amphiboles,SPL-SPL,84
+Clinopyroxenes,Amphibolite,SPL-SPL,74
+Clinopyroxenes,Basaltic,SPL-SPL,64
+Clinopyroxenes,CPX,SPL-SPL,103
+Clinopyroxenes,Calcic,SPL-SPL,32
+Clinopyroxenes,Chondrite,SPL-SPL,159
+Clinopyroxenes,Chondrite Normalized,SPL-SPL,32
+Clinopyroxenes,Cpx,SPL-SPL,31
+Clinopyroxenes,Eclogites,SPL-SPL,201
+Clinopyroxenes,Eclogitic,SPL-SPL,80
+Clinopyroxenes,Garnet,SPL-SPL,731
+Clinopyroxenes,Garnets,SPL-SPL,151
+Clinopyroxenes,Gneiss,SPL-SPL,55
+Clinopyroxenes,Granulite,SPL-SPL,111
+Clinopyroxenes,Lherzolites,SPL-SPL,98
+Clinopyroxenes,Mafic,SPL-SPL,31
+Clinopyroxenes,Mantle,SPL-SPL,33
+Clinopyroxenes,North China Craton,SPL-SPL,32
+Clinopyroxenes,OL,SPL-SPL,37
+Clinopyroxenes,Olivine;,SPL-SPL,52
+Clinopyroxenes,Olivines,SPL-SPL,533
+Clinopyroxenes,Omphacite,SPL-SPL,41
+Clinopyroxenes,Ophiolites,SPL-SPL,41
+Clinopyroxenes,Orthopyroxene,SPL-SPL,131
+Clinopyroxenes,Perovskites,SPL-SPL,58
+Clinopyroxenes,Plagioclase,SPL-SPL,174
+Clinopyroxenes,Primitive Mantle,SPL-SPL,67
+Clinopyroxenes,Pyrope,SPL-SPL,39
+Clinopyroxenes,Pyroxene,SPL-SPL,280
+Clinopyroxenes,Rutile,SPL-SPL,126
+Clinopyroxenes,Spinels,SPL-SPL,409
+Clinopyroxenes,Tholeiitic,SPL-SPL,38
+Clinopyroxenes,Ultramafic,SPL-SPL,63
+Cll,Chronic,SPL-SPL,75
+Close Packed,HCP,SPL-SPL,33
+Close Packed,Hexagonal,SPL-SPL,85
+Cm,Carbonaceous,SPL-SPL,30
+Cm,Chondrite,SPL-SPL,75
+Cm,Monoclinic,SPL-SPL,107
+Coesite,Eclogites,SPL-SPL,32
+Coesite,Garnet,SPL-SPL,38
+Colon,Breast,SPL-SPL,339
+Colon,Cervical,SPL-SPL,40
+Colon,Colorectal,SPL-SPL,97
+Colon,Gastric,SPL-SPL,38
+Colon,HT-29,SPL-SPL,31
+Colon,Leukemia,SPL-SPL,50
+Colon,Liver,SPL-SPL,45
+Colon,Lung,SPL-SPL,174
+Colon,Melanoma,SPL-SPL,83
+Colon,Ovarian,SPL-SPL,121
+Colon,Pancreatic,SPL-SPL,46
+Colon,Prostate,SPL-SPL,123
+Colorectal,Breast,SPL-SPL,164
+Colorectal,CRC,SPL-SPL,140
+Colorectal,Colon,SPL-SPL,97
+Colorectal,Gastric,SPL-SPL,58
+Colorectal,Lung,SPL-SPL,100
+Colorectal,Melanoma,SPL-SPL,37
+Colorectal,Ovarian,SPL-SPL,70
+Colorectal,Pancreatic,SPL-SPL,54
+Colorectal,Prostate,SPL-SPL,62
+Columbite,Perovskites,SPL-SPL,38
+Columbite,Rutile,SPL-SPL,33
+Columnar,Cubic,SPL-SPL,33
+Columnar,Hexagonal,SPL-SPL,47
+Columnar,Nematic,SPL-SPL,48
+Columnar,Smectic,SPL-SPL,33
+Cooling,Austenite,SPL-SPL,47
+Cooling,Martensite,SPL-SPL,37
+Coronitic,Garnet,SPL-SPL,32
+Corundum,Cubic,SPL-SPL,30
+Corundum,Hexagonal,SPL-SPL,43
+Corundum,Rutile,SPL-SPL,42
+Corundum,Spinels,SPL-SPL,66
+Cotunnite,Fluorite,SPL-SPL,42
+Cotunnite,Rutile,SPL-SPL,30
+Covellite,Hexagonal,SPL-SPL,37
+Cpx,Clinopyroxenes,SPL-SPL,31
+Cr,Nematic,SPL-SPL,36
+Cr,Sma,SPL-SPL,34
+Crystal,Nematic,SPL-SPL,44
+Crystalline,Nematic,SPL-SPL,34
+Cs,C2V,SPL-SPL,30
+Cscl,B1,SPL-SPL,86
+Cscl,B2,SPL-SPL,137
+Cscl,BCC,SPL-SPL,49
+Cscl,Cubic,SPL-SPL,73
+Cscl,FCC,SPL-SPL,32
+Cscl,NaCl,SPL-SPL,137
+Cscl,Rock Salt,SPL-SPL,50
+Cscl,Tetragonal,SPL-SPL,36
+Cscl,Wurtzite,SPL-SPL,42
+Cscl,Zinc Blende,SPL-SPL,41
+Cubic,100,SPL-SPL,36
+Cubic,225,SPL-SPL,39
+Cubic,2H,SPL-SPL,66
+Cubic,3,SPL-SPL,39
+Cubic,3D,SPL-SPL,36
+Cubic,4H,SPL-SPL,53
+Cubic,6H,SPL-SPL,51
+Cubic,Abstract,SPL-SPL,156
+Cubic,Alpha,SPL-SPL,31
+Cubic,Anatase,SPL-SPL,349
+Cubic,Anti-Perovskites,SPL-SPL,49
+Cubic,Austenite,SPL-SPL,228
+Cubic,Austenitic,SPL-SPL,90
+Cubic,B1,SPL-SPL,106
+Cubic,B2,SPL-SPL,141
+Cubic,BCC,SPL-SPL,537
+Cubic,BSTRAct,SPL-SPL,92
+Cubic,Bixbyite,SPL-SPL,91
+Cubic,Body Centred Cubic,SPL-SPL,278
+Cubic,Body-Centered Tetragonal,SPL-SPL,47
+Cubic,Brownmillerite,SPL-SPL,66
+Cubic,C,SPL-SPL,45
+Cubic,C14,SPL-SPL,35
+Cubic,C15,SPL-SPL,61
+Cubic,C2/C,SPL-SPL,41
+Cubic,C2/M,SPL-SPL,48
+Cubic,CUB,SPL-SPL,34
+Cubic,Chalcopyrite,SPL-SPL,63
+Cubic,Clathrate,SPL-SPL,74
+Cubic,Columnar,SPL-SPL,33
+Cubic,Corundum,SPL-SPL,30
+Cubic,Cscl,SPL-SPL,73
+Cubic,Cubic Fluorite,SPL-SPL,96
+Cubic,Cubic Perovskites,SPL-SPL,438
+Cubic,Cubic Spinel,SPL-SPL,126
+Cubic,Cubic Zinc-Blende,SPL-SPL,32
+Cubic,Cubic-Tetragonal,SPL-SPL,33
+Cubic,Cubical,SPL-SPL,30
+Cubic,Cuboctahedral,SPL-SPL,109
+Cubic,Cuboid,SPL-SPL,40
+Cubic,Cuboidal,SPL-SPL,57
+Cubic,Diamond Cubic,SPL-SPL,33
+Cubic,Diamonds,SPL-SPL,117
+Cubic,Dodecahedral,SPL-SPL,40
+Cubic,Double Diamond,SPL-SPL,44
+Cubic,Double Perovskite,SPL-SPL,318
+Cubic,Elpasolite,SPL-SPL,30
+Cubic,F,SPL-SPL,117
+Cubic,F43m,SPL-SPL,34
+Cubic,FCC,SPL-SPL,941
+Cubic,FD-3m,SPL-SPL,42
+Cubic,FD3,SPL-SPL,36
+Cubic,FD3-M,SPL-SPL,59
+Cubic,FD3M,SPL-SPL,215
+Cubic,FM-3M,SPL-SPL,92
+Cubic,FM3-M,SPL-SPL,79
+Cubic,FM3m,SPL-SPL,31
+Cubic,Face Centered Cubic,SPL-SPL,418
+Cubic,Fdm,SPL-SPL,56
+Cubic,Fluorite,SPL-SPL,428
+Cubic,Fm3-m,SPL-SPL,50
+Cubic,Fm3m,SPL-SPL,240
+Cubic,Fmm,SPL-SPL,120
+Cubic,G,SPL-SPL,126
+Cubic,Garnet,SPL-SPL,404
+Cubic,Garnets,SPL-SPL,108
+Cubic,Graphitic,SPL-SPL,46
+Cubic,Gyroid,SPL-SPL,67
+Cubic,H2,SPL-SPL,57
+Cubic,HCP,SPL-SPL,261
+Cubic,Half,SPL-SPL,30
+Cubic,Heusler,SPL-SPL,138
+Cubic,Hex,SPL-SPL,34
+Cubic,Hexagonal,SPL-SPL,5694
+Cubic,Hexagonal Close Packed,SPL-SPL,64
+Cubic,Hexagonal Columnar,SPL-SPL,34
+Cubic,Hexagonal Perovskite,SPL-SPL,52
+Cubic,Hexagonal Wurtzite,SPL-SPL,103
+Cubic,Hexagonally,SPL-SPL,57
+Cubic,Hydrates,SPL-SPL,46
+Cubic,I4/M,SPL-SPL,40
+Cubic,I4/MCM,SPL-SPL,77
+Cubic,I4/MMM,SPL-SPL,49
+Cubic,I41 / AMD,SPL-SPL,33
+Cubic,IA-3D,SPL-SPL,38
+Cubic,IA3D,SPL-SPL,228
+Cubic,IC,SPL-SPL,34
+Cubic,IH,SPL-SPL,60
+Cubic,IM3,SPL-SPL,52
+Cubic,IMMA,SPL-SPL,48
+Cubic,Iad,SPL-SPL,44
+Cubic,Ice,SPL-SPL,44
+Cubic,Icosahedral,SPL-SPL,235
+Cubic,Im3m,SPL-SPL,182
+Cubic,Imm,SPL-SPL,34
+Cubic,Inverse,SPL-SPL,57
+Cubic,L,SPL-SPL,92
+Cubic,L1,SPL-SPL,39
+Cubic,L10,SPL-SPL,55
+Cubic,L12,SPL-SPL,57
+Cubic,L2,SPL-SPL,48
+Cubic,L21,SPL-SPL,56
+Cubic,LLC,SPL-SPL,43
+Cubic,Lamellar,SPL-SPL,245
+Cubic,Laves Phase,SPL-SPL,90
+Cubic,Lc,SPL-SPL,61
+Cubic,Leaves,SPL-SPL,52
+Cubic,Like,SPL-SPL,39
+Cubic,M,SPL-SPL,140
+Cubic,Martensite,SPL-SPL,247
+Cubic,Martensitic,SPL-SPL,218
+Cubic,Meso Structured,SPL-SPL,40
+Cubic,Mesophase,SPL-SPL,33
+Cubic,Micellar,SPL-SPL,47
+Cubic,Micellar Cubic,SPL-SPL,36
+Cubic,Monoclinic,SPL-SPL,2462
+Cubic,NaCl,SPL-SPL,168
+Cubic,Nematic,SPL-SPL,42
+Cubic,Noncubic,SPL-SPL,81
+Cubic,Octahedral,SPL-SPL,176
+Cubic,Olivines,SPL-SPL,45
+Cubic,Orthorhombic,SPL-SPL,2591
+Cubic,Orthorhombic Perovskite,SPL-SPL,67
+Cubic,P,SPL-SPL,108
+Cubic,P1,SPL-SPL,44
+Cubic,P2 1/N,SPL-SPL,68
+Cubic,P21/C,SPL-SPL,47
+Cubic,P213,SPL-SPL,66
+Cubic,P4/MMM,SPL-SPL,49
+Cubic,P4332,SPL-SPL,32
+Cubic,P4MM,SPL-SPL,60
+Cubic,P63/MMC,SPL-SPL,95
+Cubic,P6MM,SPL-SPL,67
+Cubic,PA3,SPL-SPL,37
+Cubic,PBNM,SPL-SPL,79
+Cubic,PM-3m,SPL-SPL,93
+Cubic,PM3-M,SPL-SPL,43
+Cubic,PM3M,SPL-SPL,169
+Cubic,PM3N,SPL-SPL,114
+Cubic,PNMA,SPL-SPL,168
+Cubic,Perovskites,SPL-SPL,2958
+Cubic,Phase,SPL-SPL,42
+Cubic,Pm 3-m,SPL-SPL,42
+Cubic,Pmm,SPL-SPL,95
+Cubic,Pn3m,SPL-SPL,172
+Cubic,Primitive,SPL-SPL,52
+Cubic,Primitive Cubic,SPL-SPL,40
+Cubic,Pseudo,SPL-SPL,47
+Cubic,Pseudocubic,SPL-SPL,236
+Cubic,Pyrite,SPL-SPL,35
+Cubic,Pyrochlore,SPL-SPL,315
+Cubic,Qii,SPL-SPL,30
+Cubic,Quintic,SPL-SPL,31
+Cubic,R A C T,SPL-SPL,41
+Cubic,R3,SPL-SPL,31
+Cubic,R3M,SPL-SPL,58
+Cubic,R3c,SPL-SPL,97
+Cubic,Rectangular,SPL-SPL,31
+Cubic,Rhombic,SPL-SPL,59
+Cubic,Rhombic Dodecahedra,SPL-SPL,32
+Cubic,Rhombic Dodecahedron,SPL-SPL,95
+Cubic,Rhombohedral,SPL-SPL,1502
+Cubic,Rock Salt,SPL-SPL,243
+Cubic,Rock-Salt,SPL-SPL,95
+Cubic,Ruddlesden Popper,SPL-SPL,39
+Cubic,Rutile,SPL-SPL,254
+Cubic,S T,SPL-SPL,97
+Cubic,SC,SPL-SPL,85
+Cubic,SG,SPL-SPL,31
+Cubic,Simple,SPL-SPL,44
+Cubic,Simple Cubic,SPL-SPL,62
+Cubic,Skutterudites,SPL-SPL,47
+Cubic,Smectic,SPL-SPL,37
+Cubic,Sphalerite,SPL-SPL,78
+Cubic,Spinels,SPL-SPL,1005
+Cubic,Square,SPL-SPL,44
+Cubic,T,SPL-SPL,414
+Cubic,Tetragonal,SPL-SPL,4906
+Cubic,Tetragonal Perovskite,SPL-SPL,32
+Cubic,Tetragonally,SPL-SPL,61
+Cubic,Tetrahedra,SPL-SPL,35
+Cubic,Triangular,SPL-SPL,30
+Cubic,Triclinic,SPL-SPL,159
+Cubic,Trigonal,SPL-SPL,427
+Cubic,Truncated,SPL-SPL,41
+Cubic,Type,SPL-SPL,65
+Cubic,V1,SPL-SPL,50
+Cubic,V2,SPL-SPL,36
+Cubic,WZ,SPL-SPL,32
+Cubic,Wurtzite,SPL-SPL,505
+Cubic,Zb,SPL-SPL,45
+Cubic,Zinc Blende,SPL-SPL,374
+Cubic,tetragonal spinel,SPL-SPL,32
+Cubic,Δ,SPL-SPL,61
+Cubic,α-Phase,SPL-SPL,64
+Cubic,β,SPL-SPL,248
+Cubic,β-Phase,SPL-SPL,77
+Cubic,γ-Phase,SPL-SPL,38
+Cubic Austenite,Austenite,SPL-SPL,30
+Cubic Austenite,Martensite,SPL-SPL,31
+Cubic Fluorite,Cubic,SPL-SPL,96
+Cubic Fluorite,Fluorite,SPL-SPL,83
+Cubic Fluorite,Monoclinic,SPL-SPL,34
+Cubic Fluorite,Tetragonal,SPL-SPL,49
+Cubic Garnet,Garnet,SPL-SPL,50
+Cubic Perovskites,Brownmillerite,SPL-SPL,69
+Cubic Perovskites,Cubic,SPL-SPL,438
+Cubic Perovskites,Double Perovskite,SPL-SPL,52
+Cubic Perovskites,Hexagonal,SPL-SPL,136
+Cubic Perovskites,Hexagonal Perovskite,SPL-SPL,41
+Cubic Perovskites,Monoclinic,SPL-SPL,73
+Cubic Perovskites,Orthorhombic,SPL-SPL,223
+Cubic Perovskites,Orthorhombic Perovskite,SPL-SPL,51
+Cubic Perovskites,PM3M,SPL-SPL,52
+Cubic Perovskites,PNMA,SPL-SPL,35
+Cubic Perovskites,Perovskites,SPL-SPL,819
+Cubic Perovskites,Rhombohedral,SPL-SPL,76
+Cubic Perovskites,Tetragonal,SPL-SPL,195
+Cubic Spinel,Cubic,SPL-SPL,126
+Cubic Spinel,FD3M,SPL-SPL,72
+Cubic Spinel,Hexagonal,SPL-SPL,50
+Cubic Spinel,Monoclinic,SPL-SPL,38
+Cubic Spinel,Orthorhombic,SPL-SPL,42
+Cubic Spinel,Spinels,SPL-SPL,456
+Cubic Spinel,Tetragonal,SPL-SPL,77
+Cubic Spinel,tetragonal spinel,SPL-SPL,47
+Cubic Zinc-Blende,Cubic,SPL-SPL,32
+Cubic Zinc-Blende,Hexagonal Wurtzite,SPL-SPL,57
+Cubic-Tetragonal,Cubic,SPL-SPL,33
+Cubic-Tetragonal,Tetragonal,SPL-SPL,39
+Cubical,Cubic,SPL-SPL,30
+Cuboctahedral,Cubic,SPL-SPL,109
+Cuboctahedral,FCC,SPL-SPL,44
+Cuboctahedral,Icosahedral,SPL-SPL,104
+Cuboctahedral,Octahedral,SPL-SPL,38
+Cuboid,Cubic,SPL-SPL,40
+Cuboidal,Austenite,SPL-SPL,32
+Cuboidal,Cubic,SPL-SPL,57
+Cuboidal,FCC,SPL-SPL,44
+Cuboidal,G,SPL-SPL,48
+Cuboidal,Hexagonal,SPL-SPL,30
+Cuboidal,L12,SPL-SPL,32
+Cuboidal,γ',SPL-SPL,57
+Cystic,Cf,SPL-SPL,93
+Cystic,Fibrosis,SPL-SPL,58
+D022,L12,SPL-SPL,56
+D03,B2,SPL-SPL,86
+D03,BCC,SPL-SPL,53
+D1,D2,SPL-SPL,33
+D2,D1,SPL-SPL,33
+D2d,C2V,SPL-SPL,51
+D3H,C2V,SPL-SPL,48
+DH,IH,SPL-SPL,34
+DHCP,FCC,SPL-SPL,42
+DHCP,HCP,SPL-SPL,38
+DLBCL,B Cell,SPL-SPL,31
+DP,Martensite,SPL-SPL,32
+Dacitic,Andesitic,SPL-SPL,76
+Dacitic,Basaltic,SPL-SPL,45
+Dacitic,Rhyolitic,SPL-SPL,45
+Dawson,Keggin,SPL-SPL,67
+Decagonal,Icosahedral,SPL-SPL,85
+Decahedral,FCC,SPL-SPL,63
+Decahedral,Icosahedral,SPL-SPL,139
+Defect Fluorite,Fluorite,SPL-SPL,30
+Defect Fluorite,Pyrochlore,SPL-SPL,56
+Delafossite,Hexagonal,SPL-SPL,53
+Delafossite,Rhombohedral,SPL-SPL,43
+Delafossite,Spinels,SPL-SPL,51
+Delta,Alpha,SPL-SPL,33
+Delta,Austenite,SPL-SPL,50
+Delta,Austenitic,SPL-SPL,37
+Delta,Gamma,SPL-SPL,34
+Dendritic,Macrophages,SPL-SPL,31
+Dentate Gyrus,Hippocampus,SPL-SPL,33
+Diamond Cubic,Cubic,SPL-SPL,33
+Diamonds,Cubic,SPL-SPL,117
+Diamonds,FCC,SPL-SPL,41
+Diamonds,Hexagonal,SPL-SPL,100
+Diamonds,Like,SPL-SPL,50
+Dihydrate,Anhydrous,SPL-SPL,32
+Dihydrate,Hydrates,SPL-SPL,33
+Dihydrate,Monohydrates,SPL-SPL,82
+Dion,Jacobson,SPL-SPL,72
+Dion,Perovskites,SPL-SPL,83
+Dioritic,Granitic,SPL-SPL,32
+Do3,B2,SPL-SPL,35
+Dodecagonal,Hexagonal,SPL-SPL,37
+Dodecahedral,Cubic,SPL-SPL,40
+Dodecahedral,Icosahedral,SPL-SPL,30
+Double Diamond,Cubic,SPL-SPL,44
+Double Perovskite,Abstract,SPL-SPL,37
+Double Perovskite,Cubic,SPL-SPL,318
+Double Perovskite,Cubic Perovskites,SPL-SPL,52
+Double Perovskite,Dp,SPL-SPL,32
+Double Perovskite,FM-3M,SPL-SPL,32
+Double Perovskite,Face Centered Cubic,SPL-SPL,40
+Double Perovskite,Fm3m,SPL-SPL,45
+Double Perovskite,I4/M,SPL-SPL,71
+Double Perovskite,Monoclinic,SPL-SPL,325
+Double Perovskite,Orthorhombic,SPL-SPL,119
+Double Perovskite,P2 1/N,SPL-SPL,161
+Double Perovskite,P21n,SPL-SPL,41
+Double Perovskite,Perovskites,SPL-SPL,660
+Double Perovskite,Rhombohedral,SPL-SPL,47
+Double Perovskite,Rock Salt,SPL-SPL,71
+Double Perovskite,Rock-Salt,SPL-SPL,40
+Double Perovskite,Tetragonal,SPL-SPL,212
+Doublers,Perovskites,SPL-SPL,47
+Dp,Austenite,SPL-SPL,53
+Dp,Double Perovskite,SPL-SPL,32
+Dp,Martensite,SPL-SPL,142
+Dp,Martensitic,SPL-SPL,37
+Duplex,Austenite,SPL-SPL,301
+Duplex,Austenitic,SPL-SPL,289
+Duplex,Ferrite,SPL-SPL,52
+Duplex,Ferritic,SPL-SPL,156
+Duplex,G,SPL-SPL,46
+Duplex,Martensite,SPL-SPL,67
+Duplex,Martensitic,SPL-SPL,35
+Duplex,Super,SPL-SPL,34
+Duplex,σ,SPL-SPL,48
+E-Martensite,Austenite,SPL-SPL,127
+E-Martensite,Austenitic,SPL-SPL,94
+E-Martensite,FCC,SPL-SPL,48
+E-Martensite,HCP,SPL-SPL,44
+E-Martensite,Martensite,SPL-SPL,110
+E-Martensite,Martensitic,SPL-SPL,48
+E-Martensite,α' Martensite,SPL-SPL,69
+E-Martensite,γ-Austenite,SPL-SPL,34
+E-Morb,N-Morb,SPL-SPL,46
+EMT,Fau,SPL-SPL,33
+EMT,Hexagonal,SPL-SPL,34
+Eclogites,AM,SPL-SPL,30
+Eclogites,Amphiboles,SPL-SPL,56
+Eclogites,Amphibolite,SPL-SPL,311
+Eclogites,Basaltic,SPL-SPL,44
+Eclogites,Blueschists,SPL-SPL,192
+Eclogites,Chondrite,SPL-SPL,94
+Eclogites,Clinopyroxenes,SPL-SPL,201
+Eclogites,Coesite,SPL-SPL,32
+Eclogites,Eclogitic,SPL-SPL,185
+Eclogites,Epidote,SPL-SPL,68
+Eclogites,Facies,SPL-SPL,35
+Eclogites,Garnet,SPL-SPL,814
+Eclogites,Garnets,SPL-SPL,189
+Eclogites,Gneiss,SPL-SPL,158
+Eclogites,Gneisses,SPL-SPL,138
+Eclogites,Granite,SPL-SPL,34
+Eclogites,Granitic,SPL-SPL,40
+Eclogites,Granulite,SPL-SPL,285
+Eclogites,Greenschist,SPL-SPL,106
+Eclogites,Grossular,SPL-SPL,40
+Eclogites,HP,SPL-SPL,71
+Eclogites,Lawsonite,SPL-SPL,33
+Eclogites,Mafic,SPL-SPL,57
+Eclogites,Metamorphic,SPL-SPL,51
+Eclogites,Oceanic,SPL-SPL,31
+Eclogites,Olivines,SPL-SPL,63
+Eclogites,Omphacite,SPL-SPL,159
+Eclogites,Pelitic,SPL-SPL,32
+Eclogites,Phengite,SPL-SPL,73
+Eclogites,Plagioclase,SPL-SPL,50
+Eclogites,Pyrope,SPL-SPL,68
+Eclogites,Pyroxene,SPL-SPL,74
+Eclogites,Rutile,SPL-SPL,237
+Eclogites,Sodic,SPL-SPL,39
+Eclogites,Spinels,SPL-SPL,57
+Eclogites,Symplectite,SPL-SPL,37
+Eclogites,UHP,SPL-SPL,34
+Eclogites,Uhp,SPL-SPL,113
+Eclogites,Ultramafic,SPL-SPL,83
+Eclogitic,Amphibolite,SPL-SPL,50
+Eclogitic,Blueschists,SPL-SPL,36
+Eclogitic,Clinopyroxenes,SPL-SPL,80
+Eclogitic,Eclogites,SPL-SPL,185
+Eclogitic,Garnet,SPL-SPL,247
+Eclogitic,Garnets,SPL-SPL,102
+Eclogitic,Granulite,SPL-SPL,40
+Eclogitic,Olivines,SPL-SPL,41
+Eclogitic,Omphacite,SPL-SPL,39
+Eclogitic,Pyroxene,SPL-SPL,36
+Eclogitic,Rutile,SPL-SPL,50
+Elpasolite,Cubic,SPL-SPL,30
+Epidote,Amphibolite,SPL-SPL,60
+Epidote,Blueschists,SPL-SPL,48
+Epidote,Eclogites,SPL-SPL,68
+Epidote,Garnet,SPL-SPL,53
+Epidote,Granulite,SPL-SPL,31
+Epidote,Greenschist,SPL-SPL,38
+Epithelial,Fibroblasts,SPL-SPL,41
+Epithelial,Mesenchymal,SPL-SPL,66
+Erythroid,Myeloid,SPL-SPL,40
+Euhedral,Garnet,SPL-SPL,37
+F,Austenite,SPL-SPL,92
+F,Cubic,SPL-SPL,117
+F,FCC,SPL-SPL,32
+F,Ferritic,SPL-SPL,67
+F,Fluorite,SPL-SPL,45
+F,G,SPL-SPL,164
+F,Hexagonal,SPL-SPL,86
+F,M,SPL-SPL,109
+F,Martensite,SPL-SPL,88
+F,Martensitic,SPL-SPL,67
+F,Monoclinic,SPL-SPL,49
+F,Orthorhombic,SPL-SPL,48
+F,P,SPL-SPL,134
+F,Perovskites,SPL-SPL,46
+F,T,SPL-SPL,135
+F,Tetragonal,SPL-SPL,51
+F1,F2,SPL-SPL,42
+F2,F1,SPL-SPL,42
+F43m,Cubic,SPL-SPL,34
+FCC,100,SPL-SPL,59
+FCC,110,SPL-SPL,46
+FCC,Abstract,SPL-SPL,31
+FCC,Anatase,SPL-SPL,52
+FCC,Austenite,SPL-SPL,538
+FCC,Austenitic,SPL-SPL,303
+FCC,B1,SPL-SPL,36
+FCC,B2,SPL-SPL,285
+FCC,BCC,SPL-SPL,3512
+FCC,BCT,SPL-SPL,152
+FCC,Body Centred Cubic,SPL-SPL,629
+FCC,Body-Centered Tetragonal,SPL-SPL,73
+FCC,Cscl,SPL-SPL,32
+FCC,Cubic,SPL-SPL,941
+FCC,Cuboctahedral,SPL-SPL,44
+FCC,Cuboidal,SPL-SPL,44
+FCC,DHCP,SPL-SPL,42
+FCC,Decahedral,SPL-SPL,63
+FCC,Diamonds,SPL-SPL,41
+FCC,E-Martensite,SPL-SPL,48
+FCC,F,SPL-SPL,32
+FCC,FCC(111),SPL-SPL,50
+FCC,FCT,SPL-SPL,156
+FCC,Face Centered Cubic,SPL-SPL,2606
+FCC,Face Centred Cubic,SPL-SPL,32
+FCC,Face-Centered Tetragonal,SPL-SPL,60
+FCC,Fcc,SPL-SPL,121
+FCC,Fcc-,SPL-SPL,37
+FCC,Ferritic,SPL-SPL,42
+FCC,Fluorite,SPL-SPL,53
+FCC,Fm3m,SPL-SPL,31
+FCC,G,SPL-SPL,177
+FCC,H.C.P,SPL-SPL,103
+FCC,HCP,SPL-SPL,3006
+FCC,Heusler,SPL-SPL,46
+FCC,Hex,SPL-SPL,32
+FCC,Hexagonal,SPL-SPL,931
+FCC,Hexagonal Close Packed,SPL-SPL,446
+FCC,Hexagonally,SPL-SPL,35
+FCC,IH,SPL-SPL,45
+FCC,Icosahedral,SPL-SPL,256
+FCC,Icosahedron,SPL-SPL,35
+FCC,L10,SPL-SPL,185
+FCC,L12,SPL-SPL,330
+FCC,Laves Phase,SPL-SPL,49
+FCC,Leaves,SPL-SPL,45
+FCC,Martensite,SPL-SPL,461
+FCC,Martensitic,SPL-SPL,271
+FCC,Monoclinic,SPL-SPL,188
+FCC,NaCl,SPL-SPL,71
+FCC,Orthorhombic,SPL-SPL,240
+FCC,Perovskites,SPL-SPL,78
+FCC,Rhombohedral,SPL-SPL,140
+FCC,Rock Salt,SPL-SPL,48
+FCC,Rutile,SPL-SPL,70
+FCC,SC,SPL-SPL,147
+FCC,Simple Cubic,SPL-SPL,72
+FCC,Spinels,SPL-SPL,129
+FCC,T,SPL-SPL,45
+FCC,Tetragonal,SPL-SPL,352
+FCC,Trigonal,SPL-SPL,59
+FCC,Wurtzite,SPL-SPL,59
+FCC,Zinc Blende,SPL-SPL,43
+FCC,Δ,SPL-SPL,65
+FCC,α' Martensite,SPL-SPL,37
+FCC,α-Phase,SPL-SPL,38
+FCC,β,SPL-SPL,153
+FCC,β-Phase,SPL-SPL,30
+FCC,γ',SPL-SPL,44
+FCC,γ-Phase,SPL-SPL,47
+FCC,σ,SPL-SPL,76
+FCC(111),FCC,SPL-SPL,50
+FCT,FCC,SPL-SPL,156
+FCT,Face Centered Cubic,SPL-SPL,56
+FCT,Face-Centered Tetragonal,SPL-SPL,83
+FCT,L10,SPL-SPL,41
+FCT,Martensite,SPL-SPL,30
+FD-3m,Cubic,SPL-SPL,42
+FD-3m,Spinels,SPL-SPL,59
+FD3,Cubic,SPL-SPL,36
+FD3-M,Cubic,SPL-SPL,59
+FD3-M,Spinels,SPL-SPL,51
+FD3M,Cubic,SPL-SPL,215
+FD3M,Cubic Spinel,SPL-SPL,72
+FD3M,Hexagonal,SPL-SPL,53
+FD3M,Pyrochlore,SPL-SPL,56
+FD3M,Spinels,SPL-SPL,214
+FDD2,Orthorhombic,SPL-SPL,65
+FDDD,Orthorhombic,SPL-SPL,89
+FM-3M,Cubic,SPL-SPL,92
+FM-3M,Double Perovskite,SPL-SPL,32
+FM3-M,Cubic,SPL-SPL,79
+FM3m,Cubic,SPL-SPL,31
+Face Centered Cubic,Anatase,SPL-SPL,40
+Face Centered Cubic,Austenite,SPL-SPL,110
+Face Centered Cubic,Austenitic,SPL-SPL,106
+Face Centered Cubic,B2,SPL-SPL,76
+Face Centered Cubic,BCC,SPL-SPL,623
+Face Centered Cubic,BCT,SPL-SPL,53
+Face Centered Cubic,Body Centred Cubic,SPL-SPL,933
+Face Centered Cubic,Body-Centered Tetragonal,SPL-SPL,79
+Face Centered Cubic,Cubic,SPL-SPL,418
+Face Centered Cubic,Double Perovskite,SPL-SPL,40
+Face Centered Cubic,FCC,SPL-SPL,2606
+Face Centered Cubic,FCT,SPL-SPL,56
+Face Centered Cubic,Face-Centered Tetragonal,SPL-SPL,71
+Face Centered Cubic,Fm3m,SPL-SPL,40
+Face Centered Cubic,G,SPL-SPL,91
+Face Centered Cubic,HCP,SPL-SPL,525
+Face Centered Cubic,Hexagonal,SPL-SPL,558
+Face Centered Cubic,Hexagonal Close Packed,SPL-SPL,491
+Face Centered Cubic,Icosahedral,SPL-SPL,76
+Face Centered Cubic,L10,SPL-SPL,63
+Face Centered Cubic,L12,SPL-SPL,103
+Face Centered Cubic,Martensite,SPL-SPL,107
+Face Centered Cubic,Martensitic,SPL-SPL,95
+Face Centered Cubic,Monoclinic,SPL-SPL,94
+Face Centered Cubic,NaCl,SPL-SPL,40
+Face Centered Cubic,Orthorhombic,SPL-SPL,83
+Face Centered Cubic,Perovskites,SPL-SPL,38
+Face Centered Cubic,Rhombohedral,SPL-SPL,75
+Face Centered Cubic,S T,SPL-SPL,31
+Face Centered Cubic,SC,SPL-SPL,63
+Face Centered Cubic,Simple Cubic,SPL-SPL,75
+Face Centered Cubic,Spinels,SPL-SPL,51
+Face Centered Cubic,T,SPL-SPL,35
+Face Centered Cubic,Tetragonal,SPL-SPL,141
+Face Centered Cubic,Wurtzite,SPL-SPL,42
+Face Centred Cubic,FCC,SPL-SPL,32
+Face-Centered Tetragonal,FCC,SPL-SPL,60
+Face-Centered Tetragonal,FCT,SPL-SPL,83
+Face-Centered Tetragonal,Face Centered Cubic,SPL-SPL,71
+Face-Centered Tetragonal,L10,SPL-SPL,36
+Facies,Eclogites,SPL-SPL,35
+Facies,Granulite,SPL-SPL,40
+Fau,EMT,SPL-SPL,33
+Faujasite,Hexagonal,SPL-SPL,36
+Fcc,BCC,SPL-SPL,117
+Fcc,FCC,SPL-SPL,121
+Fcc,HCP,SPL-SPL,143
+Fcc-,FCC,SPL-SPL,37
+Fcc-,HCP,SPL-SPL,39
+Fdm,Cubic,SPL-SPL,56
+Fdm,Spinels,SPL-SPL,69
+Feldspathic,Olivines,SPL-SPL,34
+Feldspathic,Pyroxene,SPL-SPL,31
+Feldspathic,Quartzo,SPL-SPL,58
+Fergusonite,Monoclinic,SPL-SPL,42
+Fergusonite,Scheelite,SPL-SPL,39
+Ferrite,Austenite,SPL-SPL,400
+Ferrite,Austenitic,SPL-SPL,72
+Ferrite,Duplex,SPL-SPL,52
+Ferrite,Ferritic,SPL-SPL,33
+Ferrite,Martensite,SPL-SPL,137
+Ferrite,Martensitic,SPL-SPL,36
+Ferritic,Austenite,SPL-SPL,353
+Ferritic,Austenitic,SPL-SPL,795
+Ferritic,BCC,SPL-SPL,80
+Ferritic,Bainitic,SPL-SPL,106
+Ferritic,Duplex,SPL-SPL,156
+Ferritic,F,SPL-SPL,67
+Ferritic,FCC,SPL-SPL,42
+Ferritic,Ferrite,SPL-SPL,33
+Ferritic,G,SPL-SPL,30
+Ferritic,Leaves,SPL-SPL,35
+Ferritic,Martensite,SPL-SPL,274
+Ferritic,Martensitic,SPL-SPL,901
+Ferritic,Pearlitic,SPL-SPL,136
+Ferritic,RAFM,SPL-SPL,106
+Ferritic,Spinels,SPL-SPL,81
+Ferro-Periclase,Perovskites,SPL-SPL,34
+Fibroblasts,Epithelial,SPL-SPL,41
+Fibroblasts,Like,SPL-SPL,37
+Fibroblasts,Macrophages,SPL-SPL,33
+Fibroblasts,Osteoblasts,SPL-SPL,34
+Fibrosis,Cf,SPL-SPL,36
+Fibrosis,Cystic,SPL-SPL,58
+Firmicutes,Proteobacteria,SPL-SPL,44
+Fluorite,Anatase,SPL-SPL,47
+Fluorite,Aurivillius,SPL-SPL,31
+Fluorite,Bixbyite,SPL-SPL,43
+Fluorite,Cotunnite,SPL-SPL,42
+Fluorite,Cubic,SPL-SPL,428
+Fluorite,Cubic Fluorite,SPL-SPL,83
+Fluorite,Defect Fluorite,SPL-SPL,30
+Fluorite,F,SPL-SPL,45
+Fluorite,FCC,SPL-SPL,53
+Fluorite,Fm3m,SPL-SPL,37
+Fluorite,Hexagonal,SPL-SPL,113
+Fluorite,Monoclinic,SPL-SPL,150
+Fluorite,Orthorhombic,SPL-SPL,117
+Fluorite,Perovskites,SPL-SPL,330
+Fluorite,Pyrochlore,SPL-SPL,192
+Fluorite,Rhombohedral,SPL-SPL,77
+Fluorite,Rock Salt,SPL-SPL,42
+Fluorite,Rutile,SPL-SPL,103
+Fluorite,Structured,SPL-SPL,36
+Fluorite,T,SPL-SPL,34
+Fluorite,Tetragonal,SPL-SPL,197
+Fluorite,Type,SPL-SPL,44
+Fm3-m,Cubic,SPL-SPL,50
+Fm3m,Cubic,SPL-SPL,240
+Fm3m,Double Perovskite,SPL-SPL,45
+Fm3m,FCC,SPL-SPL,31
+Fm3m,Face Centered Cubic,SPL-SPL,40
+Fm3m,Fluorite,SPL-SPL,37
+Fm3m,Hexagonal,SPL-SPL,43
+Fm3m,Monoclinic,SPL-SPL,41
+Fm3m,Orthorhombic,SPL-SPL,41
+Fm3m,Perovskites,SPL-SPL,50
+Fm3m,Tetragonal,SPL-SPL,58
+Fmm,Cubic,SPL-SPL,120
+Fmm,Monoclinic,SPL-SPL,30
+Fmmm,Orthorhombic,SPL-SPL,72
+Fmmm,Tetragonal,SPL-SPL,31
+Forsteritic,Olivines,SPL-SPL,32
+Frank,Kasper,SPL-SPL,30
+Full,Heusler,SPL-SPL,86
+Full-Heusler,Heusler,SPL-SPL,42
+G,A-Phase,SPL-SPL,58
+G,Austenite,SPL-SPL,237
+G,Austenitic,SPL-SPL,104
+G,B2,SPL-SPL,75
+G,BCC,SPL-SPL,73
+G,Body Centred Cubic,SPL-SPL,36
+G,Cubic,SPL-SPL,126
+G,Cuboidal,SPL-SPL,48
+G,Duplex,SPL-SPL,46
+G,F,SPL-SPL,164
+G,FCC,SPL-SPL,177
+G,Face Centered Cubic,SPL-SPL,91
+G,Ferritic,SPL-SPL,30
+G,Garnet,SPL-SPL,50
+G,Gyroid,SPL-SPL,31
+G,HCP,SPL-SPL,43
+G,Hexagonal,SPL-SPL,122
+G,K,SPL-SPL,33
+G,L,SPL-SPL,44
+G,L12,SPL-SPL,90
+G,Leaves,SPL-SPL,38
+G,Martensite,SPL-SPL,179
+G,Martensitic,SPL-SPL,98
+G,Monoclinic,SPL-SPL,55
+G,Orthorhombic,SPL-SPL,80
+G,P,SPL-SPL,78
+G,Perovskites,SPL-SPL,53
+G,Phase,SPL-SPL,130
+G,Spinels,SPL-SPL,38
+G,T,SPL-SPL,69
+G,Tetragonal,SPL-SPL,76
+G1,G2,SPL-SPL,39
+G2,G1,SPL-SPL,39
+GRT,Garnet,SPL-SPL,77
+GS,Amphibolite,SPL-SPL,31
+GS,Greenschist,SPL-SPL,31
+Gamma,Alpha,SPL-SPL,109
+Gamma,Beta,SPL-SPL,56
+Gamma,Delta,SPL-SPL,34
+Gammaproteobacteria,Betaproteobacteria,SPL-SPL,32
+Garnet,A-Type,SPL-SPL,43
+Garnet,Adakite,SPL-SPL,51
+Garnet,Adakitic,SPL-SPL,49
+Garnet,Alkaline,SPL-SPL,71
+Garnet,Amphiboles,SPL-SPL,141
+Garnet,Amphibolite,SPL-SPL,489
+Garnet,Andesitic,SPL-SPL,37
+Garnet,Anhydrous,SPL-SPL,38
+Garnet,Archean,SPL-SPL,63
+Garnet,Basaltic,SPL-SPL,191
+Garnet,Biotites,SPL-SPL,142
+Garnet,Blueschists,SPL-SPL,138
+Garnet,CPX,SPL-SPL,71
+Garnet,Calc,SPL-SPL,72
+Garnet,Calcic,SPL-SPL,61
+Garnet,Chondrite,SPL-SPL,306
+Garnet,Chondrite Normalized,SPL-SPL,54
+Garnet,Chondritic,SPL-SPL,59
+Garnet,Clinopyroxenes,SPL-SPL,731
+Garnet,Coesite,SPL-SPL,38
+Garnet,Coronitic,SPL-SPL,32
+Garnet,Cubic,SPL-SPL,404
+Garnet,Cubic Garnet,SPL-SPL,50
+Garnet,Eclogites,SPL-SPL,814
+Garnet,Eclogitic,SPL-SPL,247
+Garnet,Epidote,SPL-SPL,53
+Garnet,Euhedral,SPL-SPL,37
+Garnet,G,SPL-SPL,50
+Garnet,GRT,SPL-SPL,77
+Garnet,Garnet Amphibolite,SPL-SPL,30
+Garnet,Garnet-Bearing,SPL-SPL,48
+Garnet,Garnetite,SPL-SPL,32
+Garnet,Garnets,SPL-SPL,1127
+Garnet,Gneiss,SPL-SPL,444
+Garnet,Gneisses,SPL-SPL,324
+Garnet,Gneissic,SPL-SPL,102
+Garnet,Granite,SPL-SPL,184
+Garnet,Granitic,SPL-SPL,146
+Garnet,Granitoids,SPL-SPL,112
+Garnet,Granodioritic,SPL-SPL,42
+Garnet,Granulite,SPL-SPL,750
+Garnet,Granulite Facies,SPL-SPL,50
+Garnet,Granulitic,SPL-SPL,49
+Garnet,Green,SPL-SPL,30
+Garnet,Greenschist,SPL-SPL,110
+Garnet,Greenstone,SPL-SPL,45
+Garnet,Grossular,SPL-SPL,155
+Garnet,HP,SPL-SPL,92
+Garnet,Harzburgitic,SPL-SPL,59
+Garnet,Hexagonal,SPL-SPL,73
+Garnet,Hornblende,SPL-SPL,39
+Garnet,IA3D,SPL-SPL,32
+Garnet,Ilmenite,SPL-SPL,80
+Garnet,Island,SPL-SPL,38
+Garnet,Jadeite,SPL-SPL,36
+Garnet,Kimberlites,SPL-SPL,37
+Garnet,Kimberlitic,SPL-SPL,35
+Garnet,Kyanite,SPL-SPL,41
+Garnet,Leucocratic,SPL-SPL,31
+Garnet,Leucogranite,SPL-SPL,56
+Garnet,Leucosomes,SPL-SPL,67
+Garnet,Lherzolites,SPL-SPL,197
+Garnet,Lherzolitic,SPL-SPL,73
+Garnet,Mafic,SPL-SPL,134
+Garnet,Majorite,SPL-SPL,75
+Garnet,Majoritic,SPL-SPL,71
+Garnet,Mantle,SPL-SPL,51
+Garnet,Metamafic,SPL-SPL,30
+Garnet,Metamorphic,SPL-SPL,104
+Garnet,Metapelites,SPL-SPL,82
+Garnet,Metapelitic,SPL-SPL,87
+Garnet,Migmatites,SPL-SPL,61
+Garnet,Migmatitic,SPL-SPL,81
+Garnet,Monoclinic,SPL-SPL,67
+Garnet,Morb,SPL-SPL,35
+Garnet,Muscovite,SPL-SPL,47
+Garnet,Mylonitic,SPL-SPL,33
+Garnet,N-Morb,SPL-SPL,32
+Garnet,North China Craton,SPL-SPL,97
+Garnet,OIB,SPL-SPL,31
+Garnet,Ocean Island,SPL-SPL,31
+Garnet,Oceanic,SPL-SPL,66
+Garnet,Olivine;,SPL-SPL,42
+Garnet,Olivines,SPL-SPL,585
+Garnet,Omphacite,SPL-SPL,187
+Garnet,Ophiolites,SPL-SPL,63
+Garnet,Ophiolitic,SPL-SPL,30
+Garnet,Orthogneiss,SPL-SPL,43
+Garnet,Orthopyroxene,SPL-SPL,95
+Garnet,Orthorhombic,SPL-SPL,56
+Garnet,Pelitic,SPL-SPL,119
+Garnet,Perovskites,SPL-SPL,353
+Garnet,Phengite,SPL-SPL,80
+Garnet,Phlogopite,SPL-SPL,40
+Garnet,Plagioclase,SPL-SPL,235
+Garnet,Potassic,SPL-SPL,40
+Garnet,Precambrian,SPL-SPL,56
+Garnet,Primitive Mantle,SPL-SPL,92
+Garnet,Proterozoic,SPL-SPL,45
+Garnet,Pyrope,SPL-SPL,197
+Garnet,Pyroxene,SPL-SPL,452
+Garnet,Qtz,SPL-SPL,33
+Garnet,Quartzofeldspathic,SPL-SPL,34
+Garnet,Ringwoodite,SPL-SPL,35
+Garnet,Rt,SPL-SPL,31
+Garnet,Rutile,SPL-SPL,498
+Garnet,Schist,SPL-SPL,90
+Garnet,Sillimanite,SPL-SPL,44
+Garnet,Skarn,SPL-SPL,75
+Garnet,Sodic,SPL-SPL,72
+Garnet,Spessartine,SPL-SPL,71
+Garnet,Spinels,SPL-SPL,763
+Garnet,Staurolite,SPL-SPL,40
+Garnet,Stishovite,SPL-SPL,62
+Garnet,Symplectite,SPL-SPL,68
+Garnet,TTG,SPL-SPL,34
+Garnet,Tetragonal,SPL-SPL,127
+Garnet,Tholeiites,SPL-SPL,54
+Garnet,Tholeiitic,SPL-SPL,89
+Garnet,Tonalitic,SPL-SPL,31
+Garnet,Trondhjemitic,SPL-SPL,31
+Garnet,Type,SPL-SPL,53
+Garnet,UHP,SPL-SPL,45
+Garnet,Uhp,SPL-SPL,111
+Garnet,Uht,SPL-SPL,31
+Garnet,Ultramafic,SPL-SPL,201
+Garnet Amphibolite,Garnet,SPL-SPL,30
+Garnet-Bearing,Garnet,SPL-SPL,48
+Garnetite,Garnet,SPL-SPL,32
+Garnets,Amphibolite,SPL-SPL,59
+Garnets,Chondrite,SPL-SPL,62
+Garnets,Clinopyroxenes,SPL-SPL,151
+Garnets,Cubic,SPL-SPL,108
+Garnets,Eclogites,SPL-SPL,189
+Garnets,Eclogitic,SPL-SPL,102
+Garnets,Garnet,SPL-SPL,1127
+Garnets,Gneiss,SPL-SPL,57
+Garnets,Gneisses,SPL-SPL,45
+Garnets,Granulite,SPL-SPL,83
+Garnets,Grossular,SPL-SPL,52
+Garnets,Harzburgitic,SPL-SPL,43
+Garnets,Lherzolitic,SPL-SPL,40
+Garnets,Majoritic,SPL-SPL,35
+Garnets,Olivines,SPL-SPL,107
+Garnets,Perovskites,SPL-SPL,70
+Garnets,Pyrope,SPL-SPL,81
+Garnets,Pyroxene,SPL-SPL,94
+Garnets,Rutile,SPL-SPL,78
+Garnets,Spinels,SPL-SPL,114
+Gastric,Breast,SPL-SPL,77
+Gastric,Colon,SPL-SPL,38
+Gastric,Colorectal,SPL-SPL,58
+Gastric,Lung,SPL-SPL,53
+Gbm,Glioblastoma,SPL-SPL,40
+Glioblastoma,Gbm,SPL-SPL,40
+Glioblastoma,Gliomas,SPL-SPL,34
+Gliomas,Glioblastoma,SPL-SPL,34
+Gneiss,Amphibolite,SPL-SPL,202
+Gneiss,Archean,SPL-SPL,30
+Gneiss,Biotites,SPL-SPL,62
+Gneiss,Chondrite,SPL-SPL,73
+Gneiss,Clinopyroxenes,SPL-SPL,55
+Gneiss,Eclogites,SPL-SPL,158
+Gneiss,Garnet,SPL-SPL,444
+Gneiss,Garnets,SPL-SPL,57
+Gneiss,Gneisses,SPL-SPL,291
+Gneiss,Gneissic,SPL-SPL,92
+Gneiss,Granite,SPL-SPL,120
+Gneiss,Granitic,SPL-SPL,131
+Gneiss,Granitoids,SPL-SPL,74
+Gneiss,Granulite,SPL-SPL,273
+Gneiss,Greenschist,SPL-SPL,35
+Gneiss,Leucogranite,SPL-SPL,34
+Gneiss,Leucosomes,SPL-SPL,33
+Gneiss,Mafic,SPL-SPL,49
+Gneiss,Metamorphic,SPL-SPL,59
+Gneiss,Migmatitic,SPL-SPL,78
+Gneiss,North China Craton,SPL-SPL,40
+Gneiss,Orthogneiss,SPL-SPL,41
+Gneiss,Pelitic,SPL-SPL,44
+Gneiss,Plagioclase,SPL-SPL,43
+Gneiss,Precambrian,SPL-SPL,30
+Gneiss,Pyroxene,SPL-SPL,30
+Gneiss,Rutile,SPL-SPL,87
+Gneiss,Schist,SPL-SPL,44
+Gneiss,Spinels,SPL-SPL,47
+Gneiss,TTG,SPL-SPL,31
+Gneiss,Tonalitic,SPL-SPL,33
+Gneiss,Uhp,SPL-SPL,37
+Gneiss,Ultramafic,SPL-SPL,55
+Gneisses,Amphibolite,SPL-SPL,215
+Gneisses,Archean,SPL-SPL,42
+Gneisses,Biotites,SPL-SPL,31
+Gneisses,Chondrite,SPL-SPL,47
+Gneisses,Eclogites,SPL-SPL,138
+Gneisses,Garnet,SPL-SPL,324
+Gneisses,Garnets,SPL-SPL,45
+Gneisses,Gneiss,SPL-SPL,291
+Gneisses,Gneissic,SPL-SPL,80
+Gneisses,Granite,SPL-SPL,102
+Gneisses,Granitic,SPL-SPL,98
+Gneisses,Granitoids,SPL-SPL,85
+Gneisses,Granodioritic,SPL-SPL,35
+Gneisses,Granulite,SPL-SPL,264
+Gneisses,Greenschist,SPL-SPL,35
+Gneisses,Mafic,SPL-SPL,55
+Gneisses,Migmatites,SPL-SPL,39
+Gneisses,Migmatitic,SPL-SPL,67
+Gneisses,Orthogneiss,SPL-SPL,34
+Gneisses,Pelitic,SPL-SPL,49
+Gneisses,Rutile,SPL-SPL,58
+Gneisses,Schist,SPL-SPL,51
+Gneisses,TTG,SPL-SPL,55
+Gneisses,Tonalitic,SPL-SPL,37
+Gneisses,Ultramafic,SPL-SPL,45
+Gneissic,Amphibolite,SPL-SPL,58
+Gneissic,Chondrite,SPL-SPL,31
+Gneissic,Garnet,SPL-SPL,102
+Gneissic,Gneiss,SPL-SPL,92
+Gneissic,Gneisses,SPL-SPL,80
+Gneissic,Granite,SPL-SPL,67
+Gneissic,Granitic,SPL-SPL,81
+Gneissic,Granitoids,SPL-SPL,44
+Gneissic,Granulite,SPL-SPL,71
+Granite,A-Type,SPL-SPL,157
+Granite,Adakitic,SPL-SPL,32
+Granite,Alkaline,SPL-SPL,79
+Granite,Amphibolite,SPL-SPL,87
+Granite,Basaltic,SPL-SPL,38
+Granite,Biotites,SPL-SPL,67
+Granite,Calc,SPL-SPL,85
+Granite,Chondrite,SPL-SPL,119
+Granite,Eclogites,SPL-SPL,34
+Granite,Garnet,SPL-SPL,184
+Granite,Gneiss,SPL-SPL,120
+Granite,Gneisses,SPL-SPL,102
+Granite,Gneissic,SPL-SPL,67
+Granite,Granitic,SPL-SPL,220
+Granite,Granitoids,SPL-SPL,172
+Granite,Granodiorites,SPL-SPL,69
+Granite,Granulite,SPL-SPL,75
+Granite,Greenstone,SPL-SPL,32
+Granite,Leucogranite,SPL-SPL,72
+Granite,Peraluminous,SPL-SPL,39
+Granite,Porphyry,SPL-SPL,54
+Granite,Primitive Mantle,SPL-SPL,33
+Granite,Skarn,SPL-SPL,38
+Granite,Type,SPL-SPL,175
+Granite,Volcanic,SPL-SPL,31
+Granitic,A-Type,SPL-SPL,49
+Granitic,Alkaline,SPL-SPL,31
+Granitic,Amphibolite,SPL-SPL,80
+Granitic,Basaltic,SPL-SPL,32
+Granitic,Biotites,SPL-SPL,31
+Granitic,Calc,SPL-SPL,34
+Granitic,Chondrite,SPL-SPL,58
+Granitic,Dioritic,SPL-SPL,32
+Granitic,Eclogites,SPL-SPL,40
+Granitic,Garnet,SPL-SPL,146
+Granitic,Gneiss,SPL-SPL,131
+Granitic,Gneisses,SPL-SPL,98
+Granitic,Gneissic,SPL-SPL,81
+Granitic,Granite,SPL-SPL,220
+Granitic,Granitoids,SPL-SPL,80
+Granitic,Granodiorites,SPL-SPL,32
+Granitic,Granodioritic,SPL-SPL,55
+Granitic,Granulite,SPL-SPL,88
+Granitic,Metamorphic,SPL-SPL,44
+Granitic,Porphyry,SPL-SPL,30
+Granitic,Tonalitic,SPL-SPL,36
+Granitic,Type,SPL-SPL,38
+Granitoids,A-Type,SPL-SPL,56
+Granitoids,Alkaline,SPL-SPL,51
+Granitoids,Amphibolite,SPL-SPL,49
+Granitoids,Biotites,SPL-SPL,41
+Granitoids,Calc,SPL-SPL,64
+Granitoids,Chondrite,SPL-SPL,70
+Granitoids,Garnet,SPL-SPL,112
+Granitoids,Gneiss,SPL-SPL,74
+Granitoids,Gneisses,SPL-SPL,85
+Granitoids,Gneissic,SPL-SPL,44
+Granitoids,Granite,SPL-SPL,172
+Granitoids,Granitic,SPL-SPL,80
+Granitoids,Granodiorites,SPL-SPL,39
+Granitoids,Granulite,SPL-SPL,53
+Granitoids,Greenstone,SPL-SPL,31
+Granitoids,Porphyry,SPL-SPL,32
+Granitoids,TTG,SPL-SPL,31
+Granitoids,Type,SPL-SPL,70
+Granodiorites,Granite,SPL-SPL,69
+Granodiorites,Granitic,SPL-SPL,32
+Granodiorites,Granitoids,SPL-SPL,39
+Granodioritic,Garnet,SPL-SPL,42
+Granodioritic,Gneisses,SPL-SPL,35
+Granodioritic,Granitic,SPL-SPL,55
+Granodioritic,Tonalitic,SPL-SPL,39
+Granulite,Amphiboles,SPL-SPL,42
+Granulite,Amphibolite,SPL-SPL,380
+Granulite,Biotites,SPL-SPL,30
+Granulite,Blueschists,SPL-SPL,56
+Granulite,Chondrite,SPL-SPL,69
+Granulite,Clinopyroxenes,SPL-SPL,111
+Granulite,Eclogites,SPL-SPL,285
+Granulite,Eclogitic,SPL-SPL,40
+Granulite,Epidote,SPL-SPL,31
+Granulite,Facies,SPL-SPL,40
+Granulite,Garnet,SPL-SPL,750
+Granulite,Garnets,SPL-SPL,83
+Granulite,Gneiss,SPL-SPL,273
+Granulite,Gneisses,SPL-SPL,264
+Granulite,Gneissic,SPL-SPL,71
+Granulite,Granite,SPL-SPL,75
+Granulite,Granitic,SPL-SPL,88
+Granulite,Granitoids,SPL-SPL,53
+Granulite,Granulite Facies,SPL-SPL,48
+Granulite,Granulitic,SPL-SPL,54
+Granulite,Greenschist,SPL-SPL,89
+Granulite,HP,SPL-SPL,80
+Granulite,Leucosomes,SPL-SPL,32
+Granulite,Mafic,SPL-SPL,150
+Granulite,Metamorphic,SPL-SPL,56
+Granulite,Metapelitic,SPL-SPL,41
+Granulite,Migmatites,SPL-SPL,57
+Granulite,Migmatitic,SPL-SPL,65
+Granulite,North China Craton,SPL-SPL,45
+Granulite,Olivines,SPL-SPL,33
+Granulite,Omphacite,SPL-SPL,35
+Granulite,Orthogneiss,SPL-SPL,32
+Granulite,Pelitic,SPL-SPL,67
+Granulite,Plagioclase,SPL-SPL,67
+Granulite,Precambrian,SPL-SPL,37
+Granulite,Pyroxene,SPL-SPL,119
+Granulite,Rutile,SPL-SPL,137
+Granulite,Sgt,SPL-SPL,30
+Granulite,Spinels,SPL-SPL,107
+Granulite,Uhp,SPL-SPL,32
+Granulite,Uht,SPL-SPL,49
+Granulite,Ultramafic,SPL-SPL,67
+Granulite Facies,Garnet,SPL-SPL,50
+Granulite Facies,Granulite,SPL-SPL,48
+Granulitic,Garnet,SPL-SPL,49
+Granulitic,Granulite,SPL-SPL,54
+Granulocytes,Monocytes,SPL-SPL,53
+Graphitic,Cubic,SPL-SPL,46
+Graphitic,Hexagonal,SPL-SPL,112
+Graphitic,Pyridinic,SPL-SPL,41
+Graphitic,Wurtzite,SPL-SPL,31
+Green,Blue,SPL-SPL,39
+Green,Garnet,SPL-SPL,30
+Greenschist,Amphibolite,SPL-SPL,147
+Greenschist,Blueschists,SPL-SPL,77
+Greenschist,Eclogites,SPL-SPL,106
+Greenschist,Epidote,SPL-SPL,38
+Greenschist,GS,SPL-SPL,31
+Greenschist,Garnet,SPL-SPL,110
+Greenschist,Gneiss,SPL-SPL,35
+Greenschist,Gneisses,SPL-SPL,35
+Greenschist,Granulite,SPL-SPL,89
+Greenstone,Garnet,SPL-SPL,45
+Greenstone,Granite,SPL-SPL,32
+Greenstone,Granitoids,SPL-SPL,31
+Grossular,Eclogites,SPL-SPL,40
+Grossular,Garnet,SPL-SPL,155
+Grossular,Garnets,SPL-SPL,52
+Grossular,Pyrope,SPL-SPL,92
+Grossular,Rutile,SPL-SPL,32
+Grossular,Spessartine,SPL-SPL,35
+Guinier,Preston,SPL-SPL,43
+Gyroid,Cubic,SPL-SPL,67
+Gyroid,G,SPL-SPL,31
+Gyroid,Hexagonal,SPL-SPL,56
+H.C.P,FCC,SPL-SPL,103
+H2,Cubic,SPL-SPL,57
+H2,Hexagonal,SPL-SPL,79
+HCC,Hepatocellular,SPL-SPL,38
+HCP,Austenite,SPL-SPL,107
+HCP,Austenitic,SPL-SPL,60
+HCP,B2,SPL-SPL,46
+HCP,BCC,SPL-SPL,1334
+HCP,BCT,SPL-SPL,49
+HCP,Body Centred Cubic,SPL-SPL,241
+HCP,CCP,SPL-SPL,47
+HCP,Close Packed,SPL-SPL,33
+HCP,Cubic,SPL-SPL,261
+HCP,DHCP,SPL-SPL,38
+HCP,E-Martensite,SPL-SPL,44
+HCP,FCC,SPL-SPL,3006
+HCP,Face Centered Cubic,SPL-SPL,525
+HCP,Fcc,SPL-SPL,143
+HCP,Fcc-,SPL-SPL,39
+HCP,G,SPL-SPL,43
+HCP,Hexagonal,SPL-SPL,570
+HCP,Hexagonal Close Packed,SPL-SPL,879
+HCP,Hexagonally,SPL-SPL,31
+HCP,Icosahedral,SPL-SPL,93
+HCP,L12,SPL-SPL,43
+HCP,Martensite,SPL-SPL,194
+HCP,Martensitic,SPL-SPL,156
+HCP,Monoclinic,SPL-SPL,56
+HCP,Orthorhombic,SPL-SPL,101
+HCP,Rhombohedral,SPL-SPL,52
+HCP,Rutile,SPL-SPL,37
+HCP,SC,SPL-SPL,30
+HCP,Tetragonal,SPL-SPL,74
+HCP,Trigonal,SPL-SPL,31
+HCP,Wurtzite,SPL-SPL,31
+HCP,α-Phase,SPL-SPL,34
+HCP,β,SPL-SPL,181
+HCP,β-Phase,SPL-SPL,30
+HCP,ω,SPL-SPL,37
+HDL,LDL,SPL-SPL,39
+HOIPS,Perovskites,SPL-SPL,30
+HP,Amphibolite,SPL-SPL,40
+HP,Eclogites,SPL-SPL,71
+HP,Garnet,SPL-SPL,92
+HP,Granulite,SPL-SPL,80
+HP,Hexagonal,SPL-SPL,31
+HP,Uhp,SPL-SPL,30
+HSCs,Haematopoietic,SPL-SPL,35
+HSCs,Hematopoietic,SPL-SPL,33
+HSCs,Hepatic,SPL-SPL,94
+HT,LT,SPL-SPL,32
+HT-29,Colon,SPL-SPL,31
+HTB,Hexagonal,SPL-SPL,43
+HTP,Ltp,SPL-SPL,31
+Haematopoietic,HSCs,SPL-SPL,35
+Half,Cubic,SPL-SPL,30
+Half,Half - Heusler,SPL-SPL,62
+Half,Heusler,SPL-SPL,299
+Half - Heusler,Half,SPL-SPL,62
+Half - Heusler,Heusler,SPL-SPL,67
+Halide Perovskite,Perovskites,SPL-SPL,50
+Harzburgitic,Garnet,SPL-SPL,59
+Harzburgitic,Garnets,SPL-SPL,43
+Harzburgitic,Lherzolitic,SPL-SPL,43
+Hausmannite,Spinels,SPL-SPL,37
+Hematopoietic,HSCs,SPL-SPL,33
+Hematopoietic,Marrow,SPL-SPL,35
+Hematopoietic,Myeloid,SPL-SPL,47
+Hepatic,HSCs,SPL-SPL,94
+Hepatic,Hepatocyte,SPL-SPL,30
+Hepatocellular,Breast,SPL-SPL,48
+Hepatocellular,HCC,SPL-SPL,38
+Hepatocellular,Lung,SPL-SPL,36
+Hepatocyte,Hepatic,SPL-SPL,30
+Herringbone,Hexagonal,SPL-SPL,33
+Heusler,Austenite,SPL-SPL,106
+Heusler,Austenitic,SPL-SPL,40
+Heusler,B2,SPL-SPL,93
+Heusler,Cubic,SPL-SPL,138
+Heusler,FCC,SPL-SPL,46
+Heusler,Full,SPL-SPL,86
+Heusler,Full-Heusler,SPL-SPL,42
+Heusler,Half,SPL-SPL,299
+Heusler,Half - Heusler,SPL-SPL,67
+Heusler,L21,SPL-SPL,155
+Heusler,Martensite,SPL-SPL,125
+Heusler,Martensitic,SPL-SPL,132
+Heusler,Tetragonal,SPL-SPL,77
+Hex,BCC,SPL-SPL,47
+Hex,Cubic,SPL-SPL,34
+Hex,FCC,SPL-SPL,32
+Hex,Hexagonal,SPL-SPL,130
+Hex,LAM,SPL-SPL,45
+Hexagonal,194,SPL-SPL,31
+Hexagonal,1T,SPL-SPL,107
+Hexagonal,2D,SPL-SPL,40
+Hexagonal,2H,SPL-SPL,252
+Hexagonal,3,SPL-SPL,41
+Hexagonal,4H,SPL-SPL,105
+Hexagonal,6H,SPL-SPL,104
+Hexagonal,A-Type,SPL-SPL,34
+Hexagonal,Abstract,SPL-SPL,216
+Hexagonal,Alpha,SPL-SPL,31
+Hexagonal,Anatase,SPL-SPL,302
+Hexagonal,Apatites,SPL-SPL,99
+Hexagonal,Armchair,SPL-SPL,33
+Hexagonal,Austenite,SPL-SPL,93
+Hexagonal,Austenitic,SPL-SPL,57
+Hexagonal,B1,SPL-SPL,61
+Hexagonal,B2,SPL-SPL,54
+Hexagonal,BCC,SPL-SPL,463
+Hexagonal,BCT,SPL-SPL,30
+Hexagonal,BSTRAct,SPL-SPL,66
+Hexagonal,Beta,SPL-SPL,33
+Hexagonal,Birnessites,SPL-SPL,43
+Hexagonal,Body Centred Cubic,SPL-SPL,276
+Hexagonal,Body-Centered Tetragonal,SPL-SPL,43
+Hexagonal,C14,SPL-SPL,69
+Hexagonal,C2/C,SPL-SPL,68
+Hexagonal,C2/M,SPL-SPL,67
+Hexagonal,COLH,SPL-SPL,79
+Hexagonal,Calcite,SPL-SPL,41
+Hexagonal,Clathrate,SPL-SPL,48
+Hexagonal,Close Packed,SPL-SPL,85
+Hexagonal,Columnar,SPL-SPL,47
+Hexagonal,Corundum,SPL-SPL,43
+Hexagonal,Covellite,SPL-SPL,37
+Hexagonal,Cubic,SPL-SPL,5694
+Hexagonal,Cubic Perovskites,SPL-SPL,136
+Hexagonal,Cubic Spinel,SPL-SPL,50
+Hexagonal,Cuboidal,SPL-SPL,30
+Hexagonal,Delafossite,SPL-SPL,53
+Hexagonal,Diamonds,SPL-SPL,100
+Hexagonal,Dodecagonal,SPL-SPL,37
+Hexagonal,EMT,SPL-SPL,34
+Hexagonal,F,SPL-SPL,86
+Hexagonal,FCC,SPL-SPL,931
+Hexagonal,FD3M,SPL-SPL,53
+Hexagonal,Face Centered Cubic,SPL-SPL,558
+Hexagonal,Faujasite,SPL-SPL,36
+Hexagonal,Fluorite,SPL-SPL,113
+Hexagonal,Fm3m,SPL-SPL,43
+Hexagonal,G,SPL-SPL,122
+Hexagonal,Garnet,SPL-SPL,73
+Hexagonal,Graphitic,SPL-SPL,112
+Hexagonal,Gyroid,SPL-SPL,56
+Hexagonal,H2,SPL-SPL,79
+Hexagonal,HCP,SPL-SPL,570
+Hexagonal,HP,SPL-SPL,31
+Hexagonal,HTB,SPL-SPL,43
+Hexagonal,Herringbone,SPL-SPL,33
+Hexagonal,Hex,SPL-SPL,130
+Hexagonal,Hexagonal Close Packed,SPL-SPL,102
+Hexagonal,Hexagonal Columnar,SPL-SPL,75
+Hexagonal,Hexagonal Perovskite,SPL-SPL,83
+Hexagonal,Hexagonal Wurtzite,SPL-SPL,171
+Hexagonal,Hexagonally,SPL-SPL,257
+Hexagonal,Honeycomb,SPL-SPL,111
+Hexagonal,Hydrates,SPL-SPL,79
+Hexagonal,IA3D,SPL-SPL,99
+Hexagonal,IC,SPL-SPL,33
+Hexagonal,IH,SPL-SPL,131
+Hexagonal,Ice,SPL-SPL,56
+Hexagonal,Icosahedral,SPL-SPL,169
+Hexagonal,Im3m,SPL-SPL,89
+Hexagonal,Inverse,SPL-SPL,40
+Hexagonal,K,SPL-SPL,35
+Hexagonal,Kagome,SPL-SPL,84
+Hexagonal,L,SPL-SPL,109
+Hexagonal,L1,SPL-SPL,55
+Hexagonal,L2,SPL-SPL,48
+Hexagonal,LAM,SPL-SPL,37
+Hexagonal,LLC,SPL-SPL,66
+Hexagonal,Lamellar,SPL-SPL,450
+Hexagonal,Laves Phase,SPL-SPL,81
+Hexagonal,Lc,SPL-SPL,114
+Hexagonal,Leaves,SPL-SPL,48
+Hexagonal,Like,SPL-SPL,68
+Hexagonal,Liquid Crystalline,SPL-SPL,39
+Hexagonal,Liquids,SPL-SPL,31
+Hexagonal,M,SPL-SPL,75
+Hexagonal,Magnetoplumbite,SPL-SPL,57
+Hexagonal,Martensite,SPL-SPL,134
+Hexagonal,Martensitic,SPL-SPL,108
+Hexagonal,Mcm-41,SPL-SPL,33
+Hexagonal,Meso Structured,SPL-SPL,112
+Hexagonal,Mesophase,SPL-SPL,58
+Hexagonal,Micellar,SPL-SPL,57
+Hexagonal,Micellar Cubic,SPL-SPL,37
+Hexagonal,Monoclinic,SPL-SPL,1581
+Hexagonal,NaCl,SPL-SPL,80
+Hexagonal,Nematic,SPL-SPL,124
+Hexagonal,Octahedral,SPL-SPL,33
+Hexagonal,Olivines,SPL-SPL,47
+Hexagonal,Orthorhombic,SPL-SPL,2022
+Hexagonal,Orthorhombic Perovskite,SPL-SPL,31
+Hexagonal,P,SPL-SPL,95
+Hexagonal,P1,SPL-SPL,44
+Hexagonal,P2,SPL-SPL,55
+Hexagonal,P21/C,SPL-SPL,43
+Hexagonal,P3,SPL-SPL,42
+Hexagonal,P3M1,SPL-SPL,30
+Hexagonal,P6,SPL-SPL,39
+Hexagonal,P6/mmm,SPL-SPL,123
+Hexagonal,P63,SPL-SPL,76
+Hexagonal,P63/M,SPL-SPL,184
+Hexagonal,P63/MCM,SPL-SPL,57
+Hexagonal,P63/MMC,SPL-SPL,392
+Hexagonal,P63MC,SPL-SPL,141
+Hexagonal,P63MMC,SPL-SPL,108
+Hexagonal,P63cm,SPL-SPL,81
+Hexagonal,P63m,SPL-SPL,45
+Hexagonal,P6MM,SPL-SPL,185
+Hexagonal,P6m,SPL-SPL,46
+Hexagonal,PBNM,SPL-SPL,35
+Hexagonal,PM3N,SPL-SPL,43
+Hexagonal,PNMA,SPL-SPL,94
+Hexagonal,Packed,SPL-SPL,123
+Hexagonal,Packing,SPL-SPL,36
+Hexagonal,Pentagonal,SPL-SPL,211
+Hexagonal,Perovskites,SPL-SPL,757
+Hexagonal,Phase,SPL-SPL,42
+Hexagonal,Pn3m,SPL-SPL,89
+Hexagonal,Prismatic,SPL-SPL,32
+Hexagonal,Pseudocubic,SPL-SPL,81
+Hexagonal,Pseudohexagonal,SPL-SPL,67
+Hexagonal,Pyrochlore,SPL-SPL,38
+Hexagonal,R A C T,SPL-SPL,48
+Hexagonal,R-3M,SPL-SPL,49
+Hexagonal,R3,SPL-SPL,37
+Hexagonal,R3M,SPL-SPL,97
+Hexagonal,R3c,SPL-SPL,76
+Hexagonal,RM,SPL-SPL,32
+Hexagonal,Rectangular,SPL-SPL,214
+Hexagonal,Reverse,SPL-SPL,30
+Hexagonal,Rhombic,SPL-SPL,101
+Hexagonal,Rhombohedral,SPL-SPL,1073
+Hexagonal,Rock Salt,SPL-SPL,125
+Hexagonal,Rock-Salt,SPL-SPL,42
+Hexagonal,Rutile,SPL-SPL,257
+Hexagonal,S T,SPL-SPL,110
+Hexagonal,Smectic,SPL-SPL,59
+Hexagonal,Sphalerite,SPL-SPL,47
+Hexagonal,Spinels,SPL-SPL,346
+Hexagonal,Square,SPL-SPL,264
+Hexagonal,T,SPL-SPL,253
+Hexagonal,Tetragonal,SPL-SPL,1333
+Hexagonal,Triangular,SPL-SPL,268
+Hexagonal,Triclinic,SPL-SPL,233
+Hexagonal,Trigonal,SPL-SPL,603
+Hexagonal,Turbostratic,SPL-SPL,41
+Hexagonal,Type,SPL-SPL,80
+Hexagonal,V1,SPL-SPL,48
+Hexagonal,Vaterite,SPL-SPL,37
+Hexagonal,WZ,SPL-SPL,68
+Hexagonal,Wurtzite,SPL-SPL,1015
+Hexagonal,Wurzite,SPL-SPL,42
+Hexagonal,Zb,SPL-SPL,56
+Hexagonal,Zinc Blende,SPL-SPL,245
+Hexagonal,Δ,SPL-SPL,42
+Hexagonal,α-,SPL-SPL,50
+Hexagonal,α-Phase,SPL-SPL,72
+Hexagonal,β,SPL-SPL,278
+Hexagonal,β-Phase,SPL-SPL,82
+Hexagonal,ω,SPL-SPL,50
+Hexagonal Close Packed,BCC,SPL-SPL,199
+Hexagonal Close Packed,Body Centred Cubic,SPL-SPL,252
+Hexagonal Close Packed,Cubic,SPL-SPL,64
+Hexagonal Close Packed,FCC,SPL-SPL,446
+Hexagonal Close Packed,Face Centered Cubic,SPL-SPL,491
+Hexagonal Close Packed,HCP,SPL-SPL,879
+Hexagonal Close Packed,Hexagonal,SPL-SPL,102
+Hexagonal Close Packed,Martensite,SPL-SPL,39
+Hexagonal Close Packed,Martensitic,SPL-SPL,41
+Hexagonal Columnar,COLH,SPL-SPL,65
+Hexagonal Columnar,Cubic,SPL-SPL,34
+Hexagonal Columnar,Hexagonal,SPL-SPL,75
+Hexagonal Perovskite,Cubic,SPL-SPL,52
+Hexagonal Perovskite,Cubic Perovskites,SPL-SPL,41
+Hexagonal Perovskite,Hexagonal,SPL-SPL,83
+Hexagonal Perovskite,Perovskites,SPL-SPL,83
+Hexagonal Wurtzite,Cubic,SPL-SPL,103
+Hexagonal Wurtzite,Cubic Zinc-Blende,SPL-SPL,57
+Hexagonal Wurtzite,Hexagonal,SPL-SPL,171
+Hexagonal Wurtzite,T,SPL-SPL,36
+Hexagonal Wurtzite,Wurtzite,SPL-SPL,126
+Hexagonal Wurtzite,Zinc Blende,SPL-SPL,47
+Hexagonally,Cubic,SPL-SPL,57
+Hexagonally,FCC,SPL-SPL,35
+Hexagonally,HCP,SPL-SPL,31
+Hexagonally,Hexagonal,SPL-SPL,257
+Hibonite,Perovskites,SPL-SPL,44
+Hibonite,Spinels,SPL-SPL,47
+Hippocampal,Hippocampus,SPL-SPL,72
+Hippocampus,Dentate Gyrus,SPL-SPL,33
+Hippocampus,Hippocampal,SPL-SPL,72
+Hollandite,Monoclinic,SPL-SPL,35
+Hollandite,Perovskites,SPL-SPL,33
+Hollandite,Rutile,SPL-SPL,47
+Hollandite,Tetragonal,SPL-SPL,39
+Honeycomb,Hexagonal,SPL-SPL,111
+Honeycomb,Kagome,SPL-SPL,32
+Hornblende,Garnet,SPL-SPL,39
+Ht,Hydrotalcite,SPL-SPL,77
+Ht,Lt,SPL-SPL,169
+Ht,Monoclinic,SPL-SPL,40
+Hybrid,Perovskites,SPL-SPL,336
+Hybrid Perovskites,Perovskites,SPL-SPL,39
+Hydrates,Anhydrate,SPL-SPL,43
+Hydrates,Anhydrous,SPL-SPL,58
+Hydrates,Clathrate,SPL-SPL,76
+Hydrates,Clathrate Hydrate,SPL-SPL,63
+Hydrates,Cubic,SPL-SPL,46
+Hydrates,Dihydrate,SPL-SPL,33
+Hydrates,Hexagonal,SPL-SPL,79
+Hydrates,Monoclinic,SPL-SPL,33
+Hydrates,Monohydrates,SPL-SPL,46
+Hydrates,Orthorhombic,SPL-SPL,31
+Hydrates,SII,SPL-SPL,53
+Hydrates,Tetragonal,SPL-SPL,30
+Hydrotalcite,Brucite,SPL-SPL,32
+Hydrotalcite,Ht,SPL-SPL,77
+Hydrotalcite,Hydrotalcite-Like,SPL-SPL,35
+Hydrotalcite,Like,SPL-SPL,117
+Hydrotalcite,Spinels,SPL-SPL,94
+Hydrotalcite-Like,Hydrotalcite,SPL-SPL,35
+I2/M,Monoclinic,SPL-SPL,87
+I4/M,Cubic,SPL-SPL,40
+I4/M,Double Perovskite,SPL-SPL,71
+I4/M,Monoclinic,SPL-SPL,52
+I4/M,P2 1/N,SPL-SPL,31
+I4/M,Perovskites,SPL-SPL,45
+I4/M,Tetragonal,SPL-SPL,143
+I4/MCM,Cubic,SPL-SPL,77
+I4/MCM,Orthorhombic,SPL-SPL,85
+I4/MCM,PNMA,SPL-SPL,46
+I4/MCM,Perovskites,SPL-SPL,111
+I4/MCM,Tetragonal,SPL-SPL,210
+I4/MMM,Cubic,SPL-SPL,49
+I4/MMM,K2NIF4,SPL-SPL,35
+I4/MMM,Monoclinic,SPL-SPL,30
+I4/MMM,Orthorhombic,SPL-SPL,95
+I4/MMM,Perovskites,SPL-SPL,149
+I4/MMM,Ruddlesden Popper,SPL-SPL,81
+I4/MMM,Tetragonal,SPL-SPL,419
+I4/MMM,Thmn12,SPL-SPL,31
+I4/mcm,Tetragonal,SPL-SPL,32
+I4/mmm,Tetragonal,SPL-SPL,41
+I41 / ACD,Tetragonal,SPL-SPL,47
+I41 / AMD,Cubic,SPL-SPL,33
+I41 / AMD,Tetragonal,SPL-SPL,129
+I41/A,Scheelite,SPL-SPL,55
+I41/A,Tetragonal,SPL-SPL,80
+IA-3D,Cubic,SPL-SPL,38
+IA3D,Cubic,SPL-SPL,228
+IA3D,Garnet,SPL-SPL,32
+IA3D,Hexagonal,SPL-SPL,99
+IA3D,Im3m,SPL-SPL,53
+IA3D,Lamellar,SPL-SPL,30
+IA3D,Pn3m,SPL-SPL,62
+IC,Cubic,SPL-SPL,34
+IC,Hexagonal,SPL-SPL,33
+IC,IH,SPL-SPL,38
+IH,Cubic,SPL-SPL,60
+IH,DH,SPL-SPL,34
+IH,FCC,SPL-SPL,45
+IH,Hexagonal,SPL-SPL,131
+IH,IC,SPL-SPL,38
+IH,Icosahedral,SPL-SPL,83
+IIA,Type,SPL-SPL,49
+IM3,Cubic,SPL-SPL,52
+IM3,Perovskites,SPL-SPL,34
+IMMA,Cubic,SPL-SPL,48
+IMMA,Orthorhombic,SPL-SPL,134
+IMMA,PNMA,SPL-SPL,52
+IMMA,Perovskites,SPL-SPL,84
+IMMA,Tetragonal,SPL-SPL,39
+Iad,Cubic,SPL-SPL,44
+Ibam,Orthorhombic,SPL-SPL,38
+Ice,Cubic,SPL-SPL,44
+Ice,Hexagonal,SPL-SPL,56
+Icosahedra,Icosahedral,SPL-SPL,59
+Icosahedral,BCC,SPL-SPL,109
+Icosahedral,Body Centred Cubic,SPL-SPL,35
+Icosahedral,Cubic,SPL-SPL,235
+Icosahedral,Cuboctahedral,SPL-SPL,104
+Icosahedral,Decagonal,SPL-SPL,85
+Icosahedral,Decahedral,SPL-SPL,139
+Icosahedral,Dodecahedral,SPL-SPL,30
+Icosahedral,FCC,SPL-SPL,256
+Icosahedral,Face Centered Cubic,SPL-SPL,76
+Icosahedral,HCP,SPL-SPL,93
+Icosahedral,Hexagonal,SPL-SPL,169
+Icosahedral,IH,SPL-SPL,83
+Icosahedral,Icosahedra,SPL-SPL,59
+Icosahedral,Icosahedron,SPL-SPL,73
+Icosahedral,Monoclinic,SPL-SPL,30
+Icosahedral,Octahedral,SPL-SPL,43
+Icosahedral,Orthorhombic,SPL-SPL,42
+Icosahedral,Pentagonal,SPL-SPL,30
+Icosahedral,Phase,SPL-SPL,48
+Icosahedral,Rhombohedral,SPL-SPL,36
+Icosahedral,Tetragonal,SPL-SPL,45
+Icosahedron,FCC,SPL-SPL,35
+Icosahedron,Icosahedral,SPL-SPL,73
+Igneous,Metamorphic,SPL-SPL,58
+Ilmenite,Garnet,SPL-SPL,80
+Ilmenite,Olivines,SPL-SPL,33
+Ilmenite,Perovskites,SPL-SPL,103
+Ilmenite,Rutile,SPL-SPL,111
+Ilmenite,Spinels,SPL-SPL,71
+Im3m,Cubic,SPL-SPL,182
+Im3m,Hexagonal,SPL-SPL,89
+Im3m,IA3D,SPL-SPL,53
+Im3m,Pn3m,SPL-SPL,65
+Imm,Cubic,SPL-SPL,34
+Inverse,Cubic,SPL-SPL,57
+Inverse,Hexagonal,SPL-SPL,40
+Inverse,Spinels,SPL-SPL,172
+Inverse Spinel,Spinels,SPL-SPL,132
+Island,Garnet,SPL-SPL,38
+Jacobson,Dion,SPL-SPL,72
+Jacobson,Perovskites,SPL-SPL,89
+Jadeite,Garnet,SPL-SPL,36
+Jones,Lennard,SPL-SPL,39
+K,G,SPL-SPL,33
+K,Hexagonal,SPL-SPL,35
+K2NIF4,I4/MMM,SPL-SPL,35
+K2NIF4,Orthorhombic,SPL-SPL,30
+K2NIF4,Perovskites,SPL-SPL,80
+K2NIF4,Tetragonal,SPL-SPL,48
+Kagome,Hexagonal,SPL-SPL,84
+Kagome,Honeycomb,SPL-SPL,32
+Kagome,Triangular,SPL-SPL,46
+Kasper,Frank,SPL-SPL,30
+Keggin,Dawson,SPL-SPL,67
+Keggin,Lindqvist,SPL-SPL,31
+Keggin,Wells-Dawson,SPL-SPL,42
+Kesterite,Chalcopyrite,SPL-SPL,41
+Kesterite,Stannite,SPL-SPL,60
+Kesterite,Tetragonal,SPL-SPL,44
+Kesterite,Wurtzite,SPL-SPL,60
+Kidneys,Liver,SPL-SPL,51
+Kidneys,Spleens,SPL-SPL,40
+Kimberlites,Garnet,SPL-SPL,37
+Kimberlitic,Garnet,SPL-SPL,35
+Kyanite,Garnet,SPL-SPL,41
+L,Chondrite,SPL-SPL,67
+L,Cubic,SPL-SPL,92
+L,G,SPL-SPL,44
+L,Hexagonal,SPL-SPL,109
+L,LL,SPL-SPL,44
+L,Lamellar,SPL-SPL,52
+L,Ordinary,SPL-SPL,31
+L,P,SPL-SPL,40
+L,T,SPL-SPL,32
+L1,Cubic,SPL-SPL,39
+L1,Hexagonal,SPL-SPL,55
+L1,L2,SPL-SPL,61
+L10,Austenite,SPL-SPL,33
+L10,B2,SPL-SPL,74
+L10,BCC,SPL-SPL,39
+L10,Cubic,SPL-SPL,55
+L10,FCC,SPL-SPL,185
+L10,FCT,SPL-SPL,41
+L10,Face Centered Cubic,SPL-SPL,63
+L10,Face-Centered Tetragonal,SPL-SPL,36
+L10,L12,SPL-SPL,100
+L10,Martensite,SPL-SPL,70
+L10,Martensitic,SPL-SPL,51
+L10,Tetragonal,SPL-SPL,120
+L12,B2,SPL-SPL,108
+L12,BCC,SPL-SPL,90
+L12,Cubic,SPL-SPL,57
+L12,Cuboidal,SPL-SPL,32
+L12,D022,SPL-SPL,56
+L12,FCC,SPL-SPL,330
+L12,Face Centered Cubic,SPL-SPL,103
+L12,G,SPL-SPL,90
+L12,HCP,SPL-SPL,43
+L12,L10,SPL-SPL,100
+L12,Tetragonal,SPL-SPL,36
+L12,γ',SPL-SPL,32
+L2,Cubic,SPL-SPL,48
+L2,Hexagonal,SPL-SPL,48
+L2,L1,SPL-SPL,61
+L21,Austenite,SPL-SPL,54
+L21,B2,SPL-SPL,109
+L21,Cubic,SPL-SPL,56
+L21,Heusler,SPL-SPL,155
+L21,Martensite,SPL-SPL,73
+L21,Martensitic,SPL-SPL,69
+LAM,Hex,SPL-SPL,45
+LAM,Hexagonal,SPL-SPL,37
+LDL,HDL,SPL-SPL,39
+LL,Chondrite,SPL-SPL,68
+LL,L,SPL-SPL,44
+LL,Ordinary,SPL-SPL,40
+LLC,Cubic,SPL-SPL,43
+LLC,Hexagonal,SPL-SPL,66
+LLC,Lewis,SPL-SPL,40
+LT,HT,SPL-SPL,32
+Lamellar,Cubic,SPL-SPL,245
+Lamellar,Hexagonal,SPL-SPL,450
+Lamellar,IA3D,SPL-SPL,30
+Lamellar,L,SPL-SPL,52
+Lamellar,Nematic,SPL-SPL,51
+Lath,Austenite,SPL-SPL,297
+Lath,BCC,SPL-SPL,33
+Lath,Bainitic,SPL-SPL,43
+Lath,Martensite,SPL-SPL,476
+Lath,Martensitic,SPL-SPL,160
+Lath,Polygonal,SPL-SPL,31
+Lath Martensite,Austenite,SPL-SPL,92
+Lath Martensite,Martensite,SPL-SPL,96
+Lath Martensite,Martensitic,SPL-SPL,35
+Laves,Laves Phase,SPL-SPL,34
+Laves Phase,BCC,SPL-SPL,90
+Laves Phase,C14,SPL-SPL,138
+Laves Phase,C15,SPL-SPL,144
+Laves Phase,Cubic,SPL-SPL,90
+Laves Phase,FCC,SPL-SPL,49
+Laves Phase,Hexagonal,SPL-SPL,81
+Laves Phase,Laves,SPL-SPL,34
+Laves Phase,Leaves,SPL-SPL,218
+Laves Phase,Martensitic,SPL-SPL,34
+Lawsonite,Eclogites,SPL-SPL,33
+Layered,Spinels,SPL-SPL,46
+Lc,Cubic,SPL-SPL,61
+Lc,Hexagonal,SPL-SPL,114
+Lc,Nematic,SPL-SPL,101
+Lc,Smectic,SPL-SPL,34
+Leaves,Austenite,SPL-SPL,41
+Leaves,Austenitic,SPL-SPL,32
+Leaves,BCC,SPL-SPL,97
+Leaves,C14,SPL-SPL,172
+Leaves,C15,SPL-SPL,117
+Leaves,Cubic,SPL-SPL,52
+Leaves,FCC,SPL-SPL,45
+Leaves,Ferritic,SPL-SPL,35
+Leaves,G,SPL-SPL,38
+Leaves,Hexagonal,SPL-SPL,48
+Leaves,Laves Phase,SPL-SPL,218
+Leaves,Martensite,SPL-SPL,42
+Leaves,Martensitic,SPL-SPL,61
+Lennard,Jones,SPL-SPL,39
+Lepidocrocite,Anatase,SPL-SPL,35
+Leucocratic,Garnet,SPL-SPL,31
+Leucogranite,Garnet,SPL-SPL,56
+Leucogranite,Gneiss,SPL-SPL,34
+Leucogranite,Granite,SPL-SPL,72
+Leucosomes,Garnet,SPL-SPL,67
+Leucosomes,Gneiss,SPL-SPL,33
+Leucosomes,Granulite,SPL-SPL,32
+Leukemia,AML,SPL-SPL,55
+Leukemia,Breast,SPL-SPL,63
+Leukemia,Colon,SPL-SPL,50
+Leukemia,Lung,SPL-SPL,36
+Leukemia,Melanoma,SPL-SPL,37
+Leukemia,Ovarian,SPL-SPL,31
+Leukemia,Prostate,SPL-SPL,42
+Lewis,LLC,SPL-SPL,40
+Lherzolites,Chondrite,SPL-SPL,34
+Lherzolites,Clinopyroxenes,SPL-SPL,98
+Lherzolites,Garnet,SPL-SPL,197
+Lherzolites,Olivines,SPL-SPL,100
+Lherzolites,Pyroxene,SPL-SPL,43
+Lherzolites,Spinels,SPL-SPL,169
+Lherzolites,Ultramafic,SPL-SPL,39
+Lherzolitic,Garnet,SPL-SPL,73
+Lherzolitic,Garnets,SPL-SPL,40
+Lherzolitic,Harzburgitic,SPL-SPL,43
+Lherzolitic,Olivines,SPL-SPL,36
+Like,Cubic,SPL-SPL,39
+Like,Diamonds,SPL-SPL,50
+Like,Fibroblasts,SPL-SPL,37
+Like,Hexagonal,SPL-SPL,68
+Like,Hydrotalcite,SPL-SPL,117
+Like,Osteoblasts,SPL-SPL,47
+Lindqvist,Keggin,SPL-SPL,31
+Liquid Crystalline,Hexagonal,SPL-SPL,39
+Liquids,Hexagonal,SPL-SPL,31
+Liver,Breast,SPL-SPL,83
+Liver,Colon,SPL-SPL,45
+Liver,Kidneys,SPL-SPL,51
+Liver,Lung,SPL-SPL,69
+Liver,Spleens,SPL-SPL,54
+Low,Martensitic,SPL-SPL,43
+Lower,Austenite,SPL-SPL,47
+Lower,Bainite,SPL-SPL,42
+Lower,Martensite,SPL-SPL,44
+Lt,Ht,SPL-SPL,169
+Lt,Monoclinic,SPL-SPL,36
+Lt,Orthorhombic,SPL-SPL,38
+Ltp,HTP,SPL-SPL,31
+Lung,Adenocarcinoma,SPL-SPL,60
+Lung,Breast,SPL-SPL,376
+Lung,Cervical,SPL-SPL,57
+Lung,Colon,SPL-SPL,174
+Lung,Colorectal,SPL-SPL,100
+Lung,Gastric,SPL-SPL,53
+Lung,Hepatocellular,SPL-SPL,36
+Lung,Leukemia,SPL-SPL,36
+Lung,Liver,SPL-SPL,69
+Lung,Melanoma,SPL-SPL,86
+Lung,NSCLC,SPL-SPL,54
+Lung,Ovarian,SPL-SPL,130
+Lung,Pancreatic,SPL-SPL,70
+Lung,Prostate,SPL-SPL,155
+Lung,Squamous Cell,SPL-SPL,40
+Lymphocytes,Monocytes,SPL-SPL,48
+Lymphoma,B Cell,SPL-SPL,30
+Lymphoma,Burkitt,SPL-SPL,30
+M,Austenite,SPL-SPL,218
+M,Austenitic,SPL-SPL,31
+M,Bainite,SPL-SPL,31
+M,Bainitic,SPL-SPL,48
+M,C2/M,SPL-SPL,31
+M,Cubic,SPL-SPL,140
+M,F,SPL-SPL,109
+M,Hexagonal,SPL-SPL,75
+M,Martensite,SPL-SPL,262
+M,Martensitic,SPL-SPL,88
+M,Monoclinic,SPL-SPL,377
+M,Orthorhombic,SPL-SPL,74
+M,P,SPL-SPL,110
+M,Rhombohedral,SPL-SPL,54
+M,T,SPL-SPL,255
+M,Tetragonal,SPL-SPL,239
+M-,Monoclinic,SPL-SPL,33
+M-Zro2,Monoclinic,SPL-SPL,45
+M-Zro2,Tetragonal,SPL-SPL,37
+M1,M2,SPL-SPL,88
+M1,Macrophages,SPL-SPL,35
+M1,Monoclinic,SPL-SPL,95
+M1,Orthorhombic,SPL-SPL,38
+M1,Rutile,SPL-SPL,63
+M2,M1,SPL-SPL,88
+M2,Monoclinic,SPL-SPL,39
+MC,Monoclinic,SPL-SPL,37
+MC,Sp,SPL-SPL,39
+MCF-7,Breast,SPL-SPL,46
+MDS,AML,SPL-SPL,36
+MFI,Orthorhombic,SPL-SPL,38
+MM,Multiple,SPL-SPL,43
+MM,Multiple Myeloma,SPL-SPL,33
+Ma,Austenite,SPL-SPL,42
+Ma,Martensite,SPL-SPL,42
+Macrophages,Dendritic,SPL-SPL,31
+Macrophages,Fibroblasts,SPL-SPL,33
+Macrophages,M1,SPL-SPL,35
+Macrophages,Marrow,SPL-SPL,73
+Macrophages,Monocytes,SPL-SPL,202
+Macrophages,Myeloid,SPL-SPL,59
+Macrophages,Neutrophils,SPL-SPL,96
+Macrophages,Peritoneal,SPL-SPL,53
+Mafic,Amphibolite,SPL-SPL,67
+Mafic,Chondrite,SPL-SPL,30
+Mafic,Clinopyroxenes,SPL-SPL,31
+Mafic,Eclogites,SPL-SPL,57
+Mafic,Garnet,SPL-SPL,134
+Mafic,Gneiss,SPL-SPL,49
+Mafic,Gneisses,SPL-SPL,55
+Mafic,Granulite,SPL-SPL,150
+Mafic,Olivines,SPL-SPL,31
+Mafic,Ultramafic,SPL-SPL,113
+Magneli,Rutile,SPL-SPL,41
+Magnetoplumbite,Hexagonal,SPL-SPL,57
+Magnetoplumbite,Spinels,SPL-SPL,36
+Majorite,Garnet,SPL-SPL,75
+Majorite,Olivines,SPL-SPL,35
+Majorite,Perovskites,SPL-SPL,47
+Majoritic,Garnet,SPL-SPL,71
+Majoritic,Garnets,SPL-SPL,35
+Mammary,Breast,SPL-SPL,74
+Mantle,Chondrite,SPL-SPL,37
+Mantle,Clinopyroxenes,SPL-SPL,33
+Mantle,Garnet,SPL-SPL,51
+Mantle,Olivines,SPL-SPL,50
+Mantle,Spinels,SPL-SPL,39
+Marrow,Hematopoietic,SPL-SPL,35
+Marrow,Macrophages,SPL-SPL,73
+Marrow,Mesenchymal,SPL-SPL,34
+Marrow,Myeloid,SPL-SPL,40
+Marrow,Osteoblasts,SPL-SPL,55
+Marrow,Osteoclasts,SPL-SPL,35
+Martensite,Abstract,SPL-SPL,32
+Martensite,Acicular,SPL-SPL,110
+Martensite,Allotriomorphic,SPL-SPL,34
+Martensite,Alpha,SPL-SPL,31
+Martensite,Austenite,SPL-SPL,4985
+Martensite,Austenite-Martensite,SPL-SPL,50
+Martensite,Austenitic,SPL-SPL,1124
+Martensite,B19,SPL-SPL,63
+Martensite,B2,SPL-SPL,350
+Martensite,BCC,SPL-SPL,468
+Martensite,BCT,SPL-SPL,58
+Martensite,Bainite,SPL-SPL,384
+Martensite,Bainitic,SPL-SPL,387
+Martensite,Beta,SPL-SPL,31
+Martensite,Body Centred Cubic,SPL-SPL,100
+Martensite,Cooling,SPL-SPL,37
+Martensite,Cubic,SPL-SPL,247
+Martensite,Cubic Austenite,SPL-SPL,31
+Martensite,DP,SPL-SPL,32
+Martensite,Dp,SPL-SPL,142
+Martensite,Duplex,SPL-SPL,67
+Martensite,E-Martensite,SPL-SPL,110
+Martensite,F,SPL-SPL,88
+Martensite,FCC,SPL-SPL,461
+Martensite,FCT,SPL-SPL,30
+Martensite,Face Centered Cubic,SPL-SPL,107
+Martensite,Ferrite,SPL-SPL,137
+Martensite,Ferritic,SPL-SPL,274
+Martensite,G,SPL-SPL,179
+Martensite,HCP,SPL-SPL,194
+Martensite,Heusler,SPL-SPL,125
+Martensite,Hexagonal,SPL-SPL,134
+Martensite,Hexagonal Close Packed,SPL-SPL,39
+Martensite,L10,SPL-SPL,70
+Martensite,L21,SPL-SPL,73
+Martensite,Lath,SPL-SPL,476
+Martensite,Lath Martensite,SPL-SPL,96
+Martensite,Leaves,SPL-SPL,42
+Martensite,Lower,SPL-SPL,44
+Martensite,M,SPL-SPL,262
+Martensite,Ma,SPL-SPL,42
+Martensite,Martensite Lath,SPL-SPL,48
+Martensite,Martensite-Austenite,SPL-SPL,57
+Martensite,Martensitic,SPL-SPL,2616
+Martensite,Monoclinic,SPL-SPL,194
+Martensite,Nm,SPL-SPL,32
+Martensite,Orthorhombic,SPL-SPL,232
+Martensite,P,SPL-SPL,59
+Martensite,Pearlitic,SPL-SPL,85
+Martensite,Polygonal,SPL-SPL,128
+Martensite,Proeutectoid,SPL-SPL,40
+Martensite,Ra,SPL-SPL,74
+Martensite,Rhombohedral,SPL-SPL,30
+Martensite,SIM,SPL-SPL,59
+Martensite,T,SPL-SPL,32
+Martensite,Tetragonal,SPL-SPL,221
+Martensite,Widmanstatten,SPL-SPL,81
+Martensite,Δ,SPL-SPL,39
+Martensite,α' Martensite,SPL-SPL,139
+Martensite,α-Phase,SPL-SPL,33
+Martensite,β,SPL-SPL,352
+Martensite,β-Phase,SPL-SPL,55
+Martensite,γ,SPL-SPL,37
+Martensite,γ-Austenite,SPL-SPL,44
+Martensite,γ-Phase,SPL-SPL,33
+Martensite,γ:,SPL-SPL,30
+Martensite,ω,SPL-SPL,50
+Martensite Lath,Austenite,SPL-SPL,40
+Martensite Lath,Martensite,SPL-SPL,48
+Martensite-Austenite,Austenite,SPL-SPL,68
+Martensite-Austenite,Martensite,SPL-SPL,57
+Martensitic,Austenite,SPL-SPL,1851
+Martensitic,Austenitic,SPL-SPL,1185
+Martensitic,B19,SPL-SPL,33
+Martensitic,B2,SPL-SPL,244
+Martensitic,BCC,SPL-SPL,270
+Martensitic,Bainite,SPL-SPL,69
+Martensitic,Bainitic,SPL-SPL,253
+Martensitic,Body Centred Cubic,SPL-SPL,87
+Martensitic,Cubic,SPL-SPL,218
+Martensitic,Dp,SPL-SPL,37
+Martensitic,Duplex,SPL-SPL,35
+Martensitic,E-Martensite,SPL-SPL,48
+Martensitic,F,SPL-SPL,67
+Martensitic,FCC,SPL-SPL,271
+Martensitic,Face Centered Cubic,SPL-SPL,95
+Martensitic,Ferrite,SPL-SPL,36
+Martensitic,Ferritic,SPL-SPL,901
+Martensitic,G,SPL-SPL,98
+Martensitic,HCP,SPL-SPL,156
+Martensitic,Heusler,SPL-SPL,132
+Martensitic,Hexagonal,SPL-SPL,108
+Martensitic,Hexagonal Close Packed,SPL-SPL,41
+Martensitic,L10,SPL-SPL,51
+Martensitic,L21,SPL-SPL,69
+Martensitic,Lath,SPL-SPL,160
+Martensitic,Lath Martensite,SPL-SPL,35
+Martensitic,Laves Phase,SPL-SPL,34
+Martensitic,Leaves,SPL-SPL,61
+Martensitic,Low,SPL-SPL,43
+Martensitic,M,SPL-SPL,88
+Martensitic,Martensite,SPL-SPL,2616
+Martensitic,Monoclinic,SPL-SPL,217
+Martensitic,Orthorhombic,SPL-SPL,159
+Martensitic,Pearlitic,SPL-SPL,100
+Martensitic,RAFM,SPL-SPL,100
+Martensitic,SIM,SPL-SPL,34
+Martensitic,Spinels,SPL-SPL,37
+Martensitic,Tetragonal,SPL-SPL,257
+Martensitic,Widmanstatten,SPL-SPL,48
+Martensitic,α' Martensite,SPL-SPL,46
+Martensitic,β,SPL-SPL,255
+Martensitic,β-Phase,SPL-SPL,51
+Martensitic,ω,SPL-SPL,39
+Martian,Meteorite,SPL-SPL,33
+Mcm-41,Hexagonal,SPL-SPL,33
+Melanoma,Breast,SPL-SPL,186
+Melanoma,Colon,SPL-SPL,83
+Melanoma,Colorectal,SPL-SPL,37
+Melanoma,Leukemia,SPL-SPL,37
+Melanoma,Lung,SPL-SPL,86
+Melanoma,Ovarian,SPL-SPL,63
+Melanoma,Prostate,SPL-SPL,73
+Melanoma,Renal,SPL-SPL,40
+Melanoma,Skin,SPL-SPL,33
+Melilite,Perovskites,SPL-SPL,49
+Melilite,Spinels,SPL-SPL,58
+Mesenchymal,Epithelial,SPL-SPL,66
+Mesenchymal,Marrow,SPL-SPL,34
+Mesenchymal,Osteoblasts,SPL-SPL,94
+Meso Structured,Cubic,SPL-SPL,40
+Meso Structured,Hexagonal,SPL-SPL,112
+Mesophase,Cubic,SPL-SPL,33
+Mesophase,Hexagonal,SPL-SPL,58
+Mesostasis,Olivines,SPL-SPL,72
+Mesostasis,Pyroxene,SPL-SPL,60
+Metamafic,Garnet,SPL-SPL,30
+Metamorphic,Amphibolite,SPL-SPL,55
+Metamorphic,Eclogites,SPL-SPL,51
+Metamorphic,Garnet,SPL-SPL,104
+Metamorphic,Gneiss,SPL-SPL,59
+Metamorphic,Granitic,SPL-SPL,44
+Metamorphic,Granulite,SPL-SPL,56
+Metamorphic,Igneous,SPL-SPL,58
+Metapelites,Garnet,SPL-SPL,82
+Metapelitic,Garnet,SPL-SPL,87
+Metapelitic,Granulite,SPL-SPL,41
+Meteorite,Chondrite,SPL-SPL,128
+Meteorite,Chondritic,SPL-SPL,76
+Meteorite,Martian,SPL-SPL,33
+Meteorite,Murchison,SPL-SPL,53
+Meteorite,Olivines,SPL-SPL,95
+Meteorite,Pyroxene,SPL-SPL,70
+Micellar,Cubic,SPL-SPL,47
+Micellar,Hexagonal,SPL-SPL,57
+Micellar Cubic,Cubic,SPL-SPL,36
+Micellar Cubic,Hexagonal,SPL-SPL,37
+Migmatites,Amphibolite,SPL-SPL,36
+Migmatites,Garnet,SPL-SPL,61
+Migmatites,Gneisses,SPL-SPL,39
+Migmatites,Granulite,SPL-SPL,57
+Migmatitic,Amphibolite,SPL-SPL,38
+Migmatitic,Garnet,SPL-SPL,81
+Migmatitic,Gneiss,SPL-SPL,78
+Migmatitic,Gneisses,SPL-SPL,67
+Migmatitic,Granulite,SPL-SPL,65
+Mixed,Perovskites,SPL-SPL,54
+Monazite,Monoclinic,SPL-SPL,46
+Monoclinic,12,SPL-SPL,44
+Monoclinic,14,SPL-SPL,147
+Monoclinic,Abstract,SPL-SPL,178
+Monoclinic,Anatase,SPL-SPL,234
+Monoclinic,Anhydrous,SPL-SPL,34
+Monoclinic,Austenite,SPL-SPL,90
+Monoclinic,Austenitic,SPL-SPL,31
+Monoclinic,B2,SPL-SPL,80
+Monoclinic,BCC,SPL-SPL,95
+Monoclinic,BSTRAct,SPL-SPL,45
+Monoclinic,Baddeleyite,SPL-SPL,30
+Monoclinic,Body Centred Cubic,SPL-SPL,56
+Monoclinic,C2/C,SPL-SPL,1406
+Monoclinic,C2/M,SPL-SPL,609
+Monoclinic,C2/c,SPL-SPL,30
+Monoclinic,C2/m,SPL-SPL,32
+Monoclinic,C2C,SPL-SPL,59
+Monoclinic,C2m,SPL-SPL,46
+Monoclinic,CS,SPL-SPL,36
+Monoclinic,Cc,SPL-SPL,255
+Monoclinic,Cm,SPL-SPL,107
+Monoclinic,Cubic,SPL-SPL,2462
+Monoclinic,Cubic Fluorite,SPL-SPL,34
+Monoclinic,Cubic Perovskites,SPL-SPL,73
+Monoclinic,Cubic Spinel,SPL-SPL,38
+Monoclinic,Double Perovskite,SPL-SPL,325
+Monoclinic,F,SPL-SPL,49
+Monoclinic,FCC,SPL-SPL,188
+Monoclinic,Face Centered Cubic,SPL-SPL,94
+Monoclinic,Fergusonite,SPL-SPL,42
+Monoclinic,Fluorite,SPL-SPL,150
+Monoclinic,Fm3m,SPL-SPL,41
+Monoclinic,Fmm,SPL-SPL,30
+Monoclinic,G,SPL-SPL,55
+Monoclinic,Garnet,SPL-SPL,67
+Monoclinic,HCP,SPL-SPL,56
+Monoclinic,Hexagonal,SPL-SPL,1581
+Monoclinic,Hollandite,SPL-SPL,35
+Monoclinic,Ht,SPL-SPL,40
+Monoclinic,Hydrates,SPL-SPL,33
+Monoclinic,I2/M,SPL-SPL,87
+Monoclinic,I4/M,SPL-SPL,52
+Monoclinic,I4/MMM,SPL-SPL,30
+Monoclinic,Icosahedral,SPL-SPL,30
+Monoclinic,Lt,SPL-SPL,36
+Monoclinic,M,SPL-SPL,377
+Monoclinic,M-,SPL-SPL,33
+Monoclinic,M-Zro2,SPL-SPL,45
+Monoclinic,M1,SPL-SPL,95
+Monoclinic,M2,SPL-SPL,39
+Monoclinic,MC,SPL-SPL,37
+Monoclinic,Martensite,SPL-SPL,194
+Monoclinic,Martensitic,SPL-SPL,217
+Monoclinic,Monazite,SPL-SPL,46
+Monoclinic,No. 14,SPL-SPL,196
+Monoclinic,No. 15,SPL-SPL,64
+Monoclinic,No. 2,SPL-SPL,58
+Monoclinic,O3,SPL-SPL,36
+Monoclinic,Olivines,SPL-SPL,51
+Monoclinic,Orthorhombic,SPL-SPL,3389
+Monoclinic,P,SPL-SPL,212
+Monoclinic,P-1,SPL-SPL,118
+Monoclinic,P1,SPL-SPL,693
+Monoclinic,P2,SPL-SPL,53
+Monoclinic,P2 1/N,SPL-SPL,1143
+Monoclinic,P2(1)/N,SPL-SPL,65
+Monoclinic,P2/C,SPL-SPL,90
+Monoclinic,P2/M,SPL-SPL,41
+Monoclinic,P2/N,SPL-SPL,50
+Monoclinic,P21,SPL-SPL,533
+Monoclinic,P21/C,SPL-SPL,1458
+Monoclinic,P21/M,SPL-SPL,172
+Monoclinic,P212121,SPL-SPL,169
+Monoclinic,P21A,SPL-SPL,73
+Monoclinic,P21C,SPL-SPL,746
+Monoclinic,P21m,SPL-SPL,114
+Monoclinic,P21n,SPL-SPL,543
+Monoclinic,P63/MMC,SPL-SPL,36
+Monoclinic,PBCA,SPL-SPL,152
+Monoclinic,PBCM,SPL-SPL,30
+Monoclinic,PBCN,SPL-SPL,61
+Monoclinic,PBNM,SPL-SPL,48
+Monoclinic,PC,SPL-SPL,48
+Monoclinic,PCA21,SPL-SPL,38
+Monoclinic,PNA21,SPL-SPL,85
+Monoclinic,PNMA,SPL-SPL,219
+Monoclinic,Perovskites,SPL-SPL,859
+Monoclinic,Pseudocubic,SPL-SPL,89
+Monoclinic,Pseudohexagonal,SPL-SPL,50
+Monoclinic,Pyrochlore,SPL-SPL,73
+Monoclinic,R A C T,SPL-SPL,43
+Monoclinic,R3,SPL-SPL,33
+Monoclinic,R3M,SPL-SPL,46
+Monoclinic,R3c,SPL-SPL,74
+Monoclinic,RM,SPL-SPL,30
+Monoclinic,Rhombohedral,SPL-SPL,830
+Monoclinic,Rock Salt,SPL-SPL,94
+Monoclinic,Rock-Salt,SPL-SPL,44
+Monoclinic,Rutile,SPL-SPL,410
+Monoclinic,S T,SPL-SPL,62
+Monoclinic,Scheelite,SPL-SPL,166
+Monoclinic,Spinels,SPL-SPL,221
+Monoclinic,T,SPL-SPL,446
+Monoclinic,T-M,SPL-SPL,44
+Monoclinic,T-ZrO2,SPL-SPL,32
+Monoclinic,Tetragonal,SPL-SPL,4118
+Monoclinic,Tetragonal Scheelite,SPL-SPL,30
+Monoclinic,Triclinic,SPL-SPL,1755
+Monoclinic,Trigonal,SPL-SPL,444
+Monoclinic,Type,SPL-SPL,36
+Monoclinic,Wolframite,SPL-SPL,60
+Monoclinic,Wurtzite,SPL-SPL,53
+Monoclinic,Δ,SPL-SPL,48
+Monoclinic,α-,SPL-SPL,42
+Monoclinic,α-Phase,SPL-SPL,58
+Monoclinic,β,SPL-SPL,203
+Monoclinic,β-Phase,SPL-SPL,64
+Monocytes,Granulocytes,SPL-SPL,53
+Monocytes,Lymphocytes,SPL-SPL,48
+Monocytes,Macrophages,SPL-SPL,202
+Monocytes,Myeloid,SPL-SPL,51
+Monocytes,Neutrophils,SPL-SPL,78
+Monohydrates,Anhydrate,SPL-SPL,34
+Monohydrates,Anhydrous,SPL-SPL,61
+Monohydrates,Dihydrate,SPL-SPL,82
+Monohydrates,Hydrates,SPL-SPL,46
+Morb,Garnet,SPL-SPL,35
+Multiple,MM,SPL-SPL,43
+Multiple Myeloma,MM,SPL-SPL,33
+Murchison,Chondrite,SPL-SPL,56
+Murchison,Meteorite,SPL-SPL,53
+Muscovite,Garnet,SPL-SPL,47
+Myelodysplastic,AML,SPL-SPL,37
+Myeloid,AML,SPL-SPL,35
+Myeloid,Acute Myeloid,SPL-SPL,31
+Myeloid,Erythroid,SPL-SPL,40
+Myeloid,Hematopoietic,SPL-SPL,47
+Myeloid,Macrophages,SPL-SPL,59
+Myeloid,Marrow,SPL-SPL,40
+Myeloid,Monocytes,SPL-SPL,51
+Mylonitic,Garnet,SPL-SPL,33
+N-Morb,Basaltic,SPL-SPL,31
+N-Morb,Chondrite,SPL-SPL,50
+N-Morb,E-Morb,SPL-SPL,46
+N-Morb,Garnet,SPL-SPL,32
+NPC,Nasopharyngeal,SPL-SPL,50
+NSCLC,Adenocarcinoma,SPL-SPL,65
+NSCLC,Lung,SPL-SPL,54
+NSCLC,Non-Small,SPL-SPL,94
+NSCLC,Non-Small Cell,SPL-SPL,96
+NSCLC,SCLC,SPL-SPL,31
+NSCLC,Squamous Cell,SPL-SPL,43
+NTB,Nematic,SPL-SPL,41
+NaCl,B1,SPL-SPL,131
+NaCl,B2,SPL-SPL,68
+NaCl,Cscl,SPL-SPL,137
+NaCl,Cubic,SPL-SPL,168
+NaCl,FCC,SPL-SPL,71
+NaCl,Face Centered Cubic,SPL-SPL,40
+NaCl,Hexagonal,SPL-SPL,80
+NaCl,Orthorhombic,SPL-SPL,56
+NaCl,Perovskites,SPL-SPL,40
+NaCl,Rock Salt,SPL-SPL,50
+NaCl,Tetragonal,SPL-SPL,54
+NaCl,Wurtzite,SPL-SPL,44
+NaCl,Zinc Blende,SPL-SPL,44
+Nasopharyngeal,NPC,SPL-SPL,50
+Negative,Triple,SPL-SPL,42
+Nematic,Cholesteric,SPL-SPL,44
+Nematic,Columnar,SPL-SPL,48
+Nematic,Cr,SPL-SPL,36
+Nematic,Crystal,SPL-SPL,44
+Nematic,Crystalline,SPL-SPL,34
+Nematic,Cubic,SPL-SPL,42
+Nematic,Hexagonal,SPL-SPL,124
+Nematic,Lamellar,SPL-SPL,51
+Nematic,Lc,SPL-SPL,101
+Nematic,NTB,SPL-SPL,41
+Nematic,SMC,SPL-SPL,67
+Nematic,Sma,SPL-SPL,76
+Nematic,Smectic,SPL-SPL,273
+Nematic,Smectic A,SPL-SPL,66
+Nematic,Smectic C,SPL-SPL,51
+Nematic,Smectic-A,SPL-SPL,35
+Neutrophils,Macrophages,SPL-SPL,96
+Neutrophils,Monocytes,SPL-SPL,78
+Nm,Martensite,SPL-SPL,32
+No. 14,Monoclinic,SPL-SPL,196
+No. 14,No. 2,SPL-SPL,32
+No. 14,P2 1/N,SPL-SPL,49
+No. 14,P21/C,SPL-SPL,73
+No. 14,P21C,SPL-SPL,69
+No. 14,P21n,SPL-SPL,54
+No. 14,Triclinic,SPL-SPL,38
+No. 15,C2/C,SPL-SPL,58
+No. 15,Monoclinic,SPL-SPL,64
+No. 2,Monoclinic,SPL-SPL,58
+No. 2,No. 14,SPL-SPL,32
+No. 2,P1,SPL-SPL,102
+No. 2,Triclinic,SPL-SPL,122
+No. 4,P21,SPL-SPL,36
+No. 62,PNMA,SPL-SPL,33
+Non-Perovskite,Perovskites,SPL-SPL,109
+Non-Small,Breast,SPL-SPL,30
+Non-Small,NSCLC,SPL-SPL,94
+Non-Small Cell,Breast,SPL-SPL,36
+Non-Small Cell,NSCLC,SPL-SPL,96
+Noncubic,Cubic,SPL-SPL,81
+Nonperovskite,Perovskites,SPL-SPL,56
+North China Craton,Chondrite,SPL-SPL,44
+North China Craton,Clinopyroxenes,SPL-SPL,32
+North China Craton,Garnet,SPL-SPL,97
+North China Craton,Gneiss,SPL-SPL,40
+North China Craton,Granulite,SPL-SPL,45
+North China Craton,Spinels,SPL-SPL,33
+O2,P2,SPL-SPL,32
+O3,Monoclinic,SPL-SPL,36
+O3,P2,SPL-SPL,80
+O3,P3,SPL-SPL,89
+O3,Spinels,SPL-SPL,38
+OIB,Garnet,SPL-SPL,31
+OL,CPX,SPL-SPL,30
+OL,Clinopyroxenes,SPL-SPL,37
+OL,Olivines,SPL-SPL,72
+OL,Spinels,SPL-SPL,31
+Ocean Island,Garnet,SPL-SPL,31
+Oceanic,Chondrite,SPL-SPL,36
+Oceanic,Eclogites,SPL-SPL,31
+Oceanic,Garnet,SPL-SPL,66
+Octahedral,Cubic,SPL-SPL,176
+Octahedral,Cuboctahedral,SPL-SPL,38
+Octahedral,Hexagonal,SPL-SPL,33
+Octahedral,Icosahedral,SPL-SPL,43
+Olivine.,Olivines,SPL-SPL,64
+Olivine;,Clinopyroxenes,SPL-SPL,52
+Olivine;,Garnet,SPL-SPL,42
+Olivine;,Olivines,SPL-SPL,88
+Olivine;,Plagioclase,SPL-SPL,30
+Olivine;,Pyroxene,SPL-SPL,37
+Olivine;,Spinels,SPL-SPL,58
+Olivines,Abyssal,SPL-SPL,30
+Olivines,Amphiboles,SPL-SPL,40
+Olivines,Anhydrous,SPL-SPL,40
+Olivines,Basaltic,SPL-SPL,147
+Olivines,CI Chondrite,SPL-SPL,58
+Olivines,CPX,SPL-SPL,64
+Olivines,Chondrite,SPL-SPL,270
+Olivines,Chondritic,SPL-SPL,104
+Olivines,Chondrule,SPL-SPL,54
+Olivines,Clinopyroxenes,SPL-SPL,533
+Olivines,Cubic,SPL-SPL,45
+Olivines,Eclogites,SPL-SPL,63
+Olivines,Eclogitic,SPL-SPL,41
+Olivines,Feldspathic,SPL-SPL,34
+Olivines,Forsteritic,SPL-SPL,32
+Olivines,Garnet,SPL-SPL,585
+Olivines,Garnets,SPL-SPL,107
+Olivines,Granulite,SPL-SPL,33
+Olivines,Hexagonal,SPL-SPL,47
+Olivines,Ilmenite,SPL-SPL,33
+Olivines,Lherzolites,SPL-SPL,100
+Olivines,Lherzolitic,SPL-SPL,36
+Olivines,Mafic,SPL-SPL,31
+Olivines,Majorite,SPL-SPL,35
+Olivines,Mantle,SPL-SPL,50
+Olivines,Mesostasis,SPL-SPL,72
+Olivines,Meteorite,SPL-SPL,95
+Olivines,Monoclinic,SPL-SPL,51
+Olivines,OL,SPL-SPL,72
+Olivines,Olivine.,SPL-SPL,64
+Olivines,Olivine;,SPL-SPL,88
+Olivines,Ophiolites,SPL-SPL,62
+Olivines,Ordinary,SPL-SPL,47
+Olivines,Orthopyroxene,SPL-SPL,132
+Olivines,Orthorhombic,SPL-SPL,131
+Olivines,PNMA,SPL-SPL,73
+Olivines,Perovskites,SPL-SPL,188
+Olivines,Plagioclase,SPL-SPL,179
+Olivines,Primitive Mantle,SPL-SPL,63
+Olivines,Pyroxene,SPL-SPL,733
+Olivines,Ringwoodite,SPL-SPL,54
+Olivines,Rutile,SPL-SPL,48
+Olivines,Serpentines,SPL-SPL,36
+Olivines,Sp,SPL-SPL,33
+Olivines,Spinels,SPL-SPL,789
+Olivines,Tholeiites,SPL-SPL,34
+Olivines,Tholeiitic,SPL-SPL,45
+Olivines,Ultramafic,SPL-SPL,135
+Olivines,Wadsleyite,SPL-SPL,33
+Omphacite,Amphibolite,SPL-SPL,37
+Omphacite,Clinopyroxenes,SPL-SPL,41
+Omphacite,Eclogites,SPL-SPL,159
+Omphacite,Eclogitic,SPL-SPL,39
+Omphacite,Garnet,SPL-SPL,187
+Omphacite,Granulite,SPL-SPL,35
+Omphacite,Rutile,SPL-SPL,78
+Ophiolites,Amphibolite,SPL-SPL,31
+Ophiolites,Clinopyroxenes,SPL-SPL,41
+Ophiolites,Garnet,SPL-SPL,63
+Ophiolites,Olivines,SPL-SPL,62
+Ophiolites,Ophiolitic,SPL-SPL,44
+Ophiolites,Spinels,SPL-SPL,54
+Ophiolites,Ultramafic,SPL-SPL,52
+Ophiolitic,Garnet,SPL-SPL,30
+Ophiolitic,Ophiolites,SPL-SPL,44
+Ordinary,Chondrite,SPL-SPL,169
+Ordinary,L,SPL-SPL,31
+Ordinary,LL,SPL-SPL,40
+Ordinary,Olivines,SPL-SPL,47
+Ordinary,Pyroxene,SPL-SPL,33
+Orthogneiss,Garnet,SPL-SPL,43
+Orthogneiss,Gneiss,SPL-SPL,41
+Orthogneiss,Gneisses,SPL-SPL,34
+Orthogneiss,Granulite,SPL-SPL,32
+Orthopyroxene,CPX,SPL-SPL,30
+Orthopyroxene,Clinopyroxenes,SPL-SPL,131
+Orthopyroxene,Garnet,SPL-SPL,95
+Orthopyroxene,Olivines,SPL-SPL,132
+Orthopyroxene,Pyroxene,SPL-SPL,51
+Orthopyroxene,Spinels,SPL-SPL,84
+Orthorhombic,2H,SPL-SPL,35
+Orthorhombic,60,SPL-SPL,31
+Orthorhombic,A21am,SPL-SPL,37
+Orthorhombic,ABA2,SPL-SPL,32
+Orthorhombic,AMM2,SPL-SPL,47
+Orthorhombic,Abstract,SPL-SPL,134
+Orthorhombic,Anatase,SPL-SPL,158
+Orthorhombic,Aurivillius,SPL-SPL,71
+Orthorhombic,Austenite,SPL-SPL,91
+Orthorhombic,Austenitic,SPL-SPL,33
+Orthorhombic,B2,SPL-SPL,88
+Orthorhombic,BCC,SPL-SPL,178
+Orthorhombic,BSTRAct,SPL-SPL,49
+Orthorhombic,Body Centred Cubic,SPL-SPL,84
+Orthorhombic,Brookite,SPL-SPL,35
+Orthorhombic,Brownmillerite,SPL-SPL,63
+Orthorhombic,C2/C,SPL-SPL,214
+Orthorhombic,C2/M,SPL-SPL,92
+Orthorhombic,C2221,SPL-SPL,66
+Orthorhombic,CMC21,SPL-SPL,107
+Orthorhombic,CMCA,SPL-SPL,94
+Orthorhombic,CMMM,SPL-SPL,91
+Orthorhombic,Cc,SPL-SPL,47
+Orthorhombic,Cubic,SPL-SPL,2591
+Orthorhombic,Cubic Perovskites,SPL-SPL,223
+Orthorhombic,Cubic Spinel,SPL-SPL,42
+Orthorhombic,Double Perovskite,SPL-SPL,119
+Orthorhombic,F,SPL-SPL,48
+Orthorhombic,FCC,SPL-SPL,240
+Orthorhombic,FDD2,SPL-SPL,65
+Orthorhombic,FDDD,SPL-SPL,89
+Orthorhombic,Face Centered Cubic,SPL-SPL,83
+Orthorhombic,Fluorite,SPL-SPL,117
+Orthorhombic,Fm3m,SPL-SPL,41
+Orthorhombic,Fmmm,SPL-SPL,72
+Orthorhombic,G,SPL-SPL,80
+Orthorhombic,Garnet,SPL-SPL,56
+Orthorhombic,HCP,SPL-SPL,101
+Orthorhombic,Hexagonal,SPL-SPL,2022
+Orthorhombic,Hydrates,SPL-SPL,31
+Orthorhombic,I4/MCM,SPL-SPL,85
+Orthorhombic,I4/MMM,SPL-SPL,95
+Orthorhombic,IMMA,SPL-SPL,134
+Orthorhombic,Ibam,SPL-SPL,38
+Orthorhombic,Icosahedral,SPL-SPL,42
+Orthorhombic,K2NIF4,SPL-SPL,30
+Orthorhombic,Lt,SPL-SPL,38
+Orthorhombic,M,SPL-SPL,74
+Orthorhombic,M1,SPL-SPL,38
+Orthorhombic,MFI,SPL-SPL,38
+Orthorhombic,Martensite,SPL-SPL,232
+Orthorhombic,Martensitic,SPL-SPL,159
+Orthorhombic,Monoclinic,SPL-SPL,3389
+Orthorhombic,NaCl,SPL-SPL,56
+Orthorhombic,Olivines,SPL-SPL,131
+Orthorhombic,Orthorhombic Perovskite,SPL-SPL,105
+Orthorhombic,Orthorhombic Pnma,SPL-SPL,36
+Orthorhombic,Orthorhombic-Tetragonal,SPL-SPL,65
+Orthorhombic,P,SPL-SPL,94
+Orthorhombic,P-1,SPL-SPL,38
+Orthorhombic,P1,SPL-SPL,218
+Orthorhombic,P2,SPL-SPL,31
+Orthorhombic,P2 1/N,SPL-SPL,171
+Orthorhombic,P21,SPL-SPL,122
+Orthorhombic,P21/C,SPL-SPL,233
+Orthorhombic,P21/M,SPL-SPL,38
+Orthorhombic,P21212,SPL-SPL,52
+Orthorhombic,P212121,SPL-SPL,514
+Orthorhombic,P21C,SPL-SPL,164
+Orthorhombic,P21n,SPL-SPL,97
+Orthorhombic,P4 / MBM,SPL-SPL,33
+Orthorhombic,P4/MMM,SPL-SPL,55
+Orthorhombic,P4/NMM,SPL-SPL,31
+Orthorhombic,P63/MMC,SPL-SPL,83
+Orthorhombic,PBAM,SPL-SPL,141
+Orthorhombic,PBCA,SPL-SPL,378
+Orthorhombic,PBCM,SPL-SPL,102
+Orthorhombic,PBCN,SPL-SPL,182
+Orthorhombic,PBNM,SPL-SPL,539
+Orthorhombic,PCA21,SPL-SPL,96
+Orthorhombic,PCCN,SPL-SPL,69
+Orthorhombic,PM3M,SPL-SPL,46
+Orthorhombic,PMC21,SPL-SPL,37
+Orthorhombic,PMCN,SPL-SPL,34
+Orthorhombic,PMMM,SPL-SPL,68
+Orthorhombic,PMMN,SPL-SPL,48
+Orthorhombic,PMN21,SPL-SPL,92
+Orthorhombic,PMNB,SPL-SPL,37
+Orthorhombic,PNA21,SPL-SPL,268
+Orthorhombic,PNAM,SPL-SPL,41
+Orthorhombic,PNMA,SPL-SPL,1343
+Orthorhombic,PNNM,SPL-SPL,102
+Orthorhombic,Pbnm,SPL-SPL,42
+Orthorhombic,Perovskites,SPL-SPL,2530
+Orthorhombic,Pnma,SPL-SPL,79
+Orthorhombic,Pseudocubic,SPL-SPL,208
+Orthorhombic,Pseudohexagonal,SPL-SPL,51
+Orthorhombic,Pseudotetragonal,SPL-SPL,44
+Orthorhombic,Pyrochlore,SPL-SPL,49
+Orthorhombic,R-3c,SPL-SPL,34
+Orthorhombic,R3c,SPL-SPL,156
+Orthorhombic,Rhombohedral,SPL-SPL,1212
+Orthorhombic,Rock Salt,SPL-SPL,117
+Orthorhombic,Rock-Salt,SPL-SPL,37
+Orthorhombic,Ruddlesden Popper,SPL-SPL,77
+Orthorhombic,Rutile,SPL-SPL,189
+Orthorhombic,S T,SPL-SPL,57
+Orthorhombic,SG,SPL-SPL,30
+Orthorhombic,Spinels,SPL-SPL,227
+Orthorhombic,T,SPL-SPL,241
+Orthorhombic,Tetragonal,SPL-SPL,3394
+Orthorhombic,Tetragonal Perovskite,SPL-SPL,30
+Orthorhombic,Tetragonal-Orthorhombic,SPL-SPL,30
+Orthorhombic,Tinisi,SPL-SPL,36
+Orthorhombic,Triclinic,SPL-SPL,642
+Orthorhombic,Trigonal,SPL-SPL,325
+Orthorhombic,Wurtzite,SPL-SPL,70
+Orthorhombic,Zinc Blende,SPL-SPL,54
+Orthorhombic,Zintl,SPL-SPL,32
+Orthorhombic,Δ,SPL-SPL,45
+Orthorhombic,α-,SPL-SPL,42
+Orthorhombic,α-Phase,SPL-SPL,49
+Orthorhombic,β,SPL-SPL,217
+Orthorhombic,β-Phase,SPL-SPL,53
+Orthorhombic,γ-Phase,SPL-SPL,34
+Orthorhombic Perovskite,Cubic,SPL-SPL,67
+Orthorhombic Perovskite,Cubic Perovskites,SPL-SPL,51
+Orthorhombic Perovskite,Hexagonal,SPL-SPL,31
+Orthorhombic Perovskite,Orthorhombic,SPL-SPL,105
+Orthorhombic Perovskite,PBNM,SPL-SPL,53
+Orthorhombic Perovskite,PNMA,SPL-SPL,57
+Orthorhombic Perovskite,Perovskites,SPL-SPL,222
+Orthorhombic Perovskite,Tetragonal,SPL-SPL,36
+Orthorhombic Pnma,Orthorhombic,SPL-SPL,36
+Orthorhombic Pnma,Perovskites,SPL-SPL,36
+Orthorhombic-Tetragonal,Orthorhombic,SPL-SPL,65
+Orthorhombic-Tetragonal,Rhombohedral,SPL-SPL,32
+Orthorhombic-Tetragonal,Tetragonal,SPL-SPL,35
+Orthorhombically,Perovskites,SPL-SPL,61
+Osteoblastic,Osteoblasts,SPL-SPL,55
+Osteoblasts,Chondrocyte,SPL-SPL,51
+Osteoblasts,Fibroblasts,SPL-SPL,34
+Osteoblasts,Like,SPL-SPL,47
+Osteoblasts,Marrow,SPL-SPL,55
+Osteoblasts,Mesenchymal,SPL-SPL,94
+Osteoblasts,Osteoblastic,SPL-SPL,55
+Osteoblasts,Osteoclast,SPL-SPL,43
+Osteoblasts,Osteoclasts,SPL-SPL,94
+Osteoclast,Osteoblasts,SPL-SPL,43
+Osteoclasts,Marrow,SPL-SPL,35
+Osteoclasts,Osteoblasts,SPL-SPL,94
+Ovarian,Breast,SPL-SPL,340
+Ovarian,Cervical,SPL-SPL,33
+Ovarian,Colon,SPL-SPL,121
+Ovarian,Colorectal,SPL-SPL,70
+Ovarian,Leukemia,SPL-SPL,31
+Ovarian,Lung,SPL-SPL,130
+Ovarian,Melanoma,SPL-SPL,63
+Ovarian,Ovarian Cancer,SPL-SPL,32
+Ovarian,Ovarian Carcinoma,SPL-SPL,32
+Ovarian,Pancreatic,SPL-SPL,43
+Ovarian,Prostate,SPL-SPL,109
+Ovarian,Renal,SPL-SPL,33
+Ovarian,Skov-3,SPL-SPL,39
+Ovarian Cancer,Ovarian,SPL-SPL,32
+Ovarian Carcinoma,Ovarian,SPL-SPL,32
+Oxfordian,Callovo,SPL-SPL,75
+P,3,SPL-SPL,41
+P,Austenite,SPL-SPL,55
+P,C2/C,SPL-SPL,58
+P,Cubic,SPL-SPL,108
+P,F,SPL-SPL,134
+P,G,SPL-SPL,78
+P,Hexagonal,SPL-SPL,95
+P,L,SPL-SPL,40
+P,M,SPL-SPL,110
+P,Martensite,SPL-SPL,59
+P,Monoclinic,SPL-SPL,212
+P,Orthorhombic,SPL-SPL,94
+P,P2 1/N,SPL-SPL,64
+P,P21/C,SPL-SPL,115
+P,Perovskites,SPL-SPL,122
+P,Rhombohedral,SPL-SPL,33
+P,Spinels,SPL-SPL,31
+P,T,SPL-SPL,110
+P,Tetragonal,SPL-SPL,64
+P,Triclinic,SPL-SPL,374
+P 1-,Triclinic,SPL-SPL,41
+P-1,C2/C,SPL-SPL,37
+P-1,Monoclinic,SPL-SPL,118
+P-1,Orthorhombic,SPL-SPL,38
+P-1,P21/C,SPL-SPL,40
+P-1,Triclinic,SPL-SPL,407
+P1,C2/C,SPL-SPL,198
+P1,Cc,SPL-SPL,33
+P1,Cubic,SPL-SPL,44
+P1,Hexagonal,SPL-SPL,44
+P1,Monoclinic,SPL-SPL,693
+P1,No. 2,SPL-SPL,102
+P1,Orthorhombic,SPL-SPL,218
+P1,P2,SPL-SPL,152
+P1,P2 1/N,SPL-SPL,55
+P1,P21,SPL-SPL,69
+P1,P21/C,SPL-SPL,105
+P1,P212121,SPL-SPL,48
+P1,P21C,SPL-SPL,238
+P1,P21n,SPL-SPL,164
+P1,P3,SPL-SPL,72
+P1,PBCA,SPL-SPL,68
+P1,PNMA,SPL-SPL,32
+P1,Perovskites,SPL-SPL,30
+P1,Tetragonal,SPL-SPL,79
+P1,Triclinic,SPL-SPL,1548
+P1,Trigonal,SPL-SPL,43
+P1¯,Triclinic,SPL-SPL,64
+P2,Hexagonal,SPL-SPL,55
+P2,Monoclinic,SPL-SPL,53
+P2,O2,SPL-SPL,32
+P2,O3,SPL-SPL,80
+P2,Orthorhombic,SPL-SPL,31
+P2,P1,SPL-SPL,152
+P2,P3,SPL-SPL,141
+P2 1/N,14,SPL-SPL,38
+P2 1/N,C2/C,SPL-SPL,78
+P2 1/N,Cubic,SPL-SPL,68
+P2 1/N,Double Perovskite,SPL-SPL,161
+P2 1/N,I4/M,SPL-SPL,31
+P2 1/N,Monoclinic,SPL-SPL,1143
+P2 1/N,No. 14,SPL-SPL,49
+P2 1/N,Orthorhombic,SPL-SPL,171
+P2 1/N,P,SPL-SPL,64
+P2 1/N,P1,SPL-SPL,55
+P2 1/N,P21,SPL-SPL,47
+P2 1/N,P21/C,SPL-SPL,150
+P2 1/N,PBCA,SPL-SPL,31
+P2 1/N,PNMA,SPL-SPL,46
+P2 1/N,Perovskites,SPL-SPL,147
+P2 1/N,Tetragonal,SPL-SPL,65
+P2 1/N,Triclinic,SPL-SPL,138
+P2(1)/N,Monoclinic,SPL-SPL,65
+P2/C,Monoclinic,SPL-SPL,90
+P2/M,Monoclinic,SPL-SPL,41
+P2/N,Monoclinic,SPL-SPL,50
+P21,Monoclinic,SPL-SPL,533
+P21,No. 4,SPL-SPL,36
+P21,Orthorhombic,SPL-SPL,122
+P21,P1,SPL-SPL,69
+P21,P2 1/N,SPL-SPL,47
+P21,P21/C,SPL-SPL,47
+P21,P21/M,SPL-SPL,33
+P21,P212121,SPL-SPL,74
+P21,P21C,SPL-SPL,39
+P21,Triclinic,SPL-SPL,60
+P21/C,14,SPL-SPL,60
+P21/C,C2/C,SPL-SPL,139
+P21/C,C2/M,SPL-SPL,35
+P21/C,Cubic,SPL-SPL,47
+P21/C,Hexagonal,SPL-SPL,43
+P21/C,Monoclinic,SPL-SPL,1458
+P21/C,No. 14,SPL-SPL,73
+P21/C,Orthorhombic,SPL-SPL,233
+P21/C,P,SPL-SPL,115
+P21/C,P-1,SPL-SPL,40
+P21/C,P1,SPL-SPL,105
+P21/C,P2 1/N,SPL-SPL,150
+P21/C,P21,SPL-SPL,47
+P21/C,P212121,SPL-SPL,70
+P21/C,PBCA,SPL-SPL,48
+P21/C,PNA21,SPL-SPL,30
+P21/C,PNMA,SPL-SPL,64
+P21/C,Perovskites,SPL-SPL,38
+P21/C,Tetragonal,SPL-SPL,99
+P21/C,Triclinic,SPL-SPL,218
+P21/C,Trigonal,SPL-SPL,30
+P21/M,Monoclinic,SPL-SPL,172
+P21/M,Orthorhombic,SPL-SPL,38
+P21/M,P21,SPL-SPL,33
+P21/M,PNMA,SPL-SPL,32
+P21212,Orthorhombic,SPL-SPL,52
+P212121,Monoclinic,SPL-SPL,169
+P212121,Orthorhombic,SPL-SPL,514
+P212121,P1,SPL-SPL,48
+P212121,P21,SPL-SPL,74
+P212121,P21/C,SPL-SPL,70
+P212121,P21C,SPL-SPL,41
+P212121,PNMA,SPL-SPL,49
+P212121,Triclinic,SPL-SPL,54
+P213,Cubic,SPL-SPL,66
+P21A,Monoclinic,SPL-SPL,73
+P21C,14,SPL-SPL,39
+P21C,C2/C,SPL-SPL,124
+P21C,Monoclinic,SPL-SPL,746
+P21C,No. 14,SPL-SPL,69
+P21C,Orthorhombic,SPL-SPL,164
+P21C,P1,SPL-SPL,238
+P21C,P21,SPL-SPL,39
+P21C,P212121,SPL-SPL,41
+P21C,P21n,SPL-SPL,158
+P21C,PBCA,SPL-SPL,48
+P21C,PNMA,SPL-SPL,42
+P21C,Tetragonal,SPL-SPL,42
+P21C,Triclinic,SPL-SPL,214
+P21m,Monoclinic,SPL-SPL,114
+P21n,C2/C,SPL-SPL,84
+P21n,Double Perovskite,SPL-SPL,41
+P21n,Monoclinic,SPL-SPL,543
+P21n,No. 14,SPL-SPL,54
+P21n,Orthorhombic,SPL-SPL,97
+P21n,P1,SPL-SPL,164
+P21n,P21C,SPL-SPL,158
+P21n,Tetragonal,SPL-SPL,33
+P21n,Triclinic,SPL-SPL,151
+P25,Anatase,SPL-SPL,43
+P25,Rutile,SPL-SPL,39
+P3,Hexagonal,SPL-SPL,42
+P3,O3,SPL-SPL,89
+P3,P1,SPL-SPL,72
+P3,P2,SPL-SPL,141
+P3,Trigonal,SPL-SPL,30
+P3121,Trigonal,SPL-SPL,31
+P31C,Trigonal,SPL-SPL,37
+P3M1,Hexagonal,SPL-SPL,30
+P3M1,Trigonal,SPL-SPL,44
+P4 / MBM,Orthorhombic,SPL-SPL,33
+P4 / MBM,Tetragonal,SPL-SPL,94
+P4/MMM,Cubic,SPL-SPL,49
+P4/MMM,Orthorhombic,SPL-SPL,55
+P4/MMM,Perovskites,SPL-SPL,108
+P4/MMM,Tetragonal,SPL-SPL,221
+P4/NMM,Orthorhombic,SPL-SPL,31
+P4/NMM,Tetragonal,SPL-SPL,200
+P41212,Tetragonal,SPL-SPL,47
+P42/Nmc,Tetragonal,SPL-SPL,47
+P4332,Cubic,SPL-SPL,32
+P4332,Spinels,SPL-SPL,71
+P4BM,Tetragonal,SPL-SPL,48
+P4MM,Cubic,SPL-SPL,60
+P4MM,Perovskites,SPL-SPL,70
+P4MM,R3c,SPL-SPL,35
+P4MM,Rhombohedral,SPL-SPL,50
+P4MM,Tetragonal,SPL-SPL,170
+P6,Hexagonal,SPL-SPL,39
+P6/mmm,Hexagonal,SPL-SPL,123
+P63,Hexagonal,SPL-SPL,76
+P63/M,Apatites,SPL-SPL,62
+P63/M,Hexagonal,SPL-SPL,184
+P63/MCM,Hexagonal,SPL-SPL,57
+P63/MMC,194,SPL-SPL,41
+P63/MMC,Cubic,SPL-SPL,95
+P63/MMC,Hexagonal,SPL-SPL,392
+P63/MMC,Monoclinic,SPL-SPL,36
+P63/MMC,Orthorhombic,SPL-SPL,83
+P63/MMC,Perovskites,SPL-SPL,40
+P63/MMC,Tetragonal,SPL-SPL,31
+P63MC,Hexagonal,SPL-SPL,141
+P63MC,Wurtzite,SPL-SPL,45
+P63MMC,Hexagonal,SPL-SPL,108
+P63cm,Hexagonal,SPL-SPL,81
+P63m,Hexagonal,SPL-SPL,45
+P6MM,Cubic,SPL-SPL,67
+P6MM,Hexagonal,SPL-SPL,185
+P6m,Hexagonal,SPL-SPL,46
+PA3,Cubic,SPL-SPL,37
+PBAM,Orthorhombic,SPL-SPL,141
+PBCA,C2/C,SPL-SPL,43
+PBCA,Monoclinic,SPL-SPL,152
+PBCA,Orthorhombic,SPL-SPL,378
+PBCA,P1,SPL-SPL,68
+PBCA,P2 1/N,SPL-SPL,31
+PBCA,P21/C,SPL-SPL,48
+PBCA,P21C,SPL-SPL,48
+PBCA,Triclinic,SPL-SPL,73
+PBCM,Monoclinic,SPL-SPL,30
+PBCM,Orthorhombic,SPL-SPL,102
+PBCN,60,SPL-SPL,32
+PBCN,Monoclinic,SPL-SPL,61
+PBCN,Orthorhombic,SPL-SPL,182
+PBNM,Cubic,SPL-SPL,79
+PBNM,Hexagonal,SPL-SPL,35
+PBNM,Monoclinic,SPL-SPL,48
+PBNM,Orthorhombic,SPL-SPL,539
+PBNM,Orthorhombic Perovskite,SPL-SPL,53
+PBNM,Perovskites,SPL-SPL,331
+PBNM,R3c,SPL-SPL,58
+PBNM,Rhombohedral,SPL-SPL,94
+PBNM,Tetragonal,SPL-SPL,37
+PC,Monoclinic,SPL-SPL,48
+PCA,Prostate,SPL-SPL,83
+PCA21,Monoclinic,SPL-SPL,38
+PCA21,Orthorhombic,SPL-SPL,96
+PCCN,Orthorhombic,SPL-SPL,69
+PDAC,Pancreatic,SPL-SPL,65
+PDAC,Pancreatic Ductal Adenocarcinoma,SPL-SPL,31
+PM-3m,Cubic,SPL-SPL,93
+PM-3m,Perovskites,SPL-SPL,59
+PM3-M,Cubic,SPL-SPL,43
+PM3-M,Perovskites,SPL-SPL,34
+PM3M,Cubic,SPL-SPL,169
+PM3M,Cubic Perovskites,SPL-SPL,52
+PM3M,Orthorhombic,SPL-SPL,46
+PM3M,Perovskites,SPL-SPL,123
+PM3M,Tetragonal,SPL-SPL,51
+PM3N,Cubic,SPL-SPL,114
+PM3N,Hexagonal,SPL-SPL,43
+PMC21,Orthorhombic,SPL-SPL,37
+PMCN,Orthorhombic,SPL-SPL,34
+PMMM,Orthorhombic,SPL-SPL,68
+PMMM,Perovskites,SPL-SPL,37
+PMMN,Orthorhombic,SPL-SPL,48
+PMN21,Orthorhombic,SPL-SPL,92
+PMNB,Orthorhombic,SPL-SPL,37
+PNA21,Monoclinic,SPL-SPL,85
+PNA21,Orthorhombic,SPL-SPL,268
+PNA21,P21/C,SPL-SPL,30
+PNA21,Triclinic,SPL-SPL,30
+PNAM,Orthorhombic,SPL-SPL,41
+PNMA,C2/C,SPL-SPL,46
+PNMA,Cubic,SPL-SPL,168
+PNMA,Cubic Perovskites,SPL-SPL,35
+PNMA,Hexagonal,SPL-SPL,94
+PNMA,I4/MCM,SPL-SPL,46
+PNMA,IMMA,SPL-SPL,52
+PNMA,Monoclinic,SPL-SPL,219
+PNMA,No. 62,SPL-SPL,33
+PNMA,Olivines,SPL-SPL,73
+PNMA,Orthorhombic,SPL-SPL,1343
+PNMA,Orthorhombic Perovskite,SPL-SPL,57
+PNMA,P1,SPL-SPL,32
+PNMA,P2 1/N,SPL-SPL,46
+PNMA,P21/C,SPL-SPL,64
+PNMA,P21/M,SPL-SPL,32
+PNMA,P212121,SPL-SPL,49
+PNMA,P21C,SPL-SPL,42
+PNMA,Perovskites,SPL-SPL,410
+PNMA,R3c,SPL-SPL,79
+PNMA,Rhombohedral,SPL-SPL,102
+PNMA,Tetragonal,SPL-SPL,121
+PNMA,Triclinic,SPL-SPL,37
+PNMA,Trigonal,SPL-SPL,40
+PNNM,Orthorhombic,SPL-SPL,102
+PPV,Postperovskite,SPL-SPL,39
+PV,Perovskites,SPL-SPL,67
+Packed,Hexagonal,SPL-SPL,123
+Packing,Hexagonal,SPL-SPL,36
+Pancreatic,Breast,SPL-SPL,90
+Pancreatic,Colon,SPL-SPL,46
+Pancreatic,Colorectal,SPL-SPL,54
+Pancreatic,Lung,SPL-SPL,70
+Pancreatic,Ovarian,SPL-SPL,43
+Pancreatic,PDAC,SPL-SPL,65
+Pancreatic,Prostate,SPL-SPL,61
+Pancreatic Ductal Adenocarcinoma,PDAC,SPL-SPL,31
+Pbnm,Orthorhombic,SPL-SPL,42
+Pbnm,Perovskites,SPL-SPL,35
+Pcos,Polycystic,SPL-SPL,67
+Pearlite,Austenite,SPL-SPL,31
+Pearlitic,Austenite,SPL-SPL,117
+Pearlitic,Austenitic,SPL-SPL,36
+Pearlitic,Bainitic,SPL-SPL,85
+Pearlitic,Ferritic,SPL-SPL,136
+Pearlitic,Martensite,SPL-SPL,85
+Pearlitic,Martensitic,SPL-SPL,100
+Pelitic,Amphibolite,SPL-SPL,34
+Pelitic,Eclogites,SPL-SPL,32
+Pelitic,Garnet,SPL-SPL,119
+Pelitic,Gneiss,SPL-SPL,44
+Pelitic,Gneisses,SPL-SPL,49
+Pelitic,Granulite,SPL-SPL,67
+Pentagonal,Hexagonal,SPL-SPL,211
+Pentagonal,Icosahedral,SPL-SPL,30
+Pentagonal,Tetragonal,SPL-SPL,37
+Pentagonal,Trigonal,SPL-SPL,44
+Peraluminous,Granite,SPL-SPL,39
+Periclase,Spinels,SPL-SPL,58
+Peritoneal,Macrophages,SPL-SPL,53
+Perovskite-Type,Perovskites,SPL-SPL,58
+Perovskites,110,SPL-SPL,43
+Perovskites,2D,SPL-SPL,49
+Perovskites,2H,SPL-SPL,46
+Perovskites,3,SPL-SPL,31
+Perovskites,3D,SPL-SPL,118
+Perovskites,6H,SPL-SPL,43
+Perovskites,A-Phase,SPL-SPL,38
+Perovskites,ABO3,SPL-SPL,73
+Perovskites,Abstract,SPL-SPL,187
+Perovskites,All,SPL-SPL,40
+Perovskites,Anatase,SPL-SPL,233
+Perovskites,Anti-Perovskites,SPL-SPL,34
+Perovskites,Apatites,SPL-SPL,32
+Perovskites,Aurivillius,SPL-SPL,151
+Perovskites,BCC,SPL-SPL,37
+Perovskites,BSTRAct,SPL-SPL,87
+Perovskites,Blacks,SPL-SPL,40
+Perovskites,Bronze,SPL-SPL,35
+Perovskites,Brownmillerite,SPL-SPL,290
+Perovskites,CMMM,SPL-SPL,32
+Perovskites,CS,SPL-SPL,53
+Perovskites,Chondrite,SPL-SPL,51
+Perovskites,Chondritic,SPL-SPL,30
+Perovskites,Clinopyroxenes,SPL-SPL,58
+Perovskites,Columbite,SPL-SPL,38
+Perovskites,Cubic,SPL-SPL,2958
+Perovskites,Cubic Perovskites,SPL-SPL,819
+Perovskites,Dion,SPL-SPL,83
+Perovskites,Double Perovskite,SPL-SPL,660
+Perovskites,Doublers,SPL-SPL,47
+Perovskites,F,SPL-SPL,46
+Perovskites,FCC,SPL-SPL,78
+Perovskites,Face Centered Cubic,SPL-SPL,38
+Perovskites,Ferro-Periclase,SPL-SPL,34
+Perovskites,Fluorite,SPL-SPL,330
+Perovskites,Fm3m,SPL-SPL,50
+Perovskites,G,SPL-SPL,53
+Perovskites,Garnet,SPL-SPL,353
+Perovskites,Garnets,SPL-SPL,70
+Perovskites,HOIPS,SPL-SPL,30
+Perovskites,Halide Perovskite,SPL-SPL,50
+Perovskites,Hexagonal,SPL-SPL,757
+Perovskites,Hexagonal Perovskite,SPL-SPL,83
+Perovskites,Hibonite,SPL-SPL,44
+Perovskites,Hollandite,SPL-SPL,33
+Perovskites,Hybrid,SPL-SPL,336
+Perovskites,Hybrid Perovskites,SPL-SPL,39
+Perovskites,I4/M,SPL-SPL,45
+Perovskites,I4/MCM,SPL-SPL,111
+Perovskites,I4/MMM,SPL-SPL,149
+Perovskites,IM3,SPL-SPL,34
+Perovskites,IMMA,SPL-SPL,84
+Perovskites,Ilmenite,SPL-SPL,103
+Perovskites,Jacobson,SPL-SPL,89
+Perovskites,K2NIF4,SPL-SPL,80
+Perovskites,Majorite,SPL-SPL,47
+Perovskites,Melilite,SPL-SPL,49
+Perovskites,Mixed,SPL-SPL,54
+Perovskites,Monoclinic,SPL-SPL,859
+Perovskites,NaCl,SPL-SPL,40
+Perovskites,Non-Perovskite,SPL-SPL,109
+Perovskites,Nonperovskite,SPL-SPL,56
+Perovskites,Olivines,SPL-SPL,188
+Perovskites,Orthorhombic,SPL-SPL,2530
+Perovskites,Orthorhombic Perovskite,SPL-SPL,222
+Perovskites,Orthorhombic Pnma,SPL-SPL,36
+Perovskites,Orthorhombically,SPL-SPL,61
+Perovskites,P,SPL-SPL,122
+Perovskites,P1,SPL-SPL,30
+Perovskites,P2 1/N,SPL-SPL,147
+Perovskites,P21/C,SPL-SPL,38
+Perovskites,P4/MMM,SPL-SPL,108
+Perovskites,P4MM,SPL-SPL,70
+Perovskites,P63/MMC,SPL-SPL,40
+Perovskites,PBNM,SPL-SPL,331
+Perovskites,PM-3m,SPL-SPL,59
+Perovskites,PM3-M,SPL-SPL,34
+Perovskites,PM3M,SPL-SPL,123
+Perovskites,PMMM,SPL-SPL,37
+Perovskites,PNMA,SPL-SPL,410
+Perovskites,PV,SPL-SPL,67
+Perovskites,Pbnm,SPL-SPL,35
+Perovskites,Perovskite-Type,SPL-SPL,58
+Perovskites,Pervoskite,SPL-SPL,38
+Perovskites,Phase,SPL-SPL,38
+Perovskites,Pmm,SPL-SPL,62
+Perovskites,Popper,SPL-SPL,78
+Perovskites,Postperovskite,SPL-SPL,168
+Perovskites,Pseudocubic,SPL-SPL,361
+Perovskites,Pseudocubic Perovskite,SPL-SPL,30
+Perovskites,Pyrochlore,SPL-SPL,489
+Perovskites,Pyrolitic,SPL-SPL,31
+Perovskites,Pyroxene,SPL-SPL,81
+Perovskites,Quadruple Perovskite,SPL-SPL,39
+Perovskites,R-3c,SPL-SPL,45
+Perovskites,R3-C,SPL-SPL,59
+Perovskites,R3M,SPL-SPL,30
+Perovskites,R3c,SPL-SPL,225
+Perovskites,RC,SPL-SPL,34
+Perovskites,RP,SPL-SPL,149
+Perovskites,Rhombohedral,SPL-SPL,1053
+Perovskites,Rhombohedral Perovskite,SPL-SPL,43
+Perovskites,Rhombohedrally,SPL-SPL,85
+Perovskites,Ringwoodite,SPL-SPL,62
+Perovskites,Rock Salt,SPL-SPL,224
+Perovskites,Rock-Salt,SPL-SPL,117
+Perovskites,Ruddlesden,SPL-SPL,68
+Perovskites,Ruddlesden Popper,SPL-SPL,497
+Perovskites,Rutile,SPL-SPL,271
+Perovskites,S T,SPL-SPL,73
+Perovskites,Scheelite,SPL-SPL,35
+Perovskites,Singlet,SPL-SPL,45
+Perovskites,Sp,SPL-SPL,31
+Perovskites,Spinels,SPL-SPL,656
+Perovskites,Stishovite,SPL-SPL,91
+Perovskites,T,SPL-SPL,115
+Perovskites,Tetragonal,SPL-SPL,2321
+Perovskites,Tetragonal Perovskite,SPL-SPL,102
+Perovskites,Triclinic,SPL-SPL,90
+Perovskites,Trigonal,SPL-SPL,134
+Perovskites,Triple,SPL-SPL,46
+Perovskites,Type,SPL-SPL,31
+Perovskites,Wurtzite,SPL-SPL,49
+Perovskites,Zirconolite,SPL-SPL,45
+Pervoskite,Perovskites,SPL-SPL,38
+Phase,A-Phase,SPL-SPL,55
+Phase,Cubic,SPL-SPL,42
+Phase,G,SPL-SPL,130
+Phase,Hexagonal,SPL-SPL,42
+Phase,Icosahedral,SPL-SPL,48
+Phase,Perovskites,SPL-SPL,38
+Phase,T,SPL-SPL,54
+Phase,Tetragonal,SPL-SPL,40
+Phengite,Eclogites,SPL-SPL,73
+Phengite,Garnet,SPL-SPL,80
+Phlogopite,Garnet,SPL-SPL,40
+Pi,Triclinic,SPL-SPL,34
+Plagioclase,Amphiboles,SPL-SPL,51
+Plagioclase,Amphibolite,SPL-SPL,45
+Plagioclase,Basaltic,SPL-SPL,52
+Plagioclase,Biotites,SPL-SPL,41
+Plagioclase,CPX,SPL-SPL,45
+Plagioclase,Chondrite,SPL-SPL,86
+Plagioclase,Clinopyroxenes,SPL-SPL,174
+Plagioclase,Eclogites,SPL-SPL,50
+Plagioclase,Garnet,SPL-SPL,235
+Plagioclase,Gneiss,SPL-SPL,43
+Plagioclase,Granulite,SPL-SPL,67
+Plagioclase,Olivine;,SPL-SPL,30
+Plagioclase,Olivines,SPL-SPL,179
+Plagioclase,Pyroxene,SPL-SPL,171
+Plagioclase,Rutile,SPL-SPL,70
+Plagioclase,Spinels,SPL-SPL,108
+Pm 3-m,Cubic,SPL-SPL,42
+Pmm,Cubic,SPL-SPL,95
+Pmm,Perovskites,SPL-SPL,62
+Pmm,Tetragonal,SPL-SPL,42
+Pn3m,Cubic,SPL-SPL,172
+Pn3m,Hexagonal,SPL-SPL,89
+Pn3m,IA3D,SPL-SPL,62
+Pn3m,Im3m,SPL-SPL,65
+Pnma,Orthorhombic,SPL-SPL,79
+Polycystic,Pcos,SPL-SPL,67
+Polygonal,Acicular,SPL-SPL,76
+Polygonal,Austenite,SPL-SPL,138
+Polygonal,Bainitic,SPL-SPL,74
+Polygonal,Lath,SPL-SPL,31
+Polygonal,Martensite,SPL-SPL,128
+Popper,Perovskites,SPL-SPL,78
+Popper,Ruddlesden,SPL-SPL,106
+Porphyry,Granite,SPL-SPL,54
+Porphyry,Granitic,SPL-SPL,30
+Porphyry,Granitoids,SPL-SPL,32
+Porphyry,Skarn,SPL-SPL,70
+Postperovskite,PPV,SPL-SPL,39
+Postperovskite,Perovskites,SPL-SPL,168
+Potassic,Garnet,SPL-SPL,40
+Precambrian,Garnet,SPL-SPL,56
+Precambrian,Gneiss,SPL-SPL,30
+Precambrian,Granulite,SPL-SPL,37
+Preston,Guinier,SPL-SPL,43
+Primitive,Cubic,SPL-SPL,52
+Primitive Cubic,Cubic,SPL-SPL,40
+Primitive Mantle,Chondrite,SPL-SPL,143
+Primitive Mantle,Clinopyroxenes,SPL-SPL,67
+Primitive Mantle,Garnet,SPL-SPL,92
+Primitive Mantle,Granite,SPL-SPL,33
+Primitive Mantle,Olivines,SPL-SPL,63
+Primitive Mantle,Spinels,SPL-SPL,53
+Prior-β,β,SPL-SPL,35
+Prismatic,Hexagonal,SPL-SPL,32
+Proeutectoid,Austenite,SPL-SPL,82
+Proeutectoid,Martensite,SPL-SPL,40
+Prostate,Bladder,SPL-SPL,33
+Prostate,Breast,SPL-SPL,353
+Prostate,Cervical,SPL-SPL,32
+Prostate,Colon,SPL-SPL,123
+Prostate,Colorectal,SPL-SPL,62
+Prostate,Leukemia,SPL-SPL,42
+Prostate,Lung,SPL-SPL,155
+Prostate,Melanoma,SPL-SPL,73
+Prostate,Ovarian,SPL-SPL,109
+Prostate,PCA,SPL-SPL,83
+Prostate,Pancreatic,SPL-SPL,61
+Prostate,Renal,SPL-SPL,30
+Proteobacteria,Actinobacteria,SPL-SPL,36
+Proteobacteria,Firmicutes,SPL-SPL,44
+Proterozoic,Archean,SPL-SPL,30
+Proterozoic,Garnet,SPL-SPL,45
+Pseudo,Cubic,SPL-SPL,47
+Pseudobrookite,Rutile,SPL-SPL,37
+Pseudocubic,Cubic,SPL-SPL,236
+Pseudocubic,Hexagonal,SPL-SPL,81
+Pseudocubic,Monoclinic,SPL-SPL,89
+Pseudocubic,Orthorhombic,SPL-SPL,208
+Pseudocubic,Perovskites,SPL-SPL,361
+Pseudocubic,R3c,SPL-SPL,35
+Pseudocubic,Rhombohedral,SPL-SPL,201
+Pseudocubic,Tetragonal,SPL-SPL,367
+Pseudocubic Perovskite,Perovskites,SPL-SPL,30
+Pseudohexagonal,Hexagonal,SPL-SPL,67
+Pseudohexagonal,Monoclinic,SPL-SPL,50
+Pseudohexagonal,Orthorhombic,SPL-SPL,51
+Pseudotetragonal,Orthorhombic,SPL-SPL,44
+Px,Pyroxene,SPL-SPL,34
+Pyridinic,Graphitic,SPL-SPL,41
+Pyrite,Cubic,SPL-SPL,35
+Pyrochlore,Cubic,SPL-SPL,315
+Pyrochlore,Defect Fluorite,SPL-SPL,56
+Pyrochlore,FD3M,SPL-SPL,56
+Pyrochlore,Fluorite,SPL-SPL,192
+Pyrochlore,Hexagonal,SPL-SPL,38
+Pyrochlore,Monoclinic,SPL-SPL,73
+Pyrochlore,Orthorhombic,SPL-SPL,49
+Pyrochlore,Perovskites,SPL-SPL,489
+Pyrochlore,Rhombohedral,SPL-SPL,31
+Pyrochlore,Spinels,SPL-SPL,49
+Pyrochlore,Tetragonal,SPL-SPL,82
+Pyrolitic,Perovskites,SPL-SPL,31
+Pyrope,Clinopyroxenes,SPL-SPL,39
+Pyrope,Eclogites,SPL-SPL,68
+Pyrope,Garnet,SPL-SPL,197
+Pyrope,Garnets,SPL-SPL,81
+Pyrope,Grossular,SPL-SPL,92
+Pyrope,Rutile,SPL-SPL,37
+Pyrope,Spessartine,SPL-SPL,31
+Pyroxene,Amphiboles,SPL-SPL,66
+Pyroxene,Amphibolite,SPL-SPL,43
+Pyroxene,Basaltic,SPL-SPL,112
+Pyroxene,CI Chondrite,SPL-SPL,40
+Pyroxene,CPX,SPL-SPL,32
+Pyroxene,Calcic,SPL-SPL,39
+Pyroxene,Chondrite,SPL-SPL,180
+Pyroxene,Chondritic,SPL-SPL,58
+Pyroxene,Chondrule,SPL-SPL,30
+Pyroxene,Clinopyroxenes,SPL-SPL,280
+Pyroxene,Eclogites,SPL-SPL,74
+Pyroxene,Eclogitic,SPL-SPL,36
+Pyroxene,Feldspathic,SPL-SPL,31
+Pyroxene,Garnet,SPL-SPL,452
+Pyroxene,Garnets,SPL-SPL,94
+Pyroxene,Gneiss,SPL-SPL,30
+Pyroxene,Granulite,SPL-SPL,119
+Pyroxene,Lherzolites,SPL-SPL,43
+Pyroxene,Mesostasis,SPL-SPL,60
+Pyroxene,Meteorite,SPL-SPL,70
+Pyroxene,Olivine;,SPL-SPL,37
+Pyroxene,Olivines,SPL-SPL,733
+Pyroxene,Ordinary,SPL-SPL,33
+Pyroxene,Orthopyroxene,SPL-SPL,51
+Pyroxene,Perovskites,SPL-SPL,81
+Pyroxene,Plagioclase,SPL-SPL,171
+Pyroxene,Px,SPL-SPL,34
+Pyroxene,Rutile,SPL-SPL,45
+Pyroxene,Spinels,SPL-SPL,311
+Pyroxene,Two,SPL-SPL,36
+Pyroxene,Ultramafic,SPL-SPL,60
+Qii,Cubic,SPL-SPL,30
+Qtz,Garnet,SPL-SPL,33
+Quadrilateral,Triangular,SPL-SPL,35
+Quadruple Perovskite,Perovskites,SPL-SPL,39
+Quartzo,Feldspathic,SPL-SPL,58
+Quartzofeldspathic,Garnet,SPL-SPL,34
+Quintic,Cubic,SPL-SPL,31
+R,Anatase,SPL-SPL,45
+R,Rutile,SPL-SPL,50
+R 3 - C,Rhombohedral,SPL-SPL,33
+R A,T,SPL-SPL,168
+R A C T,Anatase,SPL-SPL,82
+R A C T,Cubic,SPL-SPL,41
+R A C T,Hexagonal,SPL-SPL,48
+R A C T,Monoclinic,SPL-SPL,43
+R A C T,S T,SPL-SPL,510
+R A C T,T,SPL-SPL,2100
+R-3M,Hexagonal,SPL-SPL,49
+R-3M,Rhombohedral,SPL-SPL,55
+R-3c,Orthorhombic,SPL-SPL,34
+R-3c,Perovskites,SPL-SPL,45
+R-3c,Rhombohedral,SPL-SPL,102
+R3,Cubic,SPL-SPL,31
+R3,Hexagonal,SPL-SPL,37
+R3,Monoclinic,SPL-SPL,33
+R3,Rhombohedral,SPL-SPL,73
+R3,Trigonal,SPL-SPL,67
+R3-C,Perovskites,SPL-SPL,59
+R3-C,Rhombohedral,SPL-SPL,106
+R3-M,Rhombohedral,SPL-SPL,38
+R3M,C2/M,SPL-SPL,34
+R3M,Cubic,SPL-SPL,58
+R3M,Hexagonal,SPL-SPL,97
+R3M,Monoclinic,SPL-SPL,46
+R3M,Perovskites,SPL-SPL,30
+R3M,Rhombohedral,SPL-SPL,148
+R3M,Spinels,SPL-SPL,37
+R3M,Trigonal,SPL-SPL,70
+R3c,Cubic,SPL-SPL,97
+R3c,Hexagonal,SPL-SPL,76
+R3c,Monoclinic,SPL-SPL,74
+R3c,Orthorhombic,SPL-SPL,156
+R3c,P4MM,SPL-SPL,35
+R3c,PBNM,SPL-SPL,58
+R3c,PNMA,SPL-SPL,79
+R3c,Perovskites,SPL-SPL,225
+R3c,Pseudocubic,SPL-SPL,35
+R3c,Rhombohedral,SPL-SPL,461
+R3c,Tetragonal,SPL-SPL,65
+R3c,Trigonal,SPL-SPL,61
+R3¯C,Rhombohedral,SPL-SPL,35
+RAC,S T,SPL-SPL,76
+RAC,T,SPL-SPL,545
+RAFM,Ferritic,SPL-SPL,106
+RAFM,Martensitic,SPL-SPL,100
+RC,Perovskites,SPL-SPL,34
+RC,Rhombohedral,SPL-SPL,51
+RCC,Renal,SPL-SPL,83
+RCC,Renal Cell,SPL-SPL,129
+RM,Hexagonal,SPL-SPL,32
+RM,Monoclinic,SPL-SPL,30
+RM,Rhombohedral,SPL-SPL,45
+RP,Perovskites,SPL-SPL,149
+RP,Ruddlesden Popper,SPL-SPL,141
+RS,ZB,SPL-SPL,40
+Ra,Austenite,SPL-SPL,99
+Ra,Martensite,SPL-SPL,74
+Rectangular,Cubic,SPL-SPL,31
+Rectangular,Hexagonal,SPL-SPL,214
+Renal,Breast,SPL-SPL,56
+Renal,Melanoma,SPL-SPL,40
+Renal,Ovarian,SPL-SPL,33
+Renal,Prostate,SPL-SPL,30
+Renal,RCC,SPL-SPL,83
+Renal,Renal Cell,SPL-SPL,44
+Renal Cell,RCC,SPL-SPL,129
+Renal Cell,Renal,SPL-SPL,44
+Reverse,Hexagonal,SPL-SPL,30
+Rhombic,Cubic,SPL-SPL,59
+Rhombic,Hexagonal,SPL-SPL,101
+Rhombic,Rhombic Dodecahedron,SPL-SPL,35
+Rhombic,Tetragonal,SPL-SPL,33
+Rhombic Dodecahedra,Cubic,SPL-SPL,32
+Rhombic Dodecahedron,Cubic,SPL-SPL,95
+Rhombic Dodecahedron,Rhombic,SPL-SPL,35
+Rhombohedral,2H,SPL-SPL,50
+Rhombohedral,Abstract,SPL-SPL,63
+Rhombohedral,B2,SPL-SPL,36
+Rhombohedral,BCC,SPL-SPL,62
+Rhombohedral,Body Centred Cubic,SPL-SPL,47
+Rhombohedral,C2/C,SPL-SPL,37
+Rhombohedral,C2/M,SPL-SPL,47
+Rhombohedral,Calcite,SPL-SPL,75
+Rhombohedral,Cubic,SPL-SPL,1502
+Rhombohedral,Cubic Perovskites,SPL-SPL,76
+Rhombohedral,Delafossite,SPL-SPL,43
+Rhombohedral,Double Perovskite,SPL-SPL,47
+Rhombohedral,FCC,SPL-SPL,140
+Rhombohedral,Face Centered Cubic,SPL-SPL,75
+Rhombohedral,Fluorite,SPL-SPL,77
+Rhombohedral,HCP,SPL-SPL,52
+Rhombohedral,Hexagonal,SPL-SPL,1073
+Rhombohedral,Icosahedral,SPL-SPL,36
+Rhombohedral,M,SPL-SPL,54
+Rhombohedral,Martensite,SPL-SPL,30
+Rhombohedral,Monoclinic,SPL-SPL,830
+Rhombohedral,Orthorhombic,SPL-SPL,1212
+Rhombohedral,Orthorhombic-Tetragonal,SPL-SPL,32
+Rhombohedral,P,SPL-SPL,33
+Rhombohedral,P4MM,SPL-SPL,50
+Rhombohedral,PBNM,SPL-SPL,94
+Rhombohedral,PNMA,SPL-SPL,102
+Rhombohedral,Perovskites,SPL-SPL,1053
+Rhombohedral,Pseudocubic,SPL-SPL,201
+Rhombohedral,Pyrochlore,SPL-SPL,31
+Rhombohedral,R 3 - C,SPL-SPL,33
+Rhombohedral,R-3M,SPL-SPL,55
+Rhombohedral,R-3c,SPL-SPL,102
+Rhombohedral,R3,SPL-SPL,73
+Rhombohedral,R3-C,SPL-SPL,106
+Rhombohedral,R3-M,SPL-SPL,38
+Rhombohedral,R3M,SPL-SPL,148
+Rhombohedral,R3c,SPL-SPL,461
+Rhombohedral,R3¯C,SPL-SPL,35
+Rhombohedral,RC,SPL-SPL,51
+Rhombohedral,RM,SPL-SPL,45
+Rhombohedral,Rhombohedral Perovskite,SPL-SPL,31
+Rhombohedral,Rhombohedral-Tetragonal,SPL-SPL,36
+Rhombohedral,Rock Salt,SPL-SPL,68
+Rhombohedral,Rock-Salt,SPL-SPL,31
+Rhombohedral,Rutile,SPL-SPL,32
+Rhombohedral,Spinels,SPL-SPL,141
+Rhombohedral,T,SPL-SPL,168
+Rhombohedral,Tetragonal,SPL-SPL,1383
+Rhombohedral,Triclinic,SPL-SPL,123
+Rhombohedral,Trigonal,SPL-SPL,139
+Rhombohedral,Vaterite,SPL-SPL,31
+Rhombohedral,Wurtzite,SPL-SPL,36
+Rhombohedral,β,SPL-SPL,63
+Rhombohedral Perovskite,Perovskites,SPL-SPL,43
+Rhombohedral Perovskite,Rhombohedral,SPL-SPL,31
+Rhombohedral-Tetragonal,Rhombohedral,SPL-SPL,36
+Rhombohedral-Tetragonal,Tetragonal,SPL-SPL,30
+Rhombohedrally,Perovskites,SPL-SPL,85
+Rhyolitic,Andesitic,SPL-SPL,44
+Rhyolitic,Basaltic,SPL-SPL,62
+Rhyolitic,Dacitic,SPL-SPL,45
+Ringwoodite,Garnet,SPL-SPL,35
+Ringwoodite,Olivines,SPL-SPL,54
+Ringwoodite,Perovskites,SPL-SPL,62
+Rock Salt,B1,SPL-SPL,98
+Rock Salt,Cscl,SPL-SPL,50
+Rock Salt,Cubic,SPL-SPL,243
+Rock Salt,Double Perovskite,SPL-SPL,71
+Rock Salt,FCC,SPL-SPL,48
+Rock Salt,Fluorite,SPL-SPL,42
+Rock Salt,Hexagonal,SPL-SPL,125
+Rock Salt,Monoclinic,SPL-SPL,94
+Rock Salt,NaCl,SPL-SPL,50
+Rock Salt,Orthorhombic,SPL-SPL,117
+Rock Salt,Perovskites,SPL-SPL,224
+Rock Salt,Rhombohedral,SPL-SPL,68
+Rock Salt,Ruddlesden Popper,SPL-SPL,38
+Rock Salt,Rutile,SPL-SPL,38
+Rock Salt,Spinels,SPL-SPL,262
+Rock Salt,Tetragonal,SPL-SPL,122
+Rock Salt,Trigonal,SPL-SPL,35
+Rock Salt,Wurtzite,SPL-SPL,296
+Rock Salt,Zb,SPL-SPL,48
+Rock Salt,Zinc Blende,SPL-SPL,272
+Rock-Salt,B1,SPL-SPL,35
+Rock-Salt,Cubic,SPL-SPL,95
+Rock-Salt,Double Perovskite,SPL-SPL,40
+Rock-Salt,Hexagonal,SPL-SPL,42
+Rock-Salt,Monoclinic,SPL-SPL,44
+Rock-Salt,Orthorhombic,SPL-SPL,37
+Rock-Salt,Perovskites,SPL-SPL,117
+Rock-Salt,Rhombohedral,SPL-SPL,31
+Rock-Salt,Ruddlesden Popper,SPL-SPL,34
+Rock-Salt,Spinels,SPL-SPL,118
+Rock-Salt,Tetragonal,SPL-SPL,36
+Rock-Salt,Wurtzite,SPL-SPL,70
+Rock-Salt,Zinc Blende,SPL-SPL,76
+Rt,Garnet,SPL-SPL,31
+Rt,Rutile,SPL-SPL,66
+Ruddlesden,Perovskites,SPL-SPL,68
+Ruddlesden,Popper,SPL-SPL,106
+Ruddlesden Popper,Cubic,SPL-SPL,39
+Ruddlesden Popper,I4/MMM,SPL-SPL,81
+Ruddlesden Popper,Orthorhombic,SPL-SPL,77
+Ruddlesden Popper,Perovskites,SPL-SPL,497
+Ruddlesden Popper,RP,SPL-SPL,141
+Ruddlesden Popper,Rock Salt,SPL-SPL,38
+Ruddlesden Popper,Rock-Salt,SPL-SPL,34
+Ruddlesden Popper,Tetragonal,SPL-SPL,103
+Rutile,100,SPL-SPL,47
+Rutile,101,SPL-SPL,137
+Rutile,110,SPL-SPL,332
+Rutile,A:,SPL-SPL,46
+Rutile,Abstract,SPL-SPL,82
+Rutile,Amphiboles,SPL-SPL,44
+Rutile,Amphibolite,SPL-SPL,90
+Rutile,Anatase,SPL-SPL,7028
+Rutile,Anatase-,SPL-SPL,36
+Rutile,Anatase/Rutile,SPL-SPL,54
+Rutile,BSTRAct,SPL-SPL,35
+Rutile,Baddeleyite,SPL-SPL,33
+Rutile,Blueschists,SPL-SPL,34
+Rutile,Brookite,SPL-SPL,690
+Rutile,Cassiterite,SPL-SPL,31
+Rutile,Chondrite,SPL-SPL,65
+Rutile,Clinopyroxenes,SPL-SPL,126
+Rutile,Columbite,SPL-SPL,33
+Rutile,Corundum,SPL-SPL,42
+Rutile,Cotunnite,SPL-SPL,30
+Rutile,Cubic,SPL-SPL,254
+Rutile,Eclogites,SPL-SPL,237
+Rutile,Eclogitic,SPL-SPL,50
+Rutile,FCC,SPL-SPL,70
+Rutile,Fluorite,SPL-SPL,103
+Rutile,Garnet,SPL-SPL,498
+Rutile,Garnets,SPL-SPL,78
+Rutile,Gneiss,SPL-SPL,87
+Rutile,Gneisses,SPL-SPL,58
+Rutile,Granulite,SPL-SPL,137
+Rutile,Grossular,SPL-SPL,32
+Rutile,HCP,SPL-SPL,37
+Rutile,Hexagonal,SPL-SPL,257
+Rutile,Hollandite,SPL-SPL,47
+Rutile,Ilmenite,SPL-SPL,111
+Rutile,M1,SPL-SPL,63
+Rutile,Magneli,SPL-SPL,41
+Rutile,Monoclinic,SPL-SPL,410
+Rutile,Olivines,SPL-SPL,48
+Rutile,Omphacite,SPL-SPL,78
+Rutile,Orthorhombic,SPL-SPL,189
+Rutile,P25,SPL-SPL,39
+Rutile,Perovskites,SPL-SPL,271
+Rutile,Plagioclase,SPL-SPL,70
+Rutile,Pseudobrookite,SPL-SPL,37
+Rutile,Pyrope,SPL-SPL,37
+Rutile,Pyroxene,SPL-SPL,45
+Rutile,R,SPL-SPL,50
+Rutile,Rhombohedral,SPL-SPL,32
+Rutile,Rock Salt,SPL-SPL,38
+Rutile,Rt,SPL-SPL,66
+Rutile,S T,SPL-SPL,41
+Rutile,Spinels,SPL-SPL,224
+Rutile,T,SPL-SPL,107
+Rutile,Tetragonal,SPL-SPL,426
+Rutile,Tetragonal Rutile,SPL-SPL,30
+Rutile,Uhp,SPL-SPL,32
+Rutile,Wurtzite,SPL-SPL,62
+Rutile,Zircons,SPL-SPL,35
+S T,ACT,SPL-SPL,396
+S T,Anatase,SPL-SPL,87
+S T,Cubic,SPL-SPL,97
+S T,Face Centered Cubic,SPL-SPL,31
+S T,Hexagonal,SPL-SPL,110
+S T,Monoclinic,SPL-SPL,62
+S T,Orthorhombic,SPL-SPL,57
+S T,Perovskites,SPL-SPL,73
+S T,R A C T,SPL-SPL,510
+S T,RAC,SPL-SPL,76
+S T,Rutile,SPL-SPL,41
+S T,Spinels,SPL-SPL,56
+S T,T,SPL-SPL,102
+S T,Tetragonal,SPL-SPL,51
+S1,S2,SPL-SPL,31
+S2,S1,SPL-SPL,31
+SC,BCC,SPL-SPL,131
+SC,Body Centred Cubic,SPL-SPL,56
+SC,Cubic,SPL-SPL,85
+SC,FCC,SPL-SPL,147
+SC,Face Centered Cubic,SPL-SPL,63
+SC,HCP,SPL-SPL,30
+SC,Simple Cubic,SPL-SPL,71
+SCLC,NSCLC,SPL-SPL,31
+SG,Cubic,SPL-SPL,31
+SG,Orthorhombic,SPL-SPL,30
+SI,SII,SPL-SPL,35
+SII,Hydrates,SPL-SPL,53
+SII,SI,SPL-SPL,35
+SIM,Martensite,SPL-SPL,59
+SIM,Martensitic,SPL-SPL,34
+SMC,Nematic,SPL-SPL,67
+SMC,Sma,SPL-SPL,85
+SMC,Smectic,SPL-SPL,43
+SMC,Smectic C,SPL-SPL,42
+Scc,Adenocarcinoma,SPL-SPL,34
+Scc,Squamous,SPL-SPL,40
+Scc,Squamous Cell,SPL-SPL,115
+Scc,Squamous Cell Carcinoma,SPL-SPL,37
+Scchn,Squamous Cell,SPL-SPL,30
+Scheelite,Fergusonite,SPL-SPL,39
+Scheelite,I41/A,SPL-SPL,55
+Scheelite,Monoclinic,SPL-SPL,166
+Scheelite,Perovskites,SPL-SPL,35
+Scheelite,Tetragonal,SPL-SPL,157
+Scheelite,Tetragonal Scheelite,SPL-SPL,34
+Scheelite,Wolframite,SPL-SPL,31
+Scheelite,Zircons,SPL-SPL,60
+Schist,Amphibolite,SPL-SPL,48
+Schist,Garnet,SPL-SPL,90
+Schist,Gneiss,SPL-SPL,44
+Schist,Gneisses,SPL-SPL,51
+Serpentines,Olivines,SPL-SPL,36
+Sgt,Granulite,SPL-SPL,30
+Shoshonitic,Alkaline,SPL-SPL,45
+Shoshonitic,Calc,SPL-SPL,49
+Sillimanite,Garnet,SPL-SPL,44
+Simple,Cubic,SPL-SPL,44
+Simple Cubic,BCC,SPL-SPL,62
+Simple Cubic,Body Centred Cubic,SPL-SPL,66
+Simple Cubic,Cubic,SPL-SPL,62
+Simple Cubic,FCC,SPL-SPL,72
+Simple Cubic,Face Centered Cubic,SPL-SPL,75
+Simple Cubic,SC,SPL-SPL,71
+Singlet,Perovskites,SPL-SPL,45
+Skarn,Garnet,SPL-SPL,75
+Skarn,Granite,SPL-SPL,38
+Skarn,Porphyry,SPL-SPL,70
+Skin,Melanoma,SPL-SPL,33
+Skov-3,Ovarian,SPL-SPL,39
+Skutterudites,Cubic,SPL-SPL,47
+Sma,Cr,SPL-SPL,34
+Sma,Nematic,SPL-SPL,76
+Sma,SMC,SPL-SPL,85
+Sma,Smectic,SPL-SPL,70
+Sma,Smectic A,SPL-SPL,55
+Smectic,Columnar,SPL-SPL,33
+Smectic,Cubic,SPL-SPL,37
+Smectic,Hexagonal,SPL-SPL,59
+Smectic,Lc,SPL-SPL,34
+Smectic,Nematic,SPL-SPL,273
+Smectic,SMC,SPL-SPL,43
+Smectic,Sma,SPL-SPL,70
+Smectic,Smectic A,SPL-SPL,64
+Smectic,Smectic C,SPL-SPL,35
+Smectic A,Nematic,SPL-SPL,66
+Smectic A,Sma,SPL-SPL,55
+Smectic A,Smectic,SPL-SPL,64
+Smectic A,Smectic C,SPL-SPL,50
+Smectic C,Nematic,SPL-SPL,51
+Smectic C,SMC,SPL-SPL,42
+Smectic C,Smectic,SPL-SPL,35
+Smectic C,Smectic A,SPL-SPL,50
+Smectic-A,Nematic,SPL-SPL,35
+Sodic,Calcic,SPL-SPL,30
+Sodic,Eclogites,SPL-SPL,39
+Sodic,Garnet,SPL-SPL,72
+Sp,MC,SPL-SPL,39
+Sp,Olivines,SPL-SPL,33
+Sp,Perovskites,SPL-SPL,31
+Sp,Spinels,SPL-SPL,88
+Spessartine,Garnet,SPL-SPL,71
+Spessartine,Grossular,SPL-SPL,35
+Spessartine,Pyrope,SPL-SPL,31
+Sphalerite,Chalcopyrite,SPL-SPL,51
+Sphalerite,Cubic,SPL-SPL,78
+Sphalerite,Hexagonal,SPL-SPL,47
+Sphalerite,Wurtzite,SPL-SPL,165
+Spinels,Abstract,SPL-SPL,122
+Spinels,Abyssal,SPL-SPL,30
+Spinels,Amphiboles,SPL-SPL,31
+Spinels,Amphibolite,SPL-SPL,31
+Spinels,Anatase,SPL-SPL,150
+Spinels,Austenitic,SPL-SPL,56
+Spinels,BCC,SPL-SPL,46
+Spinels,BSTRAct,SPL-SPL,43
+Spinels,Basaltic,SPL-SPL,74
+Spinels,Birnessites,SPL-SPL,41
+Spinels,Bixbyite,SPL-SPL,39
+Spinels,C2/M,SPL-SPL,40
+Spinels,CI Chondrite,SPL-SPL,35
+Spinels,CPX,SPL-SPL,43
+Spinels,Chondrite,SPL-SPL,168
+Spinels,Chondrite Normalized,SPL-SPL,32
+Spinels,Chondritic,SPL-SPL,34
+Spinels,Clinopyroxenes,SPL-SPL,409
+Spinels,Corundum,SPL-SPL,66
+Spinels,Cubic,SPL-SPL,1005
+Spinels,Cubic Spinel,SPL-SPL,456
+Spinels,Delafossite,SPL-SPL,51
+Spinels,Eclogites,SPL-SPL,57
+Spinels,FCC,SPL-SPL,129
+Spinels,FD-3m,SPL-SPL,59
+Spinels,FD3-M,SPL-SPL,51
+Spinels,FD3M,SPL-SPL,214
+Spinels,Face Centered Cubic,SPL-SPL,51
+Spinels,Fdm,SPL-SPL,69
+Spinels,Ferritic,SPL-SPL,81
+Spinels,G,SPL-SPL,38
+Spinels,Garnet,SPL-SPL,763
+Spinels,Garnets,SPL-SPL,114
+Spinels,Gneiss,SPL-SPL,47
+Spinels,Granulite,SPL-SPL,107
+Spinels,Hausmannite,SPL-SPL,37
+Spinels,Hexagonal,SPL-SPL,346
+Spinels,Hibonite,SPL-SPL,47
+Spinels,Hydrotalcite,SPL-SPL,94
+Spinels,Ilmenite,SPL-SPL,71
+Spinels,Inverse,SPL-SPL,172
+Spinels,Inverse Spinel,SPL-SPL,132
+Spinels,Layered,SPL-SPL,46
+Spinels,Lherzolites,SPL-SPL,169
+Spinels,Magnetoplumbite,SPL-SPL,36
+Spinels,Mantle,SPL-SPL,39
+Spinels,Martensitic,SPL-SPL,37
+Spinels,Melilite,SPL-SPL,58
+Spinels,Monoclinic,SPL-SPL,221
+Spinels,North China Craton,SPL-SPL,33
+Spinels,O3,SPL-SPL,38
+Spinels,OL,SPL-SPL,31
+Spinels,Olivine;,SPL-SPL,58
+Spinels,Olivines,SPL-SPL,789
+Spinels,Ophiolites,SPL-SPL,54
+Spinels,Orthopyroxene,SPL-SPL,84
+Spinels,Orthorhombic,SPL-SPL,227
+Spinels,P,SPL-SPL,31
+Spinels,P4332,SPL-SPL,71
+Spinels,Periclase,SPL-SPL,58
+Spinels,Perovskites,SPL-SPL,656
+Spinels,Plagioclase,SPL-SPL,108
+Spinels,Primitive Mantle,SPL-SPL,53
+Spinels,Pyrochlore,SPL-SPL,49
+Spinels,Pyroxene,SPL-SPL,311
+Spinels,R3M,SPL-SPL,37
+Spinels,Rhombohedral,SPL-SPL,141
+Spinels,Rock Salt,SPL-SPL,262
+Spinels,Rock-Salt,SPL-SPL,118
+Spinels,Rutile,SPL-SPL,224
+Spinels,S T,SPL-SPL,56
+Spinels,Sp,SPL-SPL,88
+Spinels,T,SPL-SPL,86
+Spinels,Tetragonal,SPL-SPL,407
+Spinels,Tholeiitic,SPL-SPL,30
+Spinels,Trigonal,SPL-SPL,36
+Spinels,Ultramafic,SPL-SPL,110
+Spinels,Wurtzite,SPL-SPL,78
+Spinels,Wustite,SPL-SPL,44
+Spinels,tetragonal spinel,SPL-SPL,55
+Spinels,β,SPL-SPL,37
+Spleens,Kidneys,SPL-SPL,40
+Spleens,Liver,SPL-SPL,54
+Squamous,Scc,SPL-SPL,40
+Squamous,Squamous Cell,SPL-SPL,58
+Squamous Cell,Adenocarcinoma,SPL-SPL,111
+Squamous Cell,Lung,SPL-SPL,40
+Squamous Cell,NSCLC,SPL-SPL,43
+Squamous Cell,Scc,SPL-SPL,115
+Squamous Cell,Scchn,SPL-SPL,30
+Squamous Cell,Squamous,SPL-SPL,58
+Squamous Cell,Squamous Cell Carcinoma,SPL-SPL,39
+Squamous Cell Carcinoma,Adenocarcinoma,SPL-SPL,51
+Squamous Cell Carcinoma,Scc,SPL-SPL,37
+Squamous Cell Carcinoma,Squamous Cell,SPL-SPL,39
+Square,Cubic,SPL-SPL,44
+Square,Hexagonal,SPL-SPL,264
+Square,Triangular,SPL-SPL,30
+Square,Trigonal,SPL-SPL,64
+Square Pyramidal,Trigonal Bipyramidal,SPL-SPL,53
+Stannite,Kesterite,SPL-SPL,60
+Stannite,Tetragonal,SPL-SPL,30
+Staurolite,Garnet,SPL-SPL,40
+Stishovite,Garnet,SPL-SPL,62
+Stishovite,Perovskites,SPL-SPL,91
+Stones,Wales,SPL-SPL,86
+Structured,Fluorite,SPL-SPL,36
+Sub-Bituminous,Bituminous,SPL-SPL,76
+Super,Austenite,SPL-SPL,47
+Super,Duplex,SPL-SPL,34
+Symplectite,Eclogites,SPL-SPL,37
+Symplectite,Garnet,SPL-SPL,68
+T,ACT,SPL-SPL,389
+T,Anatase,SPL-SPL,233
+T,Cubic,SPL-SPL,414
+T,F,SPL-SPL,135
+T,FCC,SPL-SPL,45
+T,Face Centered Cubic,SPL-SPL,35
+T,Fluorite,SPL-SPL,34
+T,G,SPL-SPL,69
+T,Hexagonal,SPL-SPL,253
+T,Hexagonal Wurtzite,SPL-SPL,36
+T,L,SPL-SPL,32
+T,M,SPL-SPL,255
+T,Martensite,SPL-SPL,32
+T,Monoclinic,SPL-SPL,446
+T,Orthorhombic,SPL-SPL,241
+T,P,SPL-SPL,110
+T,Perovskites,SPL-SPL,115
+T,Phase,SPL-SPL,54
+T,R A,SPL-SPL,168
+T,R A C T,SPL-SPL,2100
+T,RAC,SPL-SPL,545
+T,Rhombohedral,SPL-SPL,168
+T,Rutile,SPL-SPL,107
+T,S T,SPL-SPL,102
+T,Spinels,SPL-SPL,86
+T,Tetragonal,SPL-SPL,719
+T,Triclinic,SPL-SPL,51
+T,Type,SPL-SPL,36
+T,Wurtzite,SPL-SPL,54
+T-M,Monoclinic,SPL-SPL,44
+T-M,Tetragonal,SPL-SPL,45
+T-ZrO2,Monoclinic,SPL-SPL,32
+T-ZrO2,Tetragonal,SPL-SPL,39
+T1,T2,SPL-SPL,104
+T2,T1,SPL-SPL,104
+T2,T3,SPL-SPL,32
+T3,T2,SPL-SPL,32
+TD,C2V,SPL-SPL,32
+TH1,TH2,SPL-SPL,58
+TH1,Th17,SPL-SPL,71
+TH2,TH1,SPL-SPL,58
+TNBC,Breast,SPL-SPL,49
+TNBC,Triple,SPL-SPL,38
+TREG,Th17,SPL-SPL,38
+TTG,Amphibolite,SPL-SPL,31
+TTG,Garnet,SPL-SPL,34
+TTG,Gneiss,SPL-SPL,31
+TTG,Gneisses,SPL-SPL,55
+TTG,Granitoids,SPL-SPL,31
+Tbp,Trigonal,SPL-SPL,34
+Tbp,Trigonal Bipyramidal,SPL-SPL,35
+Tetragonal,2H,SPL-SPL,30
+Tetragonal,Abstract,SPL-SPL,133
+Tetragonal,Anatase,SPL-SPL,348
+Tetragonal,Aurivillius,SPL-SPL,34
+Tetragonal,Austenite,SPL-SPL,112
+Tetragonal,Austenitic,SPL-SPL,51
+Tetragonal,B1,SPL-SPL,37
+Tetragonal,B2,SPL-SPL,79
+Tetragonal,BCC,SPL-SPL,220
+Tetragonal,BSTRAct,SPL-SPL,53
+Tetragonal,Body Centred Cubic,SPL-SPL,85
+Tetragonal,Body-Centered Tetragonal,SPL-SPL,59
+Tetragonal,Bronze,SPL-SPL,118
+Tetragonal,Brookite,SPL-SPL,43
+Tetragonal,C2/C,SPL-SPL,61
+Tetragonal,C2/M,SPL-SPL,49
+Tetragonal,CMMM,SPL-SPL,31
+Tetragonal,Cassiterite,SPL-SPL,35
+Tetragonal,Chalcopyrite,SPL-SPL,87
+Tetragonal,Cscl,SPL-SPL,36
+Tetragonal,Cubic,SPL-SPL,4906
+Tetragonal,Cubic Fluorite,SPL-SPL,49
+Tetragonal,Cubic Perovskites,SPL-SPL,195
+Tetragonal,Cubic Spinel,SPL-SPL,77
+Tetragonal,Cubic-Tetragonal,SPL-SPL,39
+Tetragonal,Double Perovskite,SPL-SPL,212
+Tetragonal,F,SPL-SPL,51
+Tetragonal,FCC,SPL-SPL,352
+Tetragonal,Face Centered Cubic,SPL-SPL,141
+Tetragonal,Fluorite,SPL-SPL,197
+Tetragonal,Fm3m,SPL-SPL,58
+Tetragonal,Fmmm,SPL-SPL,31
+Tetragonal,G,SPL-SPL,76
+Tetragonal,Garnet,SPL-SPL,127
+Tetragonal,HCP,SPL-SPL,74
+Tetragonal,Heusler,SPL-SPL,77
+Tetragonal,Hexagonal,SPL-SPL,1333
+Tetragonal,Hollandite,SPL-SPL,39
+Tetragonal,Hydrates,SPL-SPL,30
+Tetragonal,I4/M,SPL-SPL,143
+Tetragonal,I4/MCM,SPL-SPL,210
+Tetragonal,I4/MMM,SPL-SPL,419
+Tetragonal,I4/mcm,SPL-SPL,32
+Tetragonal,I4/mmm,SPL-SPL,41
+Tetragonal,I41 / ACD,SPL-SPL,47
+Tetragonal,I41 / AMD,SPL-SPL,129
+Tetragonal,I41/A,SPL-SPL,80
+Tetragonal,IMMA,SPL-SPL,39
+Tetragonal,Icosahedral,SPL-SPL,45
+Tetragonal,K2NIF4,SPL-SPL,48
+Tetragonal,Kesterite,SPL-SPL,44
+Tetragonal,L10,SPL-SPL,120
+Tetragonal,L12,SPL-SPL,36
+Tetragonal,M,SPL-SPL,239
+Tetragonal,M-Zro2,SPL-SPL,37
+Tetragonal,Martensite,SPL-SPL,221
+Tetragonal,Martensitic,SPL-SPL,257
+Tetragonal,Monoclinic,SPL-SPL,4118
+Tetragonal,NaCl,SPL-SPL,54
+Tetragonal,Orthorhombic,SPL-SPL,3394
+Tetragonal,Orthorhombic Perovskite,SPL-SPL,36
+Tetragonal,Orthorhombic-Tetragonal,SPL-SPL,35
+Tetragonal,P,SPL-SPL,64
+Tetragonal,P1,SPL-SPL,79
+Tetragonal,P2 1/N,SPL-SPL,65
+Tetragonal,P21/C,SPL-SPL,99
+Tetragonal,P21C,SPL-SPL,42
+Tetragonal,P21n,SPL-SPL,33
+Tetragonal,P4 / MBM,SPL-SPL,94
+Tetragonal,P4/MMM,SPL-SPL,221
+Tetragonal,P4/NMM,SPL-SPL,200
+Tetragonal,P41212,SPL-SPL,47
+Tetragonal,P42/Nmc,SPL-SPL,47
+Tetragonal,P4BM,SPL-SPL,48
+Tetragonal,P4MM,SPL-SPL,170
+Tetragonal,P63/MMC,SPL-SPL,31
+Tetragonal,PBNM,SPL-SPL,37
+Tetragonal,PM3M,SPL-SPL,51
+Tetragonal,PNMA,SPL-SPL,121
+Tetragonal,Pentagonal,SPL-SPL,37
+Tetragonal,Perovskites,SPL-SPL,2321
+Tetragonal,Phase,SPL-SPL,40
+Tetragonal,Pmm,SPL-SPL,42
+Tetragonal,Pseudocubic,SPL-SPL,367
+Tetragonal,Pyrochlore,SPL-SPL,82
+Tetragonal,R3c,SPL-SPL,65
+Tetragonal,Rhombic,SPL-SPL,33
+Tetragonal,Rhombohedral,SPL-SPL,1383
+Tetragonal,Rhombohedral-Tetragonal,SPL-SPL,30
+Tetragonal,Rock Salt,SPL-SPL,122
+Tetragonal,Rock-Salt,SPL-SPL,36
+Tetragonal,Ruddlesden Popper,SPL-SPL,103
+Tetragonal,Rutile,SPL-SPL,426
+Tetragonal,S T,SPL-SPL,51
+Tetragonal,Scheelite,SPL-SPL,157
+Tetragonal,Spinels,SPL-SPL,407
+Tetragonal,Stannite,SPL-SPL,30
+Tetragonal,T,SPL-SPL,719
+Tetragonal,T-M,SPL-SPL,45
+Tetragonal,T-ZrO2,SPL-SPL,39
+Tetragonal,Tetragonal Perovskite,SPL-SPL,50
+Tetragonal,Tetragonal-Cubic,SPL-SPL,32
+Tetragonal,Tetragonally,SPL-SPL,64
+Tetragonal,Thmn12,SPL-SPL,39
+Tetragonal,Triclinic,SPL-SPL,263
+Tetragonal,Trigonal,SPL-SPL,356
+Tetragonal,Ttb,SPL-SPL,88
+Tetragonal,Wurtzite,SPL-SPL,80
+Tetragonal,Zinc Blende,SPL-SPL,60
+Tetragonal,Zircons,SPL-SPL,38
+Tetragonal,Δ,SPL-SPL,36
+Tetragonal,α-Phase,SPL-SPL,36
+Tetragonal,β,SPL-SPL,143
+Tetragonal,β-Phase,SPL-SPL,45
+Tetragonal,γ-Phase,SPL-SPL,33
+Tetragonal Perovskite,Cubic,SPL-SPL,32
+Tetragonal Perovskite,Orthorhombic,SPL-SPL,30
+Tetragonal Perovskite,Perovskites,SPL-SPL,102
+Tetragonal Perovskite,Tetragonal,SPL-SPL,50
+Tetragonal Rutile,Rutile,SPL-SPL,30
+Tetragonal Scheelite,Monoclinic,SPL-SPL,30
+Tetragonal Scheelite,Scheelite,SPL-SPL,34
+Tetragonal-Cubic,Tetragonal,SPL-SPL,32
+Tetragonal-Orthorhombic,Orthorhombic,SPL-SPL,30
+Tetragonally,Cubic,SPL-SPL,61
+Tetragonally,Tetragonal,SPL-SPL,64
+Tetrahedra,Cubic,SPL-SPL,35
+Th17,TH1,SPL-SPL,71
+Th17,TREG,SPL-SPL,38
+Thmn12,I4/MMM,SPL-SPL,31
+Thmn12,Tetragonal,SPL-SPL,39
+Tholeiites,Alkaline,SPL-SPL,34
+Tholeiites,Basaltic,SPL-SPL,30
+Tholeiites,Calc,SPL-SPL,37
+Tholeiites,Garnet,SPL-SPL,54
+Tholeiites,Olivines,SPL-SPL,34
+Tholeiites,Tholeiitic,SPL-SPL,41
+Tholeiitic,Alkaline,SPL-SPL,91
+Tholeiitic,Amphibolite,SPL-SPL,35
+Tholeiitic,Basaltic,SPL-SPL,67
+Tholeiitic,Calc,SPL-SPL,84
+Tholeiitic,Chondrite,SPL-SPL,36
+Tholeiitic,Clinopyroxenes,SPL-SPL,38
+Tholeiitic,Garnet,SPL-SPL,89
+Tholeiitic,Olivines,SPL-SPL,45
+Tholeiitic,Spinels,SPL-SPL,30
+Tholeiitic,Tholeiites,SPL-SPL,41
+Tinisi,Orthorhombic,SPL-SPL,36
+Tonalitic,Amphibolite,SPL-SPL,31
+Tonalitic,Garnet,SPL-SPL,31
+Tonalitic,Gneiss,SPL-SPL,33
+Tonalitic,Gneisses,SPL-SPL,37
+Tonalitic,Granitic,SPL-SPL,36
+Tonalitic,Granodioritic,SPL-SPL,39
+Triangular,Cubic,SPL-SPL,30
+Triangular,Hexagonal,SPL-SPL,268
+Triangular,Kagome,SPL-SPL,46
+Triangular,Quadrilateral,SPL-SPL,35
+Triangular,Square,SPL-SPL,30
+Triclinic,Abstract,SPL-SPL,32
+Triclinic,C2/C,SPL-SPL,259
+Triclinic,C2/M,SPL-SPL,47
+Triclinic,Cc,SPL-SPL,41
+Triclinic,Cubic,SPL-SPL,159
+Triclinic,Hexagonal,SPL-SPL,233
+Triclinic,Monoclinic,SPL-SPL,1755
+Triclinic,No. 14,SPL-SPL,38
+Triclinic,No. 2,SPL-SPL,122
+Triclinic,Orthorhombic,SPL-SPL,642
+Triclinic,P,SPL-SPL,374
+Triclinic,P 1-,SPL-SPL,41
+Triclinic,P-1,SPL-SPL,407
+Triclinic,P1,SPL-SPL,1548
+Triclinic,P1¯,SPL-SPL,64
+Triclinic,P2 1/N,SPL-SPL,138
+Triclinic,P21,SPL-SPL,60
+Triclinic,P21/C,SPL-SPL,218
+Triclinic,P212121,SPL-SPL,54
+Triclinic,P21C,SPL-SPL,214
+Triclinic,P21n,SPL-SPL,151
+Triclinic,PBCA,SPL-SPL,73
+Triclinic,PNA21,SPL-SPL,30
+Triclinic,PNMA,SPL-SPL,37
+Triclinic,Perovskites,SPL-SPL,90
+Triclinic,Pi,SPL-SPL,34
+Triclinic,Rhombohedral,SPL-SPL,123
+Triclinic,T,SPL-SPL,51
+Triclinic,Tetragonal,SPL-SPL,263
+Triclinic,Trigonal,SPL-SPL,124
+Triclinic,β,SPL-SPL,30
+Trigonal,1T,SPL-SPL,46
+Trigonal,2H,SPL-SPL,50
+Trigonal,BCC,SPL-SPL,33
+Trigonal,C2/C,SPL-SPL,50
+Trigonal,C2/M,SPL-SPL,41
+Trigonal,Cubic,SPL-SPL,427
+Trigonal,FCC,SPL-SPL,59
+Trigonal,HCP,SPL-SPL,31
+Trigonal,Hexagonal,SPL-SPL,603
+Trigonal,Monoclinic,SPL-SPL,444
+Trigonal,Orthorhombic,SPL-SPL,325
+Trigonal,P1,SPL-SPL,43
+Trigonal,P21/C,SPL-SPL,30
+Trigonal,P3,SPL-SPL,30
+Trigonal,P3121,SPL-SPL,31
+Trigonal,P31C,SPL-SPL,37
+Trigonal,P3M1,SPL-SPL,44
+Trigonal,PNMA,SPL-SPL,40
+Trigonal,Pentagonal,SPL-SPL,44
+Trigonal,Perovskites,SPL-SPL,134
+Trigonal,R3,SPL-SPL,67
+Trigonal,R3M,SPL-SPL,70
+Trigonal,R3c,SPL-SPL,61
+Trigonal,Rhombohedral,SPL-SPL,139
+Trigonal,Rock Salt,SPL-SPL,35
+Trigonal,Spinels,SPL-SPL,36
+Trigonal,Square,SPL-SPL,64
+Trigonal,Tbp,SPL-SPL,34
+Trigonal,Tetragonal,SPL-SPL,356
+Trigonal,Triclinic,SPL-SPL,124
+Trigonal,Trigonal Bipyramidal,SPL-SPL,46
+Trigonal Bipyramidal,Square Pyramidal,SPL-SPL,53
+Trigonal Bipyramidal,Tbp,SPL-SPL,35
+Trigonal Bipyramidal,Trigonal,SPL-SPL,46
+Trip,Austenite,SPL-SPL,33
+Triple,Breast,SPL-SPL,50
+Triple,Negative,SPL-SPL,42
+Triple,Perovskites,SPL-SPL,46
+Triple,TNBC,SPL-SPL,38
+Trondhjemitic,Garnet,SPL-SPL,31
+Truncated,Cubic,SPL-SPL,41
+Ttb,Bronze,SPL-SPL,39
+Ttb,Tetragonal,SPL-SPL,88
+Turbostratic,Hexagonal,SPL-SPL,41
+Two,Pyroxene,SPL-SPL,36
+Type,A-Type,SPL-SPL,75
+Type,Chondrite,SPL-SPL,35
+Type,Cubic,SPL-SPL,65
+Type,Fluorite,SPL-SPL,44
+Type,Garnet,SPL-SPL,53
+Type,Granite,SPL-SPL,175
+Type,Granitic,SPL-SPL,38
+Type,Granitoids,SPL-SPL,70
+Type,Hexagonal,SPL-SPL,80
+Type,IIA,SPL-SPL,49
+Type,Monoclinic,SPL-SPL,36
+Type,Perovskites,SPL-SPL,31
+Type,T,SPL-SPL,36
+UHP,Eclogites,SPL-SPL,34
+UHP,Garnet,SPL-SPL,45
+Uhp,Amphibolite,SPL-SPL,33
+Uhp,Eclogites,SPL-SPL,113
+Uhp,Garnet,SPL-SPL,111
+Uhp,Gneiss,SPL-SPL,37
+Uhp,Granulite,SPL-SPL,32
+Uhp,HP,SPL-SPL,30
+Uhp,Rutile,SPL-SPL,32
+Uht,Garnet,SPL-SPL,31
+Uht,Granulite,SPL-SPL,49
+Ultramafic,Amphibolite,SPL-SPL,57
+Ultramafic,Basaltic,SPL-SPL,44
+Ultramafic,Chondrite,SPL-SPL,50
+Ultramafic,Clinopyroxenes,SPL-SPL,63
+Ultramafic,Eclogites,SPL-SPL,83
+Ultramafic,Garnet,SPL-SPL,201
+Ultramafic,Gneiss,SPL-SPL,55
+Ultramafic,Gneisses,SPL-SPL,45
+Ultramafic,Granulite,SPL-SPL,67
+Ultramafic,Lherzolites,SPL-SPL,39
+Ultramafic,Mafic,SPL-SPL,113
+Ultramafic,Olivines,SPL-SPL,135
+Ultramafic,Ophiolites,SPL-SPL,52
+Ultramafic,Pyroxene,SPL-SPL,60
+Ultramafic,Spinels,SPL-SPL,110
+V1,Cubic,SPL-SPL,50
+V1,Hexagonal,SPL-SPL,48
+V2,Cubic,SPL-SPL,36
+Vaterite,Aragonite,SPL-SPL,57
+Vaterite,Calcite,SPL-SPL,125
+Vaterite,Hexagonal,SPL-SPL,37
+Vaterite,Rhombohedral,SPL-SPL,31
+Volcanic,Chondrite,SPL-SPL,34
+Volcanic,Granite,SPL-SPL,31
+WZ,Cubic,SPL-SPL,32
+WZ,Hexagonal,SPL-SPL,68
+WZ,Wurtzite,SPL-SPL,311
+WZ,ZB,SPL-SPL,73
+WZ,Zb,SPL-SPL,296
+WZ,Zinc Blende,SPL-SPL,202
+Wadsleyite,Olivines,SPL-SPL,33
+Wales,Stones,SPL-SPL,86
+Wells-Dawson,Keggin,SPL-SPL,42
+Wenzel,Baxter,SPL-SPL,47
+Wenzel,Cassie,SPL-SPL,256
+Wenzel,Cassie Baxter,SPL-SPL,37
+Widmanstatten,Acicular,SPL-SPL,30
+Widmanstatten,Allotriomorphic,SPL-SPL,33
+Widmanstatten,Austenite,SPL-SPL,133
+Widmanstatten,Martensite,SPL-SPL,81
+Widmanstatten,Martensitic,SPL-SPL,48
+Widmanstatten,β,SPL-SPL,53
+Wolframite,Monoclinic,SPL-SPL,60
+Wolframite,Scheelite,SPL-SPL,31
+Wurtzite,Abstract,SPL-SPL,31
+Wurtzite,Anatase,SPL-SPL,83
+Wurtzite,B1,SPL-SPL,52
+Wurtzite,Chalcopyrite,SPL-SPL,65
+Wurtzite,Cscl,SPL-SPL,42
+Wurtzite,Cubic,SPL-SPL,505
+Wurtzite,FCC,SPL-SPL,59
+Wurtzite,Face Centered Cubic,SPL-SPL,42
+Wurtzite,Graphitic,SPL-SPL,31
+Wurtzite,HCP,SPL-SPL,31
+Wurtzite,Hexagonal,SPL-SPL,1015
+Wurtzite,Hexagonal Wurtzite,SPL-SPL,126
+Wurtzite,Kesterite,SPL-SPL,60
+Wurtzite,Monoclinic,SPL-SPL,53
+Wurtzite,NaCl,SPL-SPL,44
+Wurtzite,Orthorhombic,SPL-SPL,70
+Wurtzite,P63MC,SPL-SPL,45
+Wurtzite,Perovskites,SPL-SPL,49
+Wurtzite,Rhombohedral,SPL-SPL,36
+Wurtzite,Rock Salt,SPL-SPL,296
+Wurtzite,Rock-Salt,SPL-SPL,70
+Wurtzite,Rutile,SPL-SPL,62
+Wurtzite,Sphalerite,SPL-SPL,165
+Wurtzite,Spinels,SPL-SPL,78
+Wurtzite,T,SPL-SPL,54
+Wurtzite,Tetragonal,SPL-SPL,80
+Wurtzite,WZ,SPL-SPL,311
+Wurtzite,Zb,SPL-SPL,236
+Wurtzite,Zinc Blende,SPL-SPL,1109
+Wurzite,Hexagonal,SPL-SPL,42
+Wustite,Spinels,SPL-SPL,44
+ZB,RS,SPL-SPL,40
+ZB,WZ,SPL-SPL,73
+Zb,Cubic,SPL-SPL,45
+Zb,Hexagonal,SPL-SPL,56
+Zb,Rock Salt,SPL-SPL,48
+Zb,WZ,SPL-SPL,296
+Zb,Wurtzite,SPL-SPL,236
+Zb,Zinc Blende,SPL-SPL,346
+Zigzag,Armchair,SPL-SPL,31
+Zinc Blende,B1,SPL-SPL,59
+Zinc Blende,Chalcopyrite,SPL-SPL,85
+Zinc Blende,Cscl,SPL-SPL,41
+Zinc Blende,Cubic,SPL-SPL,374
+Zinc Blende,FCC,SPL-SPL,43
+Zinc Blende,Hexagonal,SPL-SPL,245
+Zinc Blende,Hexagonal Wurtzite,SPL-SPL,47
+Zinc Blende,NaCl,SPL-SPL,44
+Zinc Blende,Orthorhombic,SPL-SPL,54
+Zinc Blende,Rock Salt,SPL-SPL,272
+Zinc Blende,Rock-Salt,SPL-SPL,76
+Zinc Blende,Tetragonal,SPL-SPL,60
+Zinc Blende,WZ,SPL-SPL,202
+Zinc Blende,Wurtzite,SPL-SPL,1109
+Zinc Blende,Zb,SPL-SPL,346
+Zintl,Orthorhombic,SPL-SPL,32
+Zirconolite,Perovskites,SPL-SPL,45
+Zircons,Rutile,SPL-SPL,35
+Zircons,Scheelite,SPL-SPL,60
+Zircons,Tetragonal,SPL-SPL,38
+tetragonal spinel,Cubic,SPL-SPL,32
+tetragonal spinel,Cubic Spinel,SPL-SPL,47
+tetragonal spinel,Spinels,SPL-SPL,55
+Δ,Austenite,SPL-SPL,68
+Δ,BCC,SPL-SPL,43
+Δ,Cubic,SPL-SPL,61
+Δ,FCC,SPL-SPL,65
+Δ,Hexagonal,SPL-SPL,42
+Δ,Martensite,SPL-SPL,39
+Δ,Monoclinic,SPL-SPL,48
+Δ,Orthorhombic,SPL-SPL,45
+Δ,Tetragonal,SPL-SPL,36
+Δ,Δ-Phase,SPL-SPL,50
+Δ,β,SPL-SPL,276
+Δ,γ,SPL-SPL,31
+Δ,γ'',SPL-SPL,35
+Δ,σ,SPL-SPL,40
+Δ-Phase,Δ,SPL-SPL,50
+Δ-Phase,α-Phase,SPL-SPL,39
+Δ-Phase,γ-Phase,SPL-SPL,38
+Χ,σ,SPL-SPL,48
+α' Martensite,Austenite,SPL-SPL,174
+α' Martensite,Austenitic,SPL-SPL,82
+α' Martensite,BCC,SPL-SPL,42
+α' Martensite,E-Martensite,SPL-SPL,69
+α' Martensite,FCC,SPL-SPL,37
+α' Martensite,Martensite,SPL-SPL,139
+α' Martensite,Martensitic,SPL-SPL,46
+α' Martensite,β,SPL-SPL,35
+α' Martensite,γ-Austenite,SPL-SPL,35
+α'' Martensite,β,SPL-SPL,34
+α-,Hexagonal,SPL-SPL,50
+α-,Monoclinic,SPL-SPL,42
+α-,Orthorhombic,SPL-SPL,42
+α-,α-Phase,SPL-SPL,121
+α-,β,SPL-SPL,123
+α-,β-,SPL-SPL,184
+α-,β-Phase,SPL-SPL,203
+α-,γ-Phase,SPL-SPL,47
+α-,γ-Phases,SPL-SPL,30
+α-Fiber,γ-Fiber,SPL-SPL,33
+α-Form,β-Form,SPL-SPL,93
+α-Form,γ-Form,SPL-SPL,42
+α-Helix,Beta Sheet,SPL-SPL,41
+α-Phase,BCC,SPL-SPL,49
+α-Phase,Cubic,SPL-SPL,64
+α-Phase,FCC,SPL-SPL,38
+α-Phase,HCP,SPL-SPL,34
+α-Phase,Hexagonal,SPL-SPL,72
+α-Phase,Martensite,SPL-SPL,33
+α-Phase,Monoclinic,SPL-SPL,58
+α-Phase,Orthorhombic,SPL-SPL,49
+α-Phase,Tetragonal,SPL-SPL,36
+α-Phase,Δ-Phase,SPL-SPL,39
+α-Phase,α-,SPL-SPL,121
+α-Phase,β,SPL-SPL,210
+α-Phase,β-,SPL-SPL,50
+α-Phase,β-Phase,SPL-SPL,578
+α-Phase,γ-Phase,SPL-SPL,141
+α-Ti,β-Ti,SPL-SPL,45
+α-β,β,SPL-SPL,92
+α1,α2,SPL-SPL,37
+α2,B2,SPL-SPL,47
+α2,α1,SPL-SPL,37
+α2,β,SPL-SPL,110
+α:,γ:,SPL-SPL,36
+αp,β,SPL-SPL,54
+αs,β,SPL-SPL,33
+β,Alpha,SPL-SPL,64
+β,Austenite,SPL-SPL,72
+β,B2,SPL-SPL,94
+β,BCC,SPL-SPL,295
+β,Beta,SPL-SPL,69
+β,Body Centred Cubic,SPL-SPL,58
+β,Cubic,SPL-SPL,248
+β,FCC,SPL-SPL,153
+β,HCP,SPL-SPL,181
+β,Hexagonal,SPL-SPL,278
+β,Martensite,SPL-SPL,352
+β,Martensitic,SPL-SPL,255
+β,Monoclinic,SPL-SPL,203
+β,Orthorhombic,SPL-SPL,217
+β,Prior-β,SPL-SPL,35
+β,Rhombohedral,SPL-SPL,63
+β,Spinels,SPL-SPL,37
+β,Tetragonal,SPL-SPL,143
+β,Triclinic,SPL-SPL,30
+β,Widmanstatten,SPL-SPL,53
+β,Δ,SPL-SPL,276
+β,α' Martensite,SPL-SPL,35
+β,α'' Martensite,SPL-SPL,34
+β,α-,SPL-SPL,123
+β,α-Phase,SPL-SPL,210
+β,α-β,SPL-SPL,92
+β,α2,SPL-SPL,110
+β,αp,SPL-SPL,54
+β,αs,SPL-SPL,33
+β,β-,SPL-SPL,67
+β,β-Form,SPL-SPL,31
+β,β-Phase,SPL-SPL,357
+β,β-Ti,SPL-SPL,38
+β,β-Type,SPL-SPL,36
+β,β-α,SPL-SPL,31
+β,β1,SPL-SPL,69
+β,γ,SPL-SPL,49
+β,γ',SPL-SPL,42
+β,γ-Phase,SPL-SPL,58
+β,ω,SPL-SPL,296
+β-,α-,SPL-SPL,184
+β-,α-Phase,SPL-SPL,50
+β-,β,SPL-SPL,67
+β-,β-Phase,SPL-SPL,71
+β-,γ-Phase,SPL-SPL,50
+β-,γ-Phases,SPL-SPL,30
+β-Form,α-Form,SPL-SPL,93
+β-Form,β,SPL-SPL,31
+β-Phase,BCC,SPL-SPL,73
+β-Phase,Cubic,SPL-SPL,77
+β-Phase,FCC,SPL-SPL,30
+β-Phase,HCP,SPL-SPL,30
+β-Phase,Hexagonal,SPL-SPL,82
+β-Phase,Martensite,SPL-SPL,55
+β-Phase,Martensitic,SPL-SPL,51
+β-Phase,Monoclinic,SPL-SPL,64
+β-Phase,Orthorhombic,SPL-SPL,53
+β-Phase,Tetragonal,SPL-SPL,45
+β-Phase,α-,SPL-SPL,203
+β-Phase,α-Phase,SPL-SPL,578
+β-Phase,β,SPL-SPL,357
+β-Phase,β-,SPL-SPL,71
+β-Phase,γ-Phase,SPL-SPL,118
+β-Phase,ω-Phase,SPL-SPL,31
+β-Ti,α-Ti,SPL-SPL,45
+β-Ti,β,SPL-SPL,38
+β-Type,β,SPL-SPL,36
+β-α,β,SPL-SPL,31
+β1,β,SPL-SPL,69
+γ,Austenite,SPL-SPL,43
+γ,Martensite,SPL-SPL,37
+γ,Δ,SPL-SPL,31
+γ,β,SPL-SPL,49
+γ,γ',SPL-SPL,39
+γ',Cuboidal,SPL-SPL,57
+γ',FCC,SPL-SPL,44
+γ',L12,SPL-SPL,32
+γ',β,SPL-SPL,42
+γ',γ,SPL-SPL,39
+γ',γ'',SPL-SPL,38
+γ',γ-γ',SPL-SPL,34
+γ'',Δ,SPL-SPL,35
+γ'',γ',SPL-SPL,38
+γ-Austenite,Austenite,SPL-SPL,58
+γ-Austenite,Austenitic,SPL-SPL,38
+γ-Austenite,E-Martensite,SPL-SPL,34
+γ-Austenite,Martensite,SPL-SPL,44
+γ-Austenite,α' Martensite,SPL-SPL,35
+γ-Fiber,α-Fiber,SPL-SPL,33
+γ-Form,α-Form,SPL-SPL,42
+γ-Phase,Austenite,SPL-SPL,35
+γ-Phase,Cubic,SPL-SPL,38
+γ-Phase,FCC,SPL-SPL,47
+γ-Phase,Martensite,SPL-SPL,33
+γ-Phase,Orthorhombic,SPL-SPL,34
+γ-Phase,Tetragonal,SPL-SPL,33
+γ-Phase,Δ-Phase,SPL-SPL,38
+γ-Phase,α-,SPL-SPL,47
+γ-Phase,α-Phase,SPL-SPL,141
+γ-Phase,β,SPL-SPL,58
+γ-Phase,β-,SPL-SPL,50
+γ-Phase,β-Phase,SPL-SPL,118
+γ-Phases,α-,SPL-SPL,30
+γ-Phases,β-,SPL-SPL,30
+γ-γ',γ',SPL-SPL,34
+γ1,γ2,SPL-SPL,30
+γ2,γ1,SPL-SPL,30
+γ:,Austenite,SPL-SPL,43
+γ:,Martensite,SPL-SPL,30
+γ:,α:,SPL-SPL,36
+σ,Austenite,SPL-SPL,103
+σ,Austenitic,SPL-SPL,61
+σ,BCC,SPL-SPL,77
+σ,Duplex,SPL-SPL,48
+σ,FCC,SPL-SPL,76
+σ,Δ,SPL-SPL,40
+σ,Χ,SPL-SPL,48
+ω,BCC,SPL-SPL,86
+ω,HCP,SPL-SPL,37
+ω,Hexagonal,SPL-SPL,50
+ω,Martensite,SPL-SPL,50
+ω,Martensitic,SPL-SPL,39
+ω,β,SPL-SPL,296
+ω-Phase,β-Phase,SPL-SPL,31

@@ -81,9 +81,6 @@ class MSC_Dataset(torch.utils.data.Dataset):
         return len(self.inp['input_ids'])
 
 parser = ArgumentParser()
-parser.add_argument('--train_file', required=True, type=str)
-parser.add_argument('--val_file', required=True, type=str)
-parser.add_argument('--model_save_dir', required=True, type=str)
 parser.add_argument('--cache_dir', default="/home/user10/MatSciBERT/.cache", type=str)
 parser.add_argument('--batch_size', default=128, type=int)
 parser.add_argument('--weight_decay', default=1e-2, type=float)
@@ -106,15 +103,11 @@ model_revision = 'main'
 model_name = 'allenai/scibert_scivocab_uncased'
 #model_name = "bert-base-uncased"
 cache_dir = ensure_dir(args.cache_dir) if args.cache_dir else None
-output_dir = ensure_dir(args.model_save_dir)
 
 writer = SummaryWriter(comment=f" || MatSciBERT_concept_masking_128 || {args.batch_size}_{args.lr}_{args.concepts}_{args.alpha}_{args.masking_strategy}_{args.masking_ratio}")
 
-assert os.path.exists(args.train_file)
-assert os.path.exists(args.val_file)
-
-SEED = random.randint(0, 10000)
-#SEED = 42
+#SEED = random.randint(0, 10000)
+SEED = 42
 set_seed(SEED)
 
 config_kwargs = {
@@ -154,11 +147,11 @@ class MSC_Dataset_for_concept(torch.utils.data.Dataset):
         if len(input_ids) > 128:
             input_ids = input_ids[:128]
         
-        input_ids = [start_tok] + input_ids + [sep_tok]
+        #input_ids = [start_tok] + input_ids + [sep_tok]
         #concept_position = [[p[0] + 1, p[1] + 1] for p in self.inp['concept_positions'][idx]]
-        concept_position = [[p[1] + 1, p[2] + 1, p[0]] for p in self.inp['concept_positions'][idx]]
-        
-        
+        #concept_position = [[p[1] + 1, p[2] + 1, p[0]] for p in self.inp['concept_positions'][idx]]
+        concept_position = [[p[1], p[2], p[0]] for p in self.inp['concept_positions'][idx]]
+       
         item = {"input_ids" : input_ids, 'concept_positions' : concept_position}
         #item = {key: torch.tensor(val[idx]) for key, val in self.inp.items()}
         return item
@@ -174,22 +167,16 @@ def concept_masking(origin_input_ids, input_ids, labels, concept_positions, mask
     masked_concept_token = 0
     
     concept_masked_position = torch.zeros_like(labels).fill_(-100).cuda()
-    
-    #print(concept_positions)
+
     masked_concepts = []
     for i in range(batch_size):
         c_p = concept_positions[i]
         if len(c_p) == 0:
             continue
         
-        #c_p = [c_p[1], c_p[2]]
-        
         masked_c_p = []
         for p in c_p:
-            #print(p)
-            #p = [p[1], p[2]]
-            #p = torch.Tensor(p).to(torch.long).cuda()
-            
+
             if random.random() < masking_ratio:
                 
                 if masked_concept_freq != None:
@@ -202,16 +189,13 @@ def concept_masking(origin_input_ids, input_ids, labels, concept_positions, mask
                     continue
                 
                 masked_concept_token += p[1] - p[0]
-                
-                #print(origin_input_ids)
-                
+
                 labels[i, p[0] : p[1]] = origin_input_ids[i, p[0] : p[1]] 
                 concept_masked_position[i, p[0] : p[1]] = origin_input_ids[i, p[0] : p[1]] 
                 if random.random() < 0.8:            
                     input_ids[i, p[0] : p[1]] = mask_tok
                 elif random.random() < 0.5:    
                     replace = torch.randint(0, 31090, (p[1] - p[0],)).cuda()
-                    #print(replace, p)
                     input_ids[i, p[0] : p[1]] = replace
 
 
@@ -288,6 +272,7 @@ def concept_masking_curriculum(origin_input_ids, input_ids, labels, concept_posi
                 masked_concept_token += p[1] - p[0]
 
                 labels[i, p[0] : p[1]] = origin_input_ids[i, p[0] : p[1]] 
+            
                 concept_masked_position[i, p[0] : p[1]] = origin_input_ids[i, p[0] : p[1]] 
                 if random.random() < 0.8:            
                     input_ids[i, p[0] : p[1]] = mask_tok
@@ -337,133 +322,119 @@ wt_list = []
 
 if "curriculum" in args.masking_strategy:
     print("curriculum_rel!")
-    with open("/home/user10/MatSciBERT/data/all/concept_128_ngram_%s_similarity_%s_combine/curriculum_%d.pkl"%(args.concepts, args.similarity, args.curriculum_num), "rb") as f:
+    with open("./raw_data/melt/curriculum_3.pkl", "rb") as f:
         curriculum_dict = pickle.load(f)
-    
-            
+
     for c in curriculum_dict:
         print(len(c))
 
 
-masked_concept_freq = dict()
+masked_concept_freq = None
 LM_LOSS = 0.
 MASK_NUM = 0.
 ACC = 0.
 CONCEPT_ACC = 0.
 num_loss = 0
-iteration = 0
+iteration = 10000
 dynamic_p = 0
 CONCEPT_MASK_NUM = 0.
-for epoch in range(30):
-    
-    a = [i for i in range(10)]
-    random.shuffle(a)
-    
-    for i in a:
-        with open("/home/user10/MatSciBERT/data/all/concept_128_ngram_%s_similarity_%s_combine/split_real/train_data_%d.pkl"%(args.concepts, args.similarity, i+1), "rb") as f:  
-            train_dataset = pickle.load(f)
 
-        temp = dict()
-        temp["input_ids"] = train_dataset["train_data"]
-        temp["concept_positions"] = train_dataset["concepts"]
-        train_dataset = temp
+while(iteration < 100000):
+    with open("./raw_data/melt/train_data.pkl", "rb") as f:  
+        train_dataset = pickle.load(f)
 
-        train_dataset = MSC_Dataset_for_concept(train_dataset)
-        train_dataloader = DataLoader(train_dataset, batch_size=args.step_batch_size, shuffle=True, collate_fn = data_collator, drop_last = True)
+    train_dataset = MSC_Dataset_for_concept(train_dataset)
+    train_dataloader = DataLoader(train_dataset, batch_size=args.step_batch_size, shuffle=True, collate_fn = data_collator, drop_last = True)
+    
+    for batch in tqdm(train_dataloader, ncols = 100, bar_format="{l_bar}{bar:25}{r_bar}"):
+        
+        iteration += 1
+        
+        #print(batch)
+        step_whole_masked_input_ids = batch['input_ids'].to(device)
+        step_labels = batch['labels'].to(device)
+        step_concept_positions = batch['concept_positions']
+        step_origin_input_ids = batch['origin_input_ids'].to(device)
+        
+        step_masked_input_ids = copy.deepcopy(batch['origin_input_ids']).to(device)
         
 
-        for batch in tqdm(train_dataloader, ncols = 100, bar_format="{l_bar}{bar:25}{r_bar}"):
-            
-            iteration += 1
-            
-            #print(batch)
-            step_whole_masked_input_ids = batch['input_ids'].to(device)
-            step_labels = batch['labels'].to(device)
-            step_concept_positions = batch['concept_positions']
-            step_origin_input_ids = batch['origin_input_ids'].to(device)
-            
-            step_masked_input_ids = copy.deepcopy(batch['origin_input_ids']).to(device)
-            
+        if args.masking_strategy == "random":
+            step_masked_input_ids, step_labels, masked_concept_token, concept_masked_position = concept_masking(step_origin_input_ids, step_masked_input_ids, step_labels, step_concept_positions, masking_ratio = args.masking_ratio, masked_concept_freq = masked_concept_freq)
 
-            if args.masking_strategy == "random":
+        elif "curriculum" == args.masking_strategy:
+            num = iteration // 10000
+            num = num % (args.curriculum_num + 1)
+            mat_dict = curriculum_dict[num - 1]
+
+            curriculum_steps = (100000 // (args.curriculum_num + 1)) * (args.curriculum_num + 1)
+            
+            if iteration < curriculum_steps:
+
+                dynamic_p = args.masking_ratio + args.extra_masking
+                t = (num - 1) * (args.extra_masking / (args.curriculum_num - 1)) 
+                dynamic_p -= t
+                    
+                if num == 0:
+                    step_masked_input_ids = step_whole_masked_input_ids
+                elif num == args.curriculum_num:
+                    step_masked_input_ids, step_labels, masked_concept_token, concept_masked_position = concept_masking(step_origin_input_ids, step_masked_input_ids, step_labels, step_concept_positions, masking_ratio = args.masking_ratio, masked_concept_freq = masked_concept_freq)
+                else:                    
+                    step_masked_input_ids, step_labels, masked_concept_token, concept_masked_position = concept_masking_curriculum(step_origin_input_ids, step_masked_input_ids, step_labels, step_concept_positions, mat_dict, masking_ratio = dynamic_p, masked_concept_freq = masked_concept_freq)
+                    
+            else:
                 step_masked_input_ids, step_labels, masked_concept_token, concept_masked_position = concept_masking(step_origin_input_ids, step_masked_input_ids, step_labels, step_concept_positions, masking_ratio = args.masking_ratio, masked_concept_freq = masked_concept_freq)
 
-            elif "curriculum" == args.masking_strategy:
+        masked_token_num = len(step_masked_input_ids[step_masked_input_ids == mask_tok])
+
+        for i in range(args.step_batch_size // args.batch_size):
+        
+            masked_input_ids = step_masked_input_ids[i * args.batch_size : (i+1) * args.batch_size]
+            labels = step_labels[i * args.batch_size : (i+1) * args.batch_size]
+
+            with torch.cuda.amp.autocast():
+                
+                outputs = model(input_ids = masked_input_ids, labels = labels)
+                logits = outputs.logits
+                loss = outputs.loss
+                loss = loss / (args.step_batch_size / args.batch_size)
+                loss = loss.mean()
+                
+            logits = logits[labels != -100]
+            labels = labels[labels != -100]
             
-                num = iteration // 10000
-                num = num % (args.curriculum_num + 1)
-                mat_dict = curriculum_dict[num - 1]
-
-                curriculum_steps = (100000 // (args.curriculum_num + 1)) * (args.curriculum_num + 1)
-                
-                if iteration < curriculum_steps:
-
-                    dynamic_p = args.masking_ratio + args.extra_masking
-                    t = (num - 1) * (args.extra_masking / (args.curriculum_num - 1)) 
-                    dynamic_p -= t
-                        
-                    if num == 0:
-                        step_masked_input_ids = step_whole_masked_input_ids
-                    elif num == args.curriculum_num:
-                        step_masked_input_ids, step_labels, masked_concept_token, concept_masked_position = concept_masking(step_origin_input_ids, step_masked_input_ids, step_labels, step_concept_positions, masking_ratio = args.masking_ratio, masked_concept_freq = masked_concept_freq)
-                    else:                    
-                        step_masked_input_ids, step_labels, masked_concept_token, concept_masked_position = concept_masking_curriculum(step_origin_input_ids, step_masked_input_ids, step_labels, step_concept_positions, mat_dict, masking_ratio = dynamic_p, masked_concept_freq = masked_concept_freq)
-                        
-                else:
-                    step_masked_input_ids, step_labels, masked_concept_token, concept_masked_position = concept_masking(step_origin_input_ids, step_masked_input_ids, step_labels, step_concept_positions, masking_ratio = args.masking_ratio, masked_concept_freq = masked_concept_freq)
-
-            masked_token_num = len(step_masked_input_ids[step_masked_input_ids == mask_tok])
-
-            for i in range(args.step_batch_size // args.batch_size):
+            predicted = torch.max(logits, dim = -1)[1]    
             
-                masked_input_ids = step_masked_input_ids[i * args.batch_size : (i+1) * args.batch_size]
-                labels = step_labels[i * args.batch_size : (i+1) * args.batch_size]
+                
+            optimizer.zero_grad()
+            scaler.scale(loss).backward()
+            LM_LOSS += loss.item()
+            ACC += len(labels[labels == predicted]) / len(labels) / (args.step_batch_size / args.batch_size)
+            
+        scaler.step(optimizer)
+        scaler.update()
+        optimizer_scheduler.step()
+        MASK_NUM += masked_token_num / args.step_batch_size
+        num_loss += 1
+            
+        if iteration % 200 == 0:
+            
+            writer.add_scalar(f'Loss/LM_loss', LM_LOSS / (num_loss + 1e-8), iteration)
+            writer.add_scalar(f'Loss/Mask_num', MASK_NUM / (num_loss + 1e-8), iteration)
+            
+            writer.add_scalar(f'Loss/LR', optimizer.param_groups[0]['lr'], iteration)
+            writer.add_scalar(f'Loss/ACC', ACC / (num_loss + 1e-8), iteration)
+            writer.add_scalar(f"Loss/Mask_ratio", dynamic_p, iteration)
+            
+            LM_LOSS = 0.
+            MASK_NUM = 0.
+            CONCEPT_MASK_NUM = 0.
+            num_loss = 0.
+            ACC = 0.
+            CONCEPT_ACC = 0.
 
-                with torch.cuda.amp.autocast():
-                    
-                    outputs = model(input_ids = masked_input_ids, labels = labels)
-                    logits = outputs.logits
-                    loss = outputs.loss
-                    loss = loss / (args.step_batch_size / args.batch_size)
-                    loss = loss.mean()
-                    
-                logits = logits[labels != -100]
-                labels = labels[labels != -100]
-                
-                predicted = torch.max(logits, dim = -1)[1]    
-                
-                    
-                optimizer.zero_grad()
-                scaler.scale(loss).backward()
-                LM_LOSS += loss.item()
-                ACC += len(labels[labels == predicted]) / len(labels) / (args.step_batch_size / args.batch_size)
-                
-            scaler.step(optimizer)
-            scaler.update()
-            optimizer_scheduler.step()
-            MASK_NUM += masked_token_num / args.step_batch_size
-            num_loss += 1
-                
-            if iteration % 200 == 0:
-                
-                writer.add_scalar(f'Loss/LM_loss', LM_LOSS / (num_loss + 1e-8), iteration)
-                writer.add_scalar(f'Loss/Mask_num', MASK_NUM / (num_loss + 1e-8), iteration)
-                
-                writer.add_scalar(f'Loss/LR', optimizer.param_groups[0]['lr'], iteration)
-                writer.add_scalar(f'Loss/ACC', ACC / (num_loss + 1e-8), iteration)
-                writer.add_scalar(f"Loss/Mask_ratio", dynamic_p, iteration)
-                
-                LM_LOSS = 0.
-                MASK_NUM = 0.
-                CONCEPT_MASK_NUM = 0.
-                num_loss = 0.
-                ACC = 0.
-                CONCEPT_ACC = 0.
+        if iteration % 10000 == 0:
+            PATH = './save_models/MELT_128_%d_curri_%d_total_%f.pt' %(int(iteration), args.curriculum_num, round(args.masking_ratio,2))
+            print("save the model")
+            torch.save(model.state_dict(), PATH)
 
-            if iteration % 10000 == 0:
-                PATH = './model/MELT_128_%d_curri_%d_total_%f.pt' %(int(iteration), args.curriculum_num, round(args.masking_ratio,2))
-                print("save the model")
-                torch.save(model.state_dict(), PATH)
-
-            if iteration > 100000:
-                exit()

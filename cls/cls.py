@@ -47,14 +47,12 @@ parser.add_argument('--seeds', nargs='+', default=None, type=int)
 parser.add_argument('--lm_lrs', nargs='+', default=None, type=float)
 parser.add_argument('--non_lm_lr', default=3e-4, type=float)
 parser.add_argument('--load_weights', default = None, type = str)
-
+parser.add_argument('--to_normalize', default = True, action = 'store_false')
 
 args = parser.parse_args()
-
 if args.model_name == 'scibert':
     model_name = 'allenai/scibert_scivocab_uncased'
     to_normalize = False
-    #to_normalize = True
     
 elif args.model_name == 'matscibert':
     model_name = 'm3rg-iitd/matscibert'
@@ -65,9 +63,8 @@ elif args.model_name == 'bert':
 else:
     raise NotImplementedError
 
-
-if "pt" in args.load_weights:
-    to_normalize = True
+to_normalize = args.to_normalize
+print(to_normalize)
 
 model_revision = 'main'
 cache_dir = ensure_dir(args.cache_dir) if args.cache_dir else None

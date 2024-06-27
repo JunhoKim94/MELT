@@ -1,0 +1,3006 @@
+Subject,Object,Rel,Count
+2D,Hexagonal,APL-SPL,30
+4t1,Breast,APL-SPL,33
+AFM,Hexagonal,APL-SPL,35
+AML,Acute Myeloid,APL-SPL,34
+ARC,Alkaline,APL-SPL,42
+ARC,Amphibolite,APL-SPL,32
+ARC,Andesitic,APL-SPL,32
+ARC,Basaltic,APL-SPL,60
+ARC,Calc,APL-SPL,54
+ARC,Chondrite,APL-SPL,50
+ARC,Clinopyroxenes,APL-SPL,34
+ARC,Garnet,APL-SPL,87
+ARC,Granite,APL-SPL,30
+ARC,Olivines,APL-SPL,41
+ARC,Spinels,APL-SPL,39
+ARC,Tholeiitic,APL-SPL,30
+Absorber,Chalcopyrite,APL-SPL,120
+Absorber,Cubic,APL-SPL,80
+Absorber,Hexagonal,APL-SPL,62
+Absorber,Kesterite,APL-SPL,115
+Absorber,Orthorhombic,APL-SPL,35
+Absorber,Perovskites,APL-SPL,596
+Absorber,S T,APL-SPL,36
+Absorber,Tetragonal,APL-SPL,46
+Absorber Layer,Chalcopyrite,APL-SPL,74
+Absorber Layer,Kesterite,APL-SPL,88
+Absorber Layer,Perovskites,APL-SPL,256
+Absorber Layer,Tetragonal,APL-SPL,30
+Absorbers,Chalcopyrite,APL-SPL,61
+Absorbers,Kesterite,APL-SPL,63
+Absorbers,Perovskites,APL-SPL,275
+Absorbing Layer,Perovskites,APL-SPL,47
+Acceptor,Perovskites,APL-SPL,35
+Active Layer,Anatase,APL-SPL,31
+Active Layer,Cubic,APL-SPL,46
+Active Layer,Hexagonal,APL-SPL,52
+Active Layer,Perovskites,APL-SPL,439
+Active Layer,S T,APL-SPL,40
+Actuator,Austenite,APL-SPL,50
+Actuator,Martensite,APL-SPL,86
+Actuator,Martensitic,APL-SPL,63
+Actuator,Perovskites,APL-SPL,88
+Actuator,Tetragonal,APL-SPL,37
+Adenocarcinoma,Lung,APL-SPL,58
+Adhesive,Hexagonal,APL-SPL,30
+Adipocyte,Brown,APL-SPL,30
+Adsorbent,Abstract,APL-SPL,59
+Adsorbent,Anatase,APL-SPL,65
+Adsorbent,BSTRAct,APL-SPL,37
+Adsorbent,Cubic,APL-SPL,84
+Adsorbent,Hexagonal,APL-SPL,169
+Adsorbent,Hydrotalcite,APL-SPL,38
+Adsorbent,Organic,APL-SPL,73
+Adsorbent,S T,APL-SPL,95
+Adsorbent,Spinels,APL-SPL,47
+Adsorbent,T,APL-SPL,127
+Adsorbent,Zeolitic,APL-SPL,44
+Adsorption,Hexagonal,APL-SPL,41
+Aerospace,HCP,APL-SPL,48
+Aerospace,Hexagonal Close Packed,APL-SPL,34
+Air Electrode,Perovskites,APL-SPL,75
+Air Separation,Perovskites,APL-SPL,33
+All Solid State Batteries,Garnet,APL-SPL,45
+Alloy,Martensite,APL-SPL,46
+Alloys,Austenite,APL-SPL,63
+Alloys,Martensite,APL-SPL,113
+Alloys,Martensitic,APL-SPL,85
+Anode,1T,APL-SPL,60
+Anode,2H,APL-SPL,55
+Anode,Abstract,APL-SPL,337
+Anode,Anatase,APL-SPL,513
+Anode,B s t,APL-SPL,65
+Anode,BCC,APL-SPL,48
+Anode,BSTRAct,APL-SPL,94
+Anode,Cubic,APL-SPL,497
+Anode,Cubic Perovskites,APL-SPL,54
+Anode,Cubic Spinel,APL-SPL,36
+Anode,Double Perovskite,APL-SPL,79
+Anode,FCC,APL-SPL,100
+Anode,Face Centered Cubic,APL-SPL,44
+Anode,Fluorite,APL-SPL,51
+Anode,Garnet,APL-SPL,110
+Anode,Graphitic,APL-SPL,141
+Anode,HCP,APL-SPL,41
+Anode,Hexagonal,APL-SPL,485
+Anode,Monoclinic,APL-SPL,197
+Anode,O3,APL-SPL,38
+Anode,Olivines,APL-SPL,77
+Anode,Orthorhombic,APL-SPL,243
+Anode,P2,APL-SPL,59
+Anode,Perovskites,APL-SPL,846
+Anode,R A C T,APL-SPL,87
+Anode,Rhombohedral,APL-SPL,107
+Anode,Rock Salt,APL-SPL,43
+Anode,Rutile,APL-SPL,264
+Anode,S T,APL-SPL,317
+Anode,STRAC,APL-SPL,113
+Anode,Spinels,APL-SPL,680
+Anode,T,APL-SPL,476
+Anode,TRACTA,APL-SPL,37
+Anode,Tetragonal,APL-SPL,203
+Anode,Trigonal,APL-SPL,30
+Anodes,Abstract,APL-SPL,91
+Anodes,Anatase,APL-SPL,149
+Anodes,Cubic,APL-SPL,131
+Anodes,FCC,APL-SPL,35
+Anodes,Garnet,APL-SPL,30
+Anodes,Graphitic,APL-SPL,49
+Anodes,Hexagonal,APL-SPL,126
+Anodes,Monoclinic,APL-SPL,51
+Anodes,Orthorhombic,APL-SPL,43
+Anodes,Perovskites,APL-SPL,221
+Anodes,Rutile,APL-SPL,94
+Anodes,S T,APL-SPL,64
+Anodes,Spinels,APL-SPL,178
+Anodes,T,APL-SPL,74
+Anodes,Tetragonal,APL-SPL,52
+Antennae,Hexagonal,APL-SPL,42
+Anti-Cancer,Breast,APL-SPL,101
+Anti-Cancer,Colon,APL-SPL,44
+Anti-Cancer,Lung,APL-SPL,40
+Anti-Cancer,Ovarian,APL-SPL,42
+Anticancer Agent,Breast,APL-SPL,63
+Anticancer Drugs,Breast,APL-SPL,73
+Anticancer Drugs,Colon,APL-SPL,36
+Anticancer Drugs,Ovarian,APL-SPL,43
+Anvil Cell,Cubic,APL-SPL,115
+Anvil Cell,Hexagonal,APL-SPL,76
+Anvil Cell,Monoclinic,APL-SPL,77
+Anvil Cell,Orthorhombic,APL-SPL,92
+Anvil Cell,Perovskites,APL-SPL,101
+Anvil Cell,Tetragonal,APL-SPL,56
+Applications,Perovskites,APL-SPL,44
+Aquifer,Sandy,APL-SPL,30
+Asteroid,Chondrite,APL-SPL,80
+Asteroid,Chondritic,APL-SPL,31
+Asteroid,Meteorite,APL-SPL,48
+Asteroid,Olivines,APL-SPL,59
+Asteroid,Pyroxene,APL-SPL,53
+Asteroids,Chondrite,APL-SPL,77
+Asteroids,Meteorite,APL-SPL,47
+Asteroids,Olivines,APL-SPL,51
+Asteroids,Pyroxene,APL-SPL,38
+Atherosclerosis,Macrophages,APL-SPL,45
+Automotive,HCP,APL-SPL,39
+Automotive,Hexagonal Close Packed,APL-SPL,31
+Automotive,Martensite,APL-SPL,30
+Automotive Industry,Austenite,APL-SPL,45
+Automotive Industry,Martensite,APL-SPL,40
+Automotive Industry,Martensitic,APL-SPL,32
+BHJ,Perovskites,APL-SPL,61
+Back Contact,Kesterite,APL-SPL,41
+Back Contact,Perovskites,APL-SPL,87
+Back Electrode,Perovskites,APL-SPL,36
+Barometers,Garnet,APL-SPL,71
+Barrier Layer,Anatase,APL-SPL,35
+Barrier Layer,Hexagonal,APL-SPL,58
+Barrier Layer,Perovskites,APL-SPL,53
+Batteries,Abstract,APL-SPL,45
+Batteries,Anatase,APL-SPL,40
+Batteries,Cubic,APL-SPL,80
+Batteries,Garnet,APL-SPL,64
+Batteries,Hexagonal,APL-SPL,76
+Batteries,Monoclinic,APL-SPL,47
+Batteries,Olivines,APL-SPL,42
+Batteries,Orthorhombic,APL-SPL,35
+Batteries,Perovskites,APL-SPL,97
+Batteries,S T,APL-SPL,51
+Batteries,Spinels,APL-SPL,164
+Batteries,T,APL-SPL,30
+Batteries,Tetragonal,APL-SPL,38
+Battery,Abstract,APL-SPL,58
+Battery,Anatase,APL-SPL,70
+Battery,B s t,APL-SPL,31
+Battery,Cubic,APL-SPL,94
+Battery,Garnet,APL-SPL,88
+Battery,Graphitic,APL-SPL,32
+Battery,Hexagonal,APL-SPL,105
+Battery,Monoclinic,APL-SPL,65
+Battery,Olivines,APL-SPL,74
+Battery,Orthorhombic,APL-SPL,55
+Battery,P2,APL-SPL,30
+Battery,Perovskites,APL-SPL,75
+Battery,Rhombohedral,APL-SPL,38
+Battery,Rutile,APL-SPL,30
+Battery,S T,APL-SPL,91
+Battery,Spinels,APL-SPL,240
+Battery,T,APL-SPL,59
+Battery,Tetragonal,APL-SPL,55
+Beach,Sandy,APL-SPL,37
+Beaches,Sandy,APL-SPL,35
+Bearings,Austenite,APL-SPL,50
+Bearings,Martensite,APL-SPL,43
+Bearings,Martensitic,APL-SPL,41
+Bed,Olivines,APL-SPL,34
+Belt,Greenstone,APL-SPL,34
+Bifunctional Catalysts,Perovskites,APL-SPL,55
+Bifunctional Catalysts,Spinels,APL-SPL,31
+Bio Diesel,S T,APL-SPL,43
+Bio Diesel,T,APL-SPL,75
+Bio-Medical,Hexagonal,APL-SPL,31
+Bio-Sensor,Abstract,APL-SPL,31
+Bio-Sensor,Hexagonal,APL-SPL,77
+Bio-Sensor,S T,APL-SPL,68
+Bio-Sensor,T,APL-SPL,79
+Biodiesel Production,T,APL-SPL,34
+Biofuel,T,APL-SPL,47
+Bioimaging,Cubic,APL-SPL,31
+Bioimaging,Hexagonal,APL-SPL,40
+Biomaterial,Anatase,APL-SPL,31
+Biomaterial,Hexagonal,APL-SPL,47
+Biomaterial,Macrophages,APL-SPL,32
+Biomaterial,Mesenchymal,APL-SPL,31
+Biomaterial,Osteoblasts,APL-SPL,45
+Biomaterial,Rutile,APL-SPL,30
+Biomedical Application,Anatase,APL-SPL,47
+Biomedical Application,Cubic,APL-SPL,64
+Biomedical Application,Hexagonal,APL-SPL,52
+Biomedical Application,Spinels,APL-SPL,33
+Biomedical Application,Type,APL-SPL,31
+Biosensing,Hexagonal,APL-SPL,30
+Bladder Cancer,Bladder,APL-SPL,64
+Blade Coating,Perovskites,APL-SPL,32
+Blanket,Ferritic,APL-SPL,61
+Blanket,Martensitic,APL-SPL,70
+Blocking Layer,Anatase,APL-SPL,36
+Blocking Layer,Perovskites,APL-SPL,107
+Blue,Anatase,APL-SPL,56
+Blue,Hexagonal,APL-SPL,34
+Blue,Perovskites,APL-SPL,37
+Blue LED,Perovskites,APL-SPL,43
+Boilers,Austenitic,APL-SPL,30
+Bone,Breast,APL-SPL,51
+Bone,Femur,APL-SPL,53
+Bone,Macrophages,APL-SPL,37
+Bone,Marrow,APL-SPL,241
+Bone,Mesenchymal,APL-SPL,75
+Bone,Myeloid,APL-SPL,35
+Bone,Osteoblastic,APL-SPL,59
+Bone,Osteoblasts,APL-SPL,393
+Bone,Osteoclast,APL-SPL,36
+Bone,Osteoclasts,APL-SPL,83
+Bone Cells,Osteoblasts,APL-SPL,50
+Bone Defect,Osteoblasts,APL-SPL,31
+Bone Marrow,Marrow,APL-SPL,51
+Bone Regeneration,Osteoblasts,APL-SPL,58
+Bottom Cell,Perovskites,APL-SPL,127
+Bottom Electrode,Perovskites,APL-SPL,123
+Bottom Electrode,Tetragonal,APL-SPL,33
+Brain Tumors,Glioblastoma,APL-SPL,37
+Brain Tumors,Gliomas,APL-SPL,43
+Breast,Ovarian,APL-SPL,34
+Breast Cancer,Breast,APL-SPL,1368
+Breast Cancer,Colon,APL-SPL,45
+Breast Cancer,Lung,APL-SPL,51
+Breast Cancer,Mammary,APL-SPL,62
+Breast Cancer,Melanoma,APL-SPL,32
+Breast Cancer,Negative,APL-SPL,45
+Breast Cancer,Ovarian,APL-SPL,72
+Breast Cancer,Prostate,APL-SPL,61
+Breast Cancer,SK-BR-3,APL-SPL,36
+Breast Cancer,TNBC,APL-SPL,46
+Breast Cancer,Triple,APL-SPL,64
+Breast Cancer,Triple Negative,APL-SPL,35
+Breast Cancer Cells,Breast,APL-SPL,49
+Breast Cancer Cells,Breast Cancer,APL-SPL,34
+Breast Carcinoma,Breast,APL-SPL,34
+Breast Tumor,Breast,APL-SPL,159
+Building,S T,APL-SPL,51
+Buildings,S T,APL-SPL,49
+Buildings,T,APL-SPL,33
+C-Pscs,Perovskites,APL-SPL,32
+CAI,Chondrite,APL-SPL,44
+CAI,Olivines,APL-SPL,34
+CAI,Perovskites,APL-SPL,46
+CAI,Spinels,APL-SPL,58
+CAIS,Chondrite,APL-SPL,53
+CAIs,Olivines,APL-SPL,34
+CAIs,Perovskites,APL-SPL,36
+CAIs,Pyroxene,APL-SPL,31
+CAIs,Spinels,APL-SPL,56
+CE,Cubic,APL-SPL,37
+CE,Hexagonal,APL-SPL,45
+CE,Perovskites,APL-SPL,83
+CO,Anatase,APL-SPL,47
+CO,Cubic,APL-SPL,30
+CO,FCC,APL-SPL,33
+CO,Hexagonal,APL-SPL,32
+CO,Perovskites,APL-SPL,88
+CO,Rutile,APL-SPL,34
+CO,Spinels,APL-SPL,37
+CO Oxidation,Anatase,APL-SPL,72
+CO Oxidation,Cubic,APL-SPL,83
+CO Oxidation,FCC,APL-SPL,66
+CO Oxidation,Hexagonal,APL-SPL,81
+CO Oxidation,Perovskites,APL-SPL,123
+CO Oxidation,Rutile,APL-SPL,54
+CO Oxidation,Spinels,APL-SPL,52
+CO Oxidation,T,APL-SPL,38
+CO Oxidation,Tetragonal,APL-SPL,33
+CO2 Capture,S T,APL-SPL,35
+CO2 Photoreduction,Anatase,APL-SPL,43
+CO2 Reduction,Anatase,APL-SPL,70
+CO2 Reduction,Hexagonal,APL-SPL,37
+CO2 Reduction,Perovskites,APL-SPL,75
+CO2 Reduction,Rutile,APL-SPL,41
+CRC,Colorectal,APL-SPL,226
+Cancer,Adenocarcinoma,APL-SPL,47
+Cancer,Bladder,APL-SPL,95
+Cancer,Breast,APL-SPL,1638
+Cancer,CRC,APL-SPL,31
+Cancer,Cervical,APL-SPL,123
+Cancer,Colon,APL-SPL,331
+Cancer,Colorectal,APL-SPL,382
+Cancer,Endometrial,APL-SPL,53
+Cancer,Epithelial,APL-SPL,44
+Cancer,Esophageal,APL-SPL,35
+Cancer,Gastric,APL-SPL,189
+Cancer,Hepatocellular,APL-SPL,50
+Cancer,Leukemia,APL-SPL,38
+Cancer,Liver,APL-SPL,63
+Cancer,Lung,APL-SPL,268
+Cancer,Mammary,APL-SPL,43
+Cancer,Melanoma,APL-SPL,126
+Cancer,Mesenchymal,APL-SPL,31
+Cancer,NSCLC,APL-SPL,65
+Cancer,Non-Small,APL-SPL,49
+Cancer,Non-Small Cell,APL-SPL,41
+Cancer,Ovarian,APL-SPL,742
+Cancer,Pancreatic,APL-SPL,224
+Cancer,Prostate,APL-SPL,305
+Cancer,Renal,APL-SPL,69
+Cancer,S T,APL-SPL,45
+Cancer,Skin,APL-SPL,32
+Cancer,Skov-3,APL-SPL,31
+Cancer,Squamous Cell,APL-SPL,62
+Cancer,T,APL-SPL,32
+Cancer,TNBC,APL-SPL,42
+Cancer,Thyroid,APL-SPL,57
+Cancer,Triple,APL-SPL,41
+Cancer Cell,Breast,APL-SPL,79
+Cancer Cell,Ovarian,APL-SPL,44
+Cancer Stem Cells,Breast,APL-SPL,34
+Cancer Therapy,Breast,APL-SPL,79
+Cancer Therapy,Colon,APL-SPL,35
+Cancer Therapy,Ovarian,APL-SPL,33
+Cancer Treatments,Breast,APL-SPL,80
+Cancer Treatments,Ovarian,APL-SPL,30
+Cantilevered,Hexagonal,APL-SPL,33
+Capacitor,Cubic,APL-SPL,87
+Capacitor,Hexagonal,APL-SPL,82
+Capacitor,Monoclinic,APL-SPL,46
+Capacitor,Orthorhombic,APL-SPL,51
+Capacitor,Perovskites,APL-SPL,202
+Capacitor,Tetragonal,APL-SPL,80
+Capping,Perovskites,APL-SPL,57
+Capping Layers,Perovskites,APL-SPL,64
+Capsids,Icosahedral,APL-SPL,37
+Carcinoma,Breast,APL-SPL,63
+Carcinoma,Colorectal,APL-SPL,31
+Carcinoma,Gastric,APL-SPL,30
+Carcinoma,Hepatocellular,APL-SPL,164
+Carcinoma,Lung,APL-SPL,30
+Carcinoma,Mammary,APL-SPL,30
+Carcinoma,Ovarian,APL-SPL,56
+Carcinoma,Renal,APL-SPL,31
+Carcinoma,Renal Cell,APL-SPL,47
+Carcinoma,Squamous Cell,APL-SPL,59
+Cartilages,Chondrocyte,APL-SPL,53
+Castable,Spinels,APL-SPL,40
+Catalysis,Abstract,APL-SPL,33
+Catalysis,Anatase,APL-SPL,102
+Catalysis,Cubic,APL-SPL,130
+Catalysis,FCC,APL-SPL,65
+Catalysis,Face Centered Cubic,APL-SPL,48
+Catalysis,Graphitic,APL-SPL,30
+Catalysis,Hexagonal,APL-SPL,198
+Catalysis,Keggin,APL-SPL,31
+Catalysis,MOFs,APL-SPL,50
+Catalysis,Monoclinic,APL-SPL,41
+Catalysis,Organic,APL-SPL,111
+Catalysis,Orthorhombic,APL-SPL,32
+Catalysis,Perovskites,APL-SPL,129
+Catalysis,Rutile,APL-SPL,62
+Catalysis,Spinels,APL-SPL,79
+Catalysis,T,APL-SPL,58
+Catalysis,Tetragonal,APL-SPL,36
+Catalyst,100,APL-SPL,33
+Catalyst,101,APL-SPL,33
+Catalyst,110,APL-SPL,49
+Catalyst,1T,APL-SPL,130
+Catalyst,2H,APL-SPL,137
+Catalyst,ACT,APL-SPL,96
+Catalyst,Abstract,APL-SPL,575
+Catalyst,Anatase,APL-SPL,2737
+Catalyst,B s t,APL-SPL,112
+Catalyst,BCC,APL-SPL,98
+Catalyst,BSTRAct,APL-SPL,142
+Catalyst,Beta,APL-SPL,44
+Catalyst,Birnessites,APL-SPL,59
+Catalyst,Body Centred Cubic,APL-SPL,37
+Catalyst,Brookite,APL-SPL,148
+Catalyst,Brucite,APL-SPL,32
+Catalyst,Cryptomelane,APL-SPL,61
+Catalyst,Cubane,APL-SPL,53
+Catalyst,Cubic,APL-SPL,1642
+Catalyst,Cubic Fluorite,APL-SPL,41
+Catalyst,Cubic Perovskites,APL-SPL,50
+Catalyst,Cubic Spinel,APL-SPL,48
+Catalyst,Cuboctahedral,APL-SPL,57
+Catalyst,Dawson,APL-SPL,34
+Catalyst,Double Perovskite,APL-SPL,75
+Catalyst,F,APL-SPL,47
+Catalyst,FCC,APL-SPL,1070
+Catalyst,Face Centered Cubic,APL-SPL,376
+Catalyst,Faujasite,APL-SPL,56
+Catalyst,Fluorite,APL-SPL,190
+Catalyst,G,APL-SPL,45
+Catalyst,Gamma,APL-SPL,60
+Catalyst,Graphitic,APL-SPL,754
+Catalyst,HCP,APL-SPL,269
+Catalyst,Hexagonal,APL-SPL,2173
+Catalyst,Hexagonal Close Packed,APL-SPL,44
+Catalyst,Hexagonal Wurtzite,APL-SPL,101
+Catalyst,Hexagonally,APL-SPL,59
+Catalyst,Ht,APL-SPL,63
+Catalyst,Hydrotalcite,APL-SPL,602
+Catalyst,Hydrotalcite-Like,APL-SPL,60
+Catalyst,Icosahedral,APL-SPL,87
+Catalyst,Inverse Spinel,APL-SPL,35
+Catalyst,Keggin,APL-SPL,365
+Catalyst,L10,APL-SPL,33
+Catalyst,Like,APL-SPL,71
+Catalyst,M1,APL-SPL,81
+Catalyst,MFI,APL-SPL,341
+Catalyst,Meso Structured,APL-SPL,51
+Catalyst,Monoclinic,APL-SPL,890
+Catalyst,Octahedral,APL-SPL,78
+Catalyst,Olivines,APL-SPL,70
+Catalyst,Organic,APL-SPL,82
+Catalyst,Orthorhombic,APL-SPL,481
+Catalyst,P,APL-SPL,51
+Catalyst,P1,APL-SPL,32
+Catalyst,Periclase,APL-SPL,37
+Catalyst,Perovskite-Type,APL-SPL,35
+Catalyst,Perovskites,APL-SPL,2377
+Catalyst,Pyrite,APL-SPL,43
+Catalyst,Pyrochlore,APL-SPL,67
+Catalyst,R A,APL-SPL,40
+Catalyst,R A C T,APL-SPL,368
+Catalyst,RAC,APL-SPL,92
+Catalyst,Rhombic Dodecahedron,APL-SPL,39
+Catalyst,Rhombohedral,APL-SPL,169
+Catalyst,Rock Salt,APL-SPL,41
+Catalyst,Rutile,APL-SPL,1502
+Catalyst,S T,APL-SPL,780
+Catalyst,STRAC,APL-SPL,191
+Catalyst,Scheelite,APL-SPL,50
+Catalyst,Spinels,APL-SPL,1616
+Catalyst,T,APL-SPL,1577
+Catalyst,T R A C,APL-SPL,30
+Catalyst,TRACTA,APL-SPL,87
+Catalyst,Tetragonal,APL-SPL,1002
+Catalyst,Triclinic,APL-SPL,65
+Catalyst,Trigonal,APL-SPL,118
+Catalyst,Type,APL-SPL,32
+Catalyst,WZ,APL-SPL,48
+Catalyst,Wurtzite,APL-SPL,304
+Catalyst,Zb,APL-SPL,44
+Catalyst,Zeolitic,APL-SPL,128
+Catalyst,Zinc Blende,APL-SPL,119
+Catalyst,α-,APL-SPL,32
+Catalyst,β,APL-SPL,71
+Catalyst Layer,S T,APL-SPL,31
+Catalysts,Anatase,APL-SPL,71
+Catalysts,Cubic,APL-SPL,31
+Catalysts,Hexagonal,APL-SPL,35
+Catalysts,Monoclinic,APL-SPL,40
+Catalysts,Perovskites,APL-SPL,44
+Catalysts,Rutile,APL-SPL,32
+Catalysts,Spinels,APL-SPL,35
+Catalysts,Tetragonal,APL-SPL,45
+Catalytic,Anatase,APL-SPL,78
+Catalytic,Cubic,APL-SPL,41
+Catalytic,Hexagonal,APL-SPL,77
+Catalytic,Perovskites,APL-SPL,69
+Catalytic,Rutile,APL-SPL,52
+Catalytic,S T,APL-SPL,30
+Catalytic,Spinels,APL-SPL,37
+Catalytic,T,APL-SPL,36
+Catalytic,Tetragonal,APL-SPL,31
+Catalytic Combustion,Perovskites,APL-SPL,34
+Catalytic Reaction,Anatase,APL-SPL,38
+Catalytic Reaction,Cubic,APL-SPL,41
+Catalytic Reaction,Hexagonal,APL-SPL,47
+Catalytic Reaction,Perovskites,APL-SPL,40
+Catalytic Reaction,Spinels,APL-SPL,30
+Cathode,1T,APL-SPL,43
+Cathode,2H,APL-SPL,33
+Cathode,Abstract,APL-SPL,430
+Cathode,Anatase,APL-SPL,236
+Cathode,B s t,APL-SPL,63
+Cathode,BCC,APL-SPL,42
+Cathode,BSTRAct,APL-SPL,118
+Cathode,Birnessites,APL-SPL,36
+Cathode,C2/M,APL-SPL,60
+Cathode,Chevrel,APL-SPL,37
+Cathode,Cubic,APL-SPL,603
+Cathode,Cubic Perovskites,APL-SPL,99
+Cathode,Cubic Spinel,APL-SPL,90
+Cathode,Double Perovskite,APL-SPL,103
+Cathode,FCC,APL-SPL,102
+Cathode,FD3M,APL-SPL,71
+Cathode,Face Centered Cubic,APL-SPL,50
+Cathode,Ferritic,APL-SPL,39
+Cathode,Fluorite,APL-SPL,37
+Cathode,Garnet,APL-SPL,142
+Cathode,Graphitic,APL-SPL,120
+Cathode,HCP,APL-SPL,33
+Cathode,Hexagonal,APL-SPL,572
+Cathode,Monoclinic,APL-SPL,482
+Cathode,O3,APL-SPL,129
+Cathode,Olivines,APL-SPL,478
+Cathode,Orthorhombic,APL-SPL,365
+Cathode,P2,APL-SPL,214
+Cathode,P2 1/N,APL-SPL,31
+Cathode,P3,APL-SPL,73
+Cathode,P4332,APL-SPL,42
+Cathode,PMN21,APL-SPL,32
+Cathode,PNMA,APL-SPL,47
+Cathode,Perovskites,APL-SPL,1360
+Cathode,R A C T,APL-SPL,70
+Cathode,R-3M,APL-SPL,41
+Cathode,R3M,APL-SPL,34
+Cathode,RM,APL-SPL,30
+Cathode,Rhombohedral,APL-SPL,214
+Cathode,Rock Salt,APL-SPL,145
+Cathode,Rock-Salt,APL-SPL,88
+Cathode,Ruddlesden Popper,APL-SPL,43
+Cathode,Rutile,APL-SPL,158
+Cathode,S T,APL-SPL,324
+Cathode,STRAC,APL-SPL,98
+Cathode,Spinels,APL-SPL,1660
+Cathode,T,APL-SPL,308
+Cathode,TRACTA,APL-SPL,54
+Cathode,Tetragonal,APL-SPL,240
+Cathode,Triclinic,APL-SPL,60
+Cathode,Trigonal,APL-SPL,47
+Cathode Catalyst,Perovskites,APL-SPL,49
+Cathode Materials,Spinels,APL-SPL,31
+Cathodes,Abstract,APL-SPL,107
+Cathodes,Anatase,APL-SPL,55
+Cathodes,BSTRAct,APL-SPL,30
+Cathodes,Cubic,APL-SPL,179
+Cathodes,Cubic Perovskites,APL-SPL,30
+Cathodes,Cubic Spinel,APL-SPL,30
+Cathodes,Double Perovskite,APL-SPL,41
+Cathodes,Garnet,APL-SPL,35
+Cathodes,Graphitic,APL-SPL,43
+Cathodes,Hexagonal,APL-SPL,166
+Cathodes,Monoclinic,APL-SPL,132
+Cathodes,O3,APL-SPL,63
+Cathodes,Olivines,APL-SPL,129
+Cathodes,Orthorhombic,APL-SPL,115
+Cathodes,P2,APL-SPL,80
+Cathodes,P3,APL-SPL,41
+Cathodes,Perovskites,APL-SPL,463
+Cathodes,Rhombohedral,APL-SPL,75
+Cathodes,Rock Salt,APL-SPL,63
+Cathodes,Rock-Salt,APL-SPL,40
+Cathodes,Rutile,APL-SPL,40
+Cathodes,S T,APL-SPL,34
+Cathodes,Spinels,APL-SPL,505
+Cathodes,T,APL-SPL,46
+Cathodes,Tetragonal,APL-SPL,67
+Cavity,Hexagonal,APL-SPL,32
+Cavity,Perovskites,APL-SPL,34
+Cell,Abstract,APL-SPL,175
+Cell,Anatase,APL-SPL,312
+Cell,B s t,APL-SPL,60
+Cell,BCC,APL-SPL,37
+Cell,BSTRAct,APL-SPL,69
+Cell,Breast,APL-SPL,82
+Cell,Chalcopyrite,APL-SPL,36
+Cell,Colon,APL-SPL,31
+Cell,Cubic,APL-SPL,499
+Cell,Cubic Perovskites,APL-SPL,55
+Cell,Double Perovskite,APL-SPL,44
+Cell,FCC,APL-SPL,75
+Cell,Fluorite,APL-SPL,35
+Cell,Garnet,APL-SPL,140
+Cell,Graphitic,APL-SPL,55
+Cell,HCP,APL-SPL,35
+Cell,Hematopoietic,APL-SPL,32
+Cell,Hexagonal,APL-SPL,450
+Cell,Lc,APL-SPL,50
+Cell,Macrophages,APL-SPL,62
+Cell,Marrow,APL-SPL,53
+Cell,Melanoma,APL-SPL,31
+Cell,Mesenchymal,APL-SPL,97
+Cell,Monoclinic,APL-SPL,215
+Cell,Monocytes,APL-SPL,30
+Cell,Myeloid,APL-SPL,37
+Cell,Nematic,APL-SPL,121
+Cell,Non-Small,APL-SPL,33
+Cell,O3,APL-SPL,63
+Cell,Olivines,APL-SPL,93
+Cell,Orthorhombic,APL-SPL,209
+Cell,Osteoblasts,APL-SPL,40
+Cell,Ovarian,APL-SPL,45
+Cell,P,APL-SPL,45
+Cell,P2,APL-SPL,73
+Cell,P3,APL-SPL,41
+Cell,Perovskites,APL-SPL,1446
+Cell,Pluripotent,APL-SPL,52
+Cell,R A C T,APL-SPL,38
+Cell,Renal,APL-SPL,31
+Cell,Rhombohedral,APL-SPL,117
+Cell,Rock Salt,APL-SPL,54
+Cell,Rutile,APL-SPL,174
+Cell,S T,APL-SPL,276
+Cell,STRAC,APL-SPL,61
+Cell,Sma,APL-SPL,32
+Cell,Smectic,APL-SPL,32
+Cell,Spinels,APL-SPL,454
+Cell,Squamous,APL-SPL,35
+Cell,T,APL-SPL,227
+Cell,Tetragonal,APL-SPL,220
+Cell,β,APL-SPL,41
+Cell Carcinoma,Renal,APL-SPL,62
+Cell Carcinoma,Squamous,APL-SPL,52
+Cell Disease,Sickle,APL-SPL,32
+Cell Lung Cancer,NSCLC,APL-SPL,47
+Cell Lung Cancer,Non-Small,APL-SPL,103
+Cells,AML,APL-SPL,38
+Cells,Abstract,APL-SPL,137
+Cells,Alveolar,APL-SPL,56
+Cells,Anatase,APL-SPL,273
+Cells,B Cell,APL-SPL,42
+Cells,B s t,APL-SPL,49
+Cells,BSTRAct,APL-SPL,56
+Cells,Beta,APL-SPL,38
+Cells,Bone,APL-SPL,41
+Cells,Breast,APL-SPL,160
+Cells,Bronchial,APL-SPL,52
+Cells,Cardiac,APL-SPL,32
+Cells,Chalcopyrite,APL-SPL,52
+Cells,Chondrocyte,APL-SPL,30
+Cells,Colon,APL-SPL,78
+Cells,Colorectal,APL-SPL,44
+Cells,Cubic,APL-SPL,331
+Cells,Cubic Perovskites,APL-SPL,32
+Cells,Dendritic,APL-SPL,34
+Cells,Embryonic,APL-SPL,41
+Cells,Endothelial,APL-SPL,30
+Cells,Epithelial,APL-SPL,58
+Cells,FCC,APL-SPL,32
+Cells,Fibroblasts,APL-SPL,80
+Cells,Garnet,APL-SPL,114
+Cells,Graphitic,APL-SPL,36
+Cells,HSCs,APL-SPL,83
+Cells,Haematopoietic,APL-SPL,30
+Cells,Hematopoietic,APL-SPL,91
+Cells,Hepatic,APL-SPL,105
+Cells,Hepatocyte,APL-SPL,33
+Cells,Hexagonal,APL-SPL,289
+Cells,Jurkat,APL-SPL,43
+Cells,Like,APL-SPL,54
+Cells,Lung,APL-SPL,51
+Cells,Lymphocytes,APL-SPL,35
+Cells,Macrophages,APL-SPL,188
+Cells,Mammary,APL-SPL,32
+Cells,Marrow,APL-SPL,161
+Cells,Melanoma,APL-SPL,64
+Cells,Mesenchymal,APL-SPL,402
+Cells,Mesenchymal Stem,APL-SPL,72
+Cells,Mesenchymal Stromal,APL-SPL,33
+Cells,Monoclinic,APL-SPL,133
+Cells,Monocytes,APL-SPL,106
+Cells,Myeloid,APL-SPL,65
+Cells,NK,APL-SPL,79
+Cells,Nematic,APL-SPL,34
+Cells,Neutrophils,APL-SPL,37
+Cells,O3,APL-SPL,46
+Cells,Olivines,APL-SPL,72
+Cells,Orthorhombic,APL-SPL,130
+Cells,Osteoblastic,APL-SPL,40
+Cells,Osteoblasts,APL-SPL,196
+Cells,Ovarian,APL-SPL,49
+Cells,P2,APL-SPL,59
+Cells,P3,APL-SPL,34
+Cells,Pancreatic,APL-SPL,87
+Cells,Perovskites,APL-SPL,1333
+Cells,Pluripotent,APL-SPL,80
+Cells,Prostate,APL-SPL,43
+Cells,Rhombohedral,APL-SPL,79
+Cells,Rock Salt,APL-SPL,40
+Cells,Rutile,APL-SPL,131
+Cells,S T,APL-SPL,183
+Cells,STRAC,APL-SPL,39
+Cells,Schwann,APL-SPL,70
+Cells,Spinels,APL-SPL,398
+Cells,Spleens,APL-SPL,36
+Cells,T,APL-SPL,211
+Cells,Tetragonal,APL-SPL,164
+Cells,Th17,APL-SPL,49
+Cells,Thymic,APL-SPL,35
+Cells,β,APL-SPL,53
+Cement,Clinker,APL-SPL,45
+Ceramic,Perovskites,APL-SPL,59
+Ceramic,Tetragonal,APL-SPL,49
+Cervical Cancer,Cervical,APL-SPL,63
+Cf,Cystic,APL-SPL,55
+Champion,Perovskites,APL-SPL,295
+Champion Cells,Perovskites,APL-SPL,141
+Champion Device,Perovskites,APL-SPL,289
+Champion PSCs,Perovskites,APL-SPL,34
+Channels,Cubic,APL-SPL,41
+Channels,Hexagonal,APL-SPL,128
+Channels,Perovskites,APL-SPL,65
+Charge Transporting Layer,Perovskites,APL-SPL,151
+Chemical,Austenitic,APL-SPL,34
+Chemotherapy,Breast,APL-SPL,43
+Chemotherapy,Ovarian,APL-SPL,40
+Chip,Cubic,APL-SPL,31
+Chip,Hexagonal,APL-SPL,48
+Chip,Perovskites,APL-SPL,34
+Chondrule,Olivines,APL-SPL,36
+Chronic Kidney Disease,CKD,APL-SPL,44
+Circuit,Hexagonal,APL-SPL,47
+Claddings,Austenitic,APL-SPL,63
+Claddings,Ferritic,APL-SPL,50
+Claddings,Hexagonal,APL-SPL,39
+Claddings,Martensitic,APL-SPL,51
+Clathrate Hydrate,Clathrate,APL-SPL,34
+Clathrate Hydrate,Hydrates,APL-SPL,61
+Co-Catalysts,Anatase,APL-SPL,81
+Co-Catalysts,Perovskites,APL-SPL,48
+Co-Catalysts,Rutile,APL-SPL,38
+Coatings,Abstract,APL-SPL,258
+Coatings,Alpha,APL-SPL,52
+Coatings,Anatase,APL-SPL,1146
+Coatings,Apatites,APL-SPL,80
+Coatings,Austenite,APL-SPL,179
+Coatings,Austenitic,APL-SPL,321
+Coatings,B s t,APL-SPL,53
+Coatings,B1,APL-SPL,37
+Coatings,B2,APL-SPL,47
+Coatings,BCC,APL-SPL,213
+Coatings,BSTRAct,APL-SPL,72
+Coatings,Body Centred Cubic,APL-SPL,76
+Coatings,Brookite,APL-SPL,48
+Coatings,Calcite,APL-SPL,33
+Coatings,Cassie,APL-SPL,79
+Coatings,Cubic,APL-SPL,993
+Coatings,Cubic Spinel,APL-SPL,35
+Coatings,FCC,APL-SPL,525
+Coatings,Face Centered Cubic,APL-SPL,242
+Coatings,Ferritic,APL-SPL,150
+Coatings,Fluorite,APL-SPL,40
+Coatings,G,APL-SPL,106
+Coatings,Gamma,APL-SPL,41
+Coatings,Garnet,APL-SPL,125
+Coatings,Graphitic,APL-SPL,107
+Coatings,HCP,APL-SPL,149
+Coatings,Hexagonal,APL-SPL,1048
+Coatings,Hexagonal Wurtzite,APL-SPL,32
+Coatings,Icosahedral,APL-SPL,32
+Coatings,Like,APL-SPL,36
+Coatings,M,APL-SPL,33
+Coatings,Macrophages,APL-SPL,32
+Coatings,Martensite,APL-SPL,177
+Coatings,Martensitic,APL-SPL,217
+Coatings,Monoclinic,APL-SPL,472
+Coatings,NaCl,APL-SPL,51
+Coatings,Olivines,APL-SPL,156
+Coatings,Orthorhombic,APL-SPL,207
+Coatings,Osteoblasts,APL-SPL,74
+Coatings,P2,APL-SPL,37
+Coatings,Perovskites,APL-SPL,563
+Coatings,Pyrochlore,APL-SPL,37
+Coatings,R A C T,APL-SPL,54
+Coatings,Rhombohedral,APL-SPL,118
+Coatings,Rock Salt,APL-SPL,42
+Coatings,Rutile,APL-SPL,823
+Coatings,S T,APL-SPL,266
+Coatings,STRAC,APL-SPL,64
+Coatings,Spinels,APL-SPL,804
+Coatings,T,APL-SPL,303
+Coatings,Tetragonal,APL-SPL,530
+Coatings,Wenzel,APL-SPL,49
+Coatings,Wurtzite,APL-SPL,142
+Coatings,Δ,APL-SPL,40
+Coatings,β,APL-SPL,179
+Coatings,β-Phase,APL-SPL,72
+Coatings,γ',APL-SPL,45
+Cocatalyst,Anatase,APL-SPL,78
+Cocatalyst,Cubic,APL-SPL,36
+Cocatalyst,Hexagonal,APL-SPL,34
+Cocatalyst,Perovskites,APL-SPL,71
+Cocatalyst,Rutile,APL-SPL,51
+Cof,Hexagonal,APL-SPL,30
+Cof,Organic,APL-SPL,34
+Cofs,Hexagonal,APL-SPL,32
+Cofs,Organic,APL-SPL,166
+Coin Cell,Spinels,APL-SPL,57
+Colon Cancer,Colon,APL-SPL,193
+Colon Cancer,Colorectal,APL-SPL,44
+Colorectal Cancer,Colon,APL-SPL,67
+Colorectal Cancer,Colorectal,APL-SPL,192
+Columns,Hexagonal,APL-SPL,56
+Columns,Phase,APL-SPL,95
+Combustion,Perovskites,APL-SPL,46
+Combustion,S T,APL-SPL,31
+Components,Austenite,APL-SPL,39
+Components,Austenitic,APL-SPL,56
+Components,Martensitic,APL-SPL,37
+Contact Layer,Perovskites,APL-SPL,50
+Contacts,1T,APL-SPL,34
+Contacts,2H,APL-SPL,36
+Contacts,Anatase,APL-SPL,73
+Contacts,Cubic,APL-SPL,133
+Contacts,FCC,APL-SPL,43
+Contacts,Garnet,APL-SPL,52
+Contacts,Hexagonal,APL-SPL,223
+Contacts,Monoclinic,APL-SPL,59
+Contacts,Orthorhombic,APL-SPL,62
+Contacts,Perovskites,APL-SPL,392
+Contacts,Rutile,APL-SPL,55
+Contacts,Spinels,APL-SPL,42
+Contacts,Tetragonal,APL-SPL,62
+Contacts,Wurtzite,APL-SPL,41
+Conversion,Hexagonal,APL-SPL,36
+Conversion,Perovskites,APL-SPL,67
+Cooling,S T,APL-SPL,34
+Core,Hexagonal,APL-SPL,47
+Counter,Hexagonal,APL-SPL,30
+Counter Electrode,Abstract,APL-SPL,45
+Counter Electrode,Anatase,APL-SPL,126
+Counter Electrode,Cubic,APL-SPL,87
+Counter Electrode,FCC,APL-SPL,32
+Counter Electrode,Hexagonal,APL-SPL,133
+Counter Electrode,Monoclinic,APL-SPL,44
+Counter Electrode,Orthorhombic,APL-SPL,40
+Counter Electrode,Perovskites,APL-SPL,171
+Counter Electrode,Rutile,APL-SPL,65
+Counter Electrode,S T,APL-SPL,34
+Counter Electrode,Spinels,APL-SPL,55
+Counter Electrode,T,APL-SPL,48
+Counter Electrode,Tetragonal,APL-SPL,43
+Crucible,Cubic,APL-SPL,56
+Crucible,Garnet,APL-SPL,34
+Crucible,Hexagonal,APL-SPL,52
+Crucible,Spinels,APL-SPL,48
+Crucible,Tetragonal,APL-SPL,39
+Crystal,Cubic,APL-SPL,30
+Crystal,Hexagonal,APL-SPL,68
+Crystal,Nematic,APL-SPL,82
+Crystal,Smectic,APL-SPL,30
+Current Collector,Anatase,APL-SPL,35
+Current Collector,Cubic,APL-SPL,37
+Current Collector,Hexagonal,APL-SPL,53
+Current Collector,Perovskites,APL-SPL,30
+Current Collector,S T,APL-SPL,33
+Current Collector,Spinels,APL-SPL,81
+Current Collector,T,APL-SPL,39
+Cutting,Cubic,APL-SPL,64
+Cutting Tool,Cubic,APL-SPL,131
+Cutting Tool,FCC,APL-SPL,33
+Cutting Tool,Hexagonal,APL-SPL,35
+DCS,Macrophages,APL-SPL,48
+DCS,Marrow,APL-SPL,37
+DMFC,S T,APL-SPL,32
+DSC,Anatase,APL-SPL,78
+DSS,Austenite,APL-SPL,44
+DSS,Duplex,APL-SPL,35
+DSSC,Anatase,APL-SPL,60
+DSSCS,Abstract,APL-SPL,88
+DSSCS,Anatase,APL-SPL,431
+DSSCS,Cubic,APL-SPL,38
+DSSCS,Hexagonal,APL-SPL,66
+DSSCS,Perovskites,APL-SPL,81
+DSSCS,Rutile,APL-SPL,160
+DSSCS,S T,APL-SPL,39
+DSSCS,T,APL-SPL,74
+DSSCs,Anatase,APL-SPL,102
+DSSCs,Rutile,APL-SPL,54
+Degradation,Anatase,APL-SPL,319
+Degradation,Cubic,APL-SPL,56
+Degradation,Hexagonal,APL-SPL,78
+Degradation,Monoclinic,APL-SPL,46
+Degradation,Perovskites,APL-SPL,40
+Degradation,Rutile,APL-SPL,121
+Degradation,T,APL-SPL,72
+Degradation,Tetragonal,APL-SPL,38
+Delivery,Breast,APL-SPL,38
+Dendritic Cell,Macrophages,APL-SPL,45
+Dendritic Cell,Marrow,APL-SPL,47
+Detection,Cubic,APL-SPL,49
+Detection,Hexagonal,APL-SPL,67
+Detection,Perovskites,APL-SPL,45
+Detection,S T,APL-SPL,41
+Detection,T,APL-SPL,49
+Detector,Cubic,APL-SPL,83
+Detector,FCC,APL-SPL,34
+Detector,Garnet,APL-SPL,31
+Detector,Hexagonal,APL-SPL,145
+Detector,Orthorhombic,APL-SPL,36
+Detector,Perovskites,APL-SPL,137
+Device,Anatase,APL-SPL,34
+Device,Cubic,APL-SPL,87
+Device,Hexagonal,APL-SPL,213
+Device,Monoclinic,APL-SPL,32
+Device,Orthorhombic,APL-SPL,34
+Device,Perovskites,APL-SPL,776
+Device,Tetragonal,APL-SPL,47
+Device,Wurtzite,APL-SPL,51
+Device Application,Cubic,APL-SPL,32
+Device Application,Hexagonal,APL-SPL,55
+Device Application,Perovskites,APL-SPL,94
+Diabetes,Metabolic,APL-SPL,30
+Diabetes,Pancreatic,APL-SPL,42
+Diabetes,T2D,APL-SPL,49
+Diabetes,β,APL-SPL,42
+Dielectric,Cubic,APL-SPL,44
+Dielectric,Hexagonal,APL-SPL,93
+Dielectric,Monoclinic,APL-SPL,31
+Dielectric,Perovskites,APL-SPL,78
+Dielectric,Tetragonal,APL-SPL,37
+Dielectric Layer,Hexagonal,APL-SPL,37
+Diesel Engine,S T,APL-SPL,31
+Diffusion Couple,FCC,APL-SPL,30
+Diodes,Cubic,APL-SPL,37
+Diodes,Hexagonal,APL-SPL,60
+Diodes,Perovskites,APL-SPL,68
+Diodes,Wurtzite,APL-SPL,35
+Direct Methanol Fuel Cell,S T,APL-SPL,41
+Direct Methanol Fuel Cell,T,APL-SPL,35
+Diseases,Celiac,APL-SPL,53
+Diseases,Chagas,APL-SPL,32
+Diseases,Chronic,APL-SPL,47
+Diseases,Coronavirus,APL-SPL,40
+Diseases,Crohn,APL-SPL,128
+Diseases,Huntington,APL-SPL,41
+Diseases,Macrophages,APL-SPL,34
+Diseases,Metabolic,APL-SPL,32
+Diseases,Parkinson,APL-SPL,30
+Diseases,Systemic,APL-SPL,32
+Diseases,T,APL-SPL,37
+Display Applications,Perovskites,APL-SPL,48
+Displays,Hexagonal,APL-SPL,37
+Displays,Perovskites,APL-SPL,141
+Dopant,Perovskites,APL-SPL,31
+Drain,Hexagonal,APL-SPL,50
+Drug Delivery,Breast,APL-SPL,69
+Drug Delivery,Cubic,APL-SPL,79
+Drug Delivery,Hexagonal,APL-SPL,106
+Drug Delivery,Organic,APL-SPL,38
+Drug Delivery,Spinels,APL-SPL,30
+Drug Delivery System,Breast,APL-SPL,41
+Drug Delivery System,Hexagonal,APL-SPL,35
+Dscs,Anatase,APL-SPL,111
+Dscs,Rutile,APL-SPL,37
+Dssc,Abstract,APL-SPL,55
+Dssc,Anatase,APL-SPL,286
+Dssc,Hexagonal,APL-SPL,60
+Dssc,Perovskites,APL-SPL,86
+Dssc,Rutile,APL-SPL,118
+Dssc,S T,APL-SPL,31
+Dssc,T,APL-SPL,59
+Ductal Adenocarcinoma,Pancreatic,APL-SPL,49
+Dye,Anatase,APL-SPL,32
+Dye-Sensitized Solar Cell,Anatase,APL-SPL,188
+Dye-Sensitized Solar Cell,Perovskites,APL-SPL,39
+Dye-Sensitized Solar Cell,Rutile,APL-SPL,73
+Dye-Sensitized Solar Cells,Abstract,APL-SPL,111
+Dye-Sensitized Solar Cells,Anatase,APL-SPL,515
+Dye-Sensitized Solar Cells,BSTRAct,APL-SPL,33
+Dye-Sensitized Solar Cells,Cubic,APL-SPL,37
+Dye-Sensitized Solar Cells,Hexagonal,APL-SPL,71
+Dye-Sensitized Solar Cells,Perovskites,APL-SPL,128
+Dye-Sensitized Solar Cells,R A C T,APL-SPL,41
+Dye-Sensitized Solar Cells,Rutile,APL-SPL,211
+Dye-Sensitized Solar Cells,S T,APL-SPL,58
+Dye-Sensitized Solar Cells,T,APL-SPL,107
+Dyes,Anatase,APL-SPL,31
+ESCC,Esophageal,APL-SPL,31
+ETLs,Perovskites,APL-SPL,81
+ETLs.,Perovskites,APL-SPL,38
+ETM,Perovskites,APL-SPL,78
+ETMS,Perovskites,APL-SPL,69
+El,Perovskites,APL-SPL,31
+Electric Vehicle,Olivines,APL-SPL,33
+Electric Vehicle,Spinels,APL-SPL,76
+Electrical Contact,Hexagonal,APL-SPL,33
+Electrical Contact,Perovskites,APL-SPL,30
+Electrocatalysis,Perovskites,APL-SPL,39
+Electrocatalyst,1T,APL-SPL,72
+Electrocatalyst,2H,APL-SPL,66
+Electrocatalyst,Abstract,APL-SPL,57
+Electrocatalyst,Anatase,APL-SPL,54
+Electrocatalyst,Cubic,APL-SPL,157
+Electrocatalyst,FCC,APL-SPL,133
+Electrocatalyst,Face Centered Cubic,APL-SPL,92
+Electrocatalyst,Graphitic,APL-SPL,151
+Electrocatalyst,HCP,APL-SPL,32
+Electrocatalyst,Hexagonal,APL-SPL,152
+Electrocatalyst,Monoclinic,APL-SPL,37
+Electrocatalyst,Orthorhombic,APL-SPL,41
+Electrocatalyst,Perovskites,APL-SPL,314
+Electrocatalyst,R A C T,APL-SPL,30
+Electrocatalyst,Rutile,APL-SPL,68
+Electrocatalyst,S T,APL-SPL,82
+Electrocatalyst,Spinels,APL-SPL,204
+Electrocatalyst,T,APL-SPL,106
+Electrocatalyst,Tetragonal,APL-SPL,40
+Electrochemical Applications,Perovskites,APL-SPL,31
+Electrochemical Cells,Cubic,APL-SPL,42
+Electrochemical Cells,Hexagonal,APL-SPL,49
+Electrochemical Cells,Perovskites,APL-SPL,59
+Electrochemical Cells,Spinels,APL-SPL,44
+Electrochemical Devices,Perovskites,APL-SPL,60
+Electrochemical Sensor,S T,APL-SPL,47
+Electrochemical Sensor,T,APL-SPL,44
+Electrochromic Devices,Hexagonal,APL-SPL,30
+Electrode,1T,APL-SPL,156
+Electrode,2H,APL-SPL,140
+Electrode,ACT,APL-SPL,51
+Electrode,Abstract,APL-SPL,700
+Electrode,Anatase,APL-SPL,1194
+Electrode,Austenite,APL-SPL,40
+Electrode,Austenitic,APL-SPL,60
+Electrode,B S,APL-SPL,43
+Electrode,B s t,APL-SPL,119
+Electrode,BCC,APL-SPL,120
+Electrode,BSTRAC,APL-SPL,52
+Electrode,BSTRAct,APL-SPL,190
+Electrode,Birnessites,APL-SPL,130
+Electrode,Brookite,APL-SPL,51
+Electrode,C2/M,APL-SPL,48
+Electrode,Chalcopyrite,APL-SPL,46
+Electrode,Cubic,APL-SPL,1219
+Electrode,Cubic Perovskites,APL-SPL,55
+Electrode,Cubic Spinel,APL-SPL,92
+Electrode,Double Perovskite,APL-SPL,73
+Electrode,F,APL-SPL,58
+Electrode,FCC,APL-SPL,360
+Electrode,FD3M,APL-SPL,30
+Electrode,Face Centered Cubic,APL-SPL,146
+Electrode,Fluorite,APL-SPL,55
+Electrode,G,APL-SPL,45
+Electrode,Garnet,APL-SPL,128
+Electrode,Graphitic,APL-SPL,320
+Electrode,HCP,APL-SPL,112
+Electrode,Hexagonal,APL-SPL,1600
+Electrode,Hexagonally,APL-SPL,38
+Electrode,Hydrotalcite,APL-SPL,30
+Electrode,Hydrous,APL-SPL,44
+Electrode,Icosahedral,APL-SPL,34
+Electrode,Keggin,APL-SPL,63
+Electrode,Laves Phase,APL-SPL,41
+Electrode,Martensite,APL-SPL,31
+Electrode,Martensitic,APL-SPL,32
+Electrode,Monoclinic,APL-SPL,581
+Electrode,O3,APL-SPL,94
+Electrode,Olivines,APL-SPL,239
+Electrode,Organic,APL-SPL,39
+Electrode,Orthorhombic,APL-SPL,554
+Electrode,P,APL-SPL,64
+Electrode,P2,APL-SPL,166
+Electrode,P3,APL-SPL,69
+Electrode,PNMA,APL-SPL,46
+Electrode,Perovskites,APL-SPL,1947
+Electrode,Phase,APL-SPL,38
+Electrode,Pyrochlore,APL-SPL,42
+Electrode,R A C T,APL-SPL,223
+Electrode,RAC,APL-SPL,85
+Electrode,Rhombohedral,APL-SPL,297
+Electrode,Rock Salt,APL-SPL,114
+Electrode,Rock-Salt,APL-SPL,45
+Electrode,Ruddlesden Popper,APL-SPL,35
+Electrode,Rutile,APL-SPL,707
+Electrode,S T,APL-SPL,795
+Electrode,STRAC,APL-SPL,207
+Electrode,Spinels,APL-SPL,1383
+Electrode,T,APL-SPL,1109
+Electrode,T R A C,APL-SPL,31
+Electrode,TRACTA,APL-SPL,122
+Electrode,Tetragonal,APL-SPL,536
+Electrode,Triclinic,APL-SPL,64
+Electrode,Trigonal,APL-SPL,88
+Electrode,Wurtzite,APL-SPL,98
+Electrode,α-Phase,APL-SPL,43
+Electrode,β,APL-SPL,108
+Electrode,β-Ni(OH)2,APL-SPL,40
+Electrode,β-Phase,APL-SPL,49
+Electrodes,1T,APL-SPL,132
+Electrodes,2H,APL-SPL,130
+Electrodes,Abstract,APL-SPL,363
+Electrodes,Anatase,APL-SPL,951
+Electrodes,Austenitic,APL-SPL,41
+Electrodes,B s t,APL-SPL,72
+Electrodes,BCC,APL-SPL,102
+Electrodes,BSTRAct,APL-SPL,135
+Electrodes,Birnessites,APL-SPL,75
+Electrodes,Brookite,APL-SPL,45
+Electrodes,C14,APL-SPL,31
+Electrodes,C2/M,APL-SPL,30
+Electrodes,Cubic,APL-SPL,859
+Electrodes,Cubic Perovskites,APL-SPL,45
+Electrodes,Cubic Spinel,APL-SPL,72
+Electrodes,Double Perovskite,APL-SPL,43
+Electrodes,F,APL-SPL,52
+Electrodes,FCC,APL-SPL,247
+Electrodes,Face Centered Cubic,APL-SPL,112
+Electrodes,Fluorite,APL-SPL,41
+Electrodes,G,APL-SPL,50
+Electrodes,Garnet,APL-SPL,103
+Electrodes,Graphitic,APL-SPL,236
+Electrodes,HCP,APL-SPL,76
+Electrodes,Hexagonal,APL-SPL,1200
+Electrodes,Hydrous,APL-SPL,38
+Electrodes,Monoclinic,APL-SPL,442
+Electrodes,Nematic,APL-SPL,35
+Electrodes,O3,APL-SPL,76
+Electrodes,Olivines,APL-SPL,132
+Electrodes,Orthorhombic,APL-SPL,397
+Electrodes,P,APL-SPL,53
+Electrodes,P2,APL-SPL,111
+Electrodes,P3,APL-SPL,64
+Electrodes,Perovskites,APL-SPL,1362
+Electrodes,R A C T,APL-SPL,94
+Electrodes,Rhombohedral,APL-SPL,229
+Electrodes,Rock Salt,APL-SPL,93
+Electrodes,Rock-Salt,APL-SPL,34
+Electrodes,Ruddlesden Popper,APL-SPL,38
+Electrodes,Rutile,APL-SPL,590
+Electrodes,S T,APL-SPL,412
+Electrodes,STRAC,APL-SPL,95
+Electrodes,Spinels,APL-SPL,905
+Electrodes,T,APL-SPL,450
+Electrodes,TRACTA,APL-SPL,44
+Electrodes,Tetragonal,APL-SPL,405
+Electrodes,Triclinic,APL-SPL,45
+Electrodes,Trigonal,APL-SPL,70
+Electrodes,Wurtzite,APL-SPL,106
+Electrodes,β,APL-SPL,48
+Electrodes,β-Ni(OH)2,APL-SPL,30
+Electrodes,β-Phase,APL-SPL,31
+Electroluminescence,Perovskites,APL-SPL,37
+Electrolysis,Perovskites,APL-SPL,35
+Electrolysis Cell,Perovskites,APL-SPL,31
+Electrolyte,1T,APL-SPL,35
+Electrolyte,2H,APL-SPL,33
+Electrolyte,Abstract,APL-SPL,367
+Electrolyte,Anatase,APL-SPL,617
+Electrolyte,Apatites,APL-SPL,82
+Electrolyte,B s t,APL-SPL,61
+Electrolyte,BCC,APL-SPL,62
+Electrolyte,BSTRAct,APL-SPL,97
+Electrolyte,Birnessites,APL-SPL,31
+Electrolyte,Cubic,APL-SPL,738
+Electrolyte,Cubic Fluorite,APL-SPL,50
+Electrolyte,Cubic Perovskites,APL-SPL,91
+Electrolyte,Double Perovskite,APL-SPL,105
+Electrolyte,FCC,APL-SPL,121
+Electrolyte,Face Centered Cubic,APL-SPL,54
+Electrolyte,Fluorite,APL-SPL,150
+Electrolyte,Garnet,APL-SPL,290
+Electrolyte,Garnets,APL-SPL,39
+Electrolyte,Graphitic,APL-SPL,109
+Electrolyte,HCP,APL-SPL,40
+Electrolyte,Hexagonal,APL-SPL,513
+Electrolyte,Monoclinic,APL-SPL,290
+Electrolyte,O3,APL-SPL,30
+Electrolyte,Olivines,APL-SPL,142
+Electrolyte,Orthorhombic,APL-SPL,274
+Electrolyte,P2,APL-SPL,60
+Electrolyte,Perovskites,APL-SPL,1254
+Electrolyte,Pyrochlore,APL-SPL,33
+Electrolyte,R A C T,APL-SPL,39
+Electrolyte,Rhombohedral,APL-SPL,154
+Electrolyte,Rock Salt,APL-SPL,69
+Electrolyte,Rock-Salt,APL-SPL,38
+Electrolyte,Ruddlesden Popper,APL-SPL,45
+Electrolyte,Rutile,APL-SPL,329
+Electrolyte,S T,APL-SPL,283
+Electrolyte,STRAC,APL-SPL,68
+Electrolyte,Spinels,APL-SPL,822
+Electrolyte,T,APL-SPL,232
+Electrolyte,TRACTA,APL-SPL,40
+Electrolyte,Tetragonal,APL-SPL,317
+Electrolyte,Triclinic,APL-SPL,31
+Electrolyte,Wurtzite,APL-SPL,41
+Electrolyzer,Perovskites,APL-SPL,33
+Electron Transport,Perovskites,APL-SPL,34
+Electron Transporting,Perovskites,APL-SPL,35
+Electron Transporting Layer,Anatase,APL-SPL,35
+Electron Transporting Layer,Perovskites,APL-SPL,872
+Electron Transporting Layer,Rutile,APL-SPL,30
+Electron-Only Device,Perovskites,APL-SPL,231
+Electronic,Cubic,APL-SPL,44
+Electronic,Hexagonal,APL-SPL,103
+Electronic,Perovskites,APL-SPL,81
+Electronic,Wurtzite,APL-SPL,36
+Electronic Applications,Hexagonal,APL-SPL,46
+Electronic Devices,Cubic,APL-SPL,62
+Electronic Devices,Hexagonal,APL-SPL,147
+Electronic Devices,Perovskites,APL-SPL,136
+Electronic Devices,Spinels,APL-SPL,37
+Electronic Devices,Wurtzite,APL-SPL,32
+Electronics,Cubic,APL-SPL,34
+Electronics,Hexagonal,APL-SPL,166
+Electronics,Perovskites,APL-SPL,110
+Electrons,Perovskites,APL-SPL,108
+Embryonic Stem Cell,Pluripotent,APL-SPL,70
+Emission Layer,Perovskites,APL-SPL,31
+Emissive Layer,Perovskites,APL-SPL,42
+Emitters,Hexagonal,APL-SPL,68
+Emitters,Perovskites,APL-SPL,113
+Emitting Layer,Perovskites,APL-SPL,40
+Encapsulation,Perovskites,APL-SPL,45
+Energy,Abstract,APL-SPL,63
+Energy,Anatase,APL-SPL,36
+Energy,Hexagonal,APL-SPL,34
+Energy,Perovskites,APL-SPL,100
+Energy,S T,APL-SPL,110
+Energy,T,APL-SPL,99
+Energy Conversion,Perovskites,APL-SPL,52
+Energy Harvester,Perovskites,APL-SPL,33
+Energy Harvesting,Perovskites,APL-SPL,42
+Energy Storage,Cubic,APL-SPL,46
+Energy Storage,Graphitic,APL-SPL,32
+Energy Storage,Hexagonal,APL-SPL,86
+Energy Storage,Organic,APL-SPL,40
+Energy Storage,Perovskites,APL-SPL,96
+Energy Storage,Spinels,APL-SPL,60
+Energy Storage,T,APL-SPL,40
+Energy Storage Application,Hexagonal,APL-SPL,30
+Energy Storage Application,Perovskites,APL-SPL,30
+Energy Storage Device,Hexagonal,APL-SPL,38
+Energy Storage Device,Perovskites,APL-SPL,34
+Engines,S T,APL-SPL,71
+Engines,T,APL-SPL,30
+Environmental Application,Anatase,APL-SPL,32
+Epithelial Cells,Bronchial,APL-SPL,32
+Estuary,Mangroves,APL-SPL,33
+Estuary,Pearls,APL-SPL,32
+Etl,Perovskites,APL-SPL,117
+FCC Catalyst,FCC,APL-SPL,38
+FET,Hexagonal,APL-SPL,138
+FET,Perovskites,APL-SPL,60
+FET Device,Hexagonal,APL-SPL,53
+FETS,Hexagonal,APL-SPL,87
+FETS,Perovskites,APL-SPL,48
+Fast Reactor,Austenitic,APL-SPL,34
+Ferroelectric,Perovskites,APL-SPL,74
+Ferrofluid,Spinels,APL-SPL,31
+Fibrosis,Cf,APL-SPL,30
+Fibrosis,Cystic,APL-SPL,137
+Field Effect Transistor,Hexagonal,APL-SPL,134
+Field Effect Transistor,Perovskites,APL-SPL,86
+Filler,Austenite,APL-SPL,35
+Filler,Austenitic,APL-SPL,74
+Filler,Cubic,APL-SPL,43
+Filler,Hexagonal,APL-SPL,88
+Filler,Martensite,APL-SPL,30
+Filters,Anatase,APL-SPL,35
+Filters,Cubic,APL-SPL,41
+Filters,Hexagonal,APL-SPL,72
+Filters,Perovskites,APL-SPL,51
+First Wall,Austenitic,APL-SPL,36
+First Wall,Ferritic,APL-SPL,31
+First Wall,Martensitic,APL-SPL,40
+Flexible,Cubic,APL-SPL,33
+Flexible,Hexagonal,APL-SPL,72
+Flexible,Perovskites,APL-SPL,298
+Flexible Device,Perovskites,APL-SPL,156
+Flexible Electronics,Perovskites,APL-SPL,33
+Flexible Photodetector,Perovskites,APL-SPL,31
+Flexible Solar Cells,Perovskites,APL-SPL,55
+Fluid Inclusion,Garnet,APL-SPL,60
+Fluid Inclusion,Granulite,APL-SPL,30
+Fluid Inclusion,Skarn,APL-SPL,35
+Fluidized Catalytic Cracking,FCC,APL-SPL,54
+Forests,Mangroves,APL-SPL,57
+Framework,Organic,APL-SPL,109
+Free,Perovskites,APL-SPL,53
+Fuel,Cubic,APL-SPL,62
+Fuel,Hexagonal,APL-SPL,94
+Fuel,Perovskites,APL-SPL,46
+Fuel,S T,APL-SPL,52
+Fuel,T,APL-SPL,47
+Fuel Assembly,Hexagonal,APL-SPL,36
+Fuel Cell,Abstract,APL-SPL,105
+Fuel Cell,B s t,APL-SPL,40
+Fuel Cell,BSTRAct,APL-SPL,42
+Fuel Cell,Cubic,APL-SPL,125
+Fuel Cell,FCC,APL-SPL,38
+Fuel Cell,Face Centered Cubic,APL-SPL,32
+Fuel Cell,Fluorite,APL-SPL,36
+Fuel Cell,Graphitic,APL-SPL,79
+Fuel Cell,Hexagonal,APL-SPL,73
+Fuel Cell,Perovskites,APL-SPL,407
+Fuel Cell,S T,APL-SPL,186
+Fuel Cell,STRAC,APL-SPL,30
+Fuel Cell,Spinels,APL-SPL,66
+Fuel Cell,T,APL-SPL,109
+Fuel Cell,Tetragonal,APL-SPL,49
+Fuels,T,APL-SPL,31
+Full Cell,Anatase,APL-SPL,36
+Full Cell,Cubic,APL-SPL,45
+Full Cell,Monoclinic,APL-SPL,34
+Full Cell,Orthorhombic,APL-SPL,31
+Full Cell,P2,APL-SPL,37
+Full Cell,Spinels,APL-SPL,102
+Functional Devices,Perovskites,APL-SPL,32
+Fusion Reactor,Austenitic,APL-SPL,67
+Fusion Reactor,Ferritic,APL-SPL,125
+Fusion Reactor,Martensitic,APL-SPL,150
+Fusion Reactor,RAFM,APL-SPL,32
+Gas,Hydrates,APL-SPL,30
+Gas Hydrate,Hydrates,APL-SPL,185
+Gas Sensing,Anatase,APL-SPL,31
+Gas Sensing,Hexagonal,APL-SPL,42
+Gas Sensors,Anatase,APL-SPL,72
+Gas Sensors,Cubic,APL-SPL,78
+Gas Sensors,Hexagonal,APL-SPL,134
+Gas Sensors,Hexagonal Wurtzite,APL-SPL,34
+Gas Sensors,Monoclinic,APL-SPL,68
+Gas Sensors,Orthorhombic,APL-SPL,39
+Gas Sensors,Perovskites,APL-SPL,79
+Gas Sensors,Rutile,APL-SPL,79
+Gas Sensors,Spinels,APL-SPL,50
+Gas Sensors,T,APL-SPL,31
+Gas Sensors,Tetragonal,APL-SPL,59
+Gas Sensors,Wurtzite,APL-SPL,39
+Gas Storage,MOFs,APL-SPL,33
+Gas Storage,Organic,APL-SPL,64
+Gasifier,Olivines,APL-SPL,32
+Gastric Cancer,Gastric,APL-SPL,142
+Gate,Hexagonal,APL-SPL,88
+Gate,Monoclinic,APL-SPL,30
+Gate Dielectric,Hexagonal,APL-SPL,46
+Gate Dielectric,Monoclinic,APL-SPL,33
+Gce,Cubic,APL-SPL,30
+Gce,S T,APL-SPL,50
+Gce,T,APL-SPL,60
+Geobarometer,Garnet,APL-SPL,31
+Geothermometer,Garnet,APL-SPL,43
+Glaze,Spinels,APL-SPL,30
+Gliomas,Glioblastoma,APL-SPL,52
+Grating,Hexagonal,APL-SPL,31
+Green LED,Perovskites,APL-SPL,32
+Greenstone Belt,Greenstone,APL-SPL,31
+Grid,Hexagonal,APL-SPL,34
+Grinding Wheel,Cubic,APL-SPL,34
+H2,Anatase,APL-SPL,54
+H2,Cubic,APL-SPL,31
+H2,Perovskites,APL-SPL,82
+H2,Rutile,APL-SPL,35
+H2 Evolution,Anatase,APL-SPL,94
+H2 Evolution,Cubic,APL-SPL,37
+H2 Evolution,Hexagonal,APL-SPL,44
+H2 Evolution,Perovskites,APL-SPL,58
+H2 Evolution,Rutile,APL-SPL,47
+H2 Generation,Anatase,APL-SPL,36
+H2 Production,Anatase,APL-SPL,105
+H2 Production,Hexagonal,APL-SPL,34
+H2 Production,Perovskites,APL-SPL,50
+H2 Production,Rutile,APL-SPL,49
+H2O2,T,APL-SPL,31
+HCC,Hepatocellular,APL-SPL,338
+HCC,Hepatocellular Carcinoma,APL-SPL,31
+HDS,Hexagonal,APL-SPL,38
+HEA,B2,APL-SPL,32
+HEA,BCC,APL-SPL,111
+HEA,Body Centred Cubic,APL-SPL,55
+HEA,FCC,APL-SPL,166
+HEA,Face Centered Cubic,APL-SPL,81
+HEAs,FCC,APL-SPL,50
+HNSCC,Squamous,APL-SPL,31
+HSC,HSCs,APL-SPL,60
+HSCs,Haematopoietic,APL-SPL,36
+HSCs,Hematopoietic,APL-SPL,33
+HSCs,Hepatic,APL-SPL,41
+HSCs,Marrow,APL-SPL,36
+HTL,Perovskites,APL-SPL,75
+HTLS,Perovskites,APL-SPL,269
+HTLs,Perovskites,APL-SPL,46
+HTM,Perovskites,APL-SPL,665
+HTM Layer,Perovskites,APL-SPL,39
+HTMS,Perovskites,APL-SPL,394
+Haematopoietic Stem Cell,HSCs,APL-SPL,60
+Haematopoietic Stem Cell,Hematopoietic,APL-SPL,34
+Haematopoietic Stem Cell,Marrow,APL-SPL,44
+Haematopoietic Stem Cell,Myeloid,APL-SPL,31
+Half Cell,Anatase,APL-SPL,58
+Half Cell,Cubic,APL-SPL,48
+Half Cell,Hexagonal,APL-SPL,46
+Half Cell,Monoclinic,APL-SPL,39
+Half Cell,Orthorhombic,APL-SPL,46
+Half Cell,P2,APL-SPL,45
+Half Cell,Perovskites,APL-SPL,54
+Half Cell,Spinels,APL-SPL,147
+Half Cell,Tetragonal,APL-SPL,34
+Hard Coating,Cubic,APL-SPL,47
+Hard Coating,FCC,APL-SPL,31
+Heart,Cardiac,APL-SPL,40
+Heas,BCC,APL-SPL,87
+Heas,Body Centred Cubic,APL-SPL,46
+Heas,FCC,APL-SPL,108
+Heas,Face Centered Cubic,APL-SPL,55
+Heat Exchanger,B s t,APL-SPL,38
+Heat Exchanger,S T,APL-SPL,53
+Heaters,Hexagonal,APL-SPL,34
+Hepatocellular Carcinoma,Hepatocellular,APL-SPL,46
+Heterogeneous Catalysis,Hexagonal,APL-SPL,36
+Heterogeneous Catalyst,Anatase,APL-SPL,30
+Heterogeneous Catalyst,Cubic,APL-SPL,30
+Heterogeneous Catalyst,Hexagonal,APL-SPL,72
+Heterogeneous Catalyst,Keggin,APL-SPL,37
+Heterogeneous Catalyst,Perovskites,APL-SPL,41
+Heterogeneous Catalyst,Spinels,APL-SPL,37
+Heterogeneous Catalyst,T,APL-SPL,45
+Heterojunction,Anatase,APL-SPL,67
+Heterojunction,Cubic,APL-SPL,72
+Heterojunction,Hexagonal,APL-SPL,89
+Heterojunction,Orthorhombic,APL-SPL,33
+Heterojunction,Perovskites,APL-SPL,264
+Heterojunction,Rutile,APL-SPL,37
+Heterojunction,Wurtzite,APL-SPL,35
+Heterojunction Solar Cells,Perovskites,APL-SPL,95
+HiPSCs,Pluripotent,APL-SPL,39
+High,Perovskites,APL-SPL,46
+High Voltage Cathode,Spinels,APL-SPL,32
+Hippocampal Neuron,Hippocampal,APL-SPL,37
+Hippocampus,Hippocampal,APL-SPL,120
+Hole Blocking Layer,Perovskites,APL-SPL,59
+Hole Extraction Layer,Perovskites,APL-SPL,47
+Hole Only Device,Perovskites,APL-SPL,203
+Hole Transport,Perovskites,APL-SPL,40
+Hole Transporter,Perovskites,APL-SPL,41
+Hole Transporting,Perovskites,APL-SPL,122
+Hole Transporting Layer,Perovskites,APL-SPL,788
+Hole Transporting Materials,Perovskites,APL-SPL,390
+Htl,Cubic,APL-SPL,31
+Htl,Perovskites,APL-SPL,647
+Hybrid,Anatase,APL-SPL,36
+Hybrid,Cubic,APL-SPL,30
+Hybrid,Hexagonal,APL-SPL,47
+Hybrid,Perovskites,APL-SPL,160
+Hybrid,Spinels,APL-SPL,33
+Hybrid Solar Cell,Perovskites,APL-SPL,62
+Hydrates,Clathrate,APL-SPL,59
+Hydrates,Clathrate Hydrate,APL-SPL,41
+Hydrogen,Anatase,APL-SPL,30
+Hydrogen,Perovskites,APL-SPL,61
+Hydrogen,T,APL-SPL,30
+Hydrogen Evolution,1T,APL-SPL,31
+Hydrogen Evolution,Anatase,APL-SPL,72
+Hydrogen Evolution,Cubic,APL-SPL,42
+Hydrogen Evolution,Hexagonal,APL-SPL,64
+Hydrogen Evolution,Perovskites,APL-SPL,49
+Hydrogen Evolution,Rutile,APL-SPL,38
+Hydrogen Evolution Reaction,1T,APL-SPL,96
+Hydrogen Evolution Reaction,2H,APL-SPL,77
+Hydrogen Evolution Reaction,Cubic,APL-SPL,37
+Hydrogen Evolution Reaction,Hexagonal,APL-SPL,82
+Hydrogen Evolution Reaction,Perovskites,APL-SPL,55
+Hydrogen Evolution Reaction,T,APL-SPL,32
+Hydrogen Generation,Anatase,APL-SPL,62
+Hydrogen Generation,Rutile,APL-SPL,36
+Hydrogen Production,Anatase,APL-SPL,144
+Hydrogen Production,Cubic,APL-SPL,55
+Hydrogen Production,Hexagonal,APL-SPL,53
+Hydrogen Production,Perovskites,APL-SPL,141
+Hydrogen Production,Rutile,APL-SPL,90
+Hydrogen Production,S T,APL-SPL,56
+Hydrogen Production,Spinels,APL-SPL,51
+Hydrogen Production,T,APL-SPL,73
+Hydrogen Storage,BCC,APL-SPL,41
+Hydrogen Storage,Cubic,APL-SPL,34
+Hydrogen Storage,Hexagonal,APL-SPL,82
+Hydrogen Storage,Orthorhombic,APL-SPL,30
+Hydrogenation,Anatase,APL-SPL,47
+Hydrogenation,Cubic,APL-SPL,55
+Hydrogenation,FCC,APL-SPL,52
+Hydrogenation,Hexagonal,APL-SPL,69
+Hydrogenation,Rutile,APL-SPL,32
+Hydrogenation,T,APL-SPL,47
+IT - SOFC,Perovskites,APL-SPL,70
+ITSOFC,Cubic,APL-SPL,42
+ITSOFC,Double Perovskite,APL-SPL,32
+ITSOFC,Perovskites,APL-SPL,214
+Imaging,Breast,APL-SPL,48
+Imaging,Cubic,APL-SPL,33
+Imaging,Hexagonal,APL-SPL,43
+Imaging,Perovskites,APL-SPL,43
+Implants,Anatase,APL-SPL,105
+Implants,Austenitic,APL-SPL,39
+Implants,CP,APL-SPL,31
+Implants,Femur,APL-SPL,32
+Implants,Hexagonal,APL-SPL,43
+Implants,Macrophages,APL-SPL,58
+Implants,Osteoblasts,APL-SPL,138
+Implants,Rutile,APL-SPL,79
+Implants,Tetragonal,APL-SPL,34
+Implants,β,APL-SPL,33
+Inclusions,Chondrite,APL-SPL,41
+Inclusions,Clinopyroxenes,APL-SPL,33
+Inclusions,Eclogites,APL-SPL,34
+Inclusions,Eclogitic,APL-SPL,33
+Inclusions,Garnet,APL-SPL,115
+Inclusions,Garnets,APL-SPL,35
+Inclusions,Granulite,APL-SPL,37
+Inclusions,Olivines,APL-SPL,52
+Inclusions,Pyroxene,APL-SPL,36
+Inclusions,Rutile,APL-SPL,32
+Inclusions,Spinels,APL-SPL,67
+Induced,Pluripotent,APL-SPL,53
+Industrial Applications,Cubic,APL-SPL,37
+Industrial Applications,Hexagonal,APL-SPL,43
+Inhibitor,Breast,APL-SPL,48
+Inserts,Cubic,APL-SPL,33
+Interconnect,Ferritic,APL-SPL,63
+Interconnect,Perovskites,APL-SPL,97
+Interconnect,Spinels,APL-SPL,124
+Interface,Perovskites,APL-SPL,49
+Interfacial Layer,Perovskites,APL-SPL,39
+Interlayers,Perovskites,APL-SPL,83
+Intermediate,Perovskites,APL-SPL,45
+Intermediate Temperature Solid Oxide Fuel Cells,Perovskites,APL-SPL,107
+Inverted,Perovskites,APL-SPL,99
+Inverted PSCs,Perovskites,APL-SPL,109
+Inverted Perovskite Solar Cells,Perovskites,APL-SPL,62
+Island,ARC,APL-SPL,76
+Island,Calc,APL-SPL,38
+Island,Garnet,APL-SPL,33
+Iter,Austenitic,APL-SPL,37
+Iter,Ferritic,APL-SPL,44
+Iter,Martensitic,APL-SPL,42
+Joints,Austenite,APL-SPL,94
+Joints,Austenitic,APL-SPL,161
+Joints,Ferritic,APL-SPL,75
+Joints,Martensite,APL-SPL,125
+Joints,Martensitic,APL-SPL,86
+Junctions,Anatase,APL-SPL,76
+Junctions,Cubic,APL-SPL,55
+Junctions,Hexagonal,APL-SPL,126
+Junctions,Perovskites,APL-SPL,146
+Junctions,Rutile,APL-SPL,62
+Junctions,Wurtzite,APL-SPL,32
+Kidney Disease,CKD,APL-SPL,43
+Kidney Disease,Chronic,APL-SPL,65
+Kidneys,Renal,APL-SPL,60
+Kidneys,Spleens,APL-SPL,34
+LED,Cubic,APL-SPL,96
+LED,Garnet,APL-SPL,45
+LED,Hexagonal,APL-SPL,112
+LED,Perovskites,APL-SPL,363
+LED,Tetragonal,APL-SPL,31
+LED,Wurtzite,APL-SPL,41
+LED Device,Perovskites,APL-SPL,79
+LEDs,Cubic,APL-SPL,116
+LEDs,Garnet,APL-SPL,37
+LEDs,Hexagonal,APL-SPL,107
+LEDs,Monoclinic,APL-SPL,34
+LEDs,Orthorhombic,APL-SPL,37
+LEDs,Perovskites,APL-SPL,596
+LEDs,Tetragonal,APL-SPL,32
+LEDs,Wurtzite,APL-SPL,38
+LIB,Hexagonal,APL-SPL,31
+LIB,Spinels,APL-SPL,50
+LIBs,Abstract,APL-SPL,45
+LIBs,Anatase,APL-SPL,95
+LIBs,Cubic,APL-SPL,64
+LIBs,Hexagonal,APL-SPL,92
+LIBs,Monoclinic,APL-SPL,36
+LIBs,Olivines,APL-SPL,48
+LIBs,Orthorhombic,APL-SPL,46
+LIBs,Rutile,APL-SPL,32
+LIBs,Spinels,APL-SPL,183
+LIBs,T,APL-SPL,69
+Large Area,Perovskites,APL-SPL,31
+Laser,Cubic,APL-SPL,81
+Laser,Garnet,APL-SPL,153
+Laser,Hexagonal,APL-SPL,116
+Laser,Monoclinic,APL-SPL,62
+Laser,Orthorhombic,APL-SPL,53
+Laser,Perovskites,APL-SPL,344
+Laser,Tetragonal,APL-SPL,59
+Laser,Wurtzite,APL-SPL,31
+Lasing,Perovskites,APL-SPL,131
+Lavas,Garnet,APL-SPL,49
+Lavas,Olivines,APL-SPL,38
+Layers,Anatase,APL-SPL,52
+Layers,Cubic,APL-SPL,49
+Layers,Hexagonal,APL-SPL,68
+Layers,Perovskites,APL-SPL,638
+Layers,S T,APL-SPL,31
+Lc,Hexagonal,APL-SPL,31
+Lc,Nematic,APL-SPL,84
+Lcs,Nematic,APL-SPL,46
+Lead Free,Perovskites,APL-SPL,96
+Lead Free Piezoelectric Ceramics,Orthorhombic,APL-SPL,33
+Lead Free Piezoelectric Ceramics,Perovskites,APL-SPL,51
+Lead Free Piezoelectric Ceramics,Tetragonal,APL-SPL,47
+Lens,Hexagonal,APL-SPL,40
+Leukaemia,AML,APL-SPL,39
+Leukaemia,Acute Myeloid,APL-SPL,38
+Leukaemia,Myeloid,APL-SPL,32
+Leukemia,AML,APL-SPL,96
+Leukemia,Acute,APL-SPL,56
+Leukemia,Acute Lymphoblastic,APL-SPL,32
+Leukemia,Acute Myeloid,APL-SPL,114
+Leukemia,Chronic,APL-SPL,64
+Leukemia,Chronic Myeloid,APL-SPL,48
+Leukemia,Myeloid,APL-SPL,49
+Leukemia,Promyelocytic,APL-SPL,57
+Li,Anatase,APL-SPL,58
+Li,Cubic,APL-SPL,40
+Li,Garnet,APL-SPL,38
+Li,Hexagonal,APL-SPL,37
+Li,Spinels,APL-SPL,68
+Li-Ion Battery,Abstract,APL-SPL,71
+Li-Ion Battery,Anatase,APL-SPL,89
+Li-Ion Battery,Cubic,APL-SPL,75
+Li-Ion Battery,Garnet,APL-SPL,32
+Li-Ion Battery,Hexagonal,APL-SPL,98
+Li-Ion Battery,Monoclinic,APL-SPL,80
+Li-Ion Battery,Olivines,APL-SPL,97
+Li-Ion Battery,Orthorhombic,APL-SPL,58
+Li-Ion Battery,Perovskites,APL-SPL,35
+Li-Ion Battery,Rutile,APL-SPL,47
+Li-Ion Battery,S T,APL-SPL,43
+Li-Ion Battery,Spinels,APL-SPL,302
+Li-Ion Battery,T,APL-SPL,66
+Li-Ion Battery,Tetragonal,APL-SPL,36
+Li-Ion Cell,Spinels,APL-SPL,44
+Light Absorber,Perovskites,APL-SPL,242
+Light Emitter,Perovskites,APL-SPL,42
+Light Emitting Applications,Perovskites,APL-SPL,52
+Light Emitting Devices,Perovskites,APL-SPL,158
+Light Emitting Diode,Perovskites,APL-SPL,83
+Light Emitting Diodes,Cubic,APL-SPL,56
+Light Emitting Diodes,Hexagonal,APL-SPL,50
+Light Emitting Diodes,Perovskites,APL-SPL,718
+Light Emitting Diodes,Wurtzite,APL-SPL,36
+Light Harvester,Perovskites,APL-SPL,91
+Light Harvesting,Perovskites,APL-SPL,73
+Light Water Reactor,Austenitic,APL-SPL,40
+Lighting,Perovskites,APL-SPL,95
+Liquid Crystal,Cholesteric,APL-SPL,38
+Liquid Crystal,Cubic,APL-SPL,38
+Liquid Crystal,Hexagonal,APL-SPL,78
+Liquid Crystal,Lc,APL-SPL,59
+Liquid Crystal,Nematic,APL-SPL,186
+Liquid Crystal,Sma,APL-SPL,31
+Liquid Crystal,Smectic,APL-SPL,66
+Liquids,Hexagonal,APL-SPL,36
+Liquids,Nematic,APL-SPL,40
+Lithium,Spinels,APL-SPL,63
+Lithium Battery,Spinels,APL-SPL,63
+Lithium Cell,Spinels,APL-SPL,108
+Lithium Ion Battery,Abstract,APL-SPL,156
+Lithium Ion Battery,Anatase,APL-SPL,176
+Lithium Ion Battery,BSTRAct,APL-SPL,44
+Lithium Ion Battery,Cubic,APL-SPL,119
+Lithium Ion Battery,Graphitic,APL-SPL,34
+Lithium Ion Battery,Hexagonal,APL-SPL,163
+Lithium Ion Battery,Monoclinic,APL-SPL,98
+Lithium Ion Battery,Olivines,APL-SPL,124
+Lithium Ion Battery,Orthorhombic,APL-SPL,76
+Lithium Ion Battery,Perovskites,APL-SPL,41
+Lithium Ion Battery,R A C T,APL-SPL,42
+Lithium Ion Battery,Rhombohedral,APL-SPL,38
+Lithium Ion Battery,Rock-Salt,APL-SPL,38
+Lithium Ion Battery,Rutile,APL-SPL,78
+Lithium Ion Battery,S T,APL-SPL,94
+Lithium Ion Battery,Spinels,APL-SPL,512
+Lithium Ion Battery,T,APL-SPL,171
+Lithium Ion Battery,Tetragonal,APL-SPL,37
+Lithium-Ion Batteries,Abstract,APL-SPL,87
+Lithium-Ion Batteries,Anatase,APL-SPL,88
+Lithium-Ion Batteries,Cubic,APL-SPL,66
+Lithium-Ion Batteries,Hexagonal,APL-SPL,74
+Lithium-Ion Batteries,Monoclinic,APL-SPL,45
+Lithium-Ion Batteries,Olivines,APL-SPL,61
+Lithium-Ion Batteries,Orthorhombic,APL-SPL,32
+Lithium-Ion Batteries,Rutile,APL-SPL,30
+Lithium-Ion Batteries,S T,APL-SPL,38
+Lithium-Ion Batteries,Spinels,APL-SPL,247
+Lithium-Ion Batteries,T,APL-SPL,126
+Lithium-Ion Cells,Spinels,APL-SPL,57
+Liver,Breast,APL-SPL,36
+Liver,Colon,APL-SPL,31
+Liver,HSCs,APL-SPL,77
+Liver,Hepatic,APL-SPL,175
+Liver,Hepatocellular,APL-SPL,119
+Liver,Hepatocyte,APL-SPL,103
+Liver,Macrophages,APL-SPL,68
+Liver,NASH,APL-SPL,30
+Liver,Spleens,APL-SPL,40
+Liver Cancer,Hepatocellular,APL-SPL,53
+Liver Disease,Hepatic,APL-SPL,34
+Liver Fibrosis,HSCs,APL-SPL,41
+Liver Fibrosis,Hepatic,APL-SPL,52
+Low,Perovskites,APL-SPL,40
+Lubricants,Hexagonal,APL-SPL,34
+Lung,Adenocarcinoma,APL-SPL,55
+Lung,Alveolar,APL-SPL,61
+Lung,Breast,APL-SPL,65
+Lung,Bronchial,APL-SPL,32
+Lung,Macrophages,APL-SPL,36
+Lung,NSCLC,APL-SPL,76
+Lung,Non-Small Cell,APL-SPL,51
+Lung,SCLC,APL-SPL,30
+Lung,Squamous Cell,APL-SPL,44
+Lung Adenocarcinoma,Lung,APL-SPL,31
+Lung Cancer,Adenocarcinoma,APL-SPL,56
+Lung Cancer,Breast,APL-SPL,72
+Lung Cancer,Lung,APL-SPL,226
+Lung Cancer,NSCLC,APL-SPL,135
+Lung Cancer,Non-Small,APL-SPL,45
+Lung Cancer,Non-Small Cell,APL-SPL,112
+Lung Cancer,Ovarian,APL-SPL,37
+Lung Cancer,SCLC,APL-SPL,32
+Lung Cancer,Squamous Cell,APL-SPL,45
+Lupus Erythematosus,Systemic,APL-SPL,125
+Lymphoma,B Cell,APL-SPL,36
+MCF-7,Breast,APL-SPL,58
+MEA,FCC,APL-SPL,33
+MEA,S T,APL-SPL,40
+MFC,S T,APL-SPL,32
+MFC,T,APL-SPL,39
+MM,Multiple,APL-SPL,40
+MOFs,Hexagonal,APL-SPL,41
+MOFs,Organic,APL-SPL,48
+MSCS,Mesenchymal,APL-SPL,81
+MSCS,Osteoblasts,APL-SPL,31
+Machining,Cubic,APL-SPL,66
+Macrophages,Alveolar,APL-SPL,51
+Macrophages,M1,APL-SPL,33
+Macrophages,Marrow,APL-SPL,85
+Macrophages,Monocytes,APL-SPL,87
+Macrophages,Peritoneal,APL-SPL,156
+Magnet,Cubic,APL-SPL,46
+Magnet,Hexagonal,APL-SPL,58
+Magnetic Refrigeration,Orthorhombic,APL-SPL,35
+Magnetic Refrigeration,Perovskites,APL-SPL,35
+Magnetic Refrigeration,Rhombohedral,APL-SPL,32
+Magnetic Tunnel Junction,Heusler,APL-SPL,30
+Magnets,Cubic,APL-SPL,33
+Magnets,Hexagonal,APL-SPL,68
+Mammary,Breast,APL-SPL,64
+Mantle,Clinopyroxenes,APL-SPL,39
+Mantle,Garnet,APL-SPL,110
+Mantle,Olivines,APL-SPL,69
+Mantle,Spinels,APL-SPL,63
+Mantle Xenoliths,Garnet,APL-SPL,33
+Mantle Xenoliths,Spinels,APL-SPL,32
+Mask,Hexagonal,APL-SPL,93
+Material,Cubic,APL-SPL,60
+Material,Heusler,APL-SPL,39
+Material,Hexagonal,APL-SPL,42
+Material,Orthorhombic,APL-SPL,35
+Material,Perovskites,APL-SPL,134
+Material,Tetragonal,APL-SPL,37
+Material Science,Hexagonal,APL-SPL,33
+Melanoma,Breast,APL-SPL,50
+Melanoma Cells,Melanoma,APL-SPL,33
+Melt Inclusion,Garnet,APL-SPL,38
+Melt Inclusion,Olivines,APL-SPL,68
+Membrane,Abstract,APL-SPL,44
+Membrane,Anatase,APL-SPL,58
+Membrane,Cubic,APL-SPL,90
+Membrane,Hexagonal,APL-SPL,144
+Membrane,MFI,APL-SPL,105
+Membrane,Organic,APL-SPL,35
+Membrane,Perovskites,APL-SPL,201
+Membrane,S T,APL-SPL,103
+Membrane,T,APL-SPL,72
+Membrane Electrode Assembly,S T,APL-SPL,35
+Membrane Reactor,Perovskites,APL-SPL,107
+Memory,Perovskites,APL-SPL,45
+Memory Device,Perovskites,APL-SPL,91
+Memristor,Perovskites,APL-SPL,43
+Mesenchymal Stem Cell,Marrow,APL-SPL,42
+Mesenchymal Stem Cell,Mesenchymal,APL-SPL,62
+Mesenchymal Stem Cell,Osteoblasts,APL-SPL,62
+Mesoscopic,Perovskites,APL-SPL,72
+Mesoscopic Perovskite Solar Cells,Perovskites,APL-SPL,53
+Metal Air Batteries,Perovskites,APL-SPL,68
+Metal Air Batteries,Spinels,APL-SPL,39
+Metal Electrode,Hexagonal,APL-SPL,30
+Metal Electrode,Perovskites,APL-SPL,116
+Metals,Cubic,APL-SPL,57
+Metals,Garnet,APL-SPL,71
+Metals,Hexagonal,APL-SPL,65
+Metals,Perovskites,APL-SPL,63
+Metals,Spinels,APL-SPL,37
+Metamaterial,Cubic,APL-SPL,44
+Metamaterial,Hexagonal,APL-SPL,71
+Meteorite,Chondrite,APL-SPL,111
+Meteorite,Chondritic,APL-SPL,56
+Meteorite,Olivines,APL-SPL,83
+Meteorite,Pyroxene,APL-SPL,60
+Methane Combustion,Perovskites,APL-SPL,69
+Methane Conversion,Perovskites,APL-SPL,32
+Methane Oxidation,Perovskites,APL-SPL,57
+Methanol Oxidation,Abstract,APL-SPL,35
+Methanol Oxidation,Anatase,APL-SPL,32
+Methanol Oxidation,Cubic,APL-SPL,30
+Methanol Oxidation,FCC,APL-SPL,38
+Methanol Oxidation,Face Centered Cubic,APL-SPL,32
+Methanol Oxidation,S T,APL-SPL,32
+Methanol Oxidation,T,APL-SPL,42
+Mfcs,T,APL-SPL,32
+Mice,Breast,APL-SPL,79
+Mice,Colon,APL-SPL,31
+Mice,Lung,APL-SPL,30
+Mice,Melanoma,APL-SPL,40
+Mice,Ovarian,APL-SPL,31
+Mice,Spleens,APL-SPL,42
+Microbial Fuel Cell,T,APL-SPL,33
+Microelectrode,Hexagonal,APL-SPL,34
+Microfluidic Channels,Hexagonal,APL-SPL,33
+Microwave Absorbers,Hexagonal,APL-SPL,30
+Microwave Devices,Hexagonal,APL-SPL,31
+Microwave Devices,Spinels,APL-SPL,41
+Miec,Perovskites,APL-SPL,58
+Mirrors,Hexagonal,APL-SPL,66
+Mirrors,Perovskites,APL-SPL,37
+Module,Perovskites,APL-SPL,191
+Module,S T,APL-SPL,32
+Mof,Cubic,APL-SPL,32
+Mof,Hexagonal,APL-SPL,41
+Molecular Sieve,Cryptomelane,APL-SPL,42
+Molecular Sieve,Cubic,APL-SPL,60
+Molecular Sieve,Hexagonal,APL-SPL,149
+Molecular Sieve,MFI,APL-SPL,45
+Monolithic,Perovskites,APL-SPL,45
+Msc,Mesenchymal,APL-SPL,53
+Multiferroics,Orthorhombic,APL-SPL,30
+Multiferroics,Perovskites,APL-SPL,75
+Multifunctional Devices,Perovskites,APL-SPL,31
+Myelogenous Leukemia,CML,APL-SPL,34
+Myelogenous Leukemia,Chronic,APL-SPL,79
+Myeloma,Multiple,APL-SPL,51
+Myocytes,Cardiac,APL-SPL,65
+N-I-P,Perovskites,APL-SPL,102
+N2O Decomposition,Spinels,APL-SPL,31
+NAFLD,NASH,APL-SPL,42
+NK Cell,NK,APL-SPL,79
+NPC,Nasopharyngeal,APL-SPL,53
+NSCLC,Adenocarcinoma,APL-SPL,68
+NSCLC,Lung,APL-SPL,67
+NSCLC,Non-Small,APL-SPL,133
+NSCLC,Non-Small Cell,APL-SPL,69
+NSCLC,Squamous Cell,APL-SPL,48
+Nanocarrier,Breast,APL-SPL,56
+Nanocatalyst,Anatase,APL-SPL,53
+Nanocatalyst,Cubic,APL-SPL,60
+Nanocatalyst,FCC,APL-SPL,45
+Nanocatalyst,Face Centered Cubic,APL-SPL,30
+Nanocatalyst,Hexagonal,APL-SPL,60
+Nanocatalyst,Spinels,APL-SPL,32
+Nanodevice,Hexagonal,APL-SPL,66
+Nanoelectronics,Hexagonal,APL-SPL,93
+Nanopores,Hexagonal,APL-SPL,36
+Nanotechnology,Hexagonal,APL-SPL,47
+Negative Electrode,Abstract,APL-SPL,39
+Negative Electrode,Anatase,APL-SPL,56
+Negative Electrode,Cubic,APL-SPL,50
+Negative Electrode,Hexagonal,APL-SPL,64
+Negative Electrode,Rutile,APL-SPL,31
+Negative Electrode,Spinels,APL-SPL,105
+Negative Electrode,T,APL-SPL,45
+Negative Electrode,Tetragonal,APL-SPL,32
+Nephrology,Pediatric,APL-SPL,58
+Neuron,Hippocampal,APL-SPL,33
+Neuronal,Hippocampal,APL-SPL,32
+Neuronal,Neuroblastoma,APL-SPL,31
+Neurons,Astrocytes,APL-SPL,69
+Neurons,Hippocampal,APL-SPL,150
+Neurons,Hippocampus,APL-SPL,31
+Neurons,Pluripotent,APL-SPL,39
+No Reduction,Perovskites,APL-SPL,31
+Non-Small Cell Lung Cancer,NSCLC,APL-SPL,114
+Non-Small-Cell Lung Cancer,NSCLC,APL-SPL,38
+Nonvolatile Memory,Perovskites,APL-SPL,38
+Normal Hydrogen Electrode,Anatase,APL-SPL,30
+Nuclear Power Plant,Austenitic,APL-SPL,53
+Nuclear Reactor,Austenitic,APL-SPL,45
+O2,Perovskites,APL-SPL,40
+OER,Anatase,APL-SPL,40
+OER,Cubic,APL-SPL,123
+OER,Double Perovskite,APL-SPL,40
+OER,Graphitic,APL-SPL,49
+OER,Hexagonal,APL-SPL,119
+OER,Monoclinic,APL-SPL,38
+OER,Orthorhombic,APL-SPL,50
+OER,Perovskites,APL-SPL,431
+OER,Rutile,APL-SPL,100
+OER,Spinels,APL-SPL,267
+OER,Tetragonal,APL-SPL,48
+OER Catalyst,Perovskites,APL-SPL,56
+OER Catalyst,Spinels,APL-SPL,30
+OLED,Perovskites,APL-SPL,31
+OLEDs,Perovskites,APL-SPL,35
+OPV,Perovskites,APL-SPL,32
+ORR,Abstract,APL-SPL,52
+ORR,Anatase,APL-SPL,37
+ORR,Cubic,APL-SPL,162
+ORR,Double Perovskite,APL-SPL,35
+ORR,FCC,APL-SPL,100
+ORR,Face Centered Cubic,APL-SPL,45
+ORR,Graphitic,APL-SPL,228
+ORR,Hexagonal,APL-SPL,112
+ORR,Orthorhombic,APL-SPL,30
+ORR,Perovskites,APL-SPL,336
+ORR,Rutile,APL-SPL,41
+ORR,S T,APL-SPL,58
+ORR,Spinels,APL-SPL,182
+ORR,T,APL-SPL,80
+ORR,Tetragonal,APL-SPL,48
+OSCC,Oral,APL-SPL,31
+OSCS,Perovskites,APL-SPL,44
+Oceanic,Garnet,APL-SPL,40
+Ohmic Contact,Hexagonal,APL-SPL,33
+Ohmic Contact,Perovskites,APL-SPL,34
+Ophiolites,Amphibolite,APL-SPL,35
+Ophiolites,Chondrite,APL-SPL,30
+Ophiolites,Clinopyroxenes,APL-SPL,44
+Ophiolites,Eclogites,APL-SPL,35
+Ophiolites,Garnet,APL-SPL,68
+Ophiolites,Olivines,APL-SPL,52
+Ophiolites,Ophiolitic,APL-SPL,50
+Ophiolites,SSZ,APL-SPL,35
+Ophiolites,Spinels,APL-SPL,68
+Ophiolites,Ultramafic,APL-SPL,54
+Optical,Hexagonal,APL-SPL,44
+Optical,Perovskites,APL-SPL,42
+Optical Device,Hexagonal,APL-SPL,31
+Optical Fiber,Hexagonal,APL-SPL,35
+Optics,Hexagonal,APL-SPL,47
+Optoelectronic Application,Cubic,APL-SPL,61
+Optoelectronic Application,Double Perovskite,APL-SPL,41
+Optoelectronic Application,Hexagonal,APL-SPL,82
+Optoelectronic Application,Orthorhombic,APL-SPL,42
+Optoelectronic Application,Perovskites,APL-SPL,559
+Optoelectronic Application,Tetragonal,APL-SPL,31
+Optoelectronic Application,Wurtzite,APL-SPL,46
+Optoelectronic Device,Cubic,APL-SPL,138
+Optoelectronic Device,Hexagonal,APL-SPL,227
+Optoelectronic Device,Hexagonal Wurtzite,APL-SPL,34
+Optoelectronic Device,Hybrid,APL-SPL,33
+Optoelectronic Device,Orthorhombic,APL-SPL,46
+Optoelectronic Device,Perovskites,APL-SPL,814
+Optoelectronic Device,Tetragonal,APL-SPL,53
+Optoelectronic Device,Wurtzite,APL-SPL,106
+Optoelectronic Device,Zinc Blende,APL-SPL,36
+Optoelectronic Material,Perovskites,APL-SPL,109
+Optoelectronics,Cubic,APL-SPL,67
+Optoelectronics,Hexagonal,APL-SPL,190
+Optoelectronics,Orthorhombic,APL-SPL,44
+Optoelectronics,Perovskites,APL-SPL,410
+Optoelectronics,Wurtzite,APL-SPL,67
+Orange,Anatase,APL-SPL,30
+Ore,Chondrite,APL-SPL,66
+Ore,Garnet,APL-SPL,61
+Ore,Gneiss,APL-SPL,31
+Ore,Granite,APL-SPL,112
+Ore,Granitic,APL-SPL,61
+Ore,Granitoids,APL-SPL,54
+Ore,Porphyry,APL-SPL,138
+Ore,Rutile,APL-SPL,33
+Ore,Skarn,APL-SPL,161
+Ore,Ultramafic,APL-SPL,30
+Orebody,Granite,APL-SPL,38
+Orebody,Porphyry,APL-SPL,51
+Orebody,Skarn,APL-SPL,59
+Ores,Skarn,APL-SPL,37
+Organic Photovoltaic,Perovskites,APL-SPL,31
+Organic Solar Cells,Perovskites,APL-SPL,69
+Organic Solar Cells,S T,APL-SPL,30
+Osteoblast Cells,Osteoblasts,APL-SPL,39
+Osteoclast,Marrow,APL-SPL,49
+Osteoclast,Osteoblasts,APL-SPL,95
+Osteoclast,Osteoclasts,APL-SPL,82
+Osteoclasts,Marrow,APL-SPL,43
+Osteoclasts,Osteoblasts,APL-SPL,124
+Osteoclasts,Osteoclast,APL-SPL,39
+Osteoporosis,Osteoblasts,APL-SPL,72
+Ovarian Cancer,Ovarian,APL-SPL,267
+Oxidation,Abstract,APL-SPL,93
+Oxidation,Anatase,APL-SPL,205
+Oxidation,Cubic,APL-SPL,90
+Oxidation,FCC,APL-SPL,44
+Oxidation,Graphitic,APL-SPL,32
+Oxidation,Hexagonal,APL-SPL,134
+Oxidation,Keggin,APL-SPL,64
+Oxidation,Monoclinic,APL-SPL,57
+Oxidation,Orthorhombic,APL-SPL,38
+Oxidation,Perovskites,APL-SPL,130
+Oxidation,R A C T,APL-SPL,36
+Oxidation,Rutile,APL-SPL,126
+Oxidation,S T,APL-SPL,94
+Oxidation,Spinels,APL-SPL,75
+Oxidation,T,APL-SPL,134
+Oxidation,Tetragonal,APL-SPL,41
+Oxidative Coupling Of Methane,Perovskites,APL-SPL,31
+Oxygen,Perovskites,APL-SPL,39
+Oxygen Carrier,Perovskites,APL-SPL,94
+Oxygen Carrier,Spinels,APL-SPL,47
+Oxygen Electrode,Perovskites,APL-SPL,80
+Oxygen Evolution,Perovskites,APL-SPL,50
+Oxygen Evolution Reaction,Cubic,APL-SPL,55
+Oxygen Evolution Reaction,Hexagonal,APL-SPL,68
+Oxygen Evolution Reaction,Perovskites,APL-SPL,334
+Oxygen Evolution Reaction,Rutile,APL-SPL,64
+Oxygen Evolution Reaction,Spinels,APL-SPL,202
+Oxygen Reduction,Cubic,APL-SPL,32
+Oxygen Reduction,Perovskites,APL-SPL,101
+Oxygen Reduction,Spinels,APL-SPL,30
+Oxygen Reduction Reaction,Abstract,APL-SPL,51
+Oxygen Reduction Reaction,Cubic,APL-SPL,100
+Oxygen Reduction Reaction,FCC,APL-SPL,52
+Oxygen Reduction Reaction,Face Centered Cubic,APL-SPL,45
+Oxygen Reduction Reaction,Graphitic,APL-SPL,153
+Oxygen Reduction Reaction,Hexagonal,APL-SPL,57
+Oxygen Reduction Reaction,Perovskites,APL-SPL,303
+Oxygen Reduction Reaction,S T,APL-SPL,71
+Oxygen Reduction Reaction,Spinels,APL-SPL,122
+Oxygen Reduction Reaction,T,APL-SPL,88
+Oxygen Sensor,Perovskites,APL-SPL,32
+Oxygen Separation,Perovskites,APL-SPL,45
+Oxygen Separation Membranes,Perovskites,APL-SPL,30
+Oxygen Transport Membrane,Perovskites,APL-SPL,41
+P,F,APL-SPL,30
+P,Perovskites,APL-SPL,63
+P,T,APL-SPL,35
+P-I-N,Perovskites,APL-SPL,121
+P-I-N Perovskite Solar Cells,Perovskites,APL-SPL,36
+P-N Junction,Hexagonal,APL-SPL,46
+P-N Junction,Perovskites,APL-SPL,47
+PC,Hexagonal,APL-SPL,34
+PCA,Prostate,APL-SPL,128
+PDT,Breast,APL-SPL,34
+PEC,Anatase,APL-SPL,55
+PEC,Rutile,APL-SPL,39
+PEC Cell,Anatase,APL-SPL,32
+PELEDs,Perovskites,APL-SPL,234
+PEM,S T,APL-SPL,30
+PEMFC,B s t,APL-SPL,31
+PEMFC,S T,APL-SPL,63
+PESCS,Perovskites,APL-SPL,63
+PIN,Perovskites,APL-SPL,32
+POM,Dawson,APL-SPL,30
+POM,Keggin,APL-SPL,53
+POM,Perovskites,APL-SPL,40
+PQDS,Perovskites,APL-SPL,63
+PSC,Anatase,APL-SPL,45
+PSC,Cubic,APL-SPL,66
+PSC,Perovskites,APL-SPL,1522
+PSC,Rutile,APL-SPL,31
+PSC,Tetragonal,APL-SPL,40
+PSC Device,Perovskites,APL-SPL,309
+PSCS,Anatase,APL-SPL,57
+PSCS,Cubic,APL-SPL,91
+PSCS,Orthorhombic,APL-SPL,35
+PSCS,Perovskites,APL-SPL,2877
+PSCS,Rutile,APL-SPL,42
+PSCS,Tetragonal,APL-SPL,50
+PSCs,Perovskites,APL-SPL,532
+PV,Perovskites,APL-SPL,178
+PV,S T,APL-SPL,48
+PV Cells,Perovskites,APL-SPL,30
+PV Device,Perovskites,APL-SPL,62
+PVSC,Perovskites,APL-SPL,97
+PVSCS,Perovskites,APL-SPL,212
+Paint,Anatase,APL-SPL,30
+Paint,Rutile,APL-SPL,46
+Pancreas,Pancreatic,APL-SPL,43
+Pancreatic Cancer,PDAC,APL-SPL,31
+Pancreatic Cancer,Pancreatic,APL-SPL,207
+Partial Oxidation of Methane,Perovskites,APL-SPL,67
+Passivation,Perovskites,APL-SPL,45
+Passivation Layer,Perovskites,APL-SPL,105
+Pds,Perovskites,APL-SPL,103
+Peeled,Perovskites,APL-SPL,115
+Permanent Magnet,Hexagonal,APL-SPL,62
+Pero,Perovskites,APL-SPL,50
+Perovskite Cells,Perovskites,APL-SPL,49
+Perovskite Devices,Perovskites,APL-SPL,160
+Perovskite Photovoltaic Devices,Perovskites,APL-SPL,43
+Perovskite Photovoltaics,Perovskites,APL-SPL,73
+Perovskite Solar,Perovskites,APL-SPL,91
+Perovskite Solar Cell Device,Perovskites,APL-SPL,79
+Perovskite Solar Cells,Anatase,APL-SPL,33
+Perovskite Solar Cells,Cubic,APL-SPL,61
+Perovskite Solar Cells,Perovskites,APL-SPL,1242
+Perovskite Solar Cells,Tetragonal,APL-SPL,33
+Perovskite Solar Module,Perovskites,APL-SPL,36
+Perovskites,Cubic,APL-SPL,33
+Phenol Degradation,Anatase,APL-SPL,43
+Phj,Perovskites,APL-SPL,52
+Phosphor,Abstract,APL-SPL,62
+Phosphor,Cubic,APL-SPL,217
+Phosphor,Double Perovskite,APL-SPL,53
+Phosphor,Garnet,APL-SPL,222
+Phosphor,Hexagonal,APL-SPL,163
+Phosphor,Monoclinic,APL-SPL,233
+Phosphor,Orthorhombic,APL-SPL,138
+Phosphor,Perovskites,APL-SPL,131
+Phosphor,S T,APL-SPL,34
+Phosphor,Scheelite,APL-SPL,32
+Phosphor,Spinels,APL-SPL,39
+Phosphor,T,APL-SPL,44
+Phosphor,Tetragonal,APL-SPL,125
+Phosphor,Trigonal,APL-SPL,32
+Phosphors,Abstract,APL-SPL,77
+Phosphors,Apatites,APL-SPL,39
+Phosphors,Cubic,APL-SPL,254
+Phosphors,Double Perovskite,APL-SPL,76
+Phosphors,Garnet,APL-SPL,225
+Phosphors,Garnets,APL-SPL,40
+Phosphors,Hexagonal,APL-SPL,202
+Phosphors,Monoclinic,APL-SPL,282
+Phosphors,Orthorhombic,APL-SPL,158
+Phosphors,Perovskites,APL-SPL,155
+Phosphors,S T,APL-SPL,44
+Phosphors,Scheelite,APL-SPL,69
+Phosphors,Spinels,APL-SPL,36
+Phosphors,T,APL-SPL,39
+Phosphors,Tetragonal,APL-SPL,198
+Phosphors,Trigonal,APL-SPL,42
+Photo Decomposition,Anatase,APL-SPL,34
+Photo Degradation,Anatase,APL-SPL,30
+Photo Diode,Perovskites,APL-SPL,69
+Photo-Catalyst,Anatase,APL-SPL,30
+Photoactive Layer,Perovskites,APL-SPL,130
+Photoanode,Abstract,APL-SPL,60
+Photoanode,Anatase,APL-SPL,642
+Photoanode,Brookite,APL-SPL,34
+Photoanode,Cubic,APL-SPL,82
+Photoanode,Hexagonal,APL-SPL,133
+Photoanode,Monoclinic,APL-SPL,120
+Photoanode,Orthorhombic,APL-SPL,51
+Photoanode,Perovskites,APL-SPL,167
+Photoanode,R A C T,APL-SPL,33
+Photoanode,Rutile,APL-SPL,360
+Photoanode,S T,APL-SPL,33
+Photoanode,T,APL-SPL,75
+Photoanode,Tetragonal,APL-SPL,48
+Photoanode,Wurtzite,APL-SPL,41
+Photocatalysis,Anatase,APL-SPL,512
+Photocatalysis,Brookite,APL-SPL,31
+Photocatalysis,Cubic,APL-SPL,71
+Photocatalysis,Graphitic,APL-SPL,31
+Photocatalysis,Hexagonal,APL-SPL,116
+Photocatalysis,Monoclinic,APL-SPL,44
+Photocatalysis,Orthorhombic,APL-SPL,35
+Photocatalysis,Perovskites,APL-SPL,152
+Photocatalysis,Rutile,APL-SPL,233
+Photocatalysis,T,APL-SPL,31
+Photocatalysis,Tetragonal,APL-SPL,31
+Photocatalysis Application,Anatase,APL-SPL,104
+Photocatalysis Application,Perovskites,APL-SPL,44
+Photocatalysis Application,Rutile,APL-SPL,47
+Photocatalyst,Abstract,APL-SPL,62
+Photocatalyst,Anatase,APL-SPL,1464
+Photocatalyst,Brookite,APL-SPL,111
+Photocatalyst,Cubic,APL-SPL,236
+Photocatalyst,Graphitic,APL-SPL,55
+Photocatalyst,Hexagonal,APL-SPL,244
+Photocatalyst,Hexagonal Wurtzite,APL-SPL,47
+Photocatalyst,Monoclinic,APL-SPL,210
+Photocatalyst,Orthorhombic,APL-SPL,115
+Photocatalyst,Perovskites,APL-SPL,245
+Photocatalyst,R A C T,APL-SPL,52
+Photocatalyst,Rhombohedral,APL-SPL,33
+Photocatalyst,Rutile,APL-SPL,649
+Photocatalyst,S T,APL-SPL,55
+Photocatalyst,Spinels,APL-SPL,57
+Photocatalyst,T,APL-SPL,177
+Photocatalyst,Tetragonal,APL-SPL,124
+Photocatalyst,Wurtzite,APL-SPL,85
+Photocatalyst,Z-Scheme,APL-SPL,49
+Photocatalysts,Abstract,APL-SPL,62
+Photocatalysts,Anatase,APL-SPL,1584
+Photocatalysts,Brookite,APL-SPL,127
+Photocatalysts,Cubic,APL-SPL,219
+Photocatalysts,Graphitic,APL-SPL,60
+Photocatalysts,Hexagonal,APL-SPL,273
+Photocatalysts,Hexagonal Wurtzite,APL-SPL,31
+Photocatalysts,Monoclinic,APL-SPL,173
+Photocatalysts,Orthorhombic,APL-SPL,104
+Photocatalysts,Perovskites,APL-SPL,304
+Photocatalysts,R A C T,APL-SPL,49
+Photocatalysts,Rutile,APL-SPL,727
+Photocatalysts,S T,APL-SPL,42
+Photocatalysts,Spinels,APL-SPL,49
+Photocatalysts,T,APL-SPL,151
+Photocatalysts,Tetragonal,APL-SPL,111
+Photocatalysts,Wurtzite,APL-SPL,80
+Photocatalysts,Z-Scheme,APL-SPL,35
+Photocatalytic CO2 Reduction,Anatase,APL-SPL,37
+Photocatalytic Decomposition,Anatase,APL-SPL,149
+Photocatalytic Decomposition,Rutile,APL-SPL,70
+Photocatalytic Degradation,Abstract,APL-SPL,37
+Photocatalytic Degradation,Anatase,APL-SPL,785
+Photocatalytic Degradation,Brookite,APL-SPL,58
+Photocatalytic Degradation,Cubic,APL-SPL,116
+Photocatalytic Degradation,Hexagonal,APL-SPL,117
+Photocatalytic Degradation,Monoclinic,APL-SPL,84
+Photocatalytic Degradation,Orthorhombic,APL-SPL,51
+Photocatalytic Degradation,Perovskites,APL-SPL,61
+Photocatalytic Degradation,Rutile,APL-SPL,347
+Photocatalytic Degradation,T,APL-SPL,68
+Photocatalytic Degradation,Tetragonal,APL-SPL,50
+Photocatalytic Degradation,Wurtzite,APL-SPL,30
+Photocatalytic Degradation Of,Anatase,APL-SPL,45
+Photocatalytic H2,Anatase,APL-SPL,233
+Photocatalytic H2,Cubic,APL-SPL,36
+Photocatalytic H2,Hexagonal,APL-SPL,48
+Photocatalytic H2,Monoclinic,APL-SPL,30
+Photocatalytic H2,Perovskites,APL-SPL,61
+Photocatalytic H2,Rutile,APL-SPL,114
+Photocatalytic H2 Evolution,Anatase,APL-SPL,62
+Photocatalytic H2 Evolution,Hexagonal,APL-SPL,34
+Photocatalytic H2 Production,Anatase,APL-SPL,70
+Photocatalytic H2 Production,Rutile,APL-SPL,42
+Photocatalytic Hydrogen Evolution,Anatase,APL-SPL,46
+Photocatalytic Hydrogen Evolution,Hexagonal,APL-SPL,30
+Photocatalytic Hydrogen Generation,Anatase,APL-SPL,43
+Photocatalytic Hydrogen Production,Anatase,APL-SPL,59
+Photocatalytic Hydrogen Production,Rutile,APL-SPL,35
+Photocatalytic Materials,Anatase,APL-SPL,44
+Photocatalytic Oxidation,Anatase,APL-SPL,195
+Photocatalytic Oxidation,Rutile,APL-SPL,88
+Photocatalytic Process,Anatase,APL-SPL,63
+Photocatalytic Reaction,Anatase,APL-SPL,268
+Photocatalytic Reaction,Cubic,APL-SPL,51
+Photocatalytic Reaction,Hexagonal,APL-SPL,49
+Photocatalytic Reaction,Perovskites,APL-SPL,44
+Photocatalytic Reaction,Rutile,APL-SPL,135
+Photocatalytic Reaction,T,APL-SPL,31
+Photocatalytic Reactor,Anatase,APL-SPL,36
+Photocatalytic Reduction,Anatase,APL-SPL,80
+Photocatalytic Reduction,Rutile,APL-SPL,33
+Photocatalytic Reduction of CO2,Anatase,APL-SPL,30
+Photocatalytic System,Anatase,APL-SPL,47
+Photocatalytic Water Splitting,Anatase,APL-SPL,86
+Photocatalytic Water Splitting,Perovskites,APL-SPL,61
+Photocatalytic Water Splitting,Rutile,APL-SPL,49
+Photocathodes,Cubic,APL-SPL,32
+Photocathodes,Hexagonal,APL-SPL,30
+Photocathodes,Perovskites,APL-SPL,44
+Photodegradation,Anatase,APL-SPL,144
+Photodegradation,Rutile,APL-SPL,64
+Photodegradation Of,Anatase,APL-SPL,40
+Photodetection,Perovskites,APL-SPL,50
+Photodetector,2H,APL-SPL,35
+Photodetector,Cubic,APL-SPL,98
+Photodetector,Hexagonal,APL-SPL,164
+Photodetector,Hybrid,APL-SPL,33
+Photodetector,Orthorhombic,APL-SPL,64
+Photodetector,Perovskites,APL-SPL,829
+Photodetector,Tetragonal,APL-SPL,46
+Photodetector,Wurtzite,APL-SPL,55
+Photodetector Device,Perovskites,APL-SPL,39
+Photoelectric Devices,Perovskites,APL-SPL,36
+Photoelectrochemical Cells,Anatase,APL-SPL,46
+Photoelectrochemical Cells,Rutile,APL-SPL,38
+Photoelectrodes,Anatase,APL-SPL,281
+Photoelectrodes,Cubic,APL-SPL,57
+Photoelectrodes,Hexagonal,APL-SPL,72
+Photoelectrodes,Monoclinic,APL-SPL,47
+Photoelectrodes,Perovskites,APL-SPL,71
+Photoelectrodes,Rutile,APL-SPL,140
+Photoelectrodes,T,APL-SPL,37
+Photonic Crystal,Anatase,APL-SPL,30
+Photonic Crystal,Cubic,APL-SPL,53
+Photonic Crystal,FCC,APL-SPL,83
+Photonic Crystal,Face Centered Cubic,APL-SPL,55
+Photonic Crystal,Hexagonal,APL-SPL,133
+Photonic Crystal,Opal,APL-SPL,35
+Photonic Crystal,Perovskites,APL-SPL,37
+Photonic Devices,Hexagonal,APL-SPL,31
+Photonic Devices,Perovskites,APL-SPL,42
+Photonics,Cubic,APL-SPL,30
+Photonics,Hexagonal,APL-SPL,77
+Photonics,Perovskites,APL-SPL,58
+Photooxidation,Anatase,APL-SPL,68
+Photooxidation,Rutile,APL-SPL,49
+Photoreactors,Anatase,APL-SPL,83
+Photoreactors,Rutile,APL-SPL,30
+Photosystem II,Cubane,APL-SPL,31
+Phototransistor,Perovskites,APL-SPL,74
+Photovoltaic Application,Cubic,APL-SPL,48
+Photovoltaic Application,Perovskites,APL-SPL,316
+Photovoltaic Application,Tetragonal,APL-SPL,40
+Photovoltaic Cells,Perovskites,APL-SPL,128
+Photovoltaic Devices,Anatase,APL-SPL,41
+Photovoltaic Devices,Cubic,APL-SPL,71
+Photovoltaic Devices,Hexagonal,APL-SPL,70
+Photovoltaic Devices,Kesterite,APL-SPL,36
+Photovoltaic Devices,Orthorhombic,APL-SPL,38
+Photovoltaic Devices,Perovskites,APL-SPL,613
+Photovoltaic Devices,Tetragonal,APL-SPL,39
+Photovoltaic Material,Perovskites,APL-SPL,137
+Photovoltaic Solar Cells,Perovskites,APL-SPL,33
+Photovoltaic Technology,Perovskites,APL-SPL,235
+Photovoltaics,Anatase,APL-SPL,59
+Photovoltaics,Chalcopyrite,APL-SPL,33
+Photovoltaics,Cubic,APL-SPL,86
+Photovoltaics,Double Perovskite,APL-SPL,37
+Photovoltaics,Hexagonal,APL-SPL,70
+Photovoltaics,Kesterite,APL-SPL,34
+Photovoltaics,Orthorhombic,APL-SPL,50
+Photovoltaics,Perovskites,APL-SPL,1030
+Photovoltaics,Rutile,APL-SPL,37
+Photovoltaics,Tetragonal,APL-SPL,42
+Photovoltaics,Wurtzite,APL-SPL,41
+Piezoelectric,Perovskites,APL-SPL,58
+Piezoelectric,Tetragonal,APL-SPL,38
+Piezoelectric Ceramics,Perovskites,APL-SPL,47
+Piezoelectric Ceramics,Tetragonal,APL-SPL,41
+Piezoelectric Device,Perovskites,APL-SPL,32
+Pigment,Anatase,APL-SPL,72
+Pigment,C.I.,APL-SPL,30
+Pigment,Hexagonal,APL-SPL,34
+Pigment,Monoclinic,APL-SPL,33
+Pigment,Rutile,APL-SPL,138
+Pigment,Spinels,APL-SPL,86
+Pipe,Austenite,APL-SPL,39
+Pipe,Austenitic,APL-SPL,37
+Pipelines,Austenite,APL-SPL,47
+Pipelines,Martensite,APL-SPL,38
+Pipes,Austenitic,APL-SPL,37
+Planar,Perovskites,APL-SPL,109
+Planar Device,Perovskites,APL-SPL,73
+Planar Heterojunction,Perovskites,APL-SPL,95
+Planar Heterojunction Perovskite Solar Cells,Perovskites,APL-SPL,46
+Planar Heterojunction Solar Cells,Perovskites,APL-SPL,47
+Planar PSC,Perovskites,APL-SPL,127
+Planar Perovskite Solar Cell,Perovskites,APL-SPL,136
+Planar Solar Cells,Perovskites,APL-SPL,60
+Planetary,Chondrite,APL-SPL,35
+Plasmonic,Hexagonal,APL-SPL,32
+Plating,Cubic,APL-SPL,30
+Plating,Garnet,APL-SPL,60
+Plating,Hexagonal,APL-SPL,31
+Pluton,Garnet,APL-SPL,46
+Pncs,Perovskites,APL-SPL,58
+Polarizer,Hexagonal,APL-SPL,55
+Polarizer,Lc,APL-SPL,33
+Polarizer,Nematic,APL-SPL,83
+Polymers,Hexagonal,APL-SPL,49
+Porphyry,Chondrite,APL-SPL,32
+Porphyry,Granite,APL-SPL,41
+Porphyry,Skarn,APL-SPL,57
+Porphyry Cu,Porphyry,APL-SPL,38
+Positive Electrode,Abstract,APL-SPL,41
+Positive Electrode,Cubic,APL-SPL,49
+Positive Electrode,Hexagonal,APL-SPL,59
+Positive Electrode,Monoclinic,APL-SPL,54
+Positive Electrode,Olivines,APL-SPL,50
+Positive Electrode,Orthorhombic,APL-SPL,33
+Positive Electrode,Spinels,APL-SPL,230
+Positive Electrode,T,APL-SPL,48
+Power Generation,Perovskites,APL-SPL,31
+Power Plant,Austenitic,APL-SPL,44
+Power Plant,Ferritic,APL-SPL,33
+Power Plant,Martensitic,APL-SPL,34
+Probes,Hexagonal,APL-SPL,39
+Prostate,Breast,APL-SPL,35
+Prostate Cancer,Breast,APL-SPL,46
+Prostate Cancer,Prostate,APL-SPL,379
+Protective Coating,Cubic,APL-SPL,55
+Protective Coating,Hexagonal,APL-SPL,40
+Protective Coating,Spinels,APL-SPL,45
+Protective Layer,Perovskites,APL-SPL,38
+Protective Layer,Spinels,APL-SPL,42
+Proton Exchange Membrane Fuel Cells,S T,APL-SPL,62
+Pvs,Perovskites,APL-SPL,69
+Pyramidal Neurons,Hippocampal,APL-SPL,45
+QD,Cubic,APL-SPL,51
+QD,Hexagonal,APL-SPL,39
+QD,Perovskites,APL-SPL,95
+QD,Wurtzite,APL-SPL,32
+QLEDs,Perovskites,APL-SPL,32
+QWS,Wurtzite,APL-SPL,30
+Quantum Dots,Cubic,APL-SPL,37
+Quantum Dots,Hexagonal,APL-SPL,37
+Quantum Dots,Perovskites,APL-SPL,38
+Quantum Well,Cubic,APL-SPL,52
+Quantum Well,Hexagonal,APL-SPL,83
+Quantum Well,Perovskites,APL-SPL,113
+Quantum Well,Wurtzite,APL-SPL,86
+Quantum Well,Zinc Blende,APL-SPL,76
+R A,T,APL-SPL,53
+RAFM,Ferritic,APL-SPL,52
+RAFM,Martensitic,APL-SPL,53
+RCC,Renal,APL-SPL,78
+RCC,Renal Cell,APL-SPL,85
+RHE,Cubic,APL-SPL,48
+RHE,FCC,APL-SPL,32
+RHE,Hexagonal,APL-SPL,47
+RHE,Monoclinic,APL-SPL,37
+RHE,Perovskites,APL-SPL,38
+RHE,Rutile,APL-SPL,34
+Rail,Austenite,APL-SPL,31
+Rail,Martensite,APL-SPL,31
+Rail,Pearlitic,APL-SPL,42
+Rde,Perovskites,APL-SPL,34
+Reactors,Abstract,APL-SPL,60
+Reactors,Anatase,APL-SPL,99
+Reactors,Austenitic,APL-SPL,48
+Reactors,B s t,APL-SPL,32
+Reactors,Cubic,APL-SPL,46
+Reactors,FCC,APL-SPL,51
+Reactors,Ferritic,APL-SPL,40
+Reactors,Hexagonal,APL-SPL,97
+Reactors,Martensitic,APL-SPL,36
+Reactors,Perovskites,APL-SPL,108
+Reactors,Rutile,APL-SPL,57
+Reactors,S T,APL-SPL,126
+Reactors,Spinels,APL-SPL,47
+Reactors,T,APL-SPL,102
+Rechargeable,Spinels,APL-SPL,41
+Rechargeable Lithium Battery,Spinels,APL-SPL,34
+Rechargeable Lithium Ion Battery,Spinels,APL-SPL,45
+Red Phosphor,Cubic,APL-SPL,35
+Red Phosphor,Monoclinic,APL-SPL,35
+Red Phosphor,Perovskites,APL-SPL,33
+Reductions,Abstract,APL-SPL,35
+Reductions,Anatase,APL-SPL,63
+Reductions,Cubic,APL-SPL,55
+Reductions,FCC,APL-SPL,39
+Reductions,Hexagonal,APL-SPL,51
+Reductions,Perovskites,APL-SPL,52
+Reductions,Rutile,APL-SPL,36
+Reductions,T,APL-SPL,54
+Reference Electrode,Anatase,APL-SPL,68
+Reference Electrode,Cubic,APL-SPL,63
+Reference Electrode,Hexagonal,APL-SPL,91
+Reference Electrode,Monoclinic,APL-SPL,30
+Reference Electrode,Perovskites,APL-SPL,59
+Reference Electrode,Rutile,APL-SPL,48
+Reference Electrode,Spinels,APL-SPL,37
+Reflectors,Hexagonal,APL-SPL,39
+Reforming,Perovskites,APL-SPL,30
+Refractories,Spinels,APL-SPL,86
+Refractory,Spinels,APL-SPL,92
+Regenerative Medicine,Mesenchymal,APL-SPL,45
+Regenerative Medicine,Pluripotent,APL-SPL,61
+Removal,T,APL-SPL,40
+Renewable Energy,Perovskites,APL-SPL,44
+Renewable Energy,S T,APL-SPL,35
+Reservoir,Chondritic,APL-SPL,45
+Resonator,Hexagonal,APL-SPL,57
+Resonator,Perovskites,APL-SPL,46
+Reverse,Phase,APL-SPL,109
+Rheumatoid Arthritis,Systemic,APL-SPL,31
+Risers,FCC,APL-SPL,61
+SAM,Hexagonal,APL-SPL,34
+SC,Hexagonal,APL-SPL,35
+SC,Perovskites,APL-SPL,88
+SCR,Anatase,APL-SPL,44
+SCR,T,APL-SPL,36
+SLE,Systemic,APL-SPL,116
+SMA,Austenite,APL-SPL,58
+SMA,Martensite,APL-SPL,80
+SMA,Martensitic,APL-SPL,33
+SMAS,Austenite,APL-SPL,105
+SMAS,Austenitic,APL-SPL,36
+SMAS,B2,APL-SPL,31
+SMAS,Martensite,APL-SPL,176
+SMAS,Martensitic,APL-SPL,118
+SMAs,Martensite,APL-SPL,31
+SOEC,Perovskites,APL-SPL,48
+SOECS,Perovskites,APL-SPL,38
+SOFC,Abstract,APL-SPL,44
+SOFC,Cubic,APL-SPL,102
+SOFC,Double Perovskite,APL-SPL,33
+SOFC,Ferritic,APL-SPL,49
+SOFC,Fluorite,APL-SPL,41
+SOFC,Perovskites,APL-SPL,453
+SOFC,S T,APL-SPL,54
+SOFC,Spinels,APL-SPL,95
+SOFC,Tetragonal,APL-SPL,40
+SOFC Anode,Perovskites,APL-SPL,40
+SOFC Cathode,Perovskites,APL-SPL,63
+SOFs,Abstract,APL-SPL,42
+SOFs,Cubic,APL-SPL,85
+SOFs,Double Perovskite,APL-SPL,43
+SOFs,Fluorite,APL-SPL,32
+SOFs,Perovskites,APL-SPL,452
+SOFs,S T,APL-SPL,34
+SOFs,Spinels,APL-SPL,56
+SSE,Garnet,APL-SPL,50
+STM,Hexagonal,APL-SPL,34
+Sample Holder,Cubic,APL-SPL,38
+Sample Holder,Hexagonal,APL-SPL,40
+Scaffold,Hexagonal,APL-SPL,34
+Scaffold,Osteoblasts,APL-SPL,33
+Scaffold,Perovskites,APL-SPL,48
+Scales,Hexagonal,APL-SPL,33
+Scattering Layer,Anatase,APL-SPL,51
+Schottky Junction,Perovskites,APL-SPL,43
+Schwann Cells,Schwann,APL-SPL,62
+Scintillator,Garnet,APL-SPL,84
+Scintillator,Garnets,APL-SPL,30
+Scintillator,Perovskites,APL-SPL,54
+Scs,Perovskites,APL-SPL,108
+Sei,Abstract,APL-SPL,33
+Sei,Anatase,APL-SPL,31
+Sei,Spinels,APL-SPL,93
+Selective Contact,Perovskites,APL-SPL,51
+Semiconductor,Anatase,APL-SPL,33
+Semiconductor,Cubic,APL-SPL,38
+Semiconductor,Hexagonal,APL-SPL,53
+Semiconductor,Perovskites,APL-SPL,146
+Semiconductor Photocatalyst,Anatase,APL-SPL,34
+Semitransparency,Perovskites,APL-SPL,53
+Sensing,Anatase,APL-SPL,38
+Sensing,Cubic,APL-SPL,71
+Sensing,Hexagonal,APL-SPL,128
+Sensing,Organic,APL-SPL,60
+Sensing,Perovskites,APL-SPL,97
+Sensing Electrode,Perovskites,APL-SPL,31
+Sensitizer,Anatase,APL-SPL,110
+Sensitizer,Perovskites,APL-SPL,84
+Sensitizer,Rutile,APL-SPL,37
+Sensor,Abstract,APL-SPL,93
+Sensor,Anatase,APL-SPL,207
+Sensor,Breast,APL-SPL,34
+Sensor,Cubic,APL-SPL,313
+Sensor,FCC,APL-SPL,56
+Sensor,Face Centered Cubic,APL-SPL,46
+Sensor,Garnet,APL-SPL,32
+Sensor,Graphitic,APL-SPL,36
+Sensor,Hexagonal,APL-SPL,484
+Sensor,Hexagonal Wurtzite,APL-SPL,53
+Sensor,Martensite,APL-SPL,37
+Sensor,Monoclinic,APL-SPL,165
+Sensor,Organic,APL-SPL,31
+Sensor,Orthorhombic,APL-SPL,129
+Sensor,Perovskites,APL-SPL,403
+Sensor,R A C T,APL-SPL,35
+Sensor,Rhombohedral,APL-SPL,48
+Sensor,Rutile,APL-SPL,166
+Sensor,S T,APL-SPL,214
+Sensor,STRAC,APL-SPL,37
+Sensor,Spinels,APL-SPL,120
+Sensor,T,APL-SPL,184
+Sensor,Tetragonal,APL-SPL,155
+Sensor,Wurtzite,APL-SPL,103
+Separation,Hexagonal,APL-SPL,42
+Separation,MOFs,APL-SPL,31
+Separation,Organic,APL-SPL,80
+Separator,Cubic,APL-SPL,36
+Separator,Garnet,APL-SPL,37
+Separator,Hexagonal,APL-SPL,46
+Separator,Spinels,APL-SPL,59
+Sers,Hexagonal,APL-SPL,36
+Shape,Austenite,APL-SPL,46
+Shape,Martensite,APL-SPL,84
+Shape,Martensitic,APL-SPL,58
+Shape Memory,Martensite,APL-SPL,68
+Shape Memory,Martensitic,APL-SPL,30
+Shape Memory Alloy,Austenite,APL-SPL,254
+Shape Memory Alloy,Austenitic,APL-SPL,87
+Shape Memory Alloy,B2,APL-SPL,80
+Shape Memory Alloy,Cubic,APL-SPL,49
+Shape Memory Alloy,FCC,APL-SPL,32
+Shape Memory Alloy,G,APL-SPL,32
+Shape Memory Alloy,Heusler,APL-SPL,36
+Shape Memory Alloy,Martensite,APL-SPL,516
+Shape Memory Alloy,Martensitic,APL-SPL,359
+Shape Memory Alloy,Monoclinic,APL-SPL,40
+Shape Memory Alloy,Orthorhombic,APL-SPL,32
+Shape Memory Alloy,Tetragonal,APL-SPL,31
+Sibs,Anatase,APL-SPL,33
+Sibs,O3,APL-SPL,34
+Sibs,P2,APL-SPL,51
+Sieve,Hexagonal,APL-SPL,36
+Single Cell,Abstract,APL-SPL,40
+Single Cell,Cubic,APL-SPL,47
+Single Cell,Cubic Perovskites,APL-SPL,31
+Single Cell,Double Perovskite,APL-SPL,31
+Single Cell,Perovskites,APL-SPL,238
+Single Cell,S T,APL-SPL,34
+Single Junction,Perovskites,APL-SPL,85
+Single-Junction Solar Cell,Perovskites,APL-SPL,85
+Singlet,Perovskites,APL-SPL,30
+Skarn,Garnet,APL-SPL,51
+Skin,Keratinocytes,APL-SPL,46
+Skin,Melanoma,APL-SPL,36
+Skin Cancer,Melanoma,APL-SPL,30
+Slot Die Coating,Perovskites,APL-SPL,43
+Sma,Austenite,APL-SPL,158
+Sma,Austenitic,APL-SPL,54
+Sma,B2,APL-SPL,36
+Sma,Martensite,APL-SPL,257
+Sma,Martensitic,APL-SPL,164
+Small,SCLC,APL-SPL,30
+Sodium Ion Battery,Anatase,APL-SPL,59
+Sodium Ion Battery,Cubic,APL-SPL,36
+Sodium Ion Battery,Hexagonal,APL-SPL,41
+Sodium Ion Battery,Monoclinic,APL-SPL,44
+Sodium Ion Battery,O3,APL-SPL,59
+Sodium Ion Battery,Orthorhombic,APL-SPL,42
+Sodium Ion Battery,P2,APL-SPL,141
+Solar,Perovskites,APL-SPL,106
+Solar Cell,Abstract,APL-SPL,193
+Solar Cell,Anatase,APL-SPL,419
+Solar Cell,B s t,APL-SPL,37
+Solar Cell,BSTRAct,APL-SPL,59
+Solar Cell,Brookite,APL-SPL,42
+Solar Cell,Chalcopyrite,APL-SPL,251
+Solar Cell,Cubic,APL-SPL,487
+Solar Cell,Cubic Perovskites,APL-SPL,47
+Solar Cell,Double Perovskite,APL-SPL,82
+Solar Cell,FCC,APL-SPL,31
+Solar Cell,Hexagonal,APL-SPL,406
+Solar Cell,Hexagonal Wurtzite,APL-SPL,35
+Solar Cell,Hybrid,APL-SPL,100
+Solar Cell,Kesterite,APL-SPL,274
+Solar Cell,Monoclinic,APL-SPL,70
+Solar Cell,Orthorhombic,APL-SPL,195
+Solar Cell,Perovskites,APL-SPL,5519
+Solar Cell,R A C T,APL-SPL,32
+Solar Cell,RP,APL-SPL,31
+Solar Cell,Ruddlesden Popper,APL-SPL,63
+Solar Cell,Rutile,APL-SPL,219
+Solar Cell,S T,APL-SPL,212
+Solar Cell,STRAC,APL-SPL,58
+Solar Cell,T,APL-SPL,122
+Solar Cell,Tetragonal,APL-SPL,273
+Solar Cell,Wurtzite,APL-SPL,169
+Solar Cell,Zinc Blende,APL-SPL,67
+Solar Cell Applications,Perovskites,APL-SPL,84
+Solar Cell Device,Cubic,APL-SPL,36
+Solar Cell Device,Perovskites,APL-SPL,249
+Solar Cell Technology,Perovskites,APL-SPL,32
+Solar Devices,Perovskites,APL-SPL,33
+Solar Energy,Anatase,APL-SPL,35
+Solar Energy,Perovskites,APL-SPL,82
+Solar Energy,T,APL-SPL,31
+Solar Energy Conversion,Anatase,APL-SPL,49
+Solar Energy Conversion,Perovskites,APL-SPL,69
+Solar Modules,Perovskites,APL-SPL,83
+Solar System,Chondrite,APL-SPL,47
+Solar System,Chondritic,APL-SPL,36
+Solders,Hexagonal,APL-SPL,30
+Solid Electrolyte,Anti-Perovskites,APL-SPL,37
+Solid Electrolyte,Argyrodite,APL-SPL,33
+Solid Electrolyte,Cubic,APL-SPL,234
+Solid Electrolyte,Fluorite,APL-SPL,66
+Solid Electrolyte,Garnet,APL-SPL,230
+Solid Electrolyte,Garnets,APL-SPL,30
+Solid Electrolyte,Hexagonal,APL-SPL,46
+Solid Electrolyte,Monoclinic,APL-SPL,68
+Solid Electrolyte,Orthorhombic,APL-SPL,50
+Solid Electrolyte,Perovskites,APL-SPL,226
+Solid Electrolyte,Rhombohedral,APL-SPL,43
+Solid Electrolyte,Spinels,APL-SPL,48
+Solid Electrolyte,Tetragonal,APL-SPL,125
+Solid Electrolyte Interface,Spinels,APL-SPL,33
+Solid Electrolyte Interphase,Spinels,APL-SPL,42
+Solid Oxide Cells,Perovskites,APL-SPL,32
+Solid Oxide Electrolysis Cell,Perovskites,APL-SPL,53
+Solid Oxide Fuel Cell Cathode,Perovskites,APL-SPL,35
+Solid Oxide Fuel Cells,Abstract,APL-SPL,91
+Solid Oxide Fuel Cells,Apatites,APL-SPL,40
+Solid Oxide Fuel Cells,BSTRAct,APL-SPL,43
+Solid Oxide Fuel Cells,Cubic,APL-SPL,221
+Solid Oxide Fuel Cells,Cubic Fluorite,APL-SPL,35
+Solid Oxide Fuel Cells,Cubic Perovskites,APL-SPL,65
+Solid Oxide Fuel Cells,Double Perovskite,APL-SPL,99
+Solid Oxide Fuel Cells,Ferritic,APL-SPL,72
+Solid Oxide Fuel Cells,Fluorite,APL-SPL,104
+Solid Oxide Fuel Cells,Hexagonal,APL-SPL,48
+Solid Oxide Fuel Cells,Monoclinic,APL-SPL,45
+Solid Oxide Fuel Cells,Orthorhombic,APL-SPL,74
+Solid Oxide Fuel Cells,Perovskites,APL-SPL,1029
+Solid Oxide Fuel Cells,Rhombohedral,APL-SPL,46
+Solid Oxide Fuel Cells,Ruddlesden Popper,APL-SPL,40
+Solid Oxide Fuel Cells,S T,APL-SPL,85
+Solid Oxide Fuel Cells,Spinels,APL-SPL,148
+Solid Oxide Fuel Cells,T,APL-SPL,34
+Solid Oxide Fuel Cells,Tetragonal,APL-SPL,86
+Solid State Batteries,Garnet,APL-SPL,62
+Solid State Electrolyte,Cubic,APL-SPL,47
+Solid State Electrolyte,Garnet,APL-SPL,111
+Solid State Lighting,Perovskites,APL-SPL,47
+Soot,Perovskites,APL-SPL,45
+Soot Combustion,Perovskites,APL-SPL,44
+Soot Oxidation,Perovskites,APL-SPL,33
+Sorbent,Abstract,APL-SPL,36
+Sorbent,Hexagonal,APL-SPL,32
+Sorbent,S T,APL-SPL,43
+Sorbent,Spinels,APL-SPL,32
+Sorbent,T,APL-SPL,48
+Sorbents,Hexagonal,APL-SPL,33
+Source,Hexagonal,APL-SPL,73
+Source,Perovskites,APL-SPL,47
+Spacer,Hexagonal,APL-SPL,34
+Spintronic Device,Heusler,APL-SPL,54
+Spintronic Device,Hexagonal,APL-SPL,51
+Spintronic Device,Perovskites,APL-SPL,46
+Spintronics,Heusler,APL-SPL,46
+Spintronics,Hexagonal,APL-SPL,84
+Spintronics,Perovskites,APL-SPL,62
+Spintronics Applications,Heusler,APL-SPL,45
+Squamous Cell Carcinoma,Oral,APL-SPL,37
+Stack,Perovskites,APL-SPL,36
+Stack,S T,APL-SPL,36
+Stem,Pluripotent,APL-SPL,48
+Stem Cells,Embryonic,APL-SPL,31
+Stem Cells,Fibroblasts,APL-SPL,30
+Stem Cells,HSCs,APL-SPL,65
+Stem Cells,Haematopoietic,APL-SPL,51
+Stem Cells,Hematopoietic,APL-SPL,48
+Stem Cells,Marrow,APL-SPL,52
+Stem Cells,Mesenchymal,APL-SPL,200
+Stem Cells,Osteoblasts,APL-SPL,57
+Stem Cells,Pluripotent,APL-SPL,358
+Storages,Perovskites,APL-SPL,38
+Structural,Austenitic,APL-SPL,71
+Structural,Ferritic,APL-SPL,87
+Structural,Martensitic,APL-SPL,102
+Structural Components,Austenitic,APL-SPL,35
+Structural Materials,Austenitic,APL-SPL,89
+Structural Materials,BCC,APL-SPL,38
+Structural Materials,FCC,APL-SPL,34
+Structural Materials,Ferritic,APL-SPL,117
+Structural Materials,Martensite,APL-SPL,30
+Structural Materials,Martensitic,APL-SPL,119
+Structural Materials,RAFM,APL-SPL,39
+Subcell,Perovskites,APL-SPL,95
+Subduction,Garnet,APL-SPL,37
+Superalloy,Cubic,APL-SPL,35
+Superalloy,Cuboidal,APL-SPL,58
+Superalloy,FCC,APL-SPL,104
+Superalloy,Face Centered Cubic,APL-SPL,53
+Superalloy,G,APL-SPL,201
+Superalloy,L12,APL-SPL,112
+Superalloy,Leaves,APL-SPL,33
+Superalloy,TCP,APL-SPL,31
+Superalloy,γ',APL-SPL,50
+Supercapacitor,1T,APL-SPL,36
+Supercapacitor,Abstract,APL-SPL,81
+Supercapacitor,Anatase,APL-SPL,45
+Supercapacitor,Birnessites,APL-SPL,40
+Supercapacitor,Cubic,APL-SPL,97
+Supercapacitor,Graphitic,APL-SPL,87
+Supercapacitor,Hexagonal,APL-SPL,211
+Supercapacitor,Monoclinic,APL-SPL,42
+Supercapacitor,Orthorhombic,APL-SPL,54
+Supercapacitor,Perovskites,APL-SPL,109
+Supercapacitor,R A C T,APL-SPL,50
+Supercapacitor,Rutile,APL-SPL,35
+Supercapacitor,S T,APL-SPL,72
+Supercapacitor,Spinels,APL-SPL,129
+Supercapacitor,T,APL-SPL,237
+Supercapacitor,Tetragonal,APL-SPL,31
+Supercapacitor Application,T,APL-SPL,33
+Supercapacitor Electrode,T,APL-SPL,49
+Support,Anatase,APL-SPL,54
+Support,Cubic,APL-SPL,37
+Support,Hexagonal,APL-SPL,55
+Support,MFI,APL-SPL,36
+Support,Perovskites,APL-SPL,58
+Support,Spinels,APL-SPL,30
+Surfaces,Cassie,APL-SPL,81
+Surfaces,Wenzel,APL-SPL,51
+Surfactant,Hexagonal,APL-SPL,44
+Symmetrical,Perovskites,APL-SPL,41
+Symmetrical Cell,Cubic,APL-SPL,35
+Symmetrical Cell,Garnet,APL-SPL,56
+Symmetrical Cell,Perovskites,APL-SPL,60
+Syndrome,Metabolic,APL-SPL,31
+Syndrome,Sjogren,APL-SPL,32
+Syngas,Perovskites,APL-SPL,34
+Syngas Production,Perovskites,APL-SPL,33
+Synthesis Gas,Perovskites,APL-SPL,33
+Systems,T-S,APL-SPL,35
+T,Macrophages,APL-SPL,39
+T,NK,APL-SPL,31
+T,TH1,APL-SPL,46
+T,Th17,APL-SPL,68
+T Cells,B Cell,APL-SPL,46
+T Cells,Jurkat,APL-SPL,48
+T Cells,Lymphocytes,APL-SPL,42
+T Cells,Macrophages,APL-SPL,70
+T Cells,Marrow,APL-SPL,40
+T Cells,Melanoma,APL-SPL,49
+T Cells,Monocytes,APL-SPL,55
+T Cells,NK,APL-SPL,36
+T Cells,Spleens,APL-SPL,61
+T Cells,T,APL-SPL,90
+T Cells,TH1,APL-SPL,74
+T Cells,TH2,APL-SPL,45
+T Cells,Th17,APL-SPL,88
+T Cells,Thymus,APL-SPL,32
+T Cells,γδ,APL-SPL,44
+TBC,Cubic,APL-SPL,43
+TBC,Monoclinic,APL-SPL,52
+TBC,Spinels,APL-SPL,32
+TBC,Tetragonal,APL-SPL,64
+TBCS,Monoclinic,APL-SPL,50
+TBCS,Tetragonal,APL-SPL,66
+TEM,Cubic,APL-SPL,35
+TEM,Hexagonal,APL-SPL,96
+TEM Grid,Hexagonal,APL-SPL,45
+TNBC,Triple,APL-SPL,38
+TWIP,Austenitic,APL-SPL,48
+Tandem Cell,Perovskites,APL-SPL,127
+Tandem Device,Perovskites,APL-SPL,127
+Tandem Solar Cell,Perovskites,APL-SPL,281
+Tandems,Perovskites,APL-SPL,163
+Tco,Perovskites,APL-SPL,33
+Technology,Perovskites,APL-SPL,35
+Temperature Solid Oxide Fuel Cells,Perovskites,APL-SPL,49
+Tensile Specimen,Austenite,APL-SPL,38
+Tensile Specimen,Martensite,APL-SPL,34
+Test Blanket Module,Ferritic,APL-SPL,33
+Test Blanket Module,Martensitic,APL-SPL,34
+Therapeutics,Breast,APL-SPL,38
+Therapy,Breast,APL-SPL,60
+Thermal Barrier Coating,Cubic,APL-SPL,64
+Thermal Barrier Coating,Fluorite,APL-SPL,44
+Thermal Barrier Coating,Monoclinic,APL-SPL,91
+Thermal Barrier Coating,Pyrochlore,APL-SPL,39
+Thermal Barrier Coating,Spinels,APL-SPL,35
+Thermal Barrier Coating,T,APL-SPL,45
+Thermal Barrier Coating,Tetragonal,APL-SPL,115
+Thermistor,Spinels,APL-SPL,30
+Thermocouple,Austenite,APL-SPL,32
+Thermocouple,Cubic,APL-SPL,33
+Thermocouple,Hexagonal,APL-SPL,38
+Thermometer,Clinopyroxenes,APL-SPL,42
+Thermometer,Eclogites,APL-SPL,34
+Thermometer,Garnet,APL-SPL,124
+Thermometer,Granulite,APL-SPL,39
+Thermometer,Olivines,APL-SPL,32
+Thermometer,Rutile,APL-SPL,46
+Thermometer,Spinels,APL-SPL,35
+Thin,Perovskites,APL-SPL,32
+Thin Film Solar Cell,Chalcopyrite,APL-SPL,109
+Thin Film Solar Cell,Cubic,APL-SPL,40
+Thin Film Solar Cell,Hexagonal,APL-SPL,38
+Thin Film Solar Cell,Kesterite,APL-SPL,122
+Thin Film Solar Cell,Perovskites,APL-SPL,152
+Thin Film Solar Cell,Tetragonal,APL-SPL,32
+Thin Film Transistor,Perovskites,APL-SPL,31
+Thin Films,Perovskites,APL-SPL,39
+Tip,Hexagonal,APL-SPL,68
+Tissue Engineering,Mesenchymal,APL-SPL,51
+Tissue Engineering,Osteoblasts,APL-SPL,32
+Tool,Austenite,APL-SPL,94
+Tool,Austenitic,APL-SPL,61
+Tool,Cubic,APL-SPL,125
+Tool,Hexagonal,APL-SPL,33
+Tool,Martensite,APL-SPL,73
+Tool,Martensitic,APL-SPL,61
+Tool Steel,Austenite,APL-SPL,53
+Tool Steel,Martensite,APL-SPL,44
+Tool Steel,Martensitic,APL-SPL,30
+Tools,Cubic,APL-SPL,89
+Tools,Martensite,APL-SPL,31
+Top,Perovskites,APL-SPL,62
+Top Cell,Perovskites,APL-SPL,136
+Top Contact,Perovskites,APL-SPL,39
+Top Electrode,Perovskites,APL-SPL,128
+Top Electrodes,Perovskites,APL-SPL,38
+Transducer,Perovskites,APL-SPL,47
+Transistors,Hexagonal,APL-SPL,117
+Transistors,Perovskites,APL-SPL,77
+Transparent Electrodes,Hexagonal,APL-SPL,31
+Transparent Electrodes,Perovskites,APL-SPL,93
+Transport Layer,Perovskites,APL-SPL,96
+Trip,Austenite,APL-SPL,134
+Trip,Martensite,APL-SPL,74
+Trip,Martensitic,APL-SPL,40
+Tumor,Breast,APL-SPL,115
+Tumor,Lung,APL-SPL,30
+Tumor,Melanoma,APL-SPL,38
+Tumor,Ovarian,APL-SPL,64
+Tumor,Prostate,APL-SPL,31
+Tumours,Breast,APL-SPL,309
+Tumours,Colon,APL-SPL,124
+Tumours,Colorectal,APL-SPL,95
+Tumours,Gastric,APL-SPL,31
+Tumours,Hepatocellular,APL-SPL,37
+Tumours,Hexagonal,APL-SPL,44
+Tumours,Lewis,APL-SPL,33
+Tumours,Liver,APL-SPL,36
+Tumours,Lung,APL-SPL,91
+Tumours,Macrophages,APL-SPL,52
+Tumours,Mammary,APL-SPL,47
+Tumours,Melanoma,APL-SPL,141
+Tumours,Mesenchymal,APL-SPL,31
+Tumours,NSCLC,APL-SPL,30
+Tumours,Neuroblastoma,APL-SPL,33
+Tumours,Ovarian,APL-SPL,122
+Tumours,Pancreatic,APL-SPL,71
+Tumours,Prostate,APL-SPL,100
+Tumours,Renal,APL-SPL,30
+Tumours,Spleens,APL-SPL,39
+Tumours,Squamous Cell,APL-SPL,30
+Turbines,S T,APL-SPL,34
+Two,Perovskites,APL-SPL,32
+Van Der Waals,Hexagonal,APL-SPL,36
+Varistor,Spinels,APL-SPL,47
+Vehicle,S T,APL-SPL,30
+Visible Light Photocatalyst,Anatase,APL-SPL,30
+Volcanic,Granite,APL-SPL,38
+Volcanic Rocks,Garnet,APL-SPL,60
+Volcanic Rocks,Spinels,APL-SPL,34
+Volcanoes,Basaltic,APL-SPL,52
+Volcanoes,Garnet,APL-SPL,37
+Volcanoes,Olivines,APL-SPL,37
+WLEDs,Perovskites,APL-SPL,54
+Wastewater Treatment,Anatase,APL-SPL,41
+Wastewater Treatment,T,APL-SPL,49
+Water,Anatase,APL-SPL,47
+Water,S T,APL-SPL,34
+Water Electrolysis,Perovskites,APL-SPL,42
+Water Oxidation,Anatase,APL-SPL,56
+Water Oxidation,Cubic,APL-SPL,46
+Water Oxidation,Hexagonal,APL-SPL,35
+Water Oxidation,Monoclinic,APL-SPL,41
+Water Oxidation,Perovskites,APL-SPL,54
+Water Oxidation,Rutile,APL-SPL,66
+Water Oxidation,Spinels,APL-SPL,35
+Water Splitting,Anatase,APL-SPL,212
+Water Splitting,Cubic,APL-SPL,86
+Water Splitting,Graphitic,APL-SPL,30
+Water Splitting,Hexagonal,APL-SPL,100
+Water Splitting,Monoclinic,APL-SPL,59
+Water Splitting,Orthorhombic,APL-SPL,60
+Water Splitting,Perovskites,APL-SPL,242
+Water Splitting,Rutile,APL-SPL,136
+Water Splitting,Spinels,APL-SPL,48
+Water Splitting,Tetragonal,APL-SPL,38
+Waveguide,Garnet,APL-SPL,36
+Waveguide,Hexagonal,APL-SPL,86
+Waveguide,Perovskites,APL-SPL,39
+Wearable,Perovskites,APL-SPL,32
+Weld,Acicular,APL-SPL,33
+Weld,Austenite,APL-SPL,127
+Weld,Austenitic,APL-SPL,132
+Weld,Ferritic,APL-SPL,49
+Weld,Martensite,APL-SPL,94
+Weld,Martensitic,APL-SPL,61
+Weld Metal,Acicular,APL-SPL,41
+Weld Metal,Austenite,APL-SPL,144
+Weld Metal,Austenitic,APL-SPL,92
+Weld Metal,Ferritic,APL-SPL,32
+Weld Metal,Martensite,APL-SPL,83
+Weld Metal,Martensitic,APL-SPL,39
+Welds,Austenite,APL-SPL,35
+Welds,Austenitic,APL-SPL,63
+Welds,Martensite,APL-SPL,32
+Wetland,Mangroves,APL-SPL,31
+Wheel,Cubic,APL-SPL,30
+White LEDs,Cubic,APL-SPL,36
+White LEDs,Garnet,APL-SPL,44
+White LEDs,Perovskites,APL-SPL,85
+White Light Emitting Diode,Garnet,APL-SPL,44
+White Light Emitting Diode,Perovskites,APL-SPL,80
+Window,Cubic,APL-SPL,31
+Window,Hexagonal,APL-SPL,62
+Wled,Cubic,APL-SPL,30
+Wled,Perovskites,APL-SPL,61
+Working Electrodes,Anatase,APL-SPL,83
+Working Electrodes,Cubic,APL-SPL,65
+Working Electrodes,Hexagonal,APL-SPL,118
+Working Electrodes,Perovskites,APL-SPL,60
+Working Electrodes,Rutile,APL-SPL,42
+Working Electrodes,T,APL-SPL,33
+Workpiece,Cubic,APL-SPL,30
+X-Ray Detector,Perovskites,APL-SPL,52
+Xenografts,Breast,APL-SPL,53
+Xenografts,Ovarian,APL-SPL,30
+Yeast,Budding,APL-SPL,31
+ahss,Austenite,APL-SPL,35
+ahss,Martensite,APL-SPL,35
+iPS Cells,Pluripotent,APL-SPL,30
+perovskite solar cells,Anatase,APL-SPL,68
+perovskite solar cells,Cubic,APL-SPL,110
+perovskite solar cells,Hexagonal,APL-SPL,33
+perovskite solar cells,Hybrid,APL-SPL,44
+perovskite solar cells,Orthorhombic,APL-SPL,47
+perovskite solar cells,Perovskites,APL-SPL,4259
+perovskite solar cells,Ruddlesden Popper,APL-SPL,33
+perovskite solar cells,Rutile,APL-SPL,51
+perovskite solar cells,Tetragonal,APL-SPL,82
+siRNA,Breast,APL-SPL,44

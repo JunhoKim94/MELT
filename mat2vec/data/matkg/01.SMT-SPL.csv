@@ -1,0 +1,4272 @@
+Subject,Object,Rel,Count
+3D Printed,Cubic,SMT-SPL,58
+3D Printed,Hexagonal,SMT-SPL,56
+3D Printing,Cubic,SMT-SPL,34
+3D Printing,Hexagonal,SMT-SPL,38
+ALD,Anatase,SMT-SPL,45
+AM,Austenite,SMT-SPL,33
+AM,Cubic,SMT-SPL,30
+AM,Martensite,SMT-SPL,49
+AM,Martensitic,SMT-SPL,39
+AM,β,SMT-SPL,42
+APCVD,Hexagonal,SMT-SPL,30
+APS,Monoclinic,SMT-SPL,34
+APS,Tetragonal,SMT-SPL,37
+Ablation,Cubic,SMT-SPL,43
+Ablation,Garnet,SMT-SPL,30
+Ablation,Hexagonal,SMT-SPL,43
+Acid Treated,Anatase,SMT-SPL,38
+Acid Treatment,Anatase,SMT-SPL,52
+Activation,Martensitic,SMT-SPL,30
+Acute,Myeloid,SMT-SPL,52
+Aged,Anatase,SMT-SPL,100
+Aged,Austenite,SMT-SPL,437
+Aged,Austenitic,SMT-SPL,185
+Aged,B2,SMT-SPL,121
+Aged,BCC,SMT-SPL,147
+Aged,Cubic,SMT-SPL,224
+Aged,Cuboidal,SMT-SPL,50
+Aged,Duplex,SMT-SPL,62
+Aged,FCC,SMT-SPL,261
+Aged,Face Centered Cubic,SMT-SPL,40
+Aged,Ferritic,SMT-SPL,49
+Aged,G,SMT-SPL,115
+Aged,HCP,SMT-SPL,88
+Aged,Hexagonal,SMT-SPL,214
+Aged,L12,SMT-SPL,121
+Aged,Laves Phase,SMT-SPL,67
+Aged,Leaves,SMT-SPL,55
+Aged,Martensite,SMT-SPL,370
+Aged,Martensitic,SMT-SPL,201
+Aged,Monoclinic,SMT-SPL,117
+Aged,Orthorhombic,SMT-SPL,79
+Aged,Perovskites,SMT-SPL,280
+Aged,Rhombohedral,SMT-SPL,44
+Aged,Rutile,SMT-SPL,55
+Aged,Spinels,SMT-SPL,76
+Aged,T,SMT-SPL,48
+Aged,T1,SMT-SPL,67
+Aged,Tetragonal,SMT-SPL,161
+Aged,Δ,SMT-SPL,60
+Aged,Θ,SMT-SPL,36
+Aged,α-Phase,SMT-SPL,32
+Aged,α2,SMT-SPL,37
+Aged,β,SMT-SPL,334
+Aged,β-Phase,SMT-SPL,59
+Aged,β1,SMT-SPL,31
+Aged,γ',SMT-SPL,125
+Aged,η,SMT-SPL,64
+Aged,σ,SMT-SPL,101
+Aged,ω,SMT-SPL,79
+Ageing,Austenite,SMT-SPL,129
+Ageing,Austenitic,SMT-SPL,61
+Ageing,B2,SMT-SPL,37
+Ageing,BCC,SMT-SPL,46
+Ageing,Cubic,SMT-SPL,90
+Ageing,FCC,SMT-SPL,75
+Ageing,G,SMT-SPL,42
+Ageing,Hexagonal,SMT-SPL,95
+Ageing,Martensite,SMT-SPL,149
+Ageing,Martensitic,SMT-SPL,87
+Ageing,Monoclinic,SMT-SPL,66
+Ageing,Orthorhombic,SMT-SPL,34
+Ageing,Perovskites,SMT-SPL,91
+Ageing,Spinels,SMT-SPL,31
+Ageing,T,SMT-SPL,33
+Ageing,T1,SMT-SPL,39
+Ageing,Tetragonal,SMT-SPL,80
+Ageing,β,SMT-SPL,144
+Ageing,γ',SMT-SPL,36
+Ageing,ω,SMT-SPL,37
+Aging,Abstract,SMT-SPL,30
+Aging,Anatase,SMT-SPL,135
+Aging,Austenite,SMT-SPL,445
+Aging,Austenitic,SMT-SPL,206
+Aging,B2,SMT-SPL,122
+Aging,BCC,SMT-SPL,161
+Aging,Body Centred Cubic,SMT-SPL,44
+Aging,Cubic,SMT-SPL,331
+Aging,Cuboidal,SMT-SPL,49
+Aging,Duplex,SMT-SPL,56
+Aging,FCC,SMT-SPL,267
+Aging,Face Centered Cubic,SMT-SPL,73
+Aging,Ferritic,SMT-SPL,53
+Aging,G,SMT-SPL,150
+Aging,Gp,SMT-SPL,35
+Aging,HCP,SMT-SPL,77
+Aging,Hexagonal,SMT-SPL,324
+Aging,L12,SMT-SPL,108
+Aging,Lath,SMT-SPL,33
+Aging,Laves Phase,SMT-SPL,75
+Aging,Leaves,SMT-SPL,91
+Aging,Martensite,SMT-SPL,458
+Aging,Martensitic,SMT-SPL,274
+Aging,Monoclinic,SMT-SPL,188
+Aging,Orthorhombic,SMT-SPL,119
+Aging,Perovskites,SMT-SPL,422
+Aging,Rhombohedral,SMT-SPL,66
+Aging,Rutile,SMT-SPL,86
+Aging,S T,SMT-SPL,51
+Aging,Spinels,SMT-SPL,104
+Aging,T,SMT-SPL,83
+Aging,T1,SMT-SPL,51
+Aging,Tetragonal,SMT-SPL,243
+Aging,Δ,SMT-SPL,69
+Aging,Θ,SMT-SPL,35
+Aging,α2,SMT-SPL,32
+Aging,β,SMT-SPL,304
+Aging,β-Phase,SMT-SPL,49
+Aging,γ',SMT-SPL,130
+Aging,η,SMT-SPL,55
+Aging,σ,SMT-SPL,81
+Aging,ω,SMT-SPL,64
+Aging Treatment,Austenite,SMT-SPL,51
+Aging Treatment,Martensite,SMT-SPL,66
+Air Cooled,Austenite,SMT-SPL,66
+Air Cooled,Martensite,SMT-SPL,64
+Air Cooling,Austenite,SMT-SPL,112
+Air Cooling,Martensite,SMT-SPL,123
+Air Cooling,Martensitic,SMT-SPL,62
+Air Cooling,β,SMT-SPL,46
+Ald,Anatase,SMT-SPL,190
+Ald,Cubic,SMT-SPL,123
+Ald,Hexagonal,SMT-SPL,108
+Ald,Monoclinic,SMT-SPL,54
+Ald,Orthorhombic,SMT-SPL,38
+Ald,Perovskites,SMT-SPL,167
+Ald,Rutile,SMT-SPL,89
+Ald,Spinels,SMT-SPL,50
+Ald,Tetragonal,SMT-SPL,56
+Ald,Wurtzite,SMT-SPL,32
+Alloyed,Austenite,SMT-SPL,92
+Alloyed,Austenitic,SMT-SPL,54
+Alloyed,FCC,SMT-SPL,44
+Alloyed,Martensite,SMT-SPL,55
+Alloyed,Martensitic,SMT-SPL,42
+Alloying,Austenite,SMT-SPL,317
+Alloying,Austenitic,SMT-SPL,194
+Alloying,B2,SMT-SPL,58
+Alloying,BCC,SMT-SPL,230
+Alloying,Bainite,SMT-SPL,31
+Alloying,Body Centred Cubic,SMT-SPL,98
+Alloying,Cubic,SMT-SPL,175
+Alloying,FCC,SMT-SPL,267
+Alloying,Face Centered Cubic,SMT-SPL,123
+Alloying,Ferritic,SMT-SPL,83
+Alloying,G,SMT-SPL,80
+Alloying,HCP,SMT-SPL,105
+Alloying,Hexagonal,SMT-SPL,138
+Alloying,Hexagonal Close Packed,SMT-SPL,45
+Alloying,L12,SMT-SPL,67
+Alloying,Laves Phase,SMT-SPL,35
+Alloying,Leaves,SMT-SPL,37
+Alloying,Martensite,SMT-SPL,212
+Alloying,Martensitic,SMT-SPL,181
+Alloying,Monoclinic,SMT-SPL,38
+Alloying,Orthorhombic,SMT-SPL,68
+Alloying,Perovskites,SMT-SPL,75
+Alloying,Rhombohedral,SMT-SPL,34
+Alloying,Spinels,SMT-SPL,38
+Alloying,Tetragonal,SMT-SPL,69
+Alloying,Wurtzite,SMT-SPL,53
+Alloying,Zinc Blende,SMT-SPL,30
+Alloying,β,SMT-SPL,64
+Alteration,Chondrite,SMT-SPL,67
+Alteration,Clinopyroxenes,SMT-SPL,31
+Alteration,Garnet,SMT-SPL,65
+Alteration,Olivines,SMT-SPL,66
+Alteration,Pyroxene,SMT-SPL,45
+Alteration,Spinels,SMT-SPL,48
+Altered,Garnet,SMT-SPL,37
+Ammonolysis,Cubic,SMT-SPL,31
+Amorphization,BCC,SMT-SPL,31
+Amorphization,Cubic,SMT-SPL,48
+Amorphization,FCC,SMT-SPL,36
+Amorphization,Hexagonal,SMT-SPL,34
+Anneal,Cubic,SMT-SPL,72
+Anneal,FCC,SMT-SPL,46
+Anneal,Hexagonal,SMT-SPL,69
+Anneal,Monoclinic,SMT-SPL,39
+Anneal,Perovskites,SMT-SPL,57
+Anneal,Tetragonal,SMT-SPL,43
+Anneal,β,SMT-SPL,35
+Annealed,1T,SMT-SPL,46
+Annealed,2H,SMT-SPL,63
+Annealed,Abstract,SMT-SPL,113
+Annealed,Alpha,SMT-SPL,66
+Annealed,Anatase,SMT-SPL,1287
+Annealed,Austenite,SMT-SPL,690
+Annealed,Austenitic,SMT-SPL,363
+Annealed,B2,SMT-SPL,214
+Annealed,BCC,SMT-SPL,564
+Annealed,BSTRAct,SMT-SPL,32
+Annealed,Beta,SMT-SPL,37
+Annealed,Body Centred Cubic,SMT-SPL,83
+Annealed,Brookite,SMT-SPL,78
+Annealed,Chalcopyrite,SMT-SPL,97
+Annealed,Cooling,SMT-SPL,40
+Annealed,Cube,SMT-SPL,34
+Annealed,Cubic,SMT-SPL,1510
+Annealed,Cubic Perovskites,SMT-SPL,62
+Annealed,Cubic Spinel,SMT-SPL,93
+Annealed,D03,SMT-SPL,41
+Annealed,Double Perovskite,SMT-SPL,32
+Annealed,Duplex,SMT-SPL,34
+Annealed,F,SMT-SPL,56
+Annealed,FCC,SMT-SPL,948
+Annealed,FCT,SMT-SPL,45
+Annealed,Face Centered Cubic,SMT-SPL,186
+Annealed,Ferritic,SMT-SPL,76
+Annealed,Fluorite,SMT-SPL,86
+Annealed,G,SMT-SPL,92
+Annealed,Garnet,SMT-SPL,125
+Annealed,Graphitic,SMT-SPL,83
+Annealed,HCP,SMT-SPL,292
+Annealed,Heating,SMT-SPL,49
+Annealed,Heusler,SMT-SPL,85
+Annealed,Hexagonal,SMT-SPL,1444
+Annealed,Hexagonal Close Packed,SMT-SPL,31
+Annealed,Hexagonal Wurtzite,SMT-SPL,142
+Annealed,Icosahedral,SMT-SPL,106
+Annealed,Kesterite,SMT-SPL,98
+Annealed,L10,SMT-SPL,152
+Annealed,L12,SMT-SPL,96
+Annealed,L21,SMT-SPL,33
+Annealed,Laves Phase,SMT-SPL,83
+Annealed,Leaves,SMT-SPL,40
+Annealed,M,SMT-SPL,42
+Annealed,Martensite,SMT-SPL,667
+Annealed,Martensitic,SMT-SPL,318
+Annealed,Monoclinic,SMT-SPL,814
+Annealed,Olivines,SMT-SPL,61
+Annealed,Orthorhombic,SMT-SPL,686
+Annealed,P,SMT-SPL,38
+Annealed,PNMA,SMT-SPL,31
+Annealed,Perovskites,SMT-SPL,1271
+Annealed,Pseudocubic,SMT-SPL,38
+Annealed,Pyrochlore,SMT-SPL,80
+Annealed,Rhombohedral,SMT-SPL,258
+Annealed,Rock Salt,SMT-SPL,72
+Annealed,Rutile,SMT-SPL,909
+Annealed,S T,SMT-SPL,84
+Annealed,Spinels,SMT-SPL,570
+Annealed,T,SMT-SPL,139
+Annealed,Tetragonal,SMT-SPL,961
+Annealed,Triclinic,SMT-SPL,74
+Annealed,Trigonal,SMT-SPL,70
+Annealed,Wurtzite,SMT-SPL,296
+Annealed,Zinc Blende,SMT-SPL,67
+Annealed,Δ,SMT-SPL,65
+Annealed,α' Martensite,SMT-SPL,54
+Annealed,α-,SMT-SPL,39
+Annealed,α-Phase,SMT-SPL,88
+Annealed,α2,SMT-SPL,38
+Annealed,β,SMT-SPL,396
+Annealed,β-Phase,SMT-SPL,97
+Annealed,γ',SMT-SPL,42
+Annealed,γ-Phase,SMT-SPL,46
+Annealed,σ,SMT-SPL,64
+Annealed,ω,SMT-SPL,37
+Annealing,110,SMT-SPL,34
+Annealing,1T,SMT-SPL,58
+Annealing,2H,SMT-SPL,87
+Annealing,3,SMT-SPL,62
+Annealing,A-Phase,SMT-SPL,31
+Annealing,Abstract,SMT-SPL,200
+Annealing,Alpha,SMT-SPL,58
+Annealing,Anatase,SMT-SPL,1523
+Annealing,Apatites,SMT-SPL,36
+Annealing,Austenite,SMT-SPL,877
+Annealing,Austenitic,SMT-SPL,457
+Annealing,B2,SMT-SPL,270
+Annealing,BCC,SMT-SPL,715
+Annealing,BSTRAct,SMT-SPL,68
+Annealing,Bainitic,SMT-SPL,32
+Annealing,Beta,SMT-SPL,50
+Annealing,Bixbyite,SMT-SPL,38
+Annealing,Body Centred Cubic,SMT-SPL,155
+Annealing,Brookite,SMT-SPL,72
+Annealing,C14,SMT-SPL,33
+Annealing,Chalcopyrite,SMT-SPL,164
+Annealing,Cooling,SMT-SPL,57
+Annealing,Cube,SMT-SPL,45
+Annealing,Cubic,SMT-SPL,2044
+Annealing,Cubic Fluorite,SMT-SPL,32
+Annealing,Cubic Perovskites,SMT-SPL,84
+Annealing,Cubic Spinel,SMT-SPL,84
+Annealing,Cuboidal,SMT-SPL,35
+Annealing,D03,SMT-SPL,40
+Annealing,Decagonal,SMT-SPL,31
+Annealing,Delafossite,SMT-SPL,35
+Annealing,Double Perovskite,SMT-SPL,50
+Annealing,Duplex,SMT-SPL,51
+Annealing,E-Martensite,SMT-SPL,33
+Annealing,F,SMT-SPL,68
+Annealing,FCC,SMT-SPL,1298
+Annealing,FCT,SMT-SPL,71
+Annealing,Face Centered Cubic,SMT-SPL,388
+Annealing,Face-Centered Tetragonal,SMT-SPL,32
+Annealing,Ferrite,SMT-SPL,38
+Annealing,Ferritic,SMT-SPL,124
+Annealing,Fluorite,SMT-SPL,115
+Annealing,G,SMT-SPL,157
+Annealing,Gamma,SMT-SPL,31
+Annealing,Garnet,SMT-SPL,213
+Annealing,Goss,SMT-SPL,55
+Annealing,Graphitic,SMT-SPL,166
+Annealing,HCP,SMT-SPL,407
+Annealing,Heating,SMT-SPL,44
+Annealing,Heusler,SMT-SPL,95
+Annealing,Hexagonal,SMT-SPL,2231
+Annealing,Hexagonal Close Packed,SMT-SPL,56
+Annealing,Hexagonal Wurtzite,SMT-SPL,165
+Annealing,Hexagonally,SMT-SPL,52
+Annealing,Icosahedral,SMT-SPL,149
+Annealing,Kesterite,SMT-SPL,139
+Annealing,L10,SMT-SPL,242
+Annealing,L12,SMT-SPL,140
+Annealing,L21,SMT-SPL,47
+Annealing,Lath,SMT-SPL,32
+Annealing,Laves Phase,SMT-SPL,88
+Annealing,Lc,SMT-SPL,33
+Annealing,Leaves,SMT-SPL,68
+Annealing,M,SMT-SPL,57
+Annealing,Martensite,SMT-SPL,825
+Annealing,Martensitic,SMT-SPL,405
+Annealing,Monoclinic,SMT-SPL,1092
+Annealing,NaCl,SMT-SPL,39
+Annealing,Nematic,SMT-SPL,37
+Annealing,Olivines,SMT-SPL,88
+Annealing,Orthorhombic,SMT-SPL,907
+Annealing,P,SMT-SPL,60
+Annealing,P2,SMT-SPL,31
+Annealing,P63/MMC,SMT-SPL,37
+Annealing,PNMA,SMT-SPL,54
+Annealing,Pearlitic,SMT-SPL,46
+Annealing,Perovskites,SMT-SPL,1956
+Annealing,Phase,SMT-SPL,47
+Annealing,Pseudocubic,SMT-SPL,59
+Annealing,Pyrochlore,SMT-SPL,114
+Annealing,R A C T,SMT-SPL,45
+Annealing,Rhombohedral,SMT-SPL,327
+Annealing,Rock Salt,SMT-SPL,102
+Annealing,Rock-Salt,SMT-SPL,42
+Annealing,Rutile,SMT-SPL,1103
+Annealing,S T,SMT-SPL,196
+Annealing,STRAC,SMT-SPL,42
+Annealing,Skutterudites,SMT-SPL,46
+Annealing,Sphalerite,SMT-SPL,30
+Annealing,Spinels,SMT-SPL,763
+Annealing,T,SMT-SPL,264
+Annealing,Tetragonal,SMT-SPL,1322
+Annealing,Triclinic,SMT-SPL,95
+Annealing,Trigonal,SMT-SPL,107
+Annealing,Type,SMT-SPL,33
+Annealing,Widmanstatten,SMT-SPL,37
+Annealing,Wurtzite,SMT-SPL,424
+Annealing,Zinc Blende,SMT-SPL,99
+Annealing,Δ,SMT-SPL,66
+Annealing,Δ-Phase,SMT-SPL,36
+Annealing,Θ,SMT-SPL,30
+Annealing,α' Martensite,SMT-SPL,54
+Annealing,α-,SMT-SPL,53
+Annealing,α-Phase,SMT-SPL,123
+Annealing,α2,SMT-SPL,68
+Annealing,β,SMT-SPL,429
+Annealing,β-Phase,SMT-SPL,138
+Annealing,γ',SMT-SPL,52
+Annealing,γ-Phase,SMT-SPL,70
+Annealing,σ,SMT-SPL,72
+Annealing,ω,SMT-SPL,32
+Anodic Oxidation,Anatase,SMT-SPL,111
+Anodic Oxidation,Rutile,SMT-SPL,61
+Anodization,Anatase,SMT-SPL,436
+Anodization,Hexagonal,SMT-SPL,151
+Anodization,Monoclinic,SMT-SPL,30
+Anodization,Rutile,SMT-SPL,186
+Anodization,T,SMT-SPL,44
+Anodized,Anatase,SMT-SPL,269
+Anodized,Hexagonal,SMT-SPL,85
+Anodized,Monoclinic,SMT-SPL,30
+Anodized,Rutile,SMT-SPL,148
+Anodizing,Anatase,SMT-SPL,120
+Anodizing,Hexagonal,SMT-SPL,42
+Anodizing,Rutile,SMT-SPL,64
+Antisolvent,Perovskites,SMT-SPL,41
+Antisolvent Method,Perovskites,SMT-SPL,47
+Aqueous Alteration,Chondrite,SMT-SPL,55
+Arc Melting,BCC,SMT-SPL,61
+Arc Melting,Cubic,SMT-SPL,53
+Arc Melting,FCC,SMT-SPL,46
+Arc Melting,Hexagonal,SMT-SPL,56
+Arc Melting,Orthorhombic,SMT-SPL,55
+Arc Melting,PNMA,SMT-SPL,30
+Arc Melting,Tetragonal,SMT-SPL,51
+Archean,Clinopyroxenes,SMT-SPL,34
+Archean,Garnet,SMT-SPL,78
+Archean,Gneiss,SMT-SPL,34
+Archean,Olivines,SMT-SPL,32
+As Milled,BCC,SMT-SPL,46
+As Milled,FCC,SMT-SPL,41
+As Quenched,Austenite,SMT-SPL,131
+As Quenched,BCC,SMT-SPL,37
+As Quenched,FCC,SMT-SPL,40
+As Quenched,Martensite,SMT-SPL,160
+As Quenched,Martensitic,SMT-SPL,86
+As Rolled,Austenite,SMT-SPL,40
+As Rolled,Martensite,SMT-SPL,51
+As Rolled,β,SMT-SPL,43
+As-Annealed,Austenite,SMT-SPL,43
+As-Annealed,FCC,SMT-SPL,32
+As-Annealed,Martensite,SMT-SPL,46
+As-Anodized,Anatase,SMT-SPL,61
+As-Hot-Rolled,Austenite,SMT-SPL,30
+As-Welded,Austenite,SMT-SPL,54
+As-Welded,Martensite,SMT-SPL,48
+Assembled,Hexagonal,SMT-SPL,36
+Assembly,Hexagonal,SMT-SPL,43
+Atmospheric Pressure Chemical Vapour Deposition,Hexagonal,SMT-SPL,30
+Atomic Layer Deposition,Anatase,SMT-SPL,144
+Atomic Layer Deposition,Cubic,SMT-SPL,91
+Atomic Layer Deposition,Hexagonal,SMT-SPL,98
+Atomic Layer Deposition,Monoclinic,SMT-SPL,65
+Atomic Layer Deposition,Orthorhombic,SMT-SPL,35
+Atomic Layer Deposition,Perovskites,SMT-SPL,116
+Atomic Layer Deposition,Rutile,SMT-SPL,74
+Atomic Layer Deposition,Spinels,SMT-SPL,44
+Atomic Layer Deposition,Tetragonal,SMT-SPL,67
+Atomic Layer Deposition,Wurtzite,SMT-SPL,30
+Austempered,Austenite,SMT-SPL,188
+Austempered,Bainitic,SMT-SPL,81
+Austempered,Ferritic,SMT-SPL,31
+Austempered,Martensite,SMT-SPL,104
+Austempered,Martensitic,SMT-SPL,40
+Austempering,Austenite,SMT-SPL,201
+Austempering,Bainite,SMT-SPL,38
+Austempering,Bainitic,SMT-SPL,100
+Austempering,Martensite,SMT-SPL,96
+Austenitisation,Austenite,SMT-SPL,282
+Austenitisation,Austenitic,SMT-SPL,31
+Austenitisation,Bainitic,SMT-SPL,40
+Austenitisation,Martensite,SMT-SPL,176
+Austenitisation,Martensitic,SMT-SPL,92
+Austenitized,Austenite,SMT-SPL,161
+Austenitized,Martensite,SMT-SPL,125
+Austenitized,Martensitic,SMT-SPL,54
+Austenitizing,Austenite,SMT-SPL,243
+Austenitizing,Bainitic,SMT-SPL,33
+Austenitizing,Martensite,SMT-SPL,150
+Austenitizing,Martensitic,SMT-SPL,87
+Austenization,Austenite,SMT-SPL,48
+Austenization,Martensite,SMT-SPL,38
+Autoclave,Anatase,SMT-SPL,45
+Autoclave,Cubic,SMT-SPL,45
+Autoclave,Hexagonal,SMT-SPL,71
+Autoclave,Monoclinic,SMT-SPL,59
+Autoclave,Tetragonal,SMT-SPL,48
+Autoclave,Tobermorite,SMT-SPL,31
+BM,Austenite,SMT-SPL,56
+BM,Martensite,SMT-SPL,59
+Ball Milling,Anatase,SMT-SPL,40
+Ball Milling,BCC,SMT-SPL,81
+Ball Milling,Cubic,SMT-SPL,154
+Ball Milling,FCC,SMT-SPL,101
+Ball Milling,HCP,SMT-SPL,35
+Ball Milling,Hexagonal,SMT-SPL,138
+Ball Milling,Monoclinic,SMT-SPL,69
+Ball Milling,Orthorhombic,SMT-SPL,68
+Ball Milling,Perovskites,SMT-SPL,99
+Ball Milling,Rutile,SMT-SPL,38
+Ball Milling,S T,SMT-SPL,31
+Ball Milling,Spinels,SMT-SPL,85
+Ball Milling,T,SMT-SPL,33
+Ball Milling,Tetragonal,SMT-SPL,89
+Ball-Milled,Anatase,SMT-SPL,34
+Ball-Milled,BCC,SMT-SPL,60
+Ball-Milled,Cubic,SMT-SPL,99
+Ball-Milled,FCC,SMT-SPL,64
+Ball-Milled,Hexagonal,SMT-SPL,82
+Ball-Milled,Monoclinic,SMT-SPL,43
+Ball-Milled,Orthorhombic,SMT-SPL,49
+Ball-Milled,Rutile,SMT-SPL,33
+Ball-Milled,Spinels,SMT-SPL,48
+Ball-Milled,Tetragonal,SMT-SPL,54
+Batch Melting,Clinopyroxenes,SMT-SPL,35
+Batch Melting,Garnet,SMT-SPL,69
+Batch Melting,Olivines,SMT-SPL,46
+Batch Melting,Spinels,SMT-SPL,54
+Beta,Alpha,SMT-SPL,69
+Blade Coated,Perovskites,SMT-SPL,35
+Blade Coating,Perovskites,SMT-SPL,49
+CBD,Cubic,SMT-SPL,92
+CBD,Hexagonal,SMT-SPL,97
+CG,Austenite,SMT-SPL,37
+CG,Martensite,SMT-SPL,31
+CS,Perovskites,SMT-SPL,32
+CSD,Perovskites,SMT-SPL,45
+CVD,1T,SMT-SPL,81
+CVD,2H,SMT-SPL,79
+CVD,Anatase,SMT-SPL,105
+CVD,Cubic,SMT-SPL,221
+CVD,FCC,SMT-SPL,59
+CVD,Graphitic,SMT-SPL,107
+CVD,Hexagonal,SMT-SPL,629
+CVD,IIA,SMT-SPL,36
+CVD,Monoclinic,SMT-SPL,55
+CVD,Orthorhombic,SMT-SPL,44
+CVD,Perovskites,SMT-SPL,110
+CVD,Rhombohedral,SMT-SPL,32
+CVD,Rutile,SMT-SPL,79
+CVD,T,SMT-SPL,52
+CVD,Tetragonal,SMT-SPL,48
+CVD,Wurtzite,SMT-SPL,60
+Calcinated,Anatase,SMT-SPL,144
+Calcinated,Cubic,SMT-SPL,58
+Calcinated,Hexagonal,SMT-SPL,55
+Calcinated,Monoclinic,SMT-SPL,33
+Calcinated,Rutile,SMT-SPL,78
+Calcinated,Spinels,SMT-SPL,47
+Calcinated,Tetragonal,SMT-SPL,34
+Calcination,Abstract,SMT-SPL,149
+Calcination,Anatase,SMT-SPL,1990
+Calcination,Brookite,SMT-SPL,118
+Calcination,Cubic,SMT-SPL,823
+Calcination,Cubic Fluorite,SMT-SPL,31
+Calcination,Cubic Perovskites,SMT-SPL,34
+Calcination,Cubic Spinel,SMT-SPL,58
+Calcination,FCC,SMT-SPL,85
+Calcination,Face Centered Cubic,SMT-SPL,51
+Calcination,Fluorite,SMT-SPL,88
+Calcination,Garnet,SMT-SPL,96
+Calcination,Graphitic,SMT-SPL,48
+Calcination,Hexagonal,SMT-SPL,915
+Calcination,Hexagonal Wurtzite,SMT-SPL,41
+Calcination,Hydrotalcite,SMT-SPL,264
+Calcination,Hydrotalcite-Like,SMT-SPL,35
+Calcination,Like,SMT-SPL,42
+Calcination,MFI,SMT-SPL,97
+Calcination,Meso Structured,SMT-SPL,39
+Calcination,Monoclinic,SMT-SPL,618
+Calcination,Olivines,SMT-SPL,53
+Calcination,Orthorhombic,SMT-SPL,341
+Calcination,Perovskites,SMT-SPL,858
+Calcination,Pyrochlore,SMT-SPL,75
+Calcination,R A C T,SMT-SPL,87
+Calcination,Rhombohedral,SMT-SPL,143
+Calcination,Rutile,SMT-SPL,1111
+Calcination,S T,SMT-SPL,97
+Calcination,Spinels,SMT-SPL,902
+Calcination,T,SMT-SPL,369
+Calcination,TRACTA,SMT-SPL,30
+Calcination,Tetragonal,SMT-SPL,695
+Calcination,Triclinic,SMT-SPL,36
+Calcination,Trigonal,SMT-SPL,33
+Calcination,Wurtzite,SMT-SPL,85
+Calcination Treatment,Anatase,SMT-SPL,31
+Calcined,Abstract,SMT-SPL,65
+Calcined,Anatase,SMT-SPL,1543
+Calcined,Brookite,SMT-SPL,113
+Calcined,Cubic,SMT-SPL,801
+Calcined,Cubic Fluorite,SMT-SPL,43
+Calcined,Cubic Perovskites,SMT-SPL,37
+Calcined,Cubic Spinel,SMT-SPL,54
+Calcined,FCC,SMT-SPL,73
+Calcined,Face Centered Cubic,SMT-SPL,35
+Calcined,Fluorite,SMT-SPL,81
+Calcined,Garnet,SMT-SPL,79
+Calcined,Hexagonal,SMT-SPL,826
+Calcined,Ht,SMT-SPL,31
+Calcined,Hydrotalcite,SMT-SPL,275
+Calcined,Hydrotalcite-Like,SMT-SPL,39
+Calcined,Like,SMT-SPL,33
+Calcined,MFI,SMT-SPL,72
+Calcined,Monoclinic,SMT-SPL,565
+Calcined,Olivines,SMT-SPL,50
+Calcined,Orthorhombic,SMT-SPL,322
+Calcined,Perovskites,SMT-SPL,772
+Calcined,Pyrochlore,SMT-SPL,62
+Calcined,R A C T,SMT-SPL,30
+Calcined,Rhombohedral,SMT-SPL,164
+Calcined,Rutile,SMT-SPL,883
+Calcined,S T,SMT-SPL,46
+Calcined,Spinels,SMT-SPL,714
+Calcined,T,SMT-SPL,179
+Calcined,Tetragonal,SMT-SPL,659
+Calcined,Triclinic,SMT-SPL,33
+Calcined,Wurtzite,SMT-SPL,55
+Calcining,Anatase,SMT-SPL,123
+Calcining,Cubic,SMT-SPL,95
+Calcining,Garnet,SMT-SPL,30
+Calcining,Hexagonal,SMT-SPL,69
+Calcining,Monoclinic,SMT-SPL,59
+Calcining,Orthorhombic,SMT-SPL,43
+Calcining,Perovskites,SMT-SPL,105
+Calcining,Rutile,SMT-SPL,78
+Calcining,Spinels,SMT-SPL,102
+Calcining,Tetragonal,SMT-SPL,65
+Carbonated,Garnet,SMT-SPL,43
+Carbonated,Olivines,SMT-SPL,34
+Carbonation,Calcite,SMT-SPL,37
+Carbonation,Olivines,SMT-SPL,43
+Carbonation,Rhombohedral,SMT-SPL,36
+Carbonization,Anatase,SMT-SPL,67
+Carbonization,Cubic,SMT-SPL,72
+Carbonization,Graphitic,SMT-SPL,169
+Carbonization,Hexagonal,SMT-SPL,121
+Carbonization,S T,SMT-SPL,39
+Carbonization,T,SMT-SPL,96
+Carbonize,Anatase,SMT-SPL,41
+Carbonize,Graphitic,SMT-SPL,80
+Carbonize,Hexagonal,SMT-SPL,49
+Carbothermal Reduction,Hexagonal,SMT-SPL,30
+Carburization,Austenite,SMT-SPL,42
+Carburization,Austenitic,SMT-SPL,41
+Carburized,Austenite,SMT-SPL,105
+Carburized,Austenitic,SMT-SPL,59
+Carburized,Martensite,SMT-SPL,59
+Carburized,Martensitic,SMT-SPL,31
+Carburizing,Austenite,SMT-SPL,57
+Carburizing,Austenitic,SMT-SPL,39
+Cast,Austenite,SMT-SPL,185
+Cast,Austenitic,SMT-SPL,141
+Cast,B2,SMT-SPL,41
+Cast,BCC,SMT-SPL,75
+Cast,Cubic,SMT-SPL,64
+Cast,Duplex,SMT-SPL,45
+Cast,FCC,SMT-SPL,90
+Cast,Ferritic,SMT-SPL,48
+Cast,G,SMT-SPL,68
+Cast,HCP,SMT-SPL,34
+Cast,Hexagonal,SMT-SPL,72
+Cast,Leaves,SMT-SPL,36
+Cast,Martensite,SMT-SPL,105
+Cast,Martensitic,SMT-SPL,89
+Cast,β,SMT-SPL,89
+Cast,β-Phase,SMT-SPL,31
+Castable,Spinels,SMT-SPL,30
+Casting,Austenite,SMT-SPL,71
+Casting,Austenitic,SMT-SPL,42
+Casting,FCC,SMT-SPL,43
+Casting,Hexagonal,SMT-SPL,45
+Casting,Martensite,SMT-SPL,45
+Centrifugation,Hexagonal,SMT-SPL,65
+Ceramic Method,Perovskites,SMT-SPL,52
+Ceramic Method,Spinels,SMT-SPL,58
+Ceramic Technique,Perovskites,SMT-SPL,37
+Charging,Austenite,SMT-SPL,30
+Charging,Martensite,SMT-SPL,31
+Charging,Monoclinic,SMT-SPL,35
+Charging,Spinels,SMT-SPL,48
+Chemical Bath Deposition,Cubic,SMT-SPL,167
+Chemical Bath Deposition,Hexagonal,SMT-SPL,143
+Chemical Bath Deposition,Hexagonal Wurtzite,SMT-SPL,40
+Chemical Bath Deposition,Orthorhombic,SMT-SPL,39
+Chemical Bath Deposition,Wurtzite,SMT-SPL,49
+Chemical Co-Precipitation Method,Cubic,SMT-SPL,40
+Chemical Co-Precipitation Method,Spinels,SMT-SPL,34
+Chemical Doping,Perovskites,SMT-SPL,42
+Chemical Etching,Cubic,SMT-SPL,33
+Chemical Etching,Hexagonal,SMT-SPL,74
+Chemical Method,Hexagonal,SMT-SPL,34
+Chemical Reaction,Hexagonal,SMT-SPL,32
+Chemical Reduction,Hexagonal,SMT-SPL,43
+Chemical Solution Deposition,Perovskites,SMT-SPL,134
+Chemical Synthesis,Hexagonal,SMT-SPL,37
+Chemical Vapour Deposition,1T,SMT-SPL,31
+Chemical Vapour Deposition,Anatase,SMT-SPL,59
+Chemical Vapour Deposition,Cubic,SMT-SPL,143
+Chemical Vapour Deposition,FCC,SMT-SPL,32
+Chemical Vapour Deposition,Graphitic,SMT-SPL,79
+Chemical Vapour Deposition,Hexagonal,SMT-SPL,478
+Chemical Vapour Deposition,Monoclinic,SMT-SPL,46
+Chemical Vapour Deposition,Orthorhombic,SMT-SPL,41
+Chemical Vapour Deposition,Perovskites,SMT-SPL,62
+Chemical Vapour Deposition,Rutile,SMT-SPL,52
+Chemical Vapour Deposition,S T,SMT-SPL,43
+Chemical Vapour Deposition,T,SMT-SPL,62
+Chemical Vapour Deposition,Tetragonal,SMT-SPL,36
+Chemical Vapour Deposition,Wurtzite,SMT-SPL,77
+Chemically Exfoliated,1T,SMT-SPL,40
+Chemically Exfoliated,2H,SMT-SPL,31
+Chemotherapy,AML,SMT-SPL,38
+Chemotherapy,Breast,SMT-SPL,75
+Chemotherapy,NSCLC,SMT-SPL,47
+Chemotherapy,Ovarian,SMT-SPL,45
+Chemotherapy,Squamous Cell,SMT-SPL,38
+Citrate Method,Perovskites,SMT-SPL,78
+Claddings,Austenite,SMT-SPL,30
+Claddings,Austenitic,SMT-SPL,31
+Cleaved,Hexagonal,SMT-SPL,52
+Co-Condensation,Hexagonal,SMT-SPL,61
+Co-Deposition,FCC,SMT-SPL,31
+Co-Doping,Anatase,SMT-SPL,55
+Co-Doping,Cubic,SMT-SPL,46
+Co-Doping,Perovskites,SMT-SPL,75
+Co-Doping,Rutile,SMT-SPL,37
+Co-Precipitation,Cubic,SMT-SPL,70
+Co-Precipitation,Hexagonal,SMT-SPL,54
+Co-Precipitation,Hydrotalcite,SMT-SPL,52
+Co-Precipitation,Monoclinic,SMT-SPL,35
+Co-Precipitation,Perovskites,SMT-SPL,58
+Co-Precipitation,Spinels,SMT-SPL,124
+Co-Precipitation,T,SMT-SPL,30
+Co-Precipitation,Tetragonal,SMT-SPL,53
+Co-precipitation Method,Abstract,SMT-SPL,32
+Co-precipitation Method,Cubic,SMT-SPL,96
+Co-precipitation Method,Cubic Spinel,SMT-SPL,30
+Co-precipitation Method,Garnet,SMT-SPL,37
+Co-precipitation Method,Hexagonal,SMT-SPL,96
+Co-precipitation Method,Hexagonal Wurtzite,SMT-SPL,41
+Co-precipitation Method,Hydrotalcite,SMT-SPL,65
+Co-precipitation Method,Monoclinic,SMT-SPL,44
+Co-precipitation Method,Orthorhombic,SMT-SPL,38
+Co-precipitation Method,Perovskites,SMT-SPL,56
+Co-precipitation Method,Spinels,SMT-SPL,175
+Co-precipitation Method,T,SMT-SPL,59
+Co-precipitation Method,Tetragonal,SMT-SPL,49
+Co-precipitation Method,Wurtzite,SMT-SPL,34
+Coated,1T,SMT-SPL,30
+Coated,Abstract,SMT-SPL,172
+Coated,Anatase,SMT-SPL,979
+Coated,Austenite,SMT-SPL,73
+Coated,Austenitic,SMT-SPL,126
+Coated,BCC,SMT-SPL,88
+Coated,BSTRAct,SMT-SPL,54
+Coated,Breast,SMT-SPL,46
+Coated,Brookite,SMT-SPL,50
+Coated,Cassie,SMT-SPL,64
+Coated,Chalcopyrite,SMT-SPL,51
+Coated,Cubic,SMT-SPL,762
+Coated,Cubic Spinel,SMT-SPL,38
+Coated,FCC,SMT-SPL,274
+Coated,Face Centered Cubic,SMT-SPL,120
+Coated,Ferritic,SMT-SPL,71
+Coated,G,SMT-SPL,38
+Coated,Garnet,SMT-SPL,96
+Coated,Graphitic,SMT-SPL,90
+Coated,HCP,SMT-SPL,77
+Coated,Hexagonal,SMT-SPL,1074
+Coated,Hexagonal Wurtzite,SMT-SPL,40
+Coated,Hexagonally,SMT-SPL,50
+Coated,Kesterite,SMT-SPL,49
+Coated,Lc,SMT-SPL,33
+Coated,MFI,SMT-SPL,30
+Coated,Macrophages,SMT-SPL,40
+Coated,Martensite,SMT-SPL,67
+Coated,Martensitic,SMT-SPL,81
+Coated,Monoclinic,SMT-SPL,308
+Coated,Nematic,SMT-SPL,38
+Coated,Olivines,SMT-SPL,140
+Coated,Orthorhombic,SMT-SPL,230
+Coated,Osteoblasts,SMT-SPL,66
+Coated,P,SMT-SPL,31
+Coated,P2,SMT-SPL,42
+Coated,Perovskites,SMT-SPL,928
+Coated,R A C T,SMT-SPL,46
+Coated,Rhombohedral,SMT-SPL,112
+Coated,Rock Salt,SMT-SPL,32
+Coated,Rutile,SMT-SPL,546
+Coated,S T,SMT-SPL,175
+Coated,STRAC,SMT-SPL,46
+Coated,Spinels,SMT-SPL,646
+Coated,T,SMT-SPL,236
+Coated,Tetragonal,SMT-SPL,326
+Coated,Trigonal,SMT-SPL,32
+Coated,Wenzel,SMT-SPL,50
+Coated,Wurtzite,SMT-SPL,140
+Coated,Zinc Blende,SMT-SPL,31
+Coated,β,SMT-SPL,62
+Coated,β-Phase,SMT-SPL,32
+Coatings,Abstract,SMT-SPL,58
+Coatings,Anatase,SMT-SPL,247
+Coatings,Cubic,SMT-SPL,176
+Coatings,FCC,SMT-SPL,52
+Coatings,Hexagonal,SMT-SPL,237
+Coatings,Monoclinic,SMT-SPL,69
+Coatings,Olivines,SMT-SPL,64
+Coatings,Orthorhombic,SMT-SPL,55
+Coatings,Perovskites,SMT-SPL,250
+Coatings,Rutile,SMT-SPL,103
+Coatings,S T,SMT-SPL,46
+Coatings,Spinels,SMT-SPL,178
+Coatings,T,SMT-SPL,100
+Coatings,Tetragonal,SMT-SPL,60
+Coiling,Austenite,SMT-SPL,55
+Cold Deformation,Austenite,SMT-SPL,45
+Cold Deformation,Martensite,SMT-SPL,48
+Cold Drawing,Pearlitic,SMT-SPL,34
+Cold Drawn,Pearlitic,SMT-SPL,40
+Cold Formed,Austenitic,SMT-SPL,42
+Cold Rolled,Austenite,SMT-SPL,387
+Cold Rolled,Austenitic,SMT-SPL,179
+Cold Rolled,B2,SMT-SPL,30
+Cold Rolled,BCC,SMT-SPL,96
+Cold Rolled,Duplex,SMT-SPL,43
+Cold Rolled,FCC,SMT-SPL,118
+Cold Rolled,Ferritic,SMT-SPL,54
+Cold Rolled,HCP,SMT-SPL,44
+Cold Rolled,Martensite,SMT-SPL,354
+Cold Rolled,Martensitic,SMT-SPL,134
+Cold Rolled,α' Martensite,SMT-SPL,34
+Cold Rolled,α-Fiber,SMT-SPL,31
+Cold Rolled,β,SMT-SPL,92
+Cold Rolling,Austenite,SMT-SPL,258
+Cold Rolling,Austenitic,SMT-SPL,144
+Cold Rolling,B2,SMT-SPL,33
+Cold Rolling,BCC,SMT-SPL,94
+Cold Rolling,Duplex,SMT-SPL,31
+Cold Rolling,FCC,SMT-SPL,136
+Cold Rolling,Ferritic,SMT-SPL,36
+Cold Rolling,Goss,SMT-SPL,35
+Cold Rolling,HCP,SMT-SPL,33
+Cold Rolling,Martensite,SMT-SPL,293
+Cold Rolling,Martensitic,SMT-SPL,113
+Cold Rolling,β,SMT-SPL,75
+Cold Worked,Austenite,SMT-SPL,90
+Cold Worked,Austenitic,SMT-SPL,190
+Cold Worked,FCC,SMT-SPL,36
+Cold Worked,Martensite,SMT-SPL,101
+Cold Worked,Martensitic,SMT-SPL,56
+Cold Working,Austenite,SMT-SPL,31
+Cold Working,Austenitic,SMT-SPL,56
+Cold Working,Martensite,SMT-SPL,35
+Colloidal Synthesis,Perovskites,SMT-SPL,35
+Combustion,Anatase,SMT-SPL,30
+Combustion,Bituminous,SMT-SPL,51
+Combustion,Cubic,SMT-SPL,51
+Combustion,Hexagonal,SMT-SPL,57
+Combustion,Monoclinic,SMT-SPL,31
+Combustion,Perovskites,SMT-SPL,60
+Combustion,Spinels,SMT-SPL,78
+Combustion,Sub-Bituminous,SMT-SPL,32
+Combustion,T,SMT-SPL,36
+Combustion Method,Cubic,SMT-SPL,34
+Combustion Method,Perovskites,SMT-SPL,44
+Combustion Method,Spinels,SMT-SPL,49
+Combustion Synthesis,Perovskites,SMT-SPL,51
+Combustion Synthesis,Spinels,SMT-SPL,37
+Compaction,Cubic,SMT-SPL,33
+Compressional,Austenite,SMT-SPL,48
+Compressional,BCC,SMT-SPL,59
+Compressional,Cubic,SMT-SPL,70
+Compressional,FCC,SMT-SPL,74
+Compressional,HCP,SMT-SPL,46
+Compressional,Hexagonal,SMT-SPL,102
+Compressional,Martensite,SMT-SPL,60
+Compressional,Martensitic,SMT-SPL,35
+Compressional,Monoclinic,SMT-SPL,35
+Compressional,Orthorhombic,SMT-SPL,38
+Compressional,β,SMT-SPL,44
+Compressive Deformation,Austenite,SMT-SPL,35
+Compressive Deformation,Martensite,SMT-SPL,30
+Condition,Boundary,SMT-SPL,52
+Continuous,Austenite,SMT-SPL,49
+Continuous Cooling,Austenite,SMT-SPL,81
+Continuous Cooling,Martensite,SMT-SPL,52
+Continuous Heating,Austenite,SMT-SPL,46
+Cooled,Austenite,SMT-SPL,297
+Cooled,Austenitic,SMT-SPL,58
+Cooled,B2,SMT-SPL,31
+Cooled,BCC,SMT-SPL,58
+Cooled,Bainite,SMT-SPL,36
+Cooled,Bainitic,SMT-SPL,50
+Cooled,Cooling,SMT-SPL,110
+Cooled,Cubic,SMT-SPL,196
+Cooled,FCC,SMT-SPL,89
+Cooled,HCP,SMT-SPL,33
+Cooled,Hexagonal,SMT-SPL,191
+Cooled,Martensite,SMT-SPL,240
+Cooled,Martensitic,SMT-SPL,116
+Cooled,Monoclinic,SMT-SPL,119
+Cooled,Nematic,SMT-SPL,36
+Cooled,Orthorhombic,SMT-SPL,115
+Cooled,Perovskites,SMT-SPL,91
+Cooled,Rhombohedral,SMT-SPL,37
+Cooled,Spinels,SMT-SPL,61
+Cooled,Tetragonal,SMT-SPL,127
+Cooled,β,SMT-SPL,96
+Cooling,Abstract,SMT-SPL,52
+Cooling,Acicular,SMT-SPL,98
+Cooling,Alpha,SMT-SPL,76
+Cooling,Amphibolite,SMT-SPL,116
+Cooling,Anatase,SMT-SPL,83
+Cooling,Apatites,SMT-SPL,47
+Cooling,Austenite,SMT-SPL,1716
+Cooling,Austenitic,SMT-SPL,412
+Cooling,B1,SMT-SPL,38
+Cooling,B2,SMT-SPL,264
+Cooling,BCC,SMT-SPL,407
+Cooling,Bainite,SMT-SPL,176
+Cooling,Bainitic,SMT-SPL,217
+Cooling,Basaltic,SMT-SPL,48
+Cooling,Beta,SMT-SPL,50
+Cooling,Biotites,SMT-SPL,30
+Cooling,Body Centred Cubic,SMT-SPL,89
+Cooling,C2/C,SMT-SPL,40
+Cooling,COLH,SMT-SPL,81
+Cooling,Chondrite,SMT-SPL,80
+Cooling,Chondritic,SMT-SPL,34
+Cooling,Clinopyroxenes,SMT-SPL,91
+Cooling,Cr,SMT-SPL,94
+Cooling,Crystal,SMT-SPL,39
+Cooling,Crystalline,SMT-SPL,34
+Cooling,Cubic,SMT-SPL,1079
+Cooling,Cubic Perovskites,SMT-SPL,67
+Cooling,Cuboidal,SMT-SPL,47
+Cooling,D03,SMT-SPL,30
+Cooling,Double Perovskite,SMT-SPL,40
+Cooling,Duplex,SMT-SPL,41
+Cooling,Eclogites,SMT-SPL,126
+Cooling,F,SMT-SPL,52
+Cooling,FCC,SMT-SPL,603
+Cooling,Face Centered Cubic,SMT-SPL,108
+Cooling,Ferrite,SMT-SPL,82
+Cooling,Ferritic,SMT-SPL,133
+Cooling,Fluorite,SMT-SPL,62
+Cooling,G,SMT-SPL,201
+Cooling,Gamma,SMT-SPL,30
+Cooling,Garnet,SMT-SPL,477
+Cooling,Garnets,SMT-SPL,79
+Cooling,Gneiss,SMT-SPL,104
+Cooling,Gneisses,SMT-SPL,91
+Cooling,Granite,SMT-SPL,57
+Cooling,Granitic,SMT-SPL,61
+Cooling,Granulite,SMT-SPL,254
+Cooling,Greenschist,SMT-SPL,36
+Cooling,HCP,SMT-SPL,218
+Cooling,Heating,SMT-SPL,46
+Cooling,Heusler,SMT-SPL,51
+Cooling,Hexagonal,SMT-SPL,1114
+Cooling,Hexagonal Close Packed,SMT-SPL,33
+Cooling,Hexagonal Columnar,SMT-SPL,72
+Cooling,Ht,SMT-SPL,47
+Cooling,Hydrates,SMT-SPL,49
+Cooling,Icosahedral,SMT-SPL,124
+Cooling,L,SMT-SPL,35
+Cooling,L10,SMT-SPL,40
+Cooling,L12,SMT-SPL,53
+Cooling,LS,SMT-SPL,49
+Cooling,Lath,SMT-SPL,90
+Cooling,Laves Phase,SMT-SPL,49
+Cooling,Lc,SMT-SPL,134
+Cooling,Leaves,SMT-SPL,44
+Cooling,Lt,SMT-SPL,50
+Cooling,M,SMT-SPL,114
+Cooling,M1,SMT-SPL,41
+Cooling,Mafic,SMT-SPL,40
+Cooling,Martensite,SMT-SPL,1551
+Cooling,Martensitic,SMT-SPL,856
+Cooling,Mesophase,SMT-SPL,45
+Cooling,Meteorite,SMT-SPL,38
+Cooling,Monoclinic,SMT-SPL,839
+Cooling,Nematic,SMT-SPL,318
+Cooling,Olivines,SMT-SPL,181
+Cooling,Orthorhombic,SMT-SPL,802
+Cooling,P,SMT-SPL,76
+Cooling,P1,SMT-SPL,41
+Cooling,P2,SMT-SPL,30
+Cooling,P2 1/N,SMT-SPL,36
+Cooling,P21/C,SMT-SPL,51
+Cooling,P63/MMC,SMT-SPL,30
+Cooling,PNMA,SMT-SPL,59
+Cooling,Pearlitic,SMT-SPL,60
+Cooling,Peritectic,SMT-SPL,33
+Cooling,Perovskites,SMT-SPL,688
+Cooling,Phase,SMT-SPL,41
+Cooling,Plagioclase,SMT-SPL,51
+Cooling,Polygonal,SMT-SPL,113
+Cooling,Proeutectoid,SMT-SPL,33
+Cooling,Pseudocubic,SMT-SPL,57
+Cooling,Pyrochlore,SMT-SPL,39
+Cooling,Pyroxene,SMT-SPL,119
+Cooling,Rectangular,SMT-SPL,38
+Cooling,Rhombohedral,SMT-SPL,283
+Cooling,Rock Salt,SMT-SPL,50
+Cooling,Rutile,SMT-SPL,220
+Cooling,S T,SMT-SPL,54
+Cooling,SMC,SMT-SPL,102
+Cooling,Sma,SMT-SPL,137
+Cooling,Smectic,SMT-SPL,179
+Cooling,Smectic A,SMT-SPL,49
+Cooling,Smectic C,SMT-SPL,34
+Cooling,Spinels,SMT-SPL,337
+Cooling,T,SMT-SPL,117
+Cooling,Tetragonal,SMT-SPL,842
+Cooling,Triclinic,SMT-SPL,133
+Cooling,Trigonal,SMT-SPL,112
+Cooling,Ultramafic,SMT-SPL,32
+Cooling,Widmanstatten,SMT-SPL,89
+Cooling,Wurtzite,SMT-SPL,35
+Cooling,Δ,SMT-SPL,93
+Cooling,Δ-Phase,SMT-SPL,30
+Cooling,α' Martensite,SMT-SPL,34
+Cooling,α-,SMT-SPL,44
+Cooling,α-Phase,SMT-SPL,84
+Cooling,α2,SMT-SPL,48
+Cooling,β,SMT-SPL,497
+Cooling,β-,SMT-SPL,37
+Cooling,β-Phase,SMT-SPL,111
+Cooling,γ',SMT-SPL,73
+Cooling,γ-Phase,SMT-SPL,64
+Cooling,σ,SMT-SPL,35
+Coprecipitation,Cubic,SMT-SPL,42
+Coprecipitation,Hexagonal,SMT-SPL,46
+Coprecipitation,Hydrotalcite,SMT-SPL,70
+Coprecipitation,Perovskites,SMT-SPL,40
+Coprecipitation,Spinels,SMT-SPL,128
+Coprecipitation,Tetragonal,SMT-SPL,46
+Coprecipitation Method,Cubic,SMT-SPL,43
+Coprecipitation Method,Hydrotalcite,SMT-SPL,54
+Coprecipitation Method,Perovskites,SMT-SPL,31
+Coprecipitation Method,Spinels,SMT-SPL,71
+Coprecipitation Method,Tetragonal,SMT-SPL,33
+Creep,Austenite,SMT-SPL,37
+Creep,Austenitic,SMT-SPL,69
+Creep,Ferritic,SMT-SPL,36
+Creep,G,SMT-SPL,61
+Creep,Laves Phase,SMT-SPL,42
+Creep,Leaves,SMT-SPL,54
+Creep,Martensite,SMT-SPL,58
+Creep,Martensitic,SMT-SPL,62
+Creep,γ',SMT-SPL,74
+Cross-Linking,Hexagonal,SMT-SPL,53
+Crosslinked,Hexagonal,SMT-SPL,33
+Crushed,Cubic,SMT-SPL,42
+Crushed,Hexagonal,SMT-SPL,35
+Cryogenic Treatment,Austenite,SMT-SPL,33
+Cryogenic Treatment,Martensite,SMT-SPL,33
+Crystallization,BCC,SMT-SPL,34
+Crystallization,Cubic,SMT-SPL,60
+Crystallization,FCC,SMT-SPL,35
+Crystallization,Hexagonal,SMT-SPL,61
+Crystallization,Monoclinic,SMT-SPL,33
+Crystallization,Orthorhombic,SMT-SPL,47
+Crystallization,Perovskites,SMT-SPL,47
+Crystallization,Tetragonal,SMT-SPL,46
+Cured,Cubic,SMT-SPL,33
+Cured,Hexagonal,SMT-SPL,45
+Curing,Cubic,SMT-SPL,34
+Curing,Hexagonal,SMT-SPL,58
+Cutting,Austenitic,SMT-SPL,38
+Cutting,Cubic,SMT-SPL,53
+Cutting,Hexagonal,SMT-SPL,54
+Cutting,Martensite,SMT-SPL,37
+Cutting,Martensitic,SMT-SPL,34
+Cyclic Deformation,Martensite,SMT-SPL,44
+Cycling,Spinels,SMT-SPL,31
+Czochralski,Garnet,SMT-SPL,31
+Czochralski Method,Garnet,SMT-SPL,39
+DP,Martensite,SMT-SPL,55
+Decomposition,Cubic,SMT-SPL,45
+Decomposition,Perovskites,SMT-SPL,30
+Decomposition,Spinels,SMT-SPL,33
+Decompression,Amphibolite,SMT-SPL,35
+Decompression,Eclogites,SMT-SPL,62
+Decompression,Garnet,SMT-SPL,174
+Decompression,Gneiss,SMT-SPL,38
+Decompression,Granulite,SMT-SPL,104
+Decompression,Spinels,SMT-SPL,34
+Deep Cryogenic Treatment,Austenite,SMT-SPL,39
+Deep Cryogenic Treatment,Martensite,SMT-SPL,33
+Deformation Induced,Austenite,SMT-SPL,64
+Deformation Induced,Martensite,SMT-SPL,91
+Deformations,Alpha,SMT-SPL,52
+Deformations,Austenite,SMT-SPL,879
+Deformations,Austenitic,SMT-SPL,396
+Deformations,B2,SMT-SPL,109
+Deformations,BCC,SMT-SPL,259
+Deformations,Bainite,SMT-SPL,42
+Deformations,Bainitic,SMT-SPL,54
+Deformations,Beta,SMT-SPL,36
+Deformations,Body Centred Cubic,SMT-SPL,48
+Deformations,Cubic,SMT-SPL,113
+Deformations,Duplex,SMT-SPL,44
+Deformations,E-Martensite,SMT-SPL,70
+Deformations,FCC,SMT-SPL,361
+Deformations,Face Centered Cubic,SMT-SPL,96
+Deformations,Ferritic,SMT-SPL,66
+Deformations,G,SMT-SPL,73
+Deformations,Garnet,SMT-SPL,73
+Deformations,HCP,SMT-SPL,155
+Deformations,Hexagonal,SMT-SPL,120
+Deformations,Hexagonal Close Packed,SMT-SPL,39
+Deformations,L12,SMT-SPL,37
+Deformations,Lath,SMT-SPL,31
+Deformations,Martensite,SMT-SPL,819
+Deformations,Martensitic,SMT-SPL,379
+Deformations,Monoclinic,SMT-SPL,35
+Deformations,Olivines,SMT-SPL,56
+Deformations,Orthorhombic,SMT-SPL,45
+Deformations,Pearlitic,SMT-SPL,32
+Deformations,Polygonal,SMT-SPL,37
+Deformations,Spinels,SMT-SPL,37
+Deformations,Tetragonal,SMT-SPL,47
+Deformations,Δ,SMT-SPL,34
+Deformations,α' Martensite,SMT-SPL,56
+Deformations,α-Phase,SMT-SPL,33
+Deformations,β,SMT-SPL,265
+Deformations,β-Phase,SMT-SPL,53
+Deformations,ω,SMT-SPL,37
+Deformed,Austenite,SMT-SPL,305
+Deformed,Austenitic,SMT-SPL,157
+Deformed,B2,SMT-SPL,32
+Deformed,BCC,SMT-SPL,90
+Deformed,Cubic,SMT-SPL,33
+Deformed,FCC,SMT-SPL,148
+Deformed,HCP,SMT-SPL,60
+Deformed,Hexagonal,SMT-SPL,58
+Deformed,Martensite,SMT-SPL,226
+Deformed,Martensitic,SMT-SPL,93
+Deformed,β,SMT-SPL,130
+Dehydrated,Cubic,SMT-SPL,72
+Dehydrated,Hexagonal,SMT-SPL,65
+Dehydration,Anatase,SMT-SPL,40
+Dehydration,Anhydrous,SMT-SPL,57
+Dehydration,Cubic,SMT-SPL,101
+Dehydration,Dihydrate,SMT-SPL,37
+Dehydration,Eclogites,SMT-SPL,59
+Dehydration,Garnet,SMT-SPL,107
+Dehydration,Hexagonal,SMT-SPL,123
+Dehydration,Hydrates,SMT-SPL,65
+Dehydration,Monoclinic,SMT-SPL,132
+Dehydration,Monohydrates,SMT-SPL,34
+Dehydration,Olivines,SMT-SPL,46
+Dehydration,Orthorhombic,SMT-SPL,89
+Dehydration,Perovskites,SMT-SPL,60
+Dehydration,Rutile,SMT-SPL,48
+Dehydration,Spinels,SMT-SPL,41
+Dehydration,Tetragonal,SMT-SPL,48
+Dehydration Melting,Garnet,SMT-SPL,86
+Dehydration Melting,Granulite,SMT-SPL,38
+Dehydrogenation,Cubic,SMT-SPL,35
+Dehydrogenation,FCC,SMT-SPL,43
+Dehydrogenation,Hexagonal,SMT-SPL,54
+Dehydrogenation,Orthorhombic,SMT-SPL,31
+Dehydrogenation,Tetragonal,SMT-SPL,30
+Delithiated,Olivines,SMT-SPL,40
+Delithiated,Spinels,SMT-SPL,109
+Delithiation,Cubic,SMT-SPL,37
+Delithiation,Hexagonal,SMT-SPL,40
+Delithiation,Olivines,SMT-SPL,40
+Delithiation,Orthorhombic,SMT-SPL,30
+Delithiation,Spinels,SMT-SPL,85
+Densification,Anatase,SMT-SPL,41
+Densification,Cubic,SMT-SPL,153
+Densification,Garnet,SMT-SPL,46
+Densification,Hexagonal,SMT-SPL,90
+Densification,Monoclinic,SMT-SPL,81
+Densification,Orthorhombic,SMT-SPL,58
+Densification,Perovskites,SMT-SPL,155
+Densification,Rutile,SMT-SPL,42
+Densification,Spinels,SMT-SPL,122
+Densification,Tetragonal,SMT-SPL,150
+Densified,Cubic,SMT-SPL,49
+Densified,Monoclinic,SMT-SPL,44
+Densified,Perovskites,SMT-SPL,48
+Densified,Spinels,SMT-SPL,31
+Densified,Tetragonal,SMT-SPL,39
+Deposition,Hexagonal,SMT-SPL,33
+Dewetting,Hexagonal,SMT-SPL,39
+Dip Coated,Anatase,SMT-SPL,37
+Dip Coated,Hexagonal,SMT-SPL,34
+Dip Coating,Anatase,SMT-SPL,175
+Dip Coating,Cubic,SMT-SPL,73
+Dip Coating,Hexagonal,SMT-SPL,117
+Dip Coating,Monoclinic,SMT-SPL,31
+Dip Coating,Perovskites,SMT-SPL,89
+Dip Coating,Rutile,SMT-SPL,67
+Dip Coating,Tetragonal,SMT-SPL,34
+Discharge,Cubic,SMT-SPL,34
+Discharge,Hexagonal,SMT-SPL,34
+Discharge,Monoclinic,SMT-SPL,37
+Discharge,Spinels,SMT-SPL,59
+Dissolution,Anatase,SMT-SPL,88
+Dissolution,Cubic,SMT-SPL,97
+Dissolution,FCC,SMT-SPL,44
+Dissolution,Garnet,SMT-SPL,43
+Dissolution,Hexagonal,SMT-SPL,200
+Dissolution,Monoclinic,SMT-SPL,53
+Dissolution,Olivines,SMT-SPL,53
+Dissolution,Orthorhombic,SMT-SPL,34
+Dissolution,Perovskites,SMT-SPL,59
+Dissolution,Rhombohedral,SMT-SPL,50
+Dissolution,Rutile,SMT-SPL,66
+Dissolution,Spinels,SMT-SPL,49
+Dissolution,Tetragonal,SMT-SPL,43
+Doping,1T,SMT-SPL,39
+Doping,2H,SMT-SPL,33
+Doping,Abstract,SMT-SPL,110
+Doping,Anatase,SMT-SPL,725
+Doping,B s t,SMT-SPL,36
+Doping,BSTRAct,SMT-SPL,75
+Doping,Brookite,SMT-SPL,36
+Doping,Cubic,SMT-SPL,801
+Doping,Cubic Perovskites,SMT-SPL,102
+Doping,Cubic Spinel,SMT-SPL,61
+Doping,Delafossite,SMT-SPL,33
+Doping,Double Perovskite,SMT-SPL,136
+Doping,FCC,SMT-SPL,67
+Doping,Face Centered Cubic,SMT-SPL,36
+Doping,Fluorite,SMT-SPL,70
+Doping,Garnet,SMT-SPL,88
+Doping,Graphitic,SMT-SPL,100
+Doping,Half,SMT-SPL,31
+Doping,Heusler,SMT-SPL,63
+Doping,Hexagonal,SMT-SPL,650
+Doping,Hexagonal Wurtzite,SMT-SPL,240
+Doping,Monoclinic,SMT-SPL,356
+Doping,Olivines,SMT-SPL,57
+Doping,Orthorhombic,SMT-SPL,600
+Doping,P2,SMT-SPL,33
+Doping,PBNM,SMT-SPL,62
+Doping,PNMA,SMT-SPL,75
+Doping,Perovskites,SMT-SPL,1612
+Doping,Pseudocubic,SMT-SPL,49
+Doping,Pyrochlore,SMT-SPL,50
+Doping,R3c,SMT-SPL,79
+Doping,Rhombohedral,SMT-SPL,349
+Doping,Rock Salt,SMT-SPL,41
+Doping,Ruddlesden Popper,SMT-SPL,42
+Doping,Rutile,SMT-SPL,433
+Doping,S T,SMT-SPL,106
+Doping,Skutterudites,SMT-SPL,43
+Doping,Spinels,SMT-SPL,415
+Doping,T,SMT-SPL,119
+Doping,Tetragonal,SMT-SPL,605
+Doping,Triclinic,SMT-SPL,41
+Doping,Wurtzite,SMT-SPL,318
+Doping,Zinc Blende,SMT-SPL,60
+Dp,Austenite,SMT-SPL,40
+Dp,Martensite,SMT-SPL,122
+Drawing,Hexagonal,SMT-SPL,32
+Drawing,Pearlitic,SMT-SPL,36
+Dried,Anatase,SMT-SPL,257
+Dried,Brookite,SMT-SPL,37
+Dried,Cubic,SMT-SPL,177
+Dried,FCC,SMT-SPL,74
+Dried,Hexagonal,SMT-SPL,218
+Dried,Monoclinic,SMT-SPL,95
+Dried,Orthorhombic,SMT-SPL,69
+Dried,Perovskites,SMT-SPL,154
+Dried,Rutile,SMT-SPL,142
+Dried,Spinels,SMT-SPL,104
+Dried,T,SMT-SPL,43
+Dried,Tetragonal,SMT-SPL,105
+Drop Casting,Hexagonal,SMT-SPL,44
+Drop Casting,Perovskites,SMT-SPL,46
+Drx,Austenite,SMT-SPL,51
+Drx,Austenitic,SMT-SPL,51
+Drying,Anatase,SMT-SPL,200
+Drying,Cubic,SMT-SPL,162
+Drying,FCC,SMT-SPL,56
+Drying,HCP,SMT-SPL,33
+Drying,Hexagonal,SMT-SPL,257
+Drying,Monoclinic,SMT-SPL,67
+Drying,Orthorhombic,SMT-SPL,49
+Drying,Perovskites,SMT-SPL,140
+Drying,Rutile,SMT-SPL,100
+Drying,S T,SMT-SPL,39
+Drying,Spinels,SMT-SPL,48
+Drying,T,SMT-SPL,48
+Drying,Tetragonal,SMT-SPL,72
+Dsa,Austenitic,SMT-SPL,35
+Dynamic Recrystallization,Austenite,SMT-SPL,73
+Dynamic Recrystallization,Austenitic,SMT-SPL,63
+Dynamic Strain Aging,Austenitic,SMT-SPL,49
+EBM,β,SMT-SPL,48
+ECAP,FCC,SMT-SPL,72
+ECAP,HCP,SMT-SPL,35
+EISA,Hexagonal,SMT-SPL,31
+EPD,Anatase,SMT-SPL,38
+Eclogitization,Eclogites,SMT-SPL,33
+Electro-Polished,Austenite,SMT-SPL,36
+Electrochemical,Cubic,SMT-SPL,38
+Electrochemical,Hexagonal,SMT-SPL,57
+Electrochemical,Monoclinic,SMT-SPL,31
+Electrochemical,S T,SMT-SPL,30
+Electrochemical,Spinels,SMT-SPL,43
+Electrochemical,T,SMT-SPL,37
+Electrochemical Anodization,Anatase,SMT-SPL,99
+Electrochemical Anodization,Rutile,SMT-SPL,38
+Electrochemical Cycling,Cubic,SMT-SPL,33
+Electrochemical Cycling,Spinels,SMT-SPL,45
+Electrochemical Deposition,Cubic,SMT-SPL,40
+Electrochemical Deposition,Hexagonal,SMT-SPL,101
+Electrochemical Oxidation,T,SMT-SPL,39
+Electrodeposition,Abstract,SMT-SPL,82
+Electrodeposition,Anatase,SMT-SPL,77
+Electrodeposition,BCC,SMT-SPL,38
+Electrodeposition,Chalcopyrite,SMT-SPL,50
+Electrodeposition,Cubic,SMT-SPL,152
+Electrodeposition,FCC,SMT-SPL,152
+Electrodeposition,Face Centered Cubic,SMT-SPL,98
+Electrodeposition,HCP,SMT-SPL,75
+Electrodeposition,Hexagonal,SMT-SPL,315
+Electrodeposition,Monoclinic,SMT-SPL,38
+Electrodeposition,Orthorhombic,SMT-SPL,34
+Electrodeposition,Perovskites,SMT-SPL,43
+Electrodeposition,Rutile,SMT-SPL,41
+Electrodeposition,S T,SMT-SPL,90
+Electrodeposition,Spinels,SMT-SPL,36
+Electrodeposition,T,SMT-SPL,105
+Electrodeposition,Tetragonal,SMT-SPL,44
+Electrodeposition,Wurtzite,SMT-SPL,51
+Electrodeposits,Abstract,SMT-SPL,37
+Electrodeposits,Anatase,SMT-SPL,49
+Electrodeposits,BCC,SMT-SPL,49
+Electrodeposits,Cubic,SMT-SPL,124
+Electrodeposits,FCC,SMT-SPL,168
+Electrodeposits,Face Centered Cubic,SMT-SPL,75
+Electrodeposits,HCP,SMT-SPL,63
+Electrodeposits,Hexagonal,SMT-SPL,218
+Electrodeposits,Orthorhombic,SMT-SPL,30
+Electrodeposits,Perovskites,SMT-SPL,38
+Electrodeposits,Rutile,SMT-SPL,32
+Electrodeposits,S T,SMT-SPL,31
+Electrodeposits,Spinels,SMT-SPL,40
+Electrodeposits,T,SMT-SPL,44
+Electrodeposits,Tetragonal,SMT-SPL,44
+Electrodeposits,Wurtzite,SMT-SPL,37
+Electroless Deposition,Hexagonal,SMT-SPL,30
+Electrolysis,Cubic,SMT-SPL,39
+Electrolysis,Hexagonal,SMT-SPL,35
+Electrolysis,Perovskites,SMT-SPL,31
+Electrolysis,T,SMT-SPL,35
+Electron Beam Irradiation,Hexagonal,SMT-SPL,46
+Electron Beam Lithography,Hexagonal,SMT-SPL,39
+Electron Irradiation,FCC,SMT-SPL,38
+Electron Irradiation,Hexagonal,SMT-SPL,57
+Electrophoretic Deposition,Anatase,SMT-SPL,41
+Electroplating,Hexagonal,SMT-SPL,37
+Electrospinning,Anatase,SMT-SPL,135
+Electrospinning,Cubic,SMT-SPL,46
+Electrospinning,Hexagonal,SMT-SPL,56
+Electrospinning,Monoclinic,SMT-SPL,32
+Electrospinning,Perovskites,SMT-SPL,77
+Electrospinning,Rutile,SMT-SPL,81
+Electrospinning,S T,SMT-SPL,32
+Electrospinning,Spinels,SMT-SPL,48
+Electrospinning,T,SMT-SPL,78
+Electrospinning,Tetragonal,SMT-SPL,46
+Electrospinning,β,SMT-SPL,31
+Electrospinning Technique,Anatase,SMT-SPL,35
+Electrospun,Anatase,SMT-SPL,135
+Electrospun,Cubic,SMT-SPL,43
+Electrospun,Hexagonal,SMT-SPL,45
+Electrospun,Perovskites,SMT-SPL,33
+Electrospun,Rutile,SMT-SPL,64
+Electrospun,T,SMT-SPL,36
+Engineering,Perovskites,SMT-SPL,43
+Equal Channel Angular Pressing,FCC,SMT-SPL,32
+Etch,Hexagonal,SMT-SPL,70
+Etched,Anatase,SMT-SPL,89
+Etched,Austenite,SMT-SPL,307
+Etched,Austenitic,SMT-SPL,91
+Etched,BCC,SMT-SPL,79
+Etched,Cubic,SMT-SPL,183
+Etched,FCC,SMT-SPL,113
+Etched,HCP,SMT-SPL,46
+Etched,Hexagonal,SMT-SPL,377
+Etched,Martensite,SMT-SPL,260
+Etched,Martensitic,SMT-SPL,105
+Etched,Monoclinic,SMT-SPL,45
+Etched,Orthorhombic,SMT-SPL,32
+Etched,Perovskites,SMT-SPL,69
+Etched,Rutile,SMT-SPL,72
+Etched,Spinels,SMT-SPL,54
+Etched,Tetragonal,SMT-SPL,70
+Etched,Wurtzite,SMT-SPL,33
+Etched,β,SMT-SPL,83
+Etched,γ',SMT-SPL,31
+Etching,Anatase,SMT-SPL,120
+Etching,Austenite,SMT-SPL,167
+Etching,Austenitic,SMT-SPL,71
+Etching,BCC,SMT-SPL,46
+Etching,Cubic,SMT-SPL,244
+Etching,F,SMT-SPL,30
+Etching,FCC,SMT-SPL,103
+Etching,Graphitic,SMT-SPL,44
+Etching,HCP,SMT-SPL,33
+Etching,Hexagonal,SMT-SPL,578
+Etching,Martensite,SMT-SPL,122
+Etching,Martensitic,SMT-SPL,61
+Etching,Monoclinic,SMT-SPL,65
+Etching,Orthorhombic,SMT-SPL,55
+Etching,Perovskites,SMT-SPL,113
+Etching,Rhombohedral,SMT-SPL,32
+Etching,Rutile,SMT-SPL,91
+Etching,Spinels,SMT-SPL,47
+Etching,T,SMT-SPL,37
+Etching,Tetragonal,SMT-SPL,47
+Etching,Wurtzite,SMT-SPL,62
+Etching,β,SMT-SPL,39
+Evaporated,Hexagonal,SMT-SPL,30
+Evaporated,Perovskites,SMT-SPL,30
+Evaporation,Cubic,SMT-SPL,70
+Evaporation,FCC,SMT-SPL,36
+Evaporation,Hexagonal,SMT-SPL,145
+Evaporation,Monoclinic,SMT-SPL,37
+Evaporation,Perovskites,SMT-SPL,67
+Evaporation-Induced Self-Assembly,Hexagonal,SMT-SPL,34
+Exchange,Hexagonal,SMT-SPL,32
+Exchange,Perovskites,SMT-SPL,42
+Exfoliate,1T,SMT-SPL,44
+Exfoliate,2H,SMT-SPL,47
+Exfoliate,Hexagonal,SMT-SPL,158
+Exfoliate,Perovskites,SMT-SPL,55
+Exfoliation,1T,SMT-SPL,49
+Exfoliation,2H,SMT-SPL,50
+Exfoliation,Hexagonal,SMT-SPL,217
+Exfoliation,Perovskites,SMT-SPL,55
+Exhumation,Amphibolite,SMT-SPL,83
+Exhumation,Blueschists,SMT-SPL,50
+Exhumation,Eclogites,SMT-SPL,183
+Exhumation,Garnet,SMT-SPL,240
+Exhumation,Gneiss,SMT-SPL,68
+Exhumation,Gneisses,SMT-SPL,46
+Exhumation,Granulite,SMT-SPL,98
+Exhumation,Greenschist,SMT-SPL,34
+Exhumation,HP,SMT-SPL,30
+Exhumation,Rutile,SMT-SPL,66
+Exhumation,Uhp,SMT-SPL,57
+Extraction Replica,Austenite,SMT-SPL,45
+Extruded,Cubic,SMT-SPL,34
+Extruded,FCC,SMT-SPL,34
+Extruded,HCP,SMT-SPL,66
+Extruded,Hexagonal,SMT-SPL,76
+Extruded,Lpso,SMT-SPL,59
+Extruded,β,SMT-SPL,61
+Extrusion,Cubic,SMT-SPL,40
+Extrusion,FCC,SMT-SPL,38
+Extrusion,HCP,SMT-SPL,43
+Extrusion,Hexagonal,SMT-SPL,69
+Extrusion,Lpso,SMT-SPL,43
+Extrusion,β,SMT-SPL,67
+FIB,Austenite,SMT-SPL,35
+FIB,BCC,SMT-SPL,50
+FIB,Cubic,SMT-SPL,37
+FIB,FCC,SMT-SPL,49
+FIB,Hexagonal,SMT-SPL,38
+FIB,Martensite,SMT-SPL,43
+FIB,Olivines,SMT-SPL,41
+FIB,Spinels,SMT-SPL,32
+FSW,Austenite,SMT-SPL,38
+FZ,Austenite,SMT-SPL,36
+FZ,Martensite,SMT-SPL,67
+Facile,Solvothermal,SMT-SPL,36
+Facile Hydrothermal Method,Anatase,SMT-SPL,35
+Facile Hydrothermal Method,Cubic,SMT-SPL,32
+Facile Hydrothermal Method,Hexagonal,SMT-SPL,52
+Facile Hydrothermal Method,T,SMT-SPL,46
+Fatigue,Austenite,SMT-SPL,43
+Fatigue,Austenitic,SMT-SPL,55
+Fatigue,Martensite,SMT-SPL,57
+Field Cooling,Hexagonal,SMT-SPL,34
+Field Cooling,Orthorhombic,SMT-SPL,40
+Field Cooling,Perovskites,SMT-SPL,36
+Field Cooling,Tetragonal,SMT-SPL,34
+Filtration,Hexagonal,SMT-SPL,30
+Finish Rolling,Austenite,SMT-SPL,32
+Fired,Anatase,SMT-SPL,67
+Fired,Cubic,SMT-SPL,74
+Fired,Hexagonal,SMT-SPL,50
+Fired,Monoclinic,SMT-SPL,57
+Fired,Orthorhombic,SMT-SPL,35
+Fired,Perovskites,SMT-SPL,93
+Fired,Rutile,SMT-SPL,73
+Fired,Spinels,SMT-SPL,169
+Fired,Tetragonal,SMT-SPL,62
+Firing,Anatase,SMT-SPL,72
+Firing,Cubic,SMT-SPL,65
+Firing,Hexagonal,SMT-SPL,62
+Firing,Monoclinic,SMT-SPL,60
+Firing,Orthorhombic,SMT-SPL,43
+Firing,Perovskites,SMT-SPL,114
+Firing,Rutile,SMT-SPL,73
+Firing,Spinels,SMT-SPL,163
+Firing,T,SMT-SPL,32
+Firing,Tetragonal,SMT-SPL,69
+Fluorination,Hexagonal,SMT-SPL,35
+Fluorination,Perovskites,SMT-SPL,35
+Flux Method,Monoclinic,SMT-SPL,45
+Foliated,Garnet,SMT-SPL,32
+Forged,Austenite,SMT-SPL,44
+Forged,Martensite,SMT-SPL,35
+Forged,β,SMT-SPL,49
+Forging,Austenite,SMT-SPL,57
+Forging,Austenitic,SMT-SPL,35
+Forging,Martensite,SMT-SPL,53
+Forging,Martensitic,SMT-SPL,31
+Forging,β,SMT-SPL,63
+Forming,Austenite,SMT-SPL,44
+Forming,Martensite,SMT-SPL,52
+Fractional Crystallization,A-Type,SMT-SPL,31
+Fractional Crystallization,Alkaline,SMT-SPL,59
+Fractional Crystallization,Basaltic,SMT-SPL,91
+Fractional Crystallization,Calc,SMT-SPL,53
+Fractional Crystallization,Chondrite,SMT-SPL,66
+Fractional Crystallization,Clinopyroxenes,SMT-SPL,71
+Fractional Crystallization,Garnet,SMT-SPL,180
+Fractional Crystallization,Granite,SMT-SPL,83
+Fractional Crystallization,Granitic,SMT-SPL,46
+Fractional Crystallization,Granitoids,SMT-SPL,43
+Fractional Crystallization,Olivines,SMT-SPL,143
+Fractional Crystallization,Plagioclase,SMT-SPL,37
+Fractional Crystallization,Pyroxene,SMT-SPL,62
+Fractional Crystallization,Spinels,SMT-SPL,78
+Fractional Crystallization,Tholeiitic,SMT-SPL,43
+Fractional Crystallization,Ultramafic,SMT-SPL,33
+Fractional Melting,Clinopyroxenes,SMT-SPL,40
+Fractional Melting,Garnet,SMT-SPL,64
+Fractional Melting,Olivines,SMT-SPL,54
+Fractional Melting,Spinels,SMT-SPL,70
+Freeze Drying,Hexagonal,SMT-SPL,33
+Freeze Drying,Perovskites,SMT-SPL,31
+Freeze-Dried,Cubic,SMT-SPL,30
+Freeze-Dried,Hexagonal,SMT-SPL,30
+Freezing,Hexagonal,SMT-SPL,45
+Friction Stir Welding,Austenite,SMT-SPL,34
+Functionalization,Hexagonal,SMT-SPL,30
+Furnace,Austenite,SMT-SPL,39
+Furnace,Cubic,SMT-SPL,66
+Furnace,Hexagonal,SMT-SPL,69
+Furnace,Monoclinic,SMT-SPL,33
+Furnace,Perovskites,SMT-SPL,34
+Furnace,Rutile,SMT-SPL,30
+Furnace,Spinels,SMT-SPL,50
+Furnace,Tetragonal,SMT-SPL,42
+Furnace Cooled,Martensite,SMT-SPL,33
+Furnace Cooling,Martensite,SMT-SPL,35
+Furnace Cooling,β,SMT-SPL,31
+Fused,Cubic,SMT-SPL,38
+Fused,Perovskites,SMT-SPL,35
+Gas Tungsten Arc Welding,Austenitic,SMT-SPL,31
+Gasification,Olivines,SMT-SPL,54
+Gasification,S T,SMT-SPL,43
+Gasification,T,SMT-SPL,32
+Glycine Nitrate Process,Perovskites,SMT-SPL,35
+Graphitization,Graphitic,SMT-SPL,161
+Graphitization,Hexagonal,SMT-SPL,57
+Graphitized,Graphitic,SMT-SPL,77
+Graphitized,Hexagonal,SMT-SPL,40
+Grinding,Anatase,SMT-SPL,32
+Grinding,Austenite,SMT-SPL,38
+Grinding,Austenitic,SMT-SPL,36
+Grinding,Cubic,SMT-SPL,140
+Grinding,Hexagonal,SMT-SPL,63
+Grinding,Martensite,SMT-SPL,40
+Grinding,Martensitic,SMT-SPL,34
+Grinding,Monoclinic,SMT-SPL,85
+Grinding,Orthorhombic,SMT-SPL,34
+Grinding,Perovskites,SMT-SPL,50
+Grinding,Rutile,SMT-SPL,31
+Grinding,Spinels,SMT-SPL,62
+Grinding,Tetragonal,SMT-SPL,81
+Ground,Anatase,SMT-SPL,31
+Ground,Cubic,SMT-SPL,57
+Ground,Hexagonal,SMT-SPL,47
+Ground,Monoclinic,SMT-SPL,55
+Ground,Perovskites,SMT-SPL,42
+Ground,Rutile,SMT-SPL,34
+Ground,Spinels,SMT-SPL,40
+Ground,Tetragonal,SMT-SPL,68
+HAZ,Austenite,SMT-SPL,149
+HAZ,Austenitic,SMT-SPL,54
+HAZ,Martensite,SMT-SPL,143
+HAZ,Martensitic,SMT-SPL,62
+HEA,BCC,SMT-SPL,30
+HEA,FCC,SMT-SPL,40
+HIP,Austenitic,SMT-SPL,37
+HIP,Martensitic,SMT-SPL,46
+HIP,Spinels,SMT-SPL,39
+HP,Amphibolite,SMT-SPL,46
+HP,Eclogites,SMT-SPL,91
+HP,Garnet,SMT-SPL,127
+HP,Granulite,SMT-SPL,68
+HP,Rutile,SMT-SPL,48
+HPT,Austenite,SMT-SPL,31
+HPT,BCC,SMT-SPL,49
+HPT,FCC,SMT-SPL,62
+HPT,HCP,SMT-SPL,30
+HPT,Martensitic,SMT-SPL,32
+HT,LT,SMT-SPL,48
+HVPE,Hexagonal,SMT-SPL,42
+Hardened,Austenite,SMT-SPL,111
+Hardened,Austenitic,SMT-SPL,37
+Hardened,Cubic,SMT-SPL,59
+Hardened,HCP,SMT-SPL,64
+Hardened,Martensite,SMT-SPL,127
+Hardened,Martensitic,SMT-SPL,83
+Hardening,Austenite,SMT-SPL,159
+Hardening,Austenitic,SMT-SPL,109
+Hardening,BCC,SMT-SPL,45
+Hardening,FCC,SMT-SPL,83
+Hardening,Ferritic,SMT-SPL,38
+Hardening,Martensite,SMT-SPL,148
+Hardening,Martensitic,SMT-SPL,151
+Heat,Austenite,SMT-SPL,54
+Heat,Martensite,SMT-SPL,55
+Heat Affected Zone,Austenite,SMT-SPL,74
+Heat Affected Zone,Martensite,SMT-SPL,74
+Heat Treated,Alpha,SMT-SPL,39
+Heat Treated,Anatase,SMT-SPL,282
+Heat Treated,Austenite,SMT-SPL,414
+Heat Treated,Austenitic,SMT-SPL,130
+Heat Treated,B2,SMT-SPL,77
+Heat Treated,BCC,SMT-SPL,142
+Heat Treated,Bainitic,SMT-SPL,44
+Heat Treated,Cubic,SMT-SPL,359
+Heat Treated,Cuboidal,SMT-SPL,30
+Heat Treated,FCC,SMT-SPL,219
+Heat Treated,Face Centered Cubic,SMT-SPL,41
+Heat Treated,Ferritic,SMT-SPL,59
+Heat Treated,Fluorite,SMT-SPL,31
+Heat Treated,G,SMT-SPL,72
+Heat Treated,Garnet,SMT-SPL,43
+Heat Treated,Graphitic,SMT-SPL,47
+Heat Treated,HCP,SMT-SPL,70
+Heat Treated,Hexagonal,SMT-SPL,286
+Heat Treated,L12,SMT-SPL,39
+Heat Treated,Laves Phase,SMT-SPL,41
+Heat Treated,Martensite,SMT-SPL,400
+Heat Treated,Martensitic,SMT-SPL,229
+Heat Treated,Monoclinic,SMT-SPL,192
+Heat Treated,Orthorhombic,SMT-SPL,180
+Heat Treated,Perovskites,SMT-SPL,152
+Heat Treated,Rhombohedral,SMT-SPL,50
+Heat Treated,Rutile,SMT-SPL,208
+Heat Treated,Spinels,SMT-SPL,200
+Heat Treated,T,SMT-SPL,52
+Heat Treated,Tetragonal,SMT-SPL,244
+Heat Treated,Δ,SMT-SPL,47
+Heat Treated,α-Phase,SMT-SPL,38
+Heat Treated,α2,SMT-SPL,50
+Heat Treated,β,SMT-SPL,249
+Heat Treated,β-Phase,SMT-SPL,58
+Heat Treated,γ',SMT-SPL,88
+Heat Treated,σ,SMT-SPL,34
+Heat Treated,ω,SMT-SPL,33
+Heat Treating,Austenite,SMT-SPL,35
+Heat Treating,Martensite,SMT-SPL,30
+Heat Treatment,A-Phase,SMT-SPL,35
+Heat Treatment,Abstract,SMT-SPL,94
+Heat Treatment,Alpha,SMT-SPL,81
+Heat Treatment,Anatase,SMT-SPL,679
+Heat Treatment,Apatites,SMT-SPL,48
+Heat Treatment,Austenite,SMT-SPL,1163
+Heat Treatment,Austenitic,SMT-SPL,356
+Heat Treatment,B2,SMT-SPL,156
+Heat Treatment,BCC,SMT-SPL,308
+Heat Treatment,Bainite,SMT-SPL,104
+Heat Treatment,Bainitic,SMT-SPL,164
+Heat Treatment,Beta,SMT-SPL,54
+Heat Treatment,Body Centred Cubic,SMT-SPL,78
+Heat Treatment,Brookite,SMT-SPL,41
+Heat Treatment,Cubic,SMT-SPL,721
+Heat Treatment,Cubic Spinel,SMT-SPL,34
+Heat Treatment,Cuboidal,SMT-SPL,63
+Heat Treatment,Duplex,SMT-SPL,54
+Heat Treatment,F,SMT-SPL,46
+Heat Treatment,FCC,SMT-SPL,445
+Heat Treatment,Face Centered Cubic,SMT-SPL,129
+Heat Treatment,Ferrite,SMT-SPL,34
+Heat Treatment,Ferritic,SMT-SPL,187
+Heat Treatment,Fluorite,SMT-SPL,63
+Heat Treatment,G,SMT-SPL,204
+Heat Treatment,Gamma,SMT-SPL,43
+Heat Treatment,Garnet,SMT-SPL,93
+Heat Treatment,Graphitic,SMT-SPL,120
+Heat Treatment,HCP,SMT-SPL,131
+Heat Treatment,Heusler,SMT-SPL,31
+Heat Treatment,Hexagonal,SMT-SPL,682
+Heat Treatment,Icosahedral,SMT-SPL,47
+Heat Treatment,L10,SMT-SPL,40
+Heat Treatment,L12,SMT-SPL,70
+Heat Treatment,Lath,SMT-SPL,55
+Heat Treatment,Laves Phase,SMT-SPL,81
+Heat Treatment,Leaves,SMT-SPL,86
+Heat Treatment,M,SMT-SPL,65
+Heat Treatment,Martensite,SMT-SPL,1096
+Heat Treatment,Martensitic,SMT-SPL,615
+Heat Treatment,Monoclinic,SMT-SPL,436
+Heat Treatment,Olivines,SMT-SPL,48
+Heat Treatment,Orthorhombic,SMT-SPL,396
+Heat Treatment,P,SMT-SPL,45
+Heat Treatment,Pearlitic,SMT-SPL,60
+Heat Treatment,Perovskites,SMT-SPL,471
+Heat Treatment,Phase,SMT-SPL,36
+Heat Treatment,Polygonal,SMT-SPL,36
+Heat Treatment,Pyrochlore,SMT-SPL,48
+Heat Treatment,Rhombohedral,SMT-SPL,99
+Heat Treatment,Rutile,SMT-SPL,453
+Heat Treatment,S T,SMT-SPL,99
+Heat Treatment,Spinels,SMT-SPL,468
+Heat Treatment,T,SMT-SPL,160
+Heat Treatment,T1,SMT-SPL,33
+Heat Treatment,Tetragonal,SMT-SPL,550
+Heat Treatment,Triclinic,SMT-SPL,38
+Heat Treatment,Widmanstatten,SMT-SPL,61
+Heat Treatment,Wurtzite,SMT-SPL,58
+Heat Treatment,Δ,SMT-SPL,81
+Heat Treatment,α-Phase,SMT-SPL,56
+Heat Treatment,α2,SMT-SPL,56
+Heat Treatment,β,SMT-SPL,396
+Heat Treatment,β-Phase,SMT-SPL,70
+Heat Treatment,γ',SMT-SPL,151
+Heat Treatment,γ-Phase,SMT-SPL,43
+Heat Treatment,η,SMT-SPL,36
+Heat Treatment,σ,SMT-SPL,63
+Heat Treatment,ω,SMT-SPL,36
+Heat-Affected,Austenite,SMT-SPL,207
+Heat-Affected,Austenitic,SMT-SPL,117
+Heat-Affected,Ferritic,SMT-SPL,43
+Heat-Affected,Lath,SMT-SPL,31
+Heat-Affected,Martensite,SMT-SPL,216
+Heat-Affected,Martensitic,SMT-SPL,103
+Heated,Abstract,SMT-SPL,39
+Heated,Anatase,SMT-SPL,356
+Heated,Austenite,SMT-SPL,228
+Heated,Austenitic,SMT-SPL,66
+Heated,B2,SMT-SPL,36
+Heated,BCC,SMT-SPL,94
+Heated,Chalcopyrite,SMT-SPL,31
+Heated,Chondrite,SMT-SPL,38
+Heated,Cooling,SMT-SPL,35
+Heated,Cubic,SMT-SPL,596
+Heated,Cubic Perovskites,SMT-SPL,30
+Heated,F,SMT-SPL,35
+Heated,FCC,SMT-SPL,205
+Heated,Face Centered Cubic,SMT-SPL,44
+Heated,Fluorite,SMT-SPL,41
+Heated,Garnet,SMT-SPL,85
+Heated,Graphitic,SMT-SPL,56
+Heated,HCP,SMT-SPL,69
+Heated,Heating,SMT-SPL,42
+Heated,Hexagonal,SMT-SPL,635
+Heated,Martensite,SMT-SPL,231
+Heated,Martensitic,SMT-SPL,126
+Heated,Monoclinic,SMT-SPL,340
+Heated,Nematic,SMT-SPL,39
+Heated,Olivines,SMT-SPL,72
+Heated,Orthorhombic,SMT-SPL,307
+Heated,Perovskites,SMT-SPL,427
+Heated,Pyrochlore,SMT-SPL,45
+Heated,Pyroxene,SMT-SPL,37
+Heated,Rhombohedral,SMT-SPL,102
+Heated,Rock Salt,SMT-SPL,35
+Heated,Rutile,SMT-SPL,280
+Heated,S T,SMT-SPL,68
+Heated,Spinels,SMT-SPL,316
+Heated,T,SMT-SPL,71
+Heated,Tetragonal,SMT-SPL,369
+Heated,Triclinic,SMT-SPL,51
+Heated,Trigonal,SMT-SPL,56
+Heated,Wurtzite,SMT-SPL,49
+Heated,β,SMT-SPL,124
+Heated,β-Phase,SMT-SPL,36
+Heating,2H,SMT-SPL,37
+Heating,Abstract,SMT-SPL,94
+Heating,Alpha,SMT-SPL,50
+Heating,Amphibolite,SMT-SPL,38
+Heating,Anatase,SMT-SPL,609
+Heating,Anhydrous,SMT-SPL,45
+Heating,Apatites,SMT-SPL,34
+Heating,Austenite,SMT-SPL,1002
+Heating,Austenitic,SMT-SPL,321
+Heating,B2,SMT-SPL,222
+Heating,BCC,SMT-SPL,416
+Heating,BSTRAct,SMT-SPL,30
+Heating,Bainite,SMT-SPL,45
+Heating,Bainitic,SMT-SPL,43
+Heating,Beta,SMT-SPL,36
+Heating,Body Centred Cubic,SMT-SPL,81
+Heating,Brookite,SMT-SPL,39
+Heating,Brownmillerite,SMT-SPL,32
+Heating,C2/C,SMT-SPL,58
+Heating,C2/M,SMT-SPL,32
+Heating,COLH,SMT-SPL,61
+Heating,Chalcopyrite,SMT-SPL,43
+Heating,Chondrite,SMT-SPL,62
+Heating,Chondritic,SMT-SPL,44
+Heating,Clinopyroxenes,SMT-SPL,38
+Heating,Cooling,SMT-SPL,245
+Heating,Cr,SMT-SPL,67
+Heating,Crystal,SMT-SPL,31
+Heating,Cubic,SMT-SPL,1803
+Heating,Cubic Perovskites,SMT-SPL,76
+Heating,Cubic Spinel,SMT-SPL,45
+Heating,D03,SMT-SPL,33
+Heating,Diamonds,SMT-SPL,34
+Heating,Dihydrate,SMT-SPL,31
+Heating,Double Perovskite,SMT-SPL,46
+Heating,Eclogites,SMT-SPL,53
+Heating,F,SMT-SPL,87
+Heating,FCC,SMT-SPL,761
+Heating,Face Centered Cubic,SMT-SPL,120
+Heating,Ferrite,SMT-SPL,33
+Heating,Ferritic,SMT-SPL,71
+Heating,Fluorite,SMT-SPL,113
+Heating,Fm3m,SMT-SPL,32
+Heating,G,SMT-SPL,118
+Heating,Gamma,SMT-SPL,42
+Heating,Garnet,SMT-SPL,300
+Heating,Garnets,SMT-SPL,49
+Heating,Gneiss,SMT-SPL,30
+Heating,Granulite,SMT-SPL,75
+Heating,Graphitic,SMT-SPL,90
+Heating,HCP,SMT-SPL,267
+Heating,Heusler,SMT-SPL,39
+Heating,Hex,SMT-SPL,36
+Heating,Hexagonal,SMT-SPL,1803
+Heating,Hexagonal Close Packed,SMT-SPL,34
+Heating,Hexagonal Columnar,SMT-SPL,45
+Heating,Hexagonally,SMT-SPL,32
+Heating,Ht,SMT-SPL,64
+Heating,Hydrates,SMT-SPL,77
+Heating,I4/MMM,SMT-SPL,30
+Heating,IA3D,SMT-SPL,31
+Heating,IH,SMT-SPL,35
+Heating,Icosahedral,SMT-SPL,114
+Heating,K,SMT-SPL,34
+Heating,L,SMT-SPL,36
+Heating,L10,SMT-SPL,50
+Heating,L12,SMT-SPL,62
+Heating,LS,SMT-SPL,41
+Heating,Lamellar,SMT-SPL,36
+Heating,Lc,SMT-SPL,127
+Heating,Lt,SMT-SPL,48
+Heating,M,SMT-SPL,80
+Heating,M1,SMT-SPL,41
+Heating,MFI,SMT-SPL,38
+Heating,Martensite,SMT-SPL,1091
+Heating,Martensitic,SMT-SPL,620
+Heating,Mesophase,SMT-SPL,41
+Heating,Monoclinic,SMT-SPL,1184
+Heating,Monohydrates,SMT-SPL,31
+Heating,Nematic,SMT-SPL,235
+Heating,Olivines,SMT-SPL,165
+Heating,Orthorhombic,SMT-SPL,1113
+Heating,P,SMT-SPL,87
+Heating,P1,SMT-SPL,58
+Heating,P2,SMT-SPL,33
+Heating,P2 1/N,SMT-SPL,46
+Heating,P21,SMT-SPL,33
+Heating,P21/C,SMT-SPL,88
+Heating,P212121,SMT-SPL,32
+Heating,P21C,SMT-SPL,30
+Heating,P63/MMC,SMT-SPL,34
+Heating,PBNM,SMT-SPL,31
+Heating,PNMA,SMT-SPL,80
+Heating,Perovskites,SMT-SPL,1181
+Heating,Phase,SMT-SPL,37
+Heating,Pseudocubic,SMT-SPL,81
+Heating,Pyrochlore,SMT-SPL,89
+Heating,Pyroxene,SMT-SPL,64
+Heating,R3c,SMT-SPL,44
+Heating,Rhombohedral,SMT-SPL,386
+Heating,Rock Salt,SMT-SPL,85
+Heating,Rock-Salt,SMT-SPL,32
+Heating,Ruddlesden Popper,SMT-SPL,39
+Heating,Rutile,SMT-SPL,560
+Heating,S T,SMT-SPL,122
+Heating,SMC,SMT-SPL,48
+Heating,Sma,SMT-SPL,86
+Heating,Smectic,SMT-SPL,121
+Heating,Spinels,SMT-SPL,697
+Heating,T,SMT-SPL,201
+Heating,Tetragonal,SMT-SPL,1168
+Heating,Triclinic,SMT-SPL,190
+Heating,Trigonal,SMT-SPL,169
+Heating,Wurtzite,SMT-SPL,133
+Heating,Zinc Blende,SMT-SPL,45
+Heating,Δ,SMT-SPL,75
+Heating,Θ,SMT-SPL,35
+Heating,α-,SMT-SPL,84
+Heating,α-Form,SMT-SPL,30
+Heating,α-Phase,SMT-SPL,120
+Heating,α2,SMT-SPL,34
+Heating,β,SMT-SPL,467
+Heating,β-,SMT-SPL,43
+Heating,β-Phase,SMT-SPL,139
+Heating,γ',SMT-SPL,45
+Heating,γ-Phase,SMT-SPL,77
+Heating,η,SMT-SPL,34
+Heating,σ,SMT-SPL,33
+Heating,ω,SMT-SPL,42
+Heating/Cooling,Cubic,SMT-SPL,41
+Heating/Cooling,Hexagonal,SMT-SPL,31
+Heating/Cooling,Martensite,SMT-SPL,38
+Heating/Cooling,Tetragonal,SMT-SPL,30
+High Pressure Torsion,FCC,SMT-SPL,31
+High-Energy Ball Milling,Anatase,SMT-SPL,30
+High-Energy Ball Milling,Cubic,SMT-SPL,63
+High-Energy Ball Milling,FCC,SMT-SPL,46
+High-Energy Ball Milling,Hexagonal,SMT-SPL,47
+High-Energy Ball Milling,Orthorhombic,SMT-SPL,32
+High-Energy Ball Milling,Perovskites,SMT-SPL,46
+High-Energy Ball Milling,Spinels,SMT-SPL,54
+High-Energy Ball Milling,Tetragonal,SMT-SPL,38
+Holding,Austenite,SMT-SPL,38
+Homogenised,Austenite,SMT-SPL,52
+Homogenised,BCC,SMT-SPL,48
+Homogenised,Cubic,SMT-SPL,33
+Homogenised,FCC,SMT-SPL,80
+Homogenised,Hexagonal,SMT-SPL,45
+Homogenised,Martensite,SMT-SPL,62
+Homogenised,β,SMT-SPL,48
+Homogenization,Austenite,SMT-SPL,53
+Homogenization,BCC,SMT-SPL,42
+Homogenization,Cubic,SMT-SPL,40
+Homogenization,FCC,SMT-SPL,58
+Homogenization,Hexagonal,SMT-SPL,41
+Homogenization,Martensite,SMT-SPL,49
+Hot Casting,Perovskites,SMT-SPL,47
+Hot Deformation,Austenite,SMT-SPL,122
+Hot Deformation,Austenitic,SMT-SPL,57
+Hot Deformation,Martensite,SMT-SPL,40
+Hot Deformed,Austenite,SMT-SPL,33
+Hot Injection Method,Cubic,SMT-SPL,31
+Hot Injection Method,Perovskites,SMT-SPL,53
+Hot Isostatic Pressing,Austenitic,SMT-SPL,38
+Hot Isostatic Pressing,Martensitic,SMT-SPL,44
+Hot Isostatic Pressing,Spinels,SMT-SPL,36
+Hot Pressed,Cubic,SMT-SPL,70
+Hot Pressed,Hexagonal,SMT-SPL,57
+Hot Pressed,Monoclinic,SMT-SPL,43
+Hot Pressed,Spinels,SMT-SPL,42
+Hot Pressed,Tetragonal,SMT-SPL,56
+Hot Rolled,Austenite,SMT-SPL,307
+Hot Rolled,Austenitic,SMT-SPL,82
+Hot Rolled,BCC,SMT-SPL,42
+Hot Rolled,Bainitic,SMT-SPL,37
+Hot Rolled,FCC,SMT-SPL,48
+Hot Rolled,Ferritic,SMT-SPL,40
+Hot Rolled,Martensite,SMT-SPL,207
+Hot Rolled,Martensitic,SMT-SPL,67
+Hot Rolled,β,SMT-SPL,37
+Hot Rolling,Austenite,SMT-SPL,245
+Hot Rolling,Austenitic,SMT-SPL,72
+Hot Rolling,FCC,SMT-SPL,38
+Hot Rolling,Ferritic,SMT-SPL,40
+Hot Rolling,Martensite,SMT-SPL,137
+Hot Rolling,Martensitic,SMT-SPL,51
+Hot Stamping,Austenite,SMT-SPL,39
+Hot Stamping,Martensite,SMT-SPL,44
+Hot Stamping,Martensitic,SMT-SPL,30
+Hot Working,Austenite,SMT-SPL,32
+Hot Working,Austenitic,SMT-SPL,30
+Hot-Pressing,Cubic,SMT-SPL,72
+Hot-Pressing,Garnet,SMT-SPL,30
+Hot-Pressing,Hexagonal,SMT-SPL,57
+Hot-Pressing,Monoclinic,SMT-SPL,51
+Hot-Pressing,Skutterudites,SMT-SPL,37
+Hot-Pressing,Spinels,SMT-SPL,51
+Hot-Pressing,Tetragonal,SMT-SPL,71
+Hpht,Cubic,SMT-SPL,30
+Ht,Anatase,SMT-SPL,34
+Ht,Cubic,SMT-SPL,40
+Ht,Hexagonal,SMT-SPL,51
+Ht,Hydrotalcite,SMT-SPL,64
+Ht,Lt,SMT-SPL,67
+Ht,Monoclinic,SMT-SPL,34
+Ht,Orthorhombic,SMT-SPL,32
+Ht,Perovskites,SMT-SPL,33
+Ht,Spinels,SMT-SPL,32
+Hydrated,Cubic,SMT-SPL,58
+Hydrated,Hexagonal,SMT-SPL,70
+Hydrated,Monoclinic,SMT-SPL,31
+Hydrated,Perovskites,SMT-SPL,30
+Hydration,Clinker,SMT-SPL,33
+Hydration,Cubic,SMT-SPL,87
+Hydration,Garnet,SMT-SPL,54
+Hydration,Granulite,SMT-SPL,32
+Hydration,Hexagonal,SMT-SPL,75
+Hydration,Hydrates,SMT-SPL,57
+Hydration,Monoclinic,SMT-SPL,37
+Hydration,Perovskites,SMT-SPL,51
+Hydration,Tobermorite,SMT-SPL,40
+Hydrogen Charged,Austenite,SMT-SPL,40
+Hydrogen Charging,Austenite,SMT-SPL,40
+Hydrogen Charging,Austenitic,SMT-SPL,35
+Hydrogen Charging,Martensite,SMT-SPL,41
+Hydrogenated,Anatase,SMT-SPL,81
+Hydrogenated,BCC,SMT-SPL,38
+Hydrogenated,Cubic,SMT-SPL,66
+Hydrogenated,FCC,SMT-SPL,80
+Hydrogenated,Graphitic,SMT-SPL,40
+Hydrogenated,Hexagonal,SMT-SPL,163
+Hydrogenated,Monoclinic,SMT-SPL,31
+Hydrogenated,Orthorhombic,SMT-SPL,39
+Hydrogenated,Rutile,SMT-SPL,61
+Hydrogenated,Tetragonal,SMT-SPL,38
+Hydrogenated,β,SMT-SPL,51
+Hydrogenation,Anatase,SMT-SPL,97
+Hydrogenation,BCC,SMT-SPL,68
+Hydrogenation,Cubic,SMT-SPL,94
+Hydrogenation,FCC,SMT-SPL,140
+Hydrogenation,HCP,SMT-SPL,61
+Hydrogenation,Hexagonal,SMT-SPL,169
+Hydrogenation,Laves Phase,SMT-SPL,30
+Hydrogenation,Monoclinic,SMT-SPL,32
+Hydrogenation,Orthorhombic,SMT-SPL,52
+Hydrogenation,Rutile,SMT-SPL,74
+Hydrogenation,T,SMT-SPL,45
+Hydrogenation,Tetragonal,SMT-SPL,60
+Hydrogenation,β,SMT-SPL,46
+Hydrolysis,Abstract,SMT-SPL,37
+Hydrolysis,Anatase,SMT-SPL,498
+Hydrolysis,Brookite,SMT-SPL,36
+Hydrolysis,Cubic,SMT-SPL,143
+Hydrolysis,Hexagonal,SMT-SPL,196
+Hydrolysis,Keggin,SMT-SPL,33
+Hydrolysis,Monoclinic,SMT-SPL,120
+Hydrolysis,Orthorhombic,SMT-SPL,67
+Hydrolysis,Perovskites,SMT-SPL,65
+Hydrolysis,Rutile,SMT-SPL,234
+Hydrolysis,S T,SMT-SPL,49
+Hydrolysis,Spinels,SMT-SPL,58
+Hydrolysis,T,SMT-SPL,93
+Hydrolysis,Tetragonal,SMT-SPL,128
+Hydrolysis,Triclinic,SMT-SPL,35
+Hydrothermal,Abstract,SMT-SPL,63
+Hydrothermal,Anatase,SMT-SPL,274
+Hydrothermal,Brookite,SMT-SPL,41
+Hydrothermal,C2/C,SMT-SPL,55
+Hydrothermal,Cubic,SMT-SPL,211
+Hydrothermal,Garnet,SMT-SPL,37
+Hydrothermal,Granite,SMT-SPL,31
+Hydrothermal,Hexagonal,SMT-SPL,320
+Hydrothermal,Keggin,SMT-SPL,55
+Hydrothermal,MFI,SMT-SPL,34
+Hydrothermal,Monoclinic,SMT-SPL,386
+Hydrothermal,Olivines,SMT-SPL,31
+Hydrothermal,Orthorhombic,SMT-SPL,194
+Hydrothermal,P-1,SMT-SPL,33
+Hydrothermal,P1,SMT-SPL,42
+Hydrothermal,P21/C,SMT-SPL,65
+Hydrothermal,Perovskites,SMT-SPL,114
+Hydrothermal,Rhombohedral,SMT-SPL,35
+Hydrothermal,Rutile,SMT-SPL,184
+Hydrothermal,S T,SMT-SPL,32
+Hydrothermal,Spinels,SMT-SPL,115
+Hydrothermal,T,SMT-SPL,81
+Hydrothermal,Tetragonal,SMT-SPL,154
+Hydrothermal,Triclinic,SMT-SPL,124
+Hydrothermal,Wurtzite,SMT-SPL,36
+Hydrothermal Alteration,Garnet,SMT-SPL,40
+Hydrothermal Condition,Abstract,SMT-SPL,42
+Hydrothermal Condition,Anatase,SMT-SPL,111
+Hydrothermal Condition,C2/C,SMT-SPL,43
+Hydrothermal Condition,Cubic,SMT-SPL,101
+Hydrothermal Condition,Hexagonal,SMT-SPL,153
+Hydrothermal Condition,Keggin,SMT-SPL,49
+Hydrothermal Condition,Monoclinic,SMT-SPL,197
+Hydrothermal Condition,Orthorhombic,SMT-SPL,113
+Hydrothermal Condition,P1,SMT-SPL,47
+Hydrothermal Condition,P21/C,SMT-SPL,40
+Hydrothermal Condition,Perovskites,SMT-SPL,31
+Hydrothermal Condition,Rutile,SMT-SPL,68
+Hydrothermal Condition,T,SMT-SPL,43
+Hydrothermal Condition,Tetragonal,SMT-SPL,72
+Hydrothermal Condition,Triclinic,SMT-SPL,91
+Hydrothermal Growth,Anatase,SMT-SPL,37
+Hydrothermal Growth,Hexagonal,SMT-SPL,39
+Hydrothermal Method,Abstract,SMT-SPL,76
+Hydrothermal Method,Anatase,SMT-SPL,349
+Hydrothermal Method,Brookite,SMT-SPL,34
+Hydrothermal Method,Cubic,SMT-SPL,276
+Hydrothermal Method,Hexagonal,SMT-SPL,486
+Hydrothermal Method,Hexagonal Wurtzite,SMT-SPL,54
+Hydrothermal Method,Monoclinic,SMT-SPL,280
+Hydrothermal Method,Orthorhombic,SMT-SPL,196
+Hydrothermal Method,Perovskites,SMT-SPL,188
+Hydrothermal Method,R A C T,SMT-SPL,61
+Hydrothermal Method,Rhombohedral,SMT-SPL,51
+Hydrothermal Method,Rutile,SMT-SPL,215
+Hydrothermal Method,S T,SMT-SPL,53
+Hydrothermal Method,Spinels,SMT-SPL,175
+Hydrothermal Method,T,SMT-SPL,241
+Hydrothermal Method,Tetragonal,SMT-SPL,183
+Hydrothermal Method,Triclinic,SMT-SPL,33
+Hydrothermal Method,Wurtzite,SMT-SPL,111
+Hydrothermal Process,Anatase,SMT-SPL,211
+Hydrothermal Process,Cubic,SMT-SPL,98
+Hydrothermal Process,Hexagonal,SMT-SPL,123
+Hydrothermal Process,Monoclinic,SMT-SPL,59
+Hydrothermal Process,Orthorhombic,SMT-SPL,50
+Hydrothermal Process,Perovskites,SMT-SPL,47
+Hydrothermal Process,Rutile,SMT-SPL,99
+Hydrothermal Process,Spinels,SMT-SPL,47
+Hydrothermal Process,T,SMT-SPL,79
+Hydrothermal Process,Tetragonal,SMT-SPL,66
+Hydrothermal Reaction,Anatase,SMT-SPL,193
+Hydrothermal Reaction,C2/C,SMT-SPL,35
+Hydrothermal Reaction,Cubic,SMT-SPL,101
+Hydrothermal Reaction,Hexagonal,SMT-SPL,139
+Hydrothermal Reaction,Monoclinic,SMT-SPL,182
+Hydrothermal Reaction,Orthorhombic,SMT-SPL,117
+Hydrothermal Reaction,P21/C,SMT-SPL,34
+Hydrothermal Reaction,Perovskites,SMT-SPL,56
+Hydrothermal Reaction,Rutile,SMT-SPL,110
+Hydrothermal Reaction,Spinels,SMT-SPL,54
+Hydrothermal Reaction,T,SMT-SPL,57
+Hydrothermal Reaction,Tetragonal,SMT-SPL,72
+Hydrothermal Reaction,Triclinic,SMT-SPL,62
+Hydrothermal Route,Anatase,SMT-SPL,55
+Hydrothermal Route,Cubic,SMT-SPL,54
+Hydrothermal Route,Hexagonal,SMT-SPL,78
+Hydrothermal Route,Monoclinic,SMT-SPL,36
+Hydrothermal Route,Orthorhombic,SMT-SPL,38
+Hydrothermal Route,Perovskites,SMT-SPL,32
+Hydrothermal Route,T,SMT-SPL,40
+Hydrothermal Route,Tetragonal,SMT-SPL,35
+Hydrothermal Synthesis,Abstract,SMT-SPL,43
+Hydrothermal Synthesis,Anatase,SMT-SPL,124
+Hydrothermal Synthesis,Cubic,SMT-SPL,141
+Hydrothermal Synthesis,Hexagonal,SMT-SPL,194
+Hydrothermal Synthesis,MFI,SMT-SPL,58
+Hydrothermal Synthesis,Monoclinic,SMT-SPL,133
+Hydrothermal Synthesis,Orthorhombic,SMT-SPL,128
+Hydrothermal Synthesis,Perovskites,SMT-SPL,85
+Hydrothermal Synthesis,Rutile,SMT-SPL,75
+Hydrothermal Synthesis,Spinels,SMT-SPL,60
+Hydrothermal Synthesis,T,SMT-SPL,49
+Hydrothermal Synthesis,Tetragonal,SMT-SPL,85
+Hydrothermal Synthesis,Triclinic,SMT-SPL,44
+Hydrothermal Technique,Monoclinic,SMT-SPL,34
+Hydrothermal Treatment,Anatase,SMT-SPL,455
+Hydrothermal Treatment,Brookite,SMT-SPL,61
+Hydrothermal Treatment,Cubic,SMT-SPL,139
+Hydrothermal Treatment,Hexagonal,SMT-SPL,265
+Hydrothermal Treatment,Hydrotalcite,SMT-SPL,31
+Hydrothermal Treatment,MFI,SMT-SPL,38
+Hydrothermal Treatment,Monoclinic,SMT-SPL,116
+Hydrothermal Treatment,Orthorhombic,SMT-SPL,88
+Hydrothermal Treatment,Perovskites,SMT-SPL,57
+Hydrothermal Treatment,Rutile,SMT-SPL,212
+Hydrothermal Treatment,Spinels,SMT-SPL,58
+Hydrothermal Treatment,T,SMT-SPL,61
+Hydrothermal Treatment,Tetragonal,SMT-SPL,91
+Hydrothermally Synthesized,Anatase,SMT-SPL,63
+Hydrothermally Synthesized,Cubic,SMT-SPL,36
+Hydrothermally Synthesized,Hexagonal,SMT-SPL,40
+Hydrothermally Synthesized,Monoclinic,SMT-SPL,40
+Hydrothermally Synthesized,Orthorhombic,SMT-SPL,31
+Hydrothermally Synthesized,Tetragonal,SMT-SPL,36
+Hydrothermally Treated,Anatase,SMT-SPL,84
+Hydrothermally Treated,Hexagonal,SMT-SPL,34
+Hydrothermally Treated,Rutile,SMT-SPL,34
+Hydroxylated,Anatase,SMT-SPL,55
+Hydroxylated,Hexagonal,SMT-SPL,50
+Hydroxylated,Rutile,SMT-SPL,64
+Hydroxylation,Hexagonal,SMT-SPL,30
+IBD,Crohn,SMT-SPL,32
+Impacts,Chondrite,SMT-SPL,40
+Impacts,Olivines,SMT-SPL,34
+Implantations,Anatase,SMT-SPL,46
+Implantations,Austenitic,SMT-SPL,50
+Implantations,Cubic,SMT-SPL,64
+Implantations,FCC,SMT-SPL,33
+Implantations,Hexagonal,SMT-SPL,62
+Implantations,Martensitic,SMT-SPL,38
+Implantations,Osteoblasts,SMT-SPL,58
+Implantations,Rutile,SMT-SPL,48
+Implanted,Anatase,SMT-SPL,59
+Implanted,Austenitic,SMT-SPL,61
+Implanted,BCC,SMT-SPL,33
+Implanted,Cubic,SMT-SPL,83
+Implanted,FCC,SMT-SPL,43
+Implanted,Hexagonal,SMT-SPL,68
+Implanted,Martensitic,SMT-SPL,38
+Implanted,Monoclinic,SMT-SPL,30
+Implanted,Rutile,SMT-SPL,67
+Implanted,Spinels,SMT-SPL,31
+Implanted,Tetragonal,SMT-SPL,39
+Impregnating,Anatase,SMT-SPL,118
+Impregnating,Cubic,SMT-SPL,48
+Impregnating,Hexagonal,SMT-SPL,67
+Impregnating,Hydrotalcite,SMT-SPL,31
+Impregnating,Monoclinic,SMT-SPL,47
+Impregnating,Perovskites,SMT-SPL,64
+Impregnating,Rutile,SMT-SPL,42
+Impregnating,Spinels,SMT-SPL,62
+Impregnating,T,SMT-SPL,49
+Impregnating,Tetragonal,SMT-SPL,47
+Impregnation Method,Anatase,SMT-SPL,50
+Impregnation Method,T,SMT-SPL,50
+Indentation,FCC,SMT-SPL,40
+Indentation,Hexagonal,SMT-SPL,34
+Induced,Austenite,SMT-SPL,30
+Induced,Martensite,SMT-SPL,36
+Induced,Pluripotent,SMT-SPL,120
+Infiltrated,Perovskites,SMT-SPL,38
+Infiltration,Perovskites,SMT-SPL,46
+Ink Jet Printed,Perovskites,SMT-SPL,36
+Inkjet Printing,Perovskites,SMT-SPL,77
+Intercritical,Austenite,SMT-SPL,50
+Intercritical,Martensite,SMT-SPL,51
+Intercritical Annealing,Austenite,SMT-SPL,279
+Intercritical Annealing,Bainitic,SMT-SPL,32
+Intercritical Annealing,Dp,SMT-SPL,47
+Intercritical Annealing,Martensite,SMT-SPL,243
+Intercritical Annealing,Martensitic,SMT-SPL,59
+Intercritically Annealed,Austenite,SMT-SPL,90
+Intercritically Annealed,Martensite,SMT-SPL,82
+Ion Bombardment,Cubic,SMT-SPL,47
+Ion Bombardment,Hexagonal,SMT-SPL,38
+Ion Exchange,Anatase,SMT-SPL,36
+Ion Exchange,Cubic,SMT-SPL,51
+Ion Exchange,Hexagonal,SMT-SPL,61
+Ion Exchange,Monoclinic,SMT-SPL,35
+Ion Exchange,Perovskites,SMT-SPL,53
+Ion Exchange,Spinels,SMT-SPL,38
+Ion Implantation,Austenitic,SMT-SPL,31
+Ion Implantation,Cubic,SMT-SPL,30
+Ion Implantation,Hexagonal,SMT-SPL,31
+Ion Irradiation,Cubic,SMT-SPL,48
+Ion Irradiation,Ferritic,SMT-SPL,30
+Irradiated,Abstract,SMT-SPL,40
+Irradiated,Anatase,SMT-SPL,327
+Irradiated,Austenite,SMT-SPL,95
+Irradiated,Austenitic,SMT-SPL,351
+Irradiated,BCC,SMT-SPL,162
+Irradiated,Breast,SMT-SPL,33
+Irradiated,Cubic,SMT-SPL,283
+Irradiated,FCC,SMT-SPL,211
+Irradiated,Face Centered Cubic,SMT-SPL,54
+Irradiated,Ferritic,SMT-SPL,193
+Irradiated,Fluorite,SMT-SPL,56
+Irradiated,G,SMT-SPL,49
+Irradiated,Garnet,SMT-SPL,61
+Irradiated,Graphitic,SMT-SPL,33
+Irradiated,HCP,SMT-SPL,70
+Irradiated,Hexagonal,SMT-SPL,314
+Irradiated,Marrow,SMT-SPL,35
+Irradiated,Martensite,SMT-SPL,93
+Irradiated,Martensitic,SMT-SPL,275
+Irradiated,Melanoma,SMT-SPL,35
+Irradiated,Monoclinic,SMT-SPL,123
+Irradiated,Nematic,SMT-SPL,34
+Irradiated,Orthorhombic,SMT-SPL,88
+Irradiated,Perovskites,SMT-SPL,149
+Irradiated,Pyrochlore,SMT-SPL,38
+Irradiated,Rhombohedral,SMT-SPL,36
+Irradiated,Rutile,SMT-SPL,197
+Irradiated,S T,SMT-SPL,55
+Irradiated,Spinels,SMT-SPL,100
+Irradiated,Spleens,SMT-SPL,32
+Irradiated,T,SMT-SPL,51
+Irradiated,Tetragonal,SMT-SPL,121
+Irradiated,Wurtzite,SMT-SPL,36
+Irradiated,β,SMT-SPL,53
+Irradiation,Abstract,SMT-SPL,80
+Irradiation,Anatase,SMT-SPL,899
+Irradiation,Austenite,SMT-SPL,95
+Irradiation,Austenitic,SMT-SPL,407
+Irradiation,BCC,SMT-SPL,232
+Irradiation,BSTRAct,SMT-SPL,31
+Irradiation,Body Centred Cubic,SMT-SPL,58
+Irradiation,Breast,SMT-SPL,60
+Irradiation,Brookite,SMT-SPL,77
+Irradiation,Colon,SMT-SPL,30
+Irradiation,Cubic,SMT-SPL,463
+Irradiation,F,SMT-SPL,47
+Irradiation,FCC,SMT-SPL,271
+Irradiation,Face Centered Cubic,SMT-SPL,97
+Irradiation,Ferritic,SMT-SPL,342
+Irradiation,Fluorite,SMT-SPL,69
+Irradiation,G,SMT-SPL,76
+Irradiation,Garnet,SMT-SPL,68
+Irradiation,Graphitic,SMT-SPL,50
+Irradiation,HCP,SMT-SPL,95
+Irradiation,Hexagonal,SMT-SPL,566
+Irradiation,Lc,SMT-SPL,51
+Irradiation,MC,SMT-SPL,34
+Irradiation,Martensite,SMT-SPL,95
+Irradiation,Martensitic,SMT-SPL,387
+Irradiation,Melanoma,SMT-SPL,44
+Irradiation,Merocyanine,SMT-SPL,69
+Irradiation,Monoclinic,SMT-SPL,210
+Irradiation,Nematic,SMT-SPL,70
+Irradiation,Orthorhombic,SMT-SPL,180
+Irradiation,Perovskites,SMT-SPL,331
+Irradiation,Pyrochlore,SMT-SPL,43
+Irradiation,Rhombohedral,SMT-SPL,56
+Irradiation,Rutile,SMT-SPL,514
+Irradiation,S T,SMT-SPL,78
+Irradiation,Sp,SMT-SPL,34
+Irradiation,Spinels,SMT-SPL,139
+Irradiation,Squamous Cell,SMT-SPL,32
+Irradiation,T,SMT-SPL,112
+Irradiation,Tetragonal,SMT-SPL,215
+Irradiation,Wurtzite,SMT-SPL,65
+Irradiation,β,SMT-SPL,47
+Irradiation Hardening,Ferritic,SMT-SPL,33
+Irradiation Hardening,Martensitic,SMT-SPL,48
+Isobaric Cooling,Garnet,SMT-SPL,41
+Isobaric Cooling,Granulite,SMT-SPL,59
+Isothermal Ageing,Austenite,SMT-SPL,31
+Isothermal Ageing,Martensite,SMT-SPL,35
+Isothermal Ageing,β,SMT-SPL,33
+Isothermal Annealing,Austenite,SMT-SPL,49
+Isothermal Annealing,BCC,SMT-SPL,33
+Isothermal Annealing,FCC,SMT-SPL,46
+Isothermal Decomposition,Austenite,SMT-SPL,34
+Isothermal Decompression,Garnet,SMT-SPL,68
+Isothermal Decompression,Granulite,SMT-SPL,57
+Isothermal Heat Treatment,Austenite,SMT-SPL,44
+Isothermal Holding,Austenite,SMT-SPL,137
+Isothermal Holding,Bainite,SMT-SPL,35
+Isothermal Holding,Bainitic,SMT-SPL,43
+Isothermal Holding,Martensite,SMT-SPL,79
+Isothermal Oxidation,Spinels,SMT-SPL,33
+Isothermal Transformation,Austenite,SMT-SPL,98
+Isothermal Transformation,Bainitic,SMT-SPL,45
+Isothermal Transformation,Martensite,SMT-SPL,51
+Isothermal Treatment,Austenite,SMT-SPL,58
+Isothermal Treatment,Bainitic,SMT-SPL,33
+Isothermal Treatment,Martensite,SMT-SPL,33
+Isothermally,Austenite,SMT-SPL,69
+Isothermally,Bainitic,SMT-SPL,30
+Isothermally,Martensite,SMT-SPL,37
+Isothermally Transformed,Austenite,SMT-SPL,31
+Isothermally Treated,Austenite,SMT-SPL,34
+Joining,Austenitic,SMT-SPL,64
+Joining,Ferritic,SMT-SPL,40
+Joining,Martensitic,SMT-SPL,46
+LPCVD,Hexagonal,SMT-SPL,36
+Langmuir-Blodgett,Hexagonal,SMT-SPL,32
+Larp,Perovskites,SMT-SPL,32
+Laser,Austenite,SMT-SPL,33
+Laser,Austenitic,SMT-SPL,43
+Laser,Cubic,SMT-SPL,34
+Laser,Garnet,SMT-SPL,43
+Laser,Hexagonal,SMT-SPL,51
+Laser,Martensite,SMT-SPL,51
+Laser,Perovskites,SMT-SPL,38
+Laser Ablation,Cubic,SMT-SPL,51
+Laser Ablation,Garnet,SMT-SPL,51
+Laser Ablation,Hexagonal,SMT-SPL,63
+Laser Ablation,Perovskites,SMT-SPL,41
+Laser Ablation,Rutile,SMT-SPL,43
+Laser Cladding,Austenite,SMT-SPL,30
+Laser Cladding,Austenitic,SMT-SPL,37
+Laser Cladding,Martensite,SMT-SPL,37
+Laser Heated,Perovskites,SMT-SPL,58
+Laser Heating,Perovskites,SMT-SPL,38
+Laser Irradiation,Anatase,SMT-SPL,49
+Laser Irradiation,Cubic,SMT-SPL,51
+Laser Irradiation,Hexagonal,SMT-SPL,73
+Laser Irradiation,Perovskites,SMT-SPL,42
+Laser Welded,Martensite,SMT-SPL,49
+Laser Welding,Austenite,SMT-SPL,36
+Laser Welding,Austenitic,SMT-SPL,40
+Laser Welding,Martensite,SMT-SPL,48
+Lb,Hexagonal,SMT-SPL,31
+Leaching,Anatase,SMT-SPL,50
+Leaching,Cubic,SMT-SPL,41
+Leaching,Hexagonal,SMT-SPL,49
+Leaching,Monoclinic,SMT-SPL,32
+Leaching,Perovskites,SMT-SPL,30
+Leaching,Rutile,SMT-SPL,55
+Leaching,Spinels,SMT-SPL,89
+Leaching,Tetragonal,SMT-SPL,30
+Light Irradiation,Anatase,SMT-SPL,51
+Light Irradiation,Hexagonal,SMT-SPL,37
+Light Irradiation,Perovskites,SMT-SPL,38
+Light Irradiation,Rutile,SMT-SPL,30
+Light Soaking,Perovskites,SMT-SPL,35
+Liquid Phase Deposition,Anatase,SMT-SPL,46
+Liquid Phase Epitaxy,Garnet,SMT-SPL,88
+Liquid Phase Epitaxy,Garnets,SMT-SPL,34
+Liquid Phase Exfoliation,Hexagonal,SMT-SPL,33
+Lithiated,Anatase,SMT-SPL,44
+Lithiated,Cubic,SMT-SPL,62
+Lithiated,Hexagonal,SMT-SPL,50
+Lithiated,Monoclinic,SMT-SPL,40
+Lithiated,Orthorhombic,SMT-SPL,48
+Lithiated,Rutile,SMT-SPL,30
+Lithiated,Spinels,SMT-SPL,144
+Lithiated,Tetragonal,SMT-SPL,36
+Lithiation,1T,SMT-SPL,30
+Lithiation,2H,SMT-SPL,31
+Lithiation,Anatase,SMT-SPL,49
+Lithiation,Cubic,SMT-SPL,73
+Lithiation,Hexagonal,SMT-SPL,80
+Lithiation,Monoclinic,SMT-SPL,41
+Lithiation,Orthorhombic,SMT-SPL,51
+Lithiation,Spinels,SMT-SPL,100
+Lithiation,Tetragonal,SMT-SPL,40
+Lithographic,Hexagonal,SMT-SPL,31
+Lithography,Hexagonal,SMT-SPL,58
+Low Pressure Chemical Vapor Deposition,Hexagonal,SMT-SPL,37
+Lpe,Garnet,SMT-SPL,95
+MAO,Anatase,SMT-SPL,92
+MAO,Rutile,SMT-SPL,78
+MD,BCC,SMT-SPL,33
+MD,Cubic,SMT-SPL,38
+MD,FCC,SMT-SPL,64
+MD,Hexagonal,SMT-SPL,36
+MOCVD,Anatase,SMT-SPL,42
+MOCVD,Cubic,SMT-SPL,58
+MOCVD,Hexagonal,SMT-SPL,94
+MOCVD,Perovskites,SMT-SPL,47
+MOCVD,Rutile,SMT-SPL,35
+MOCVD,Wurtzite,SMT-SPL,65
+MT,Martensite,SMT-SPL,31
+Ma,Austenite,SMT-SPL,65
+Ma,BCC,SMT-SPL,84
+Ma,Cubic,SMT-SPL,35
+Ma,FCC,SMT-SPL,78
+Ma,Hexagonal,SMT-SPL,37
+Ma,Martensite,SMT-SPL,57
+Ma,Perovskites,SMT-SPL,63
+Ma,Tetragonal,SMT-SPL,31
+Machined,Austenite,SMT-SPL,52
+Machined,Austenitic,SMT-SPL,53
+Machined,Cubic,SMT-SPL,61
+Machined,Martensite,SMT-SPL,56
+Machined,Martensitic,SMT-SPL,49
+Machined,β,SMT-SPL,33
+Machining,Austenite,SMT-SPL,42
+Machining,Austenitic,SMT-SPL,52
+Machining,Cubic,SMT-SPL,67
+Machining,Martensite,SMT-SPL,37
+Machining,Martensitic,SMT-SPL,41
+Magnetron Sputtering,Anatase,SMT-SPL,48
+Magnetron Sputtering,Cubic,SMT-SPL,77
+Magnetron Sputtering,FCC,SMT-SPL,58
+Magnetron Sputtering,Face Centered Cubic,SMT-SPL,34
+Magnetron Sputtering,Hexagonal,SMT-SPL,92
+Magnetron Sputtering,Monoclinic,SMT-SPL,31
+Magnetron Sputtering,Perovskites,SMT-SPL,34
+Magnetron Sputtering,Rutile,SMT-SPL,38
+Magnetron Sputtering,Tetragonal,SMT-SPL,36
+Magnetron Sputtering,Wurtzite,SMT-SPL,36
+Mantle Melting,Garnet,SMT-SPL,42
+Maraging,Austenite,SMT-SPL,124
+Maraging,Martensite,SMT-SPL,101
+Maraging,Martensitic,SMT-SPL,61
+Marrow,Mesenchymal,SMT-SPL,47
+Mbe,Cubic,SMT-SPL,56
+Mbe,Hexagonal,SMT-SPL,102
+Mbe,Perovskites,SMT-SPL,32
+Mbe,Wurtzite,SMT-SPL,39
+Mbe,Zinc Blende,SMT-SPL,44
+Mechanical Activation,Perovskites,SMT-SPL,55
+Mechanical Alloyed,BCC,SMT-SPL,69
+Mechanical Alloyed,FCC,SMT-SPL,78
+Mechanical Alloying,Austenitic,SMT-SPL,36
+Mechanical Alloying,B2,SMT-SPL,46
+Mechanical Alloying,BCC,SMT-SPL,186
+Mechanical Alloying,Body Centred Cubic,SMT-SPL,36
+Mechanical Alloying,Cubic,SMT-SPL,57
+Mechanical Alloying,FCC,SMT-SPL,184
+Mechanical Alloying,Face Centered Cubic,SMT-SPL,44
+Mechanical Alloying,Ferritic,SMT-SPL,33
+Mechanical Alloying,HCP,SMT-SPL,32
+Mechanical Alloying,Hexagonal,SMT-SPL,70
+Mechanical Alloying,Icosahedral,SMT-SPL,33
+Mechanical Exfoliation,Hexagonal,SMT-SPL,61
+Mechanical Milling,Hexagonal,SMT-SPL,34
+Mechanical Processing,Austenite,SMT-SPL,31
+Mechanically Exfoliated,Hexagonal,SMT-SPL,56
+Mechanosynthesis,Perovskites,SMT-SPL,35
+Melt,Garnet,SMT-SPL,50
+Melt Extraction,Garnet,SMT-SPL,55
+Melt Extraction,Spinels,SMT-SPL,35
+Melt Spinning,Austenite,SMT-SPL,30
+Melt Spinning,FCC,SMT-SPL,30
+Melt Spun,Austenite,SMT-SPL,37
+Melt Spun,B2,SMT-SPL,33
+Melt Spun,BCC,SMT-SPL,36
+Melt Spun,Cubic,SMT-SPL,53
+Melt Spun,FCC,SMT-SPL,65
+Melt Spun,Hexagonal,SMT-SPL,36
+Melt Spun,Icosahedral,SMT-SPL,50
+Melt Spun,Martensite,SMT-SPL,56
+Melt Spun,Martensitic,SMT-SPL,44
+Melt Spun,Orthorhombic,SMT-SPL,33
+Melt Spun,Tetragonal,SMT-SPL,41
+Melted,Austenite,SMT-SPL,46
+Melted,Garnet,SMT-SPL,31
+Melted,Hexagonal,SMT-SPL,51
+Melted,Martensite,SMT-SPL,58
+Melted,Martensitic,SMT-SPL,40
+Melted,Olivines,SMT-SPL,31
+Melting,A-Type,SMT-SPL,80
+Melting,ARC,SMT-SPL,32
+Melting,Adakite,SMT-SPL,80
+Melting,Adakitic,SMT-SPL,74
+Melting,Alkaline,SMT-SPL,104
+Melting,Amphiboles,SMT-SPL,33
+Melting,Amphibolite,SMT-SPL,171
+Melting,Andesitic,SMT-SPL,49
+Melting,Anhydrous,SMT-SPL,38
+Melting,Archean,SMT-SPL,41
+Melting,Austenite,SMT-SPL,50
+Melting,Austenitic,SMT-SPL,46
+Melting,BCC,SMT-SPL,80
+Melting,Basaltic,SMT-SPL,244
+Melting,CI Chondrite,SMT-SPL,35
+Melting,CPX,SMT-SPL,32
+Melting,Calc,SMT-SPL,110
+Melting,Chondrite,SMT-SPL,260
+Melting,Chondrite Normalized,SMT-SPL,46
+Melting,Chondritic,SMT-SPL,108
+Melting,Clinopyroxenes,SMT-SPL,347
+Melting,Cubic,SMT-SPL,124
+Melting,Eclogites,SMT-SPL,172
+Melting,Eclogitic,SMT-SPL,92
+Melting,FCC,SMT-SPL,126
+Melting,Face Centered Cubic,SMT-SPL,33
+Melting,Garnet,SMT-SPL,1102
+Melting,Garnets,SMT-SPL,110
+Melting,Gneiss,SMT-SPL,151
+Melting,Gneisses,SMT-SPL,137
+Melting,Gneissic,SMT-SPL,47
+Melting,Granite,SMT-SPL,276
+Melting,Granitic,SMT-SPL,161
+Melting,Granitoids,SMT-SPL,134
+Melting,Granodiorites,SMT-SPL,52
+Melting,Granodioritic,SMT-SPL,40
+Melting,Granulite,SMT-SPL,213
+Melting,Greenstone,SMT-SPL,36
+Melting,HCP,SMT-SPL,49
+Melting,Hexagonal,SMT-SPL,160
+Melting,Icosahedral,SMT-SPL,39
+Melting,Island,SMT-SPL,31
+Melting,Leucogranite,SMT-SPL,65
+Melting,Leucosomes,SMT-SPL,38
+Melting,Lherzolites,SMT-SPL,100
+Melting,Mafic,SMT-SPL,46
+Melting,Mantle,SMT-SPL,56
+Melting,Martensite,SMT-SPL,47
+Melting,Martensitic,SMT-SPL,51
+Melting,Metamorphic,SMT-SPL,31
+Melting,Meteorite,SMT-SPL,44
+Melting,Migmatites,SMT-SPL,50
+Melting,Migmatitic,SMT-SPL,34
+Melting,Monoclinic,SMT-SPL,102
+Melting,Morb,SMT-SPL,38
+Melting,N-Morb,SMT-SPL,36
+Melting,North China Craton,SMT-SPL,43
+Melting,OIB,SMT-SPL,32
+Melting,Oceanic,SMT-SPL,67
+Melting,Olivine;,SMT-SPL,30
+Melting,Olivines,SMT-SPL,466
+Melting,Ophiolites,SMT-SPL,64
+Melting,Orthopyroxene,SMT-SPL,44
+Melting,Orthorhombic,SMT-SPL,88
+Melting,Pelitic,SMT-SPL,33
+Melting,Peraluminous,SMT-SPL,32
+Melting,Peritectic,SMT-SPL,34
+Melting,Perovskites,SMT-SPL,102
+Melting,Plagioclase,SMT-SPL,101
+Melting,Porphyry,SMT-SPL,53
+Melting,Potassic,SMT-SPL,36
+Melting,Primitive Mantle,SMT-SPL,79
+Melting,Pyroxene,SMT-SPL,206
+Melting,Rutile,SMT-SPL,135
+Melting,Shoshonitic,SMT-SPL,40
+Melting,Sodic,SMT-SPL,33
+Melting,Spinels,SMT-SPL,489
+Melting,TTG,SMT-SPL,49
+Melting,Tetragonal,SMT-SPL,80
+Melting,Tholeiites,SMT-SPL,59
+Melting,Tholeiitic,SMT-SPL,96
+Melting,Tonalitic,SMT-SPL,31
+Melting,Type,SMT-SPL,108
+Melting,Uhp,SMT-SPL,30
+Melting,Ultramafic,SMT-SPL,115
+Melting,β,SMT-SPL,78
+Metal Organic Chemical Vapor Deposition,Hexagonal,SMT-SPL,39
+Metal Organic Chemical Vapor Deposition,Wurtzite,SMT-SPL,47
+Metal Organic Vapor Phase Epitaxy,Hexagonal,SMT-SPL,37
+Metal Organic Vapor Phase Epitaxy,Wurtzite,SMT-SPL,36
+Metamorphic,Amphibolite,SMT-SPL,121
+Metamorphic,Blueschists,SMT-SPL,30
+Metamorphic,Chondrite,SMT-SPL,54
+Metamorphic,Clinopyroxenes,SMT-SPL,52
+Metamorphic,Eclogites,SMT-SPL,130
+Metamorphic,Garnet,SMT-SPL,381
+Metamorphic,Garnets,SMT-SPL,64
+Metamorphic,Gneiss,SMT-SPL,144
+Metamorphic,Gneisses,SMT-SPL,75
+Metamorphic,Gneissic,SMT-SPL,30
+Metamorphic,Granite,SMT-SPL,38
+Metamorphic,Granitic,SMT-SPL,40
+Metamorphic,Granulite,SMT-SPL,162
+Metamorphic,Greenschist,SMT-SPL,35
+Metamorphic,North China Craton,SMT-SPL,32
+Metamorphic,Olivines,SMT-SPL,30
+Metamorphic,Rutile,SMT-SPL,98
+Metamorphic,Spinels,SMT-SPL,32
+Metamorphic,Ultramafic,SMT-SPL,30
+Metamorphism,Amphibolite,SMT-SPL,193
+Metamorphism,Blueschists,SMT-SPL,47
+Metamorphism,Chondrite,SMT-SPL,68
+Metamorphism,Clinopyroxenes,SMT-SPL,44
+Metamorphism,Eclogites,SMT-SPL,218
+Metamorphism,Eclogitic,SMT-SPL,34
+Metamorphism,Garnet,SMT-SPL,519
+Metamorphism,Garnets,SMT-SPL,74
+Metamorphism,Gneiss,SMT-SPL,179
+Metamorphism,Gneisses,SMT-SPL,153
+Metamorphism,Gneissic,SMT-SPL,44
+Metamorphism,Granite,SMT-SPL,63
+Metamorphism,Granitic,SMT-SPL,57
+Metamorphism,Granitoids,SMT-SPL,36
+Metamorphism,Granulite,SMT-SPL,302
+Metamorphism,Greenschist,SMT-SPL,80
+Metamorphism,Mafic,SMT-SPL,56
+Metamorphism,Metamorphic,SMT-SPL,54
+Metamorphism,Metapelites,SMT-SPL,30
+Metamorphism,Migmatitic,SMT-SPL,45
+Metamorphism,Olivines,SMT-SPL,46
+Metamorphism,Pelitic,SMT-SPL,48
+Metamorphism,Pyroxene,SMT-SPL,53
+Metamorphism,Rutile,SMT-SPL,76
+Metamorphism,Schist,SMT-SPL,49
+Metamorphism,Spinels,SMT-SPL,56
+Metamorphism,Ultramafic,SMT-SPL,54
+Metamorphosed,Amphibolite,SMT-SPL,75
+Metamorphosed,Chondrite,SMT-SPL,45
+Metamorphosed,Eclogites,SMT-SPL,64
+Metamorphosed,Garnet,SMT-SPL,138
+Metamorphosed,Gneiss,SMT-SPL,50
+Metamorphosed,Gneisses,SMT-SPL,60
+Metamorphosed,Granulite,SMT-SPL,77
+Metamorphosed,Greenschist,SMT-SPL,33
+Metamorphosed,Ultramafic,SMT-SPL,31
+Metasomatic,Clinopyroxenes,SMT-SPL,36
+Metasomatic,Garnet,SMT-SPL,95
+Metasomatic,Olivines,SMT-SPL,40
+Metasomatic,Spinels,SMT-SPL,46
+Metasomatism,Chondrite,SMT-SPL,34
+Metasomatism,Clinopyroxenes,SMT-SPL,81
+Metasomatism,Eclogites,SMT-SPL,45
+Metasomatism,Garnet,SMT-SPL,200
+Metasomatism,Garnets,SMT-SPL,62
+Metasomatism,Lherzolites,SMT-SPL,37
+Metasomatism,Olivines,SMT-SPL,81
+Metasomatism,Spinels,SMT-SPL,103
+Metasomatism,Ultramafic,SMT-SPL,37
+Metasomatized,Clinopyroxenes,SMT-SPL,57
+Metasomatized,Garnet,SMT-SPL,144
+Metasomatized,Olivines,SMT-SPL,68
+Metasomatized,Spinels,SMT-SPL,71
+Methods,Perovskites,SMT-SPL,35
+Micro Arc Oxidation,Anatase,SMT-SPL,85
+Micro Arc Oxidation,Rutile,SMT-SPL,76
+Microalloyed,Austenite,SMT-SPL,123
+Microalloyed,Martensite,SMT-SPL,56
+Microalloying,Austenite,SMT-SPL,56
+Microemulsion,Cubic,SMT-SPL,33
+Microemulsion,Hexagonal,SMT-SPL,33
+Microwave Heating,Cubic,SMT-SPL,32
+Microwave Heating,Hexagonal,SMT-SPL,41
+Microwave Heating,Tetragonal,SMT-SPL,31
+Microwave Irradiation,Anatase,SMT-SPL,50
+Microwave Irradiation,Cubic,SMT-SPL,51
+Microwave Irradiation,Hexagonal,SMT-SPL,75
+Microwave Irradiation,Monoclinic,SMT-SPL,31
+Microwave Irradiation,Perovskites,SMT-SPL,36
+Microwave Irradiation,Rutile,SMT-SPL,30
+Microwave Irradiation,T,SMT-SPL,50
+Microwaves,Anatase,SMT-SPL,32
+Microwaves,Cubic,SMT-SPL,32
+Microwaves,Hexagonal,SMT-SPL,37
+Mild Hydrothermal Conditions,Monoclinic,SMT-SPL,47
+Mild Hydrothermal Conditions,Orthorhombic,SMT-SPL,37
+Milled,Anatase,SMT-SPL,65
+Milled,Austenite,SMT-SPL,42
+Milled,BCC,SMT-SPL,137
+Milled,Cubic,SMT-SPL,139
+Milled,FCC,SMT-SPL,142
+Milled,HCP,SMT-SPL,35
+Milled,Hexagonal,SMT-SPL,133
+Milled,Martensite,SMT-SPL,39
+Milled,Monoclinic,SMT-SPL,68
+Milled,Orthorhombic,SMT-SPL,58
+Milled,Perovskites,SMT-SPL,59
+Milled,Rutile,SMT-SPL,70
+Milled,Spinels,SMT-SPL,70
+Milled,Tetragonal,SMT-SPL,83
+Milling,Anatase,SMT-SPL,92
+Milling,Austenite,SMT-SPL,41
+Milling,Austenitic,SMT-SPL,35
+Milling,B2,SMT-SPL,53
+Milling,BCC,SMT-SPL,243
+Milling,Body Centred Cubic,SMT-SPL,31
+Milling,Cubic,SMT-SPL,232
+Milling,FCC,SMT-SPL,251
+Milling,Face Centered Cubic,SMT-SPL,32
+Milling,HCP,SMT-SPL,62
+Milling,Hexagonal,SMT-SPL,188
+Milling,Martensite,SMT-SPL,43
+Milling,Monoclinic,SMT-SPL,103
+Milling,Orthorhombic,SMT-SPL,85
+Milling,Perovskites,SMT-SPL,130
+Milling,Rhombohedral,SMT-SPL,39
+Milling,Rutile,SMT-SPL,91
+Milling,Spinels,SMT-SPL,117
+Milling,T,SMT-SPL,30
+Milling,Tetragonal,SMT-SPL,135
+Milling,β,SMT-SPL,40
+Mineralization,Anatase,SMT-SPL,30
+Mineralization,Hexagonal,SMT-SPL,30
+Mineralization,Osteoblasts,SMT-SPL,31
+Mineralized,Hexagonal,SMT-SPL,38
+Mixed Oxide Method,Perovskites,SMT-SPL,33
+Mixed Oxide Route,Perovskites,SMT-SPL,33
+Modification,Anatase,SMT-SPL,32
+Modification,Hexagonal,SMT-SPL,39
+Modification,Perovskites,SMT-SPL,48
+Molecular Beam Epitaxy,Cubic,SMT-SPL,97
+Molecular Beam Epitaxy,Hexagonal,SMT-SPL,134
+Molecular Beam Epitaxy,Perovskites,SMT-SPL,71
+Molecular Beam Epitaxy,Tetragonal,SMT-SPL,31
+Molecular Beam Epitaxy,Wurtzite,SMT-SPL,93
+Molecular Beam Epitaxy,Zinc Blende,SMT-SPL,93
+Molten Salt Method,Perovskites,SMT-SPL,33
+Molten Salt Synthesis,Perovskites,SMT-SPL,31
+Movpe,Hexagonal,SMT-SPL,35
+Mylonitic,Garnet,SMT-SPL,46
+Nanosphere Lithography,Hexagonal,SMT-SPL,32
+Nanostructuring,Hexagonal,SMT-SPL,31
+Near,Garnet,SMT-SPL,39
+Near,Granulite,SMT-SPL,36
+Neutron Irradiated,Austenitic,SMT-SPL,52
+Neutron Irradiation,Austenitic,SMT-SPL,106
+Neutron Irradiation,BCC,SMT-SPL,45
+Neutron Irradiation,Ferritic,SMT-SPL,73
+Neutron Irradiation,Martensitic,SMT-SPL,83
+Nital,Austenite,SMT-SPL,89
+Nital,Martensite,SMT-SPL,77
+Nital,Martensitic,SMT-SPL,35
+Nitridation,Anatase,SMT-SPL,32
+Nitridation,Cubic,SMT-SPL,98
+Nitridation,Hexagonal,SMT-SPL,103
+Nitridation,Perovskites,SMT-SPL,34
+Nitridation,Wurtzite,SMT-SPL,52
+Nitrided,Austenite,SMT-SPL,128
+Nitrided,Austenitic,SMT-SPL,147
+Nitrided,Cubic,SMT-SPL,50
+Nitrided,FCC,SMT-SPL,43
+Nitrided,Hexagonal,SMT-SPL,48
+Nitrided,Martensite,SMT-SPL,43
+Nitrided,Martensitic,SMT-SPL,56
+Nitriding,Austenite,SMT-SPL,122
+Nitriding,Austenitic,SMT-SPL,162
+Nitriding,Cubic,SMT-SPL,34
+Nitriding,FCC,SMT-SPL,46
+Nitriding,Hexagonal,SMT-SPL,30
+Nitriding,Martensite,SMT-SPL,35
+Nitriding,Martensitic,SMT-SPL,43
+Non Isothermal Crystallization,Cooling,SMT-SPL,32
+Normalized,Austenite,SMT-SPL,47
+Normalized,Ferritic,SMT-SPL,33
+Normalized,Martensite,SMT-SPL,62
+Normalized,Martensitic,SMT-SPL,64
+Normalizing,Martensite,SMT-SPL,31
+Normalizing,Martensitic,SMT-SPL,32
+Oil Quenching,Martensite,SMT-SPL,30
+One - Step,Perovskites,SMT-SPL,32
+Oxidation,Abstract,SMT-SPL,181
+Oxidation,Anatase,SMT-SPL,376
+Oxidation,Austenite,SMT-SPL,85
+Oxidation,Austenitic,SMT-SPL,227
+Oxidation,B s t,SMT-SPL,42
+Oxidation,B2,SMT-SPL,37
+Oxidation,BCC,SMT-SPL,116
+Oxidation,BSTRAct,SMT-SPL,67
+Oxidation,Body Centred Cubic,SMT-SPL,34
+Oxidation,Chalcopyrite,SMT-SPL,38
+Oxidation,Chondrite,SMT-SPL,36
+Oxidation,Corundum,SMT-SPL,32
+Oxidation,Cubic,SMT-SPL,589
+Oxidation,Cubic Perovskites,SMT-SPL,32
+Oxidation,F,SMT-SPL,37
+Oxidation,FCC,SMT-SPL,305
+Oxidation,Face Centered Cubic,SMT-SPL,100
+Oxidation,Ferritic,SMT-SPL,137
+Oxidation,Fluorite,SMT-SPL,69
+Oxidation,G,SMT-SPL,63
+Oxidation,Garnet,SMT-SPL,67
+Oxidation,Graphitic,SMT-SPL,147
+Oxidation,HCP,SMT-SPL,106
+Oxidation,Hexagonal,SMT-SPL,714
+Oxidation,Icosahedral,SMT-SPL,40
+Oxidation,Keggin,SMT-SPL,45
+Oxidation,Martensite,SMT-SPL,81
+Oxidation,Martensitic,SMT-SPL,129
+Oxidation,Monoclinic,SMT-SPL,441
+Oxidation,Olivines,SMT-SPL,92
+Oxidation,Orthorhombic,SMT-SPL,270
+Oxidation,P,SMT-SPL,31
+Oxidation,P1,SMT-SPL,38
+Oxidation,Perovskites,SMT-SPL,495
+Oxidation,Phase,SMT-SPL,33
+Oxidation,Pyroxene,SMT-SPL,35
+Oxidation,R A C T,SMT-SPL,60
+Oxidation,Rhombohedral,SMT-SPL,92
+Oxidation,Rock Salt,SMT-SPL,55
+Oxidation,Rutile,SMT-SPL,549
+Oxidation,S T,SMT-SPL,221
+Oxidation,STRAC,SMT-SPL,38
+Oxidation,Spinels,SMT-SPL,801
+Oxidation,T,SMT-SPL,264
+Oxidation,Tetragonal,SMT-SPL,387
+Oxidation,Triclinic,SMT-SPL,64
+Oxidation,Trigonal,SMT-SPL,54
+Oxidation,Wurtzite,SMT-SPL,94
+Oxidation,α-Phase,SMT-SPL,30
+Oxidation,β,SMT-SPL,128
+Oxidation,β-Phase,SMT-SPL,46
+Oxidation,γ',SMT-SPL,41
+Oxidised,Rutile,SMT-SPL,40
+Oxidize,Abstract,SMT-SPL,57
+Oxidize,Anatase,SMT-SPL,211
+Oxidize,Austenite,SMT-SPL,30
+Oxidize,Austenitic,SMT-SPL,79
+Oxidize,BCC,SMT-SPL,68
+Oxidize,Chondrite,SMT-SPL,44
+Oxidize,Cubic,SMT-SPL,275
+Oxidize,FCC,SMT-SPL,156
+Oxidize,Face Centered Cubic,SMT-SPL,35
+Oxidize,Ferritic,SMT-SPL,30
+Oxidize,Fluorite,SMT-SPL,30
+Oxidize,Garnet,SMT-SPL,38
+Oxidize,Graphitic,SMT-SPL,106
+Oxidize,HCP,SMT-SPL,61
+Oxidize,Hexagonal,SMT-SPL,390
+Oxidize,Monoclinic,SMT-SPL,183
+Oxidize,Olivines,SMT-SPL,75
+Oxidize,Orthorhombic,SMT-SPL,125
+Oxidize,Perovskites,SMT-SPL,248
+Oxidize,Pyroxene,SMT-SPL,42
+Oxidize,Rhombohedral,SMT-SPL,42
+Oxidize,Rutile,SMT-SPL,311
+Oxidize,S T,SMT-SPL,64
+Oxidize,Spinels,SMT-SPL,315
+Oxidize,T,SMT-SPL,77
+Oxidize,Tetragonal,SMT-SPL,191
+Oxidize,Wurtzite,SMT-SPL,52
+Oxidize,β,SMT-SPL,56
+Oxygen Plasma,Hexagonal,SMT-SPL,31
+P,Austenite,SMT-SPL,134
+P,Martensite,SMT-SPL,104
+P,Martensitic,SMT-SPL,37
+PE-CVD,Anatase,SMT-SPL,30
+PE-CVD,Hexagonal,SMT-SPL,55
+PEO,Anatase,SMT-SPL,58
+PEO,Rutile,SMT-SPL,47
+PLD,Anatase,SMT-SPL,58
+PLD,Cubic,SMT-SPL,128
+PLD,Garnet,SMT-SPL,34
+PLD,Hexagonal,SMT-SPL,115
+PLD,Monoclinic,SMT-SPL,40
+PLD,Orthorhombic,SMT-SPL,40
+PLD,Perovskites,SMT-SPL,172
+PLD,Rutile,SMT-SPL,58
+PLD,Spinels,SMT-SPL,35
+PLD,Tetragonal,SMT-SPL,59
+PLD,Wurtzite,SMT-SPL,33
+PVD,Cubic,SMT-SPL,76
+PVD,FCC,SMT-SPL,33
+PVD,Hexagonal,SMT-SPL,63
+PWHT,Austenite,SMT-SPL,49
+PWHT,Martensite,SMT-SPL,56
+PWHT,Martensitic,SMT-SPL,41
+Partial,Garnet,SMT-SPL,72
+Partial,Spinels,SMT-SPL,30
+Partial Melting,Adakitic,SMT-SPL,35
+Partial Melting,Alkaline,SMT-SPL,49
+Partial Melting,Amphibolite,SMT-SPL,67
+Partial Melting,Basaltic,SMT-SPL,89
+Partial Melting,Calc,SMT-SPL,47
+Partial Melting,Chondrite,SMT-SPL,65
+Partial Melting,Clinopyroxenes,SMT-SPL,85
+Partial Melting,Eclogites,SMT-SPL,63
+Partial Melting,Eclogitic,SMT-SPL,31
+Partial Melting,Garnet,SMT-SPL,390
+Partial Melting,Garnets,SMT-SPL,34
+Partial Melting,Gneiss,SMT-SPL,55
+Partial Melting,Gneisses,SMT-SPL,57
+Partial Melting,Granite,SMT-SPL,100
+Partial Melting,Granitic,SMT-SPL,55
+Partial Melting,Granitoids,SMT-SPL,51
+Partial Melting,Granulite,SMT-SPL,64
+Partial Melting,Lherzolites,SMT-SPL,52
+Partial Melting,Olivines,SMT-SPL,138
+Partial Melting,Plagioclase,SMT-SPL,34
+Partial Melting,Pyroxene,SMT-SPL,65
+Partial Melting,Rutile,SMT-SPL,43
+Partial Melting,Spinels,SMT-SPL,146
+Partial Melting,Tholeiitic,SMT-SPL,38
+Partial Melting,Type,SMT-SPL,34
+Partial Melting,Ultramafic,SMT-SPL,49
+Partitioned,Austenite,SMT-SPL,59
+Partitioned,Martensite,SMT-SPL,49
+Partitioning,Austenite,SMT-SPL,128
+Partitioning,Martensite,SMT-SPL,119
+Passivated,Perovskites,SMT-SPL,30
+Passivation,Perovskites,SMT-SPL,43
+Patterned,Hexagonal,SMT-SPL,102
+Patterning,Hexagonal,SMT-SPL,77
+Patterning,Perovskites,SMT-SPL,45
+Peak Aged,β,SMT-SPL,51
+Pechini Method,Orthorhombic,SMT-SPL,30
+Pechini Method,Perovskites,SMT-SPL,117
+Pechini Method,Spinels,SMT-SPL,30
+Peptization,Anatase,SMT-SPL,32
+Periodic,Boundary,SMT-SPL,94
+Photo,Anatase,SMT-SPL,42
+Photo,Perovskites,SMT-SPL,31
+Photo Decomposition,Anatase,SMT-SPL,35
+Photo Deposition,Anatase,SMT-SPL,65
+Photo Deposition,Rutile,SMT-SPL,40
+Photocatalysis,Anatase,SMT-SPL,128
+Photocatalysis,Rutile,SMT-SPL,65
+Photocatalytic Degradation,Anatase,SMT-SPL,39
+Photocatalytic H2,Anatase,SMT-SPL,52
+Photodegradation,Anatase,SMT-SPL,169
+Photodegradation,Rutile,SMT-SPL,81
+Photoexcitation,Anatase,SMT-SPL,42
+Photoexcitation,Perovskites,SMT-SPL,76
+Photolithography,Hexagonal,SMT-SPL,65
+Photolysis,Anatase,SMT-SPL,59
+Photolysis,Rutile,SMT-SPL,35
+Photooxidation,Anatase,SMT-SPL,88
+Photooxidation,Rutile,SMT-SPL,50
+Photopolymerization,Hexagonal,SMT-SPL,31
+Photoreduction,Anatase,SMT-SPL,62
+Photoreduction,Rutile,SMT-SPL,37
+Physical Vapour Deposition,Cubic,SMT-SPL,60
+Physical Vapour Deposition,FCC,SMT-SPL,31
+Physical Vapour Deposition,Hexagonal,SMT-SPL,58
+Planetary Ball Mill,Hexagonal,SMT-SPL,31
+Plasma,Anatase,SMT-SPL,71
+Plasma,Cubic,SMT-SPL,64
+Plasma,Hexagonal,SMT-SPL,68
+Plasma,Perovskites,SMT-SPL,40
+Plasma,Rutile,SMT-SPL,55
+Plasma Assisted Molecular Beam Epitaxy,Hexagonal,SMT-SPL,31
+Plasma Assisted Molecular Beam Epitaxy,Wurtzite,SMT-SPL,36
+Plasma Electrolytic Oxidation,Anatase,SMT-SPL,51
+Plasma Electrolytic Oxidation,Rutile,SMT-SPL,43
+Plasma Enhanced Chemical Vapour Deposition,Hexagonal,SMT-SPL,40
+Plasma Etching,Hexagonal,SMT-SPL,48
+Plasma Nitrided,Austenite,SMT-SPL,33
+Plasma Nitrided,Austenitic,SMT-SPL,36
+Plasma Nitriding,Austenite,SMT-SPL,59
+Plasma Nitriding,Austenitic,SMT-SPL,98
+Plasma Spray,Cubic,SMT-SPL,34
+Plasma Spray,Monoclinic,SMT-SPL,46
+Plasma Spray,Tetragonal,SMT-SPL,59
+Plasma Treated,Anatase,SMT-SPL,31
+Plasma Treatment,Anatase,SMT-SPL,32
+Plasma Treatment,Hexagonal,SMT-SPL,54
+Plastic Deformation,Austenite,SMT-SPL,280
+Plastic Deformation,Austenitic,SMT-SPL,218
+Plastic Deformation,B2,SMT-SPL,43
+Plastic Deformation,BCC,SMT-SPL,144
+Plastic Deformation,Body Centred Cubic,SMT-SPL,62
+Plastic Deformation,Cubic,SMT-SPL,64
+Plastic Deformation,FCC,SMT-SPL,222
+Plastic Deformation,Face Centered Cubic,SMT-SPL,101
+Plastic Deformation,Ferritic,SMT-SPL,45
+Plastic Deformation,G,SMT-SPL,44
+Plastic Deformation,HCP,SMT-SPL,130
+Plastic Deformation,Hexagonal,SMT-SPL,77
+Plastic Deformation,Hexagonal Close Packed,SMT-SPL,60
+Plastic Deformation,Martensite,SMT-SPL,338
+Plastic Deformation,Martensitic,SMT-SPL,227
+Plastic Deformation,Tetragonal,SMT-SPL,31
+Plastic Deformation,β,SMT-SPL,54
+Plastically Deformed,Martensite,SMT-SPL,34
+Plating,Hexagonal,SMT-SPL,33
+Platinized,Anatase,SMT-SPL,33
+Platinized,Perovskites,SMT-SPL,51
+Poled,Rhombohedral,SMT-SPL,34
+Poled,Tetragonal,SMT-SPL,32
+Poling,Perovskites,SMT-SPL,52
+Poling,Tetragonal,SMT-SPL,44
+Polished,Anatase,SMT-SPL,66
+Polished,Austenite,SMT-SPL,110
+Polished,Austenitic,SMT-SPL,77
+Polished,BCC,SMT-SPL,53
+Polished,Chondrite,SMT-SPL,43
+Polished,Clinopyroxenes,SMT-SPL,44
+Polished,Cubic,SMT-SPL,245
+Polished,FCC,SMT-SPL,70
+Polished,Garnet,SMT-SPL,146
+Polished,Garnets,SMT-SPL,36
+Polished,Gneiss,SMT-SPL,33
+Polished,Hexagonal,SMT-SPL,186
+Polished,Martensite,SMT-SPL,110
+Polished,Martensitic,SMT-SPL,77
+Polished,Monoclinic,SMT-SPL,175
+Polished,Olivines,SMT-SPL,83
+Polished,Orthorhombic,SMT-SPL,90
+Polished,Perovskites,SMT-SPL,132
+Polished,Pyroxene,SMT-SPL,36
+Polished,Rhombohedral,SMT-SPL,60
+Polished,Rutile,SMT-SPL,103
+Polished,Spinels,SMT-SPL,166
+Polished,Tetragonal,SMT-SPL,185
+Polished,β,SMT-SPL,87
+Polishing,Austenite,SMT-SPL,32
+Polishing,Cubic,SMT-SPL,62
+Polishing,Hexagonal,SMT-SPL,54
+Polishing,Martensite,SMT-SPL,34
+Polishing,Monoclinic,SMT-SPL,37
+Polishing,Perovskites,SMT-SPL,31
+Polishing,Spinels,SMT-SPL,36
+Polishing,Tetragonal,SMT-SPL,42
+Polymeric Precursors Method,Perovskites,SMT-SPL,33
+Polymerisation,Hexagonal,SMT-SPL,39
+Post Annealed,Anatase,SMT-SPL,47
+Post Annealed,Cubic,SMT-SPL,36
+Post Annealed,Hexagonal,SMT-SPL,37
+Post Annealed,Perovskites,SMT-SPL,57
+Post Annealed,Rutile,SMT-SPL,30
+Post Weld Heat Treatment,Martensite,SMT-SPL,36
+Postannealing,Anatase,SMT-SPL,74
+Postannealing,Cubic,SMT-SPL,80
+Postannealing,Hexagonal,SMT-SPL,63
+Postannealing,Monoclinic,SMT-SPL,44
+Postannealing,Orthorhombic,SMT-SPL,41
+Postannealing,Perovskites,SMT-SPL,144
+Postannealing,Rutile,SMT-SPL,40
+Postannealing,Spinels,SMT-SPL,35
+Postannealing,Tetragonal,SMT-SPL,55
+Powder Metallurgy,Austenitic,SMT-SPL,30
+Pre-Treatment,T,SMT-SPL,39
+Pre-strained,Martensite,SMT-SPL,36
+Pre-straining,Martensite,SMT-SPL,47
+Precipitation,Anatase,SMT-SPL,45
+Precipitation,Cubic,SMT-SPL,45
+Precipitation,Hexagonal,SMT-SPL,57
+Precipitation,Monoclinic,SMT-SPL,42
+Precipitation,Perovskites,SMT-SPL,32
+Precipitation,Spinels,SMT-SPL,49
+Precipitation,Tetragonal,SMT-SPL,42
+Precipitation Hardening,Austenite,SMT-SPL,56
+Precipitation Hardening,Austenitic,SMT-SPL,33
+Precipitation Hardening,Martensite,SMT-SPL,47
+Precipitation Hardening,Martensitic,SMT-SPL,52
+Precipitation Method,Cubic,SMT-SPL,46
+Precipitation Method,Hexagonal,SMT-SPL,32
+Precipitation Strengthening,Austenite,SMT-SPL,43
+Precipitation Strengthening,Austenitic,SMT-SPL,30
+Precipitation Strengthening,FCC,SMT-SPL,39
+Precipitation Strengthening,Martensite,SMT-SPL,37
+Precipitation Strengthening,Martensitic,SMT-SPL,30
+Preheating,Martensite,SMT-SPL,30
+Pressed,Cubic,SMT-SPL,68
+Pressed,Hexagonal,SMT-SPL,60
+Pressed,Monoclinic,SMT-SPL,46
+Pressed,Orthorhombic,SMT-SPL,40
+Pressed,Perovskites,SMT-SPL,77
+Pressed,Spinels,SMT-SPL,33
+Pressed,Tetragonal,SMT-SPL,51
+Pressing,Cubic,SMT-SPL,41
+Pressureless Sintering,Tetragonal,SMT-SPL,51
+Pretreated,Anatase,SMT-SPL,30
+Printed,Cubic,SMT-SPL,38
+Printed,Hexagonal,SMT-SPL,45
+Printed,Perovskites,SMT-SPL,30
+Printing,Hexagonal,SMT-SPL,41
+Printing,Perovskites,SMT-SPL,52
+Process,Perovskites,SMT-SPL,41
+Processed,Perovskites,SMT-SPL,73
+Processing,Perovskites,SMT-SPL,32
+Pulsed Laser Ablation,Cubic,SMT-SPL,32
+Pulsed Laser Deposition,Abstract,SMT-SPL,41
+Pulsed Laser Deposition,Anatase,SMT-SPL,91
+Pulsed Laser Deposition,Cubic,SMT-SPL,219
+Pulsed Laser Deposition,Double Perovskite,SMT-SPL,38
+Pulsed Laser Deposition,Garnet,SMT-SPL,63
+Pulsed Laser Deposition,Hexagonal,SMT-SPL,161
+Pulsed Laser Deposition,Hexagonal Wurtzite,SMT-SPL,43
+Pulsed Laser Deposition,Monoclinic,SMT-SPL,83
+Pulsed Laser Deposition,Orthorhombic,SMT-SPL,100
+Pulsed Laser Deposition,Perovskites,SMT-SPL,422
+Pulsed Laser Deposition,Pyrochlore,SMT-SPL,36
+Pulsed Laser Deposition,Rhombohedral,SMT-SPL,53
+Pulsed Laser Deposition,Rutile,SMT-SPL,92
+Pulsed Laser Deposition,S T,SMT-SPL,38
+Pulsed Laser Deposition,Spinels,SMT-SPL,72
+Pulsed Laser Deposition,Tetragonal,SMT-SPL,122
+Pulsed Laser Deposition,Wurtzite,SMT-SPL,95
+Pyrolysis,Abstract,SMT-SPL,40
+Pyrolysis,Anatase,SMT-SPL,83
+Pyrolysis,Bituminous,SMT-SPL,40
+Pyrolysis,Cubic,SMT-SPL,123
+Pyrolysis,FCC,SMT-SPL,33
+Pyrolysis,Graphitic,SMT-SPL,200
+Pyrolysis,Hexagonal,SMT-SPL,198
+Pyrolysis,Monoclinic,SMT-SPL,50
+Pyrolysis,Orthorhombic,SMT-SPL,31
+Pyrolysis,Perovskites,SMT-SPL,88
+Pyrolysis,Rutile,SMT-SPL,58
+Pyrolysis,S T,SMT-SPL,73
+Pyrolysis,Spinels,SMT-SPL,81
+Pyrolysis,Sub-Bituminous,SMT-SPL,31
+Pyrolysis,T,SMT-SPL,98
+Pyrolysis,Tetragonal,SMT-SPL,54
+Pyrolyzed,Graphitic,SMT-SPL,63
+Pyrolyzed,Hexagonal,SMT-SPL,45
+Pyrope,Garnet,SMT-SPL,105
+Pyrope,Garnets,SMT-SPL,45
+Pyrope,Grossular,SMT-SPL,31
+QT,Austenite,SMT-SPL,30
+Quench,Austenite,SMT-SPL,92
+Quench,Martensite,SMT-SPL,98
+Quench,Martensitic,SMT-SPL,30
+Quenched,Austenite,SMT-SPL,605
+Quenched,Austenitic,SMT-SPL,105
+Quenched,B2,SMT-SPL,78
+Quenched,BCC,SMT-SPL,137
+Quenched,Bainite,SMT-SPL,51
+Quenched,Bainitic,SMT-SPL,76
+Quenched,Body Centred Cubic,SMT-SPL,31
+Quenched,Clinopyroxenes,SMT-SPL,32
+Quenched,Cooling,SMT-SPL,47
+Quenched,Cubic,SMT-SPL,241
+Quenched,FCC,SMT-SPL,143
+Quenched,Ferritic,SMT-SPL,36
+Quenched,G,SMT-SPL,38
+Quenched,Garnet,SMT-SPL,86
+Quenched,HCP,SMT-SPL,54
+Quenched,Hexagonal,SMT-SPL,184
+Quenched,Lath,SMT-SPL,39
+Quenched,Martensite,SMT-SPL,635
+Quenched,Martensitic,SMT-SPL,312
+Quenched,Monoclinic,SMT-SPL,147
+Quenched,Olivines,SMT-SPL,95
+Quenched,Orthorhombic,SMT-SPL,175
+Quenched,Perovskites,SMT-SPL,155
+Quenched,Pyroxene,SMT-SPL,42
+Quenched,Rhombohedral,SMT-SPL,55
+Quenched,Rutile,SMT-SPL,49
+Quenched,Spinels,SMT-SPL,180
+Quenched,Tetragonal,SMT-SPL,169
+Quenched,Trigonal,SMT-SPL,37
+Quenched,α-Phase,SMT-SPL,39
+Quenched,β,SMT-SPL,207
+Quenched,β-Phase,SMT-SPL,62
+Quenched,ω,SMT-SPL,48
+Quenching,Austenite,SMT-SPL,699
+Quenching,Austenitic,SMT-SPL,117
+Quenching,B2,SMT-SPL,63
+Quenching,BCC,SMT-SPL,130
+Quenching,Bainite,SMT-SPL,89
+Quenching,Bainitic,SMT-SPL,87
+Quenching,Cubic,SMT-SPL,181
+Quenching,FCC,SMT-SPL,142
+Quenching,Face Centered Cubic,SMT-SPL,32
+Quenching,Ferritic,SMT-SPL,41
+Quenching,G,SMT-SPL,46
+Quenching,HCP,SMT-SPL,57
+Quenching,Hexagonal,SMT-SPL,147
+Quenching,Lath,SMT-SPL,42
+Quenching,M,SMT-SPL,30
+Quenching,Martensite,SMT-SPL,794
+Quenching,Martensitic,SMT-SPL,350
+Quenching,Monoclinic,SMT-SPL,103
+Quenching,Olivines,SMT-SPL,35
+Quenching,Orthorhombic,SMT-SPL,109
+Quenching,P,SMT-SPL,34
+Quenching,Perovskites,SMT-SPL,69
+Quenching,Rhombohedral,SMT-SPL,44
+Quenching,Spinels,SMT-SPL,76
+Quenching,Tetragonal,SMT-SPL,120
+Quenching,β,SMT-SPL,153
+Quenching,β-Phase,SMT-SPL,43
+Quenching,ω,SMT-SPL,36
+Quenching and Partitioning,Austenite,SMT-SPL,90
+Quenching and Partitioning,Martensite,SMT-SPL,73
+RF Magnetron Sputtering,Anatase,SMT-SPL,32
+RF Magnetron Sputtering,Cubic,SMT-SPL,62
+RF Magnetron Sputtering,Hexagonal,SMT-SPL,52
+RF Magnetron Sputtering,Hexagonal Wurtzite,SMT-SPL,52
+RF Magnetron Sputtering,Perovskites,SMT-SPL,76
+RF Magnetron Sputtering,Rutile,SMT-SPL,33
+RF Magnetron Sputtering,Wurtzite,SMT-SPL,31
+RIE,Hexagonal,SMT-SPL,65
+Radiation,Austenitic,SMT-SPL,98
+Radiation,BCC,SMT-SPL,57
+Radiation,Breast,SMT-SPL,34
+Radiation,Cubic,SMT-SPL,43
+Radiation,FCC,SMT-SPL,46
+Radiation,Ferritic,SMT-SPL,72
+Radiation,Hexagonal,SMT-SPL,47
+Radiation,Martensitic,SMT-SPL,52
+Radiation,NSCLC,SMT-SPL,36
+Radiation,Perovskites,SMT-SPL,39
+Radiation,Squamous Cell,SMT-SPL,30
+Radiation,Tetragonal,SMT-SPL,31
+Radiation Induced,Austenitic,SMT-SPL,35
+Radiation Therapy,NSCLC,SMT-SPL,30
+Radiation Therapy,Squamous Cell,SMT-SPL,32
+Radio Frequency (RF) Magnetron Sputtering,Cubic,SMT-SPL,45
+Radio Frequency (RF) Magnetron Sputtering,Hexagonal,SMT-SPL,43
+Radio Frequency (RF) Magnetron Sputtering,Hexagonal Wurtzite,SMT-SPL,31
+Radio Frequency (RF) Magnetron Sputtering,Perovskites,SMT-SPL,58
+Radio Frequency (RF) Magnetron Sputtering,Wurtzite,SMT-SPL,38
+Radiofrequency Ablation,Hepatocellular,SMT-SPL,30
+Radiotherapy,Breast,SMT-SPL,51
+Radiotherapy,NSCLC,SMT-SPL,44
+Radiotherapy,Squamous Cell,SMT-SPL,70
+Rapid Cooling,Austenite,SMT-SPL,54
+Rapid Cooling,Martensite,SMT-SPL,54
+Rapid Cooling,Martensitic,SMT-SPL,37
+Rapid Solidification,BCC,SMT-SPL,31
+Rapid Solidification,FCC,SMT-SPL,36
+Rapid Thermal Annealing,Perovskites,SMT-SPL,63
+Rapidly Solidified,FCC,SMT-SPL,38
+Rapidly Solidified,Icosahedral,SMT-SPL,39
+Re-Oxidation,Cubic,SMT-SPL,36
+Re-Oxidation,Hexagonal,SMT-SPL,30
+Re-Oxidation,Perovskites,SMT-SPL,95
+Re-Oxidation,Spinels,SMT-SPL,31
+Reaction,Hexagonal,SMT-SPL,33
+Reactive Ion Etching,Hexagonal,SMT-SPL,50
+Reactive Magnetron Sputtering,Cubic,SMT-SPL,50
+Reactive Magnetron Sputtering,Hexagonal,SMT-SPL,31
+Recrystallisation,Austenite,SMT-SPL,109
+Recrystallisation,Austenitic,SMT-SPL,62
+Recrystallisation,Cubic,SMT-SPL,39
+Recrystallisation,FCC,SMT-SPL,52
+Recrystallisation,Hexagonal,SMT-SPL,64
+Recrystallisation,Martensite,SMT-SPL,61
+Recrystallisation,Martensitic,SMT-SPL,40
+Recrystallisation,Perovskites,SMT-SPL,32
+Recrystallisation,β,SMT-SPL,40
+Recrystallized,Amphibolite,SMT-SPL,31
+Recrystallized,Austenite,SMT-SPL,250
+Recrystallized,Austenitic,SMT-SPL,119
+Recrystallized,B2,SMT-SPL,37
+Recrystallized,BCC,SMT-SPL,97
+Recrystallized,Clinopyroxenes,SMT-SPL,47
+Recrystallized,Cubic,SMT-SPL,56
+Recrystallized,Eclogites,SMT-SPL,33
+Recrystallized,FCC,SMT-SPL,155
+Recrystallized,Face Centered Cubic,SMT-SPL,36
+Recrystallized,Ferritic,SMT-SPL,32
+Recrystallized,G,SMT-SPL,32
+Recrystallized,Garnet,SMT-SPL,138
+Recrystallized,Gneiss,SMT-SPL,53
+Recrystallized,Granulite,SMT-SPL,47
+Recrystallized,HCP,SMT-SPL,47
+Recrystallized,Hexagonal,SMT-SPL,79
+Recrystallized,Martensite,SMT-SPL,158
+Recrystallized,Martensitic,SMT-SPL,70
+Recrystallized,Mylonitic,SMT-SPL,35
+Recrystallized,Olivines,SMT-SPL,75
+Recrystallized,Orthorhombic,SMT-SPL,30
+Recrystallized,Pyroxene,SMT-SPL,41
+Recrystallized,Rutile,SMT-SPL,32
+Recrystallized,Spinels,SMT-SPL,57
+Recrystallized,β,SMT-SPL,107
+Reduced,Cubic,SMT-SPL,43
+Reduced,Ferritic,SMT-SPL,43
+Reduced,Martensitic,SMT-SPL,58
+Reduced,Perovskites,SMT-SPL,64
+Reduced,Spinels,SMT-SPL,36
+Reduced Activation,Ferritic,SMT-SPL,134
+Reduced Activation,Martensitic,SMT-SPL,149
+Reduced Activation,RAFM,SMT-SPL,71
+Reductions,Abstract,SMT-SPL,84
+Reductions,Anatase,SMT-SPL,192
+Reductions,BCC,SMT-SPL,47
+Reductions,Brownmillerite,SMT-SPL,31
+Reductions,Cubic,SMT-SPL,399
+Reductions,Cubic Perovskites,SMT-SPL,35
+Reductions,FCC,SMT-SPL,264
+Reductions,Face Centered Cubic,SMT-SPL,119
+Reductions,Fluorite,SMT-SPL,53
+Reductions,Graphitic,SMT-SPL,94
+Reductions,HCP,SMT-SPL,82
+Reductions,Hexagonal,SMT-SPL,376
+Reductions,Hydrotalcite,SMT-SPL,71
+Reductions,Monoclinic,SMT-SPL,201
+Reductions,Orthorhombic,SMT-SPL,176
+Reductions,Perovskites,SMT-SPL,529
+Reductions,R A C T,SMT-SPL,43
+Reductions,Rhombohedral,SMT-SPL,61
+Reductions,Ruddlesden Popper,SMT-SPL,33
+Reductions,Rutile,SMT-SPL,178
+Reductions,S T,SMT-SPL,70
+Reductions,Spinels,SMT-SPL,309
+Reductions,T,SMT-SPL,172
+Reductions,Tetragonal,SMT-SPL,198
+Reductions,Triclinic,SMT-SPL,34
+Reductions,Trigonal,SMT-SPL,37
+Refluxing,Cubic,SMT-SPL,36
+Refluxing,Hexagonal,SMT-SPL,36
+Reheated,Austenite,SMT-SPL,73
+Reheated,Martensite,SMT-SPL,42
+Reheating,Austenite,SMT-SPL,155
+Reheating,Martensite,SMT-SPL,77
+Reverse,Phase,SMT-SPL,86
+Reversion Annealing,Austenitic,SMT-SPL,31
+Reversion Annealing,Martensite,SMT-SPL,32
+Rolled,Austenite,SMT-SPL,149
+Rolled,Austenitic,SMT-SPL,64
+Rolled,BCC,SMT-SPL,59
+Rolled,FCC,SMT-SPL,93
+Rolled,Ferritic,SMT-SPL,30
+Rolled,HCP,SMT-SPL,55
+Rolled,Hexagonal,SMT-SPL,50
+Rolled,Martensite,SMT-SPL,125
+Rolled,Martensitic,SMT-SPL,49
+Rolled,β,SMT-SPL,65
+Rolling,Austenite,SMT-SPL,560
+Rolling,Austenitic,SMT-SPL,190
+Rolling,B2,SMT-SPL,45
+Rolling,BCC,SMT-SPL,184
+Rolling,Bainite,SMT-SPL,33
+Rolling,Bainitic,SMT-SPL,51
+Rolling,Cube,SMT-SPL,44
+Rolling,Cubic,SMT-SPL,72
+Rolling,Duplex,SMT-SPL,38
+Rolling,E-Martensite,SMT-SPL,31
+Rolling,FCC,SMT-SPL,251
+Rolling,Face Centered Cubic,SMT-SPL,38
+Rolling,Ferritic,SMT-SPL,78
+Rolling,G,SMT-SPL,35
+Rolling,Goss,SMT-SPL,42
+Rolling,HCP,SMT-SPL,110
+Rolling,Hexagonal,SMT-SPL,129
+Rolling,Hexagonal Close Packed,SMT-SPL,30
+Rolling,Martensite,SMT-SPL,406
+Rolling,Martensitic,SMT-SPL,181
+Rolling,Polygonal,SMT-SPL,43
+Rolling,TD,SMT-SPL,40
+Rolling,α-Fiber,SMT-SPL,33
+Rolling,β,SMT-SPL,160
+Rolling,β-Phase,SMT-SPL,32
+Rta,Perovskites,SMT-SPL,39
+SA,Perovskites,SMT-SPL,32
+SAM,Perovskites,SMT-SPL,31
+SLE,Systemic,SMT-SPL,41
+SLM,BCC,SMT-SPL,32
+SLM,Cubic,SMT-SPL,42
+SLM,Martensite,SMT-SPL,36
+SLM,Martensitic,SMT-SPL,31
+SLM,β,SMT-SPL,61
+SOL,Anatase,SMT-SPL,74
+SPD,FCC,SMT-SPL,38
+SPS,BCC,SMT-SPL,53
+SPS,Cubic,SMT-SPL,116
+SPS,FCC,SMT-SPL,75
+SPS,Garnet,SMT-SPL,36
+SPS,Hexagonal,SMT-SPL,75
+SPS,Monoclinic,SMT-SPL,40
+SPS,Orthorhombic,SMT-SPL,43
+SPS,Perovskites,SMT-SPL,45
+SPS,Rutile,SMT-SPL,32
+SPS,Spinels,SMT-SPL,56
+SPS,Tetragonal,SMT-SPL,75
+SSR,Perovskites,SMT-SPL,37
+ST,β,SMT-SPL,39
+Screen Printed,Perovskites,SMT-SPL,65
+Screen Printing,Perovskites,SMT-SPL,69
+Selective Laser Melting,Austenite,SMT-SPL,41
+Selective Laser Melting,Austenitic,SMT-SPL,32
+Selective Laser Melting,Martensite,SMT-SPL,82
+Selective Laser Melting,Martensitic,SMT-SPL,71
+Selenization,Chalcopyrite,SMT-SPL,88
+Selenization,Kesterite,SMT-SPL,57
+Selenized,Chalcopyrite,SMT-SPL,32
+Selenized,Kesterite,SMT-SPL,31
+Self,Cubic,SMT-SPL,45
+Self,Hexagonal,SMT-SPL,88
+Self Assembled,Anatase,SMT-SPL,34
+Self Assembled,Cubic,SMT-SPL,47
+Self Assembled,Hexagonal,SMT-SPL,166
+Self Assembled,Perovskites,SMT-SPL,50
+Self Assembly,Anatase,SMT-SPL,92
+Self Assembly,BCC,SMT-SPL,39
+Self Assembly,Cubic,SMT-SPL,218
+Self Assembly,FCC,SMT-SPL,81
+Self Assembly,Face Centered Cubic,SMT-SPL,53
+Self Assembly,HCP,SMT-SPL,31
+Self Assembly,Hexagonal,SMT-SPL,494
+Self Assembly,Monoclinic,SMT-SPL,59
+Self Assembly,Nematic,SMT-SPL,31
+Self Assembly,Orthorhombic,SMT-SPL,45
+Self Assembly,Perovskites,SMT-SPL,72
+Self Assembly,Rutile,SMT-SPL,41
+Self Assembly,T,SMT-SPL,41
+Self Assembly,Tetragonal,SMT-SPL,59
+Self Assembly,Trigonal,SMT-SPL,37
+Sensitised,Austenitic,SMT-SPL,54
+Sensitization,Austenitic,SMT-SPL,63
+Sequential Deposition,Perovskites,SMT-SPL,76
+Sequential Deposition Method,Perovskites,SMT-SPL,31
+Serpentinization,Olivines,SMT-SPL,50
+Serpentinization,Spinels,SMT-SPL,30
+Serpentinization,Ultramafic,SMT-SPL,64
+Serpentinized,Clinopyroxenes,SMT-SPL,34
+Serpentinized,Garnet,SMT-SPL,81
+Serpentinized,Olivines,SMT-SPL,84
+Serpentinized,Ophiolites,SMT-SPL,49
+Serpentinized,Spinels,SMT-SPL,80
+Serpentinized,Ultramafic,SMT-SPL,97
+Severe Plastic Deformation,BCC,SMT-SPL,34
+Severe Plastic Deformation,FCC,SMT-SPL,55
+Severe Plastic Deformation,Face Centered Cubic,SMT-SPL,33
+Severe Plastic Deformation,HCP,SMT-SPL,31
+Severe Plastic Deformation,Martensite,SMT-SPL,37
+Shear Deformation,FCC,SMT-SPL,34
+Sheared,Garnet,SMT-SPL,53
+Shot Peening,Austenitic,SMT-SPL,30
+Silar,Cubic,SMT-SPL,36
+Silar,Hexagonal,SMT-SPL,36
+Sintered,Abstract,SMT-SPL,55
+Sintered,Alpha,SMT-SPL,45
+Sintered,Anatase,SMT-SPL,285
+Sintered,Apatites,SMT-SPL,60
+Sintered,Austenite,SMT-SPL,74
+Sintered,Austenitic,SMT-SPL,81
+Sintered,BCC,SMT-SPL,94
+Sintered,Cubic,SMT-SPL,1118
+Sintered,Cubic Fluorite,SMT-SPL,67
+Sintered,Cubic Perovskites,SMT-SPL,121
+Sintered,Cubic Spinel,SMT-SPL,75
+Sintered,Double Perovskite,SMT-SPL,45
+Sintered,FCC,SMT-SPL,158
+Sintered,Face Centered Cubic,SMT-SPL,42
+Sintered,Ferritic,SMT-SPL,40
+Sintered,Fluorite,SMT-SPL,153
+Sintered,Garnet,SMT-SPL,224
+Sintered,Garnets,SMT-SPL,35
+Sintered,HCP,SMT-SPL,35
+Sintered,Hexagonal,SMT-SPL,629
+Sintered,M,SMT-SPL,38
+Sintered,Martensite,SMT-SPL,85
+Sintered,Martensitic,SMT-SPL,64
+Sintered,Monoclinic,SMT-SPL,678
+Sintered,Olivines,SMT-SPL,40
+Sintered,Orthorhombic,SMT-SPL,567
+Sintered,Orthorhombic Perovskite,SMT-SPL,58
+Sintered,P,SMT-SPL,35
+Sintered,PNMA,SMT-SPL,34
+Sintered,Perovskites,SMT-SPL,1364
+Sintered,Pseudocubic,SMT-SPL,71
+Sintered,Pyrochlore,SMT-SPL,139
+Sintered,R3c,SMT-SPL,33
+Sintered,Rhombohedral,SMT-SPL,370
+Sintered,Rock Salt,SMT-SPL,35
+Sintered,Rutile,SMT-SPL,328
+Sintered,S T,SMT-SPL,61
+Sintered,Scheelite,SMT-SPL,38
+Sintered,Spinels,SMT-SPL,648
+Sintered,T,SMT-SPL,96
+Sintered,Tetragonal,SMT-SPL,1083
+Sintered,Triclinic,SMT-SPL,46
+Sintered,Trigonal,SMT-SPL,38
+Sintered,Wurtzite,SMT-SPL,48
+Sintered,β,SMT-SPL,92
+Sintering,Abstract,SMT-SPL,81
+Sintering,Alpha,SMT-SPL,31
+Sintering,Anatase,SMT-SPL,349
+Sintering,Apatites,SMT-SPL,56
+Sintering,Austenite,SMT-SPL,57
+Sintering,Austenitic,SMT-SPL,69
+Sintering,BCC,SMT-SPL,80
+Sintering,Cubic,SMT-SPL,900
+Sintering,Cubic Fluorite,SMT-SPL,48
+Sintering,Cubic Perovskites,SMT-SPL,80
+Sintering,Cubic Spinel,SMT-SPL,59
+Sintering,Double Perovskite,SMT-SPL,48
+Sintering,FCC,SMT-SPL,163
+Sintering,Face Centered Cubic,SMT-SPL,54
+Sintering,Ferritic,SMT-SPL,37
+Sintering,Fluorite,SMT-SPL,132
+Sintering,G,SMT-SPL,34
+Sintering,Garnet,SMT-SPL,282
+Sintering,Garnets,SMT-SPL,31
+Sintering,HCP,SMT-SPL,37
+Sintering,Hexagonal,SMT-SPL,493
+Sintering,M,SMT-SPL,31
+Sintering,Martensite,SMT-SPL,56
+Sintering,Martensitic,SMT-SPL,56
+Sintering,Monoclinic,SMT-SPL,557
+Sintering,Olivines,SMT-SPL,40
+Sintering,Orthorhombic,SMT-SPL,461
+Sintering,Orthorhombic Perovskite,SMT-SPL,45
+Sintering,Perovskites,SMT-SPL,1354
+Sintering,Pseudocubic,SMT-SPL,75
+Sintering,Pyrochlore,SMT-SPL,123
+Sintering,Rhombohedral,SMT-SPL,271
+Sintering,Rutile,SMT-SPL,352
+Sintering,S T,SMT-SPL,96
+Sintering,Spinels,SMT-SPL,722
+Sintering,T,SMT-SPL,116
+Sintering,Tetragonal,SMT-SPL,960
+Sintering,Triclinic,SMT-SPL,39
+Sintering,β,SMT-SPL,82
+Slm,Austenite,SMT-SPL,38
+Slm,Martensite,SMT-SPL,76
+Slm,Martensitic,SMT-SPL,68
+Slot Die Coating,Perovskites,SMT-SPL,30
+Slow Cooling,Austenite,SMT-SPL,30
+Slow Cooling,Cubic,SMT-SPL,47
+Slow Cooling,Hexagonal,SMT-SPL,64
+Slow Cooling,Monoclinic,SMT-SPL,35
+Slow Cooling,Orthorhombic,SMT-SPL,36
+Slow Cooling,Tetragonal,SMT-SPL,42
+Slow Evaporation,Monoclinic,SMT-SPL,48
+Slow Evaporation Method,Monoclinic,SMT-SPL,37
+Slow Evaporation Technique,Monoclinic,SMT-SPL,35
+Slowly Cooled,Austenite,SMT-SPL,30
+Slowly Cooled,Cubic,SMT-SPL,39
+Slowly Cooled,Orthorhombic,SMT-SPL,37
+Slowly Cooled,Perovskites,SMT-SPL,34
+Slowly Cooled,Tetragonal,SMT-SPL,33
+Soaking,Anatase,SMT-SPL,43
+Soaking,Apatites,SMT-SPL,36
+Soaking,Austenite,SMT-SPL,94
+Soaking,Hexagonal,SMT-SPL,32
+Soaking,Martensite,SMT-SPL,52
+Soaking,Perovskites,SMT-SPL,36
+Soaking,Rutile,SMT-SPL,34
+Sol Gel,Anatase,SMT-SPL,132
+Sol Gel,Cubic,SMT-SPL,53
+Sol Gel,Hexagonal,SMT-SPL,68
+Sol Gel,Monoclinic,SMT-SPL,44
+Sol Gel,Perovskites,SMT-SPL,77
+Sol Gel,Rutile,SMT-SPL,73
+Sol Gel,Spinels,SMT-SPL,45
+Sol Gel,Tetragonal,SMT-SPL,47
+Sol-Gel,Abstract,SMT-SPL,134
+Sol-Gel,Anatase,SMT-SPL,1756
+Sol-Gel,Apatites,SMT-SPL,59
+Sol-Gel,BSTRAct,SMT-SPL,37
+Sol-Gel,Brookite,SMT-SPL,107
+Sol-Gel,Cubic,SMT-SPL,633
+Sol-Gel,Cubic Perovskites,SMT-SPL,46
+Sol-Gel,Cubic Spinel,SMT-SPL,81
+Sol-Gel,Double Perovskite,SMT-SPL,46
+Sol-Gel,FCC,SMT-SPL,43
+Sol-Gel,Face Centered Cubic,SMT-SPL,45
+Sol-Gel,Fluorite,SMT-SPL,56
+Sol-Gel,Garnet,SMT-SPL,163
+Sol-Gel,Hexagonal,SMT-SPL,574
+Sol-Gel,Hexagonal Wurtzite,SMT-SPL,187
+Sol-Gel,Monoclinic,SMT-SPL,464
+Sol-Gel,Olivines,SMT-SPL,53
+Sol-Gel,Orthorhombic,SMT-SPL,362
+Sol-Gel,Orthorhombic Perovskite,SMT-SPL,36
+Sol-Gel,PBNM,SMT-SPL,38
+Sol-Gel,PNMA,SMT-SPL,67
+Sol-Gel,Perovskites,SMT-SPL,1228
+Sol-Gel,Pyrochlore,SMT-SPL,97
+Sol-Gel,R A C T,SMT-SPL,45
+Sol-Gel,R3c,SMT-SPL,46
+Sol-Gel,Rhombohedral,SMT-SPL,245
+Sol-Gel,Rutile,SMT-SPL,743
+Sol-Gel,S T,SMT-SPL,130
+Sol-Gel,SG,SMT-SPL,35
+Sol-Gel,Spinels,SMT-SPL,686
+Sol-Gel,T,SMT-SPL,256
+Sol-Gel,Tetragonal,SMT-SPL,592
+Sol-Gel,Wurtzite,SMT-SPL,186
+Sol-Gel Auto-Combustion Method,Spinels,SMT-SPL,36
+Sol-Gel Dip Coating,Anatase,SMT-SPL,60
+Sol-Gel Spin-Coating,Hexagonal Wurtzite,SMT-SPL,39
+Solid Phase Extraction,Phase,SMT-SPL,50
+Solid Solution Strengthening,Austenite,SMT-SPL,35
+Solid Solution Strengthening,BCC,SMT-SPL,52
+Solid Solution Strengthening,FCC,SMT-SPL,52
+Solid Solution Strengthening,Face Centered Cubic,SMT-SPL,31
+Solid Solution Strengthening,Martensite,SMT-SPL,41
+Solid State,Cubic,SMT-SPL,30
+Solid State,Perovskites,SMT-SPL,54
+Solid State Method,Cubic,SMT-SPL,58
+Solid State Method,Hexagonal,SMT-SPL,36
+Solid State Method,Monoclinic,SMT-SPL,67
+Solid State Method,Orthorhombic,SMT-SPL,89
+Solid State Method,Perovskites,SMT-SPL,116
+Solid State Method,Rhombohedral,SMT-SPL,32
+Solid State Method,Spinels,SMT-SPL,59
+Solid State Method,Tetragonal,SMT-SPL,66
+Solid State Reaction,Abstract,SMT-SPL,89
+Solid State Reaction,Anatase,SMT-SPL,61
+Solid State Reaction,Apatites,SMT-SPL,39
+Solid State Reaction,Aurivillius,SMT-SPL,31
+Solid State Reaction,C2/C,SMT-SPL,59
+Solid State Reaction,C2/M,SMT-SPL,42
+Solid State Reaction,Cubic,SMT-SPL,392
+Solid State Reaction,Cubic Perovskites,SMT-SPL,60
+Solid State Reaction,Cubic Spinel,SMT-SPL,32
+Solid State Reaction,Delafossite,SMT-SPL,31
+Solid State Reaction,Double Perovskite,SMT-SPL,90
+Solid State Reaction,Fluorite,SMT-SPL,56
+Solid State Reaction,Garnet,SMT-SPL,110
+Solid State Reaction,Hexagonal,SMT-SPL,288
+Solid State Reaction,I4/MMM,SMT-SPL,36
+Solid State Reaction,Monoclinic,SMT-SPL,416
+Solid State Reaction,Olivines,SMT-SPL,47
+Solid State Reaction,Orthorhombic,SMT-SPL,480
+Solid State Reaction,P2 1/N,SMT-SPL,51
+Solid State Reaction,P21/C,SMT-SPL,49
+Solid State Reaction,PBNM,SMT-SPL,35
+Solid State Reaction,PNMA,SMT-SPL,92
+Solid State Reaction,Perovskites,SMT-SPL,716
+Solid State Reaction,Pyrochlore,SMT-SPL,63
+Solid State Reaction,R3c,SMT-SPL,32
+Solid State Reaction,Rhombohedral,SMT-SPL,143
+Solid State Reaction,Rutile,SMT-SPL,69
+Solid State Reaction,S T,SMT-SPL,50
+Solid State Reaction,Spinels,SMT-SPL,356
+Solid State Reaction,T,SMT-SPL,68
+Solid State Reaction,Tetragonal,SMT-SPL,368
+Solid State Reaction,Triclinic,SMT-SPL,57
+Solid State Reaction,Trigonal,SMT-SPL,74
+Solid State Reaction Method,Cubic,SMT-SPL,182
+Solid State Reaction Method,Cubic Perovskites,SMT-SPL,54
+Solid State Reaction Method,Double Perovskite,SMT-SPL,47
+Solid State Reaction Method,Garnet,SMT-SPL,38
+Solid State Reaction Method,Hexagonal,SMT-SPL,107
+Solid State Reaction Method,Monoclinic,SMT-SPL,139
+Solid State Reaction Method,Orthorhombic,SMT-SPL,278
+Solid State Reaction Method,PBNM,SMT-SPL,34
+Solid State Reaction Method,PNMA,SMT-SPL,49
+Solid State Reaction Method,Perovskites,SMT-SPL,458
+Solid State Reaction Method,Pseudocubic,SMT-SPL,51
+Solid State Reaction Method,R3c,SMT-SPL,41
+Solid State Reaction Method,Rhombohedral,SMT-SPL,183
+Solid State Reaction Method,S T,SMT-SPL,31
+Solid State Reaction Method,Spinels,SMT-SPL,81
+Solid State Reaction Method,Tetragonal,SMT-SPL,271
+Solid State Reaction Route,Cubic,SMT-SPL,33
+Solid State Reaction Route,Orthorhombic,SMT-SPL,65
+Solid State Reaction Route,Perovskites,SMT-SPL,74
+Solid State Reaction Route,Tetragonal,SMT-SPL,55
+Solid State Reaction Technique,Monoclinic,SMT-SPL,34
+Solid State Reaction Technique,Orthorhombic,SMT-SPL,61
+Solid State Reaction Technique,Perovskites,SMT-SPL,83
+Solid State Reaction Technique,Tetragonal,SMT-SPL,45
+Solid State Route,Perovskites,SMT-SPL,65
+Solid State Sintering,Orthorhombic,SMT-SPL,39
+Solid State Sintering,Perovskites,SMT-SPL,49
+Solid State Sintering,Tetragonal,SMT-SPL,50
+Solid State Synthesis,Hexagonal,SMT-SPL,30
+Solid State Synthesis,Monoclinic,SMT-SPL,34
+Solid State Synthesis,Orthorhombic,SMT-SPL,39
+Solid State Synthesis,Perovskites,SMT-SPL,77
+Solid State Synthesis,Spinels,SMT-SPL,36
+Solid State Synthesis,Tetragonal,SMT-SPL,30
+Solidification,Austenite,SMT-SPL,147
+Solidification,Austenitic,SMT-SPL,81
+Solidification,B2,SMT-SPL,51
+Solidification,BCC,SMT-SPL,100
+Solidification,Cubic,SMT-SPL,54
+Solidification,FCC,SMT-SPL,120
+Solidification,G,SMT-SPL,58
+Solidification,HCP,SMT-SPL,50
+Solidification,Hexagonal,SMT-SPL,78
+Solidification,Icosahedral,SMT-SPL,36
+Solidification,Laves Phase,SMT-SPL,33
+Solidification,Leaves,SMT-SPL,32
+Solidification,Martensite,SMT-SPL,65
+Solidification,Martensitic,SMT-SPL,53
+Solidification,Peritectic,SMT-SPL,49
+Solidification,Spinels,SMT-SPL,31
+Solidification,β,SMT-SPL,64
+Solution,Perovskites,SMT-SPL,40
+Solution Annealed,Austenite,SMT-SPL,105
+Solution Annealed,Austenitic,SMT-SPL,142
+Solution Annealed,Martensite,SMT-SPL,81
+Solution Annealed,Martensitic,SMT-SPL,39
+Solution Annealing,Austenite,SMT-SPL,42
+Solution Based,Perovskites,SMT-SPL,33
+Solution Combustion Synthesis,Perovskites,SMT-SPL,42
+Solution Combustion Synthesis,Spinels,SMT-SPL,30
+Solution Deposition,Perovskites,SMT-SPL,30
+Solution Method,Perovskites,SMT-SPL,49
+Solution Processable,Perovskites,SMT-SPL,42
+Solution Processed,Cubic,SMT-SPL,36
+Solution Processed,Perovskites,SMT-SPL,479
+Solution Processing,Perovskites,SMT-SPL,191
+Solution Treated,Austenite,SMT-SPL,122
+Solution Treated,Austenitic,SMT-SPL,90
+Solution Treated,B2,SMT-SPL,34
+Solution Treated,BCC,SMT-SPL,39
+Solution Treated,FCC,SMT-SPL,56
+Solution Treated,Martensite,SMT-SPL,144
+Solution Treated,Martensitic,SMT-SPL,71
+Solution Treated,β,SMT-SPL,177
+Solution Treated,ω,SMT-SPL,39
+Solution Treatment,Austenite,SMT-SPL,118
+Solution Treatment,Austenitic,SMT-SPL,58
+Solution Treatment,B2,SMT-SPL,30
+Solution Treatment,BCC,SMT-SPL,32
+Solution Treatment,FCC,SMT-SPL,48
+Solution Treatment,G,SMT-SPL,39
+Solution Treatment,Martensite,SMT-SPL,120
+Solution Treatment,Martensitic,SMT-SPL,58
+Solution Treatment,β,SMT-SPL,148
+Solvent Annealing,Hexagonal,SMT-SPL,32
+Solvent Annealing,Perovskites,SMT-SPL,64
+Solvent Engineering,Perovskites,SMT-SPL,46
+Solvent Evaporation,Hexagonal,SMT-SPL,60
+Solvothermal,Anatase,SMT-SPL,80
+Solvothermal,Cubic,SMT-SPL,65
+Solvothermal,Hexagonal,SMT-SPL,97
+Solvothermal,Monoclinic,SMT-SPL,64
+Solvothermal,Orthorhombic,SMT-SPL,40
+Solvothermal,Perovskites,SMT-SPL,33
+Solvothermal,Rutile,SMT-SPL,33
+Solvothermal,Spinels,SMT-SPL,30
+Solvothermal,Tetragonal,SMT-SPL,32
+Solvothermal Condition,Monoclinic,SMT-SPL,65
+Solvothermal Method,Anatase,SMT-SPL,101
+Solvothermal Method,Cubic,SMT-SPL,90
+Solvothermal Method,Hexagonal,SMT-SPL,132
+Solvothermal Method,Monoclinic,SMT-SPL,40
+Solvothermal Method,Orthorhombic,SMT-SPL,44
+Solvothermal Method,Perovskites,SMT-SPL,37
+Solvothermal Method,Rutile,SMT-SPL,32
+Solvothermal Method,Spinels,SMT-SPL,40
+Solvothermal Method,T,SMT-SPL,48
+Solvothermal Method,Tetragonal,SMT-SPL,45
+Solvothermal Method,Wurtzite,SMT-SPL,38
+Solvothermal Process,Anatase,SMT-SPL,46
+Solvothermal Process,Cubic,SMT-SPL,37
+Solvothermal Process,Hexagonal,SMT-SPL,43
+Solvothermal Reaction,Anatase,SMT-SPL,48
+Solvothermal Reaction,Cubic,SMT-SPL,34
+Solvothermal Reaction,Hexagonal,SMT-SPL,63
+Solvothermal Reaction,Monoclinic,SMT-SPL,44
+Solvothermal Synthesis,Cubic,SMT-SPL,36
+Solvothermal Synthesis,Hexagonal,SMT-SPL,48
+Solvothermal Treatment,Anatase,SMT-SPL,53
+Solvothermal Treatment,Hexagonal,SMT-SPL,38
+Sonicated,Hexagonal,SMT-SPL,36
+Sonication,Anatase,SMT-SPL,53
+Sonication,Cubic,SMT-SPL,69
+Sonication,Hexagonal,SMT-SPL,160
+Sonication,Rutile,SMT-SPL,35
+Spark Plasma Sintering,BCC,SMT-SPL,57
+Spark Plasma Sintering,Cubic,SMT-SPL,99
+Spark Plasma Sintering,FCC,SMT-SPL,78
+Spark Plasma Sintering,Face Centered Cubic,SMT-SPL,40
+Spark Plasma Sintering,Hexagonal,SMT-SPL,66
+Spark Plasma Sintering,Monoclinic,SMT-SPL,37
+Spark Plasma Sintering,Orthorhombic,SMT-SPL,34
+Spark Plasma Sintering,Perovskites,SMT-SPL,59
+Spark Plasma Sintering,Rhombohedral,SMT-SPL,30
+Spark Plasma Sintering,Skutterudites,SMT-SPL,66
+Spark Plasma Sintering,Spinels,SMT-SPL,51
+Spark Plasma Sintering,Tetragonal,SMT-SPL,75
+Spin,Perovskites,SMT-SPL,41
+Spin Cast,Perovskites,SMT-SPL,31
+Spin Coater,Anatase,SMT-SPL,65
+Spin Coater,Cubic,SMT-SPL,80
+Spin Coater,Hexagonal,SMT-SPL,162
+Spin Coater,Monoclinic,SMT-SPL,33
+Spin Coater,Orthorhombic,SMT-SPL,35
+Spin Coater,Perovskites,SMT-SPL,519
+Spin Coater,Rutile,SMT-SPL,35
+Spin Coater,Tetragonal,SMT-SPL,47
+Spin Coating,Anatase,SMT-SPL,155
+Spin Coating,Cubic,SMT-SPL,140
+Spin Coating,Hexagonal,SMT-SPL,230
+Spin Coating,Hexagonal Wurtzite,SMT-SPL,32
+Spin Coating,Monoclinic,SMT-SPL,60
+Spin Coating,Orthorhombic,SMT-SPL,59
+Spin Coating,Perovskites,SMT-SPL,987
+Spin Coating,Rutile,SMT-SPL,66
+Spin Coating,S T,SMT-SPL,37
+Spin Coating,Spinels,SMT-SPL,32
+Spin Coating,Tetragonal,SMT-SPL,90
+Spin Coating,Wurtzite,SMT-SPL,31
+Spinning,Perovskites,SMT-SPL,42
+Spinodal Decomposition,Austenite,SMT-SPL,38
+Spinodal Decomposition,BCC,SMT-SPL,50
+Spinodal Decomposition,Cubic,SMT-SPL,53
+Spinodal Decomposition,FCC,SMT-SPL,66
+Spinodal Decomposition,G,SMT-SPL,37
+Spray,Perovskites,SMT-SPL,56
+Spray Coating,Perovskites,SMT-SPL,69
+Spray Drying,Anatase,SMT-SPL,32
+Spray Drying,Hexagonal,SMT-SPL,30
+Spray Drying,Spinels,SMT-SPL,43
+Spray Pyrolysis,Anatase,SMT-SPL,43
+Spray Pyrolysis,Cubic,SMT-SPL,142
+Spray Pyrolysis,Hexagonal,SMT-SPL,136
+Spray Pyrolysis,Hexagonal Wurtzite,SMT-SPL,59
+Spray Pyrolysis,Monoclinic,SMT-SPL,41
+Spray Pyrolysis,Orthorhombic,SMT-SPL,61
+Spray Pyrolysis,Perovskites,SMT-SPL,68
+Spray Pyrolysis,Spinels,SMT-SPL,56
+Spray Pyrolysis,Tetragonal,SMT-SPL,99
+Spray Pyrolysis,Wurtzite,SMT-SPL,62
+Spray-Coated,Perovskites,SMT-SPL,43
+Sprayed,Anatase,SMT-SPL,41
+Sprayed,Cubic,SMT-SPL,44
+Sprayed,Perovskites,SMT-SPL,41
+Sprayed,Rutile,SMT-SPL,33
+Sprayed,Tetragonal,SMT-SPL,30
+Spraying,Anatase,SMT-SPL,32
+Sputter,Cubic,SMT-SPL,33
+Sputtered,Anatase,SMT-SPL,124
+Sputtered,BCC,SMT-SPL,50
+Sputtered,Cubic,SMT-SPL,143
+Sputtered,FCC,SMT-SPL,85
+Sputtered,HCP,SMT-SPL,34
+Sputtered,Hexagonal,SMT-SPL,150
+Sputtered,Monoclinic,SMT-SPL,73
+Sputtered,Orthorhombic,SMT-SPL,40
+Sputtered,Perovskites,SMT-SPL,136
+Sputtered,Rutile,SMT-SPL,101
+Sputtered,Spinels,SMT-SPL,42
+Sputtered,Tetragonal,SMT-SPL,62
+Sputtered,Wurtzite,SMT-SPL,38
+Sputtering,Anatase,SMT-SPL,218
+Sputtering,Austenitic,SMT-SPL,32
+Sputtering,BCC,SMT-SPL,59
+Sputtering,Chalcopyrite,SMT-SPL,41
+Sputtering,Cubic,SMT-SPL,180
+Sputtering,FCC,SMT-SPL,105
+Sputtering,Hexagonal,SMT-SPL,213
+Sputtering,L10,SMT-SPL,31
+Sputtering,Monoclinic,SMT-SPL,85
+Sputtering,Orthorhombic,SMT-SPL,52
+Sputtering,Perovskites,SMT-SPL,185
+Sputtering,Rutile,SMT-SPL,163
+Sputtering,S T,SMT-SPL,32
+Sputtering,Spinels,SMT-SPL,64
+Sputtering,Tetragonal,SMT-SPL,94
+Sputtering,Wurtzite,SMT-SPL,88
+Stem,Pluripotent,SMT-SPL,41
+Step,Perovskites,SMT-SPL,56
+Stirring,Hexagonal,SMT-SPL,31
+Strain,Austenite,SMT-SPL,44
+Strain,Martensite,SMT-SPL,51
+Strain Hardening,Austenite,SMT-SPL,100
+Strain Hardening,Austenitic,SMT-SPL,77
+Strain Hardening,BCC,SMT-SPL,35
+Strain Hardening,FCC,SMT-SPL,69
+Strain Hardening,Martensite,SMT-SPL,92
+Strain Hardening,Martensitic,SMT-SPL,64
+Strain-Induced,Austenite,SMT-SPL,73
+Strain-Induced,Austenitic,SMT-SPL,60
+Strain-Induced,Martensite,SMT-SPL,107
+Strain-Induced,Martensitic,SMT-SPL,37
+Straining,Austenite,SMT-SPL,74
+Straining,Austenitic,SMT-SPL,34
+Straining,FCC,SMT-SPL,35
+Straining,Martensite,SMT-SPL,71
+Straining,Martensitic,SMT-SPL,31
+Strengthened,Ferritic,SMT-SPL,34
+Strengthening,Austenite,SMT-SPL,75
+Strengthening,Austenitic,SMT-SPL,64
+Strengthening,BCC,SMT-SPL,37
+Strengthening,FCC,SMT-SPL,73
+Strengthening,Face Centered Cubic,SMT-SPL,31
+Strengthening,Ferritic,SMT-SPL,32
+Strengthening,G,SMT-SPL,36
+Strengthening,L12,SMT-SPL,31
+Strengthening,Martensite,SMT-SPL,82
+Strengthening,Martensitic,SMT-SPL,62
+Stress - Induced,Martensite,SMT-SPL,33
+Stretching,Hexagonal,SMT-SPL,46
+Subducted,Basaltic,SMT-SPL,30
+Subducted,Eclogites,SMT-SPL,51
+Subducted,Garnet,SMT-SPL,129
+Subducted,Olivines,SMT-SPL,36
+Subducted,Perovskites,SMT-SPL,34
+Subducted,Rutile,SMT-SPL,31
+Subduction,Amphibolite,SMT-SPL,32
+Subduction,Clinopyroxenes,SMT-SPL,32
+Subduction,Eclogites,SMT-SPL,92
+Subduction,Eclogitic,SMT-SPL,30
+Subduction,Garnet,SMT-SPL,159
+Subduction,Granulite,SMT-SPL,31
+Subduction,Olivines,SMT-SPL,47
+Subduction,Rutile,SMT-SPL,33
+Subduction,Spinels,SMT-SPL,42
+Sublimation,Hexagonal,SMT-SPL,50
+Sulfidation,Hexagonal,SMT-SPL,46
+Sulfurization,Chalcopyrite,SMT-SPL,44
+Sulfurization,Hexagonal,SMT-SPL,35
+Sulfurization,Kesterite,SMT-SPL,73
+Sulfurized,Kesterite,SMT-SPL,38
+Supercooled,Austenite,SMT-SPL,58
+Supercooled,Cubic,SMT-SPL,34
+Supercooled,FCC,SMT-SPL,41
+Supercooled,Hexagonal,SMT-SPL,50
+Supercooled,Icosahedral,SMT-SPL,50
+Supercritical Drying,Anatase,SMT-SPL,30
+Surface,Hexagonal,SMT-SPL,33
+Surface,Perovskites,SMT-SPL,32
+Surface Modification,Anatase,SMT-SPL,110
+Surface Modification,Austenitic,SMT-SPL,37
+Surface Modification,Cubic,SMT-SPL,69
+Surface Modification,Hexagonal,SMT-SPL,104
+Surface Modification,Perovskites,SMT-SPL,90
+Surface Modification,Rutile,SMT-SPL,59
+Surface Modification,S T,SMT-SPL,32
+Surface Modification,Spinels,SMT-SPL,80
+Surface Modification,T,SMT-SPL,36
+Surface Modification,Tetragonal,SMT-SPL,31
+Surface Treatment,Anatase,SMT-SPL,42
+Surface Treatment,Austenitic,SMT-SPL,55
+Surface Treatment,Cubic,SMT-SPL,30
+Surface Treatment,Hexagonal,SMT-SPL,32
+Surface Treatment,Perovskites,SMT-SPL,74
+Surface Treatment,Rutile,SMT-SPL,38
+Surface Treatment,Spinels,SMT-SPL,36
+Surface Treatment,Tetragonal,SMT-SPL,33
+Swelling,Hexagonal,SMT-SPL,39
+Synthesis,Hexagonal,SMT-SPL,34
+T,F,SMT-SPL,39
+T,Martensite,SMT-SPL,31
+T,P,SMT-SPL,31
+TICL4,Anatase,SMT-SPL,38
+TICL4,Rutile,SMT-SPL,33
+TMCP,Austenite,SMT-SPL,35
+TMCP,Martensite,SMT-SPL,32
+TRIP,Austenite,SMT-SPL,46
+TRIP,Martensite,SMT-SPL,40
+TWIP,Austenite,SMT-SPL,55
+TWIP,Austenitic,SMT-SPL,47
+TWIP,Martensite,SMT-SPL,44
+Ta,Perovskites,SMT-SPL,34
+Tape Casting,Perovskites,SMT-SPL,32
+Temperature Programmed Reduction,Perovskites,SMT-SPL,56
+Tempered,Austenite,SMT-SPL,736
+Tempered,Austenitic,SMT-SPL,110
+Tempered,BCC,SMT-SPL,55
+Tempered,Bainite,SMT-SPL,71
+Tempered,Bainitic,SMT-SPL,137
+Tempered,FCC,SMT-SPL,47
+Tempered,Ferritic,SMT-SPL,133
+Tempered,Lath,SMT-SPL,116
+Tempered,Lath Martensite,SMT-SPL,30
+Tempered,Laves Phase,SMT-SPL,31
+Tempered,Leaves,SMT-SPL,47
+Tempered,Martensite,SMT-SPL,1108
+Tempered,Martensitic,SMT-SPL,679
+Tempered,Pearlitic,SMT-SPL,33
+Tempering,Austenite,SMT-SPL,645
+Tempering,Austenitic,SMT-SPL,85
+Tempering,BCC,SMT-SPL,54
+Tempering,Bainite,SMT-SPL,47
+Tempering,Bainitic,SMT-SPL,104
+Tempering,FCC,SMT-SPL,54
+Tempering,Ferritic,SMT-SPL,94
+Tempering,Hexagonal,SMT-SPL,31
+Tempering,Lath,SMT-SPL,79
+Tempering,Martensite,SMT-SPL,753
+Tempering,Martensitic,SMT-SPL,454
+Templating,Hexagonal,SMT-SPL,33
+Tensile,Austenite,SMT-SPL,41
+Tensile,Martensite,SMT-SPL,35
+Tensile Deformation,Austenite,SMT-SPL,184
+Tensile Deformation,Austenitic,SMT-SPL,73
+Tensile Deformation,BCC,SMT-SPL,82
+Tensile Deformation,FCC,SMT-SPL,104
+Tensile Deformation,HCP,SMT-SPL,55
+Tensile Deformation,Martensite,SMT-SPL,196
+Tensile Deformation,Martensitic,SMT-SPL,85
+Tensile Deformation,β,SMT-SPL,60
+Tensile Strain,Austenite,SMT-SPL,32
+Tensile Strain,Martensite,SMT-SPL,31
+Thermal,Austenite,SMT-SPL,77
+Thermal,Cubic,SMT-SPL,37
+Thermal,Hexagonal,SMT-SPL,45
+Thermal,Martensite,SMT-SPL,85
+Thermal,Martensitic,SMT-SPL,56
+Thermal,Monoclinic,SMT-SPL,39
+Thermal,Perovskites,SMT-SPL,49
+Thermal,Rutile,SMT-SPL,33
+Thermal,Tetragonal,SMT-SPL,37
+Thermal Aging,Austenite,SMT-SPL,47
+Thermal Aging,Austenitic,SMT-SPL,49
+Thermal Aging,Ferritic,SMT-SPL,30
+Thermal Aging,Perovskites,SMT-SPL,38
+Thermal Annealing,Anatase,SMT-SPL,137
+Thermal Annealing,Cubic,SMT-SPL,169
+Thermal Annealing,FCC,SMT-SPL,69
+Thermal Annealing,Graphitic,SMT-SPL,30
+Thermal Annealing,Hexagonal,SMT-SPL,199
+Thermal Annealing,Monoclinic,SMT-SPL,58
+Thermal Annealing,Orthorhombic,SMT-SPL,65
+Thermal Annealing,Perovskites,SMT-SPL,397
+Thermal Annealing,Rutile,SMT-SPL,79
+Thermal Annealing,Spinels,SMT-SPL,48
+Thermal Annealing,T,SMT-SPL,33
+Thermal Annealing,Tetragonal,SMT-SPL,82
+Thermal Annealing,Wurtzite,SMT-SPL,74
+Thermal Cycling,Austenite,SMT-SPL,107
+Thermal Cycling,Austenitic,SMT-SPL,52
+Thermal Cycling,B2,SMT-SPL,47
+Thermal Cycling,Cubic,SMT-SPL,50
+Thermal Cycling,Martensite,SMT-SPL,183
+Thermal Cycling,Martensitic,SMT-SPL,112
+Thermal Cycling,Monoclinic,SMT-SPL,33
+Thermal Cycling,Perovskites,SMT-SPL,39
+Thermal Cycling,Spinels,SMT-SPL,37
+Thermal Cycling,Tetragonal,SMT-SPL,36
+Thermal Cycling,β,SMT-SPL,40
+Thermal Decomposition,Abstract,SMT-SPL,40
+Thermal Decomposition,Anatase,SMT-SPL,63
+Thermal Decomposition,Cubic,SMT-SPL,245
+Thermal Decomposition,FCC,SMT-SPL,53
+Thermal Decomposition,Graphitic,SMT-SPL,30
+Thermal Decomposition,Hexagonal,SMT-SPL,246
+Thermal Decomposition,Hydrotalcite,SMT-SPL,73
+Thermal Decomposition,Monoclinic,SMT-SPL,172
+Thermal Decomposition,Orthorhombic,SMT-SPL,133
+Thermal Decomposition,Perovskites,SMT-SPL,166
+Thermal Decomposition,Rhombohedral,SMT-SPL,40
+Thermal Decomposition,Rutile,SMT-SPL,62
+Thermal Decomposition,S T,SMT-SPL,39
+Thermal Decomposition,Spinels,SMT-SPL,263
+Thermal Decomposition,T,SMT-SPL,55
+Thermal Decomposition,Tetragonal,SMT-SPL,120
+Thermal Decomposition,Triclinic,SMT-SPL,42
+Thermal Decomposition,Wurtzite,SMT-SPL,42
+Thermal Evaporated,Perovskites,SMT-SPL,39
+Thermal Evaporation,Cubic,SMT-SPL,39
+Thermal Evaporation,Hexagonal,SMT-SPL,94
+Thermal Evaporation,Perovskites,SMT-SPL,59
+Thermal Evaporation,Wurtzite,SMT-SPL,59
+Thermal Metamorphism,Chondrite,SMT-SPL,52
+Thermal Oxidation,Anatase,SMT-SPL,32
+Thermal Oxidation,Hexagonal,SMT-SPL,37
+Thermal Oxidation,Monoclinic,SMT-SPL,40
+Thermal Oxidation,Rutile,SMT-SPL,73
+Thermal Reduction,Perovskites,SMT-SPL,30
+Thermal Treated,Anatase,SMT-SPL,131
+Thermal Treated,Cubic,SMT-SPL,71
+Thermal Treated,Hexagonal,SMT-SPL,72
+Thermal Treated,Monoclinic,SMT-SPL,51
+Thermal Treated,Orthorhombic,SMT-SPL,36
+Thermal Treated,Perovskites,SMT-SPL,47
+Thermal Treated,Rutile,SMT-SPL,76
+Thermal Treated,Spinels,SMT-SPL,33
+Thermal Treated,Tetragonal,SMT-SPL,53
+Thermal Treatment,Abstract,SMT-SPL,58
+Thermal Treatment,Anatase,SMT-SPL,482
+Thermal Treatment,Austenite,SMT-SPL,61
+Thermal Treatment,BCC,SMT-SPL,44
+Thermal Treatment,Brookite,SMT-SPL,34
+Thermal Treatment,Cubic,SMT-SPL,372
+Thermal Treatment,FCC,SMT-SPL,120
+Thermal Treatment,Face Centered Cubic,SMT-SPL,41
+Thermal Treatment,Fluorite,SMT-SPL,34
+Thermal Treatment,Graphitic,SMT-SPL,66
+Thermal Treatment,Hexagonal,SMT-SPL,379
+Thermal Treatment,Hydrotalcite,SMT-SPL,37
+Thermal Treatment,Martensite,SMT-SPL,72
+Thermal Treatment,Martensitic,SMT-SPL,49
+Thermal Treatment,Monoclinic,SMT-SPL,263
+Thermal Treatment,Orthorhombic,SMT-SPL,159
+Thermal Treatment,Perovskites,SMT-SPL,279
+Thermal Treatment,Rhombohedral,SMT-SPL,60
+Thermal Treatment,Rutile,SMT-SPL,278
+Thermal Treatment,S T,SMT-SPL,60
+Thermal Treatment,Spinels,SMT-SPL,274
+Thermal Treatment,T,SMT-SPL,92
+Thermal Treatment,Tetragonal,SMT-SPL,229
+Thermal Treatment,Trigonal,SMT-SPL,31
+Thermal Treatment,Wurtzite,SMT-SPL,50
+Thermal Treatment,β,SMT-SPL,64
+Thermally Anneal,Cubic,SMT-SPL,31
+Thermally Anneal,Hexagonal,SMT-SPL,37
+Thermally Anneal,Perovskites,SMT-SPL,60
+Thermally Cycled,Austenite,SMT-SPL,187
+Thermally Cycled,Austenitic,SMT-SPL,53
+Thermally Cycled,Cubic,SMT-SPL,33
+Thermally Cycled,Martensite,SMT-SPL,202
+Thermally Cycled,Martensitic,SMT-SPL,89
+Thermally Cycled,Tetragonal,SMT-SPL,30
+Thermally Cycled,β,SMT-SPL,41
+Thermally Etched,Cubic,SMT-SPL,38
+Thermally Etched,Monoclinic,SMT-SPL,52
+Thermally Etched,Perovskites,SMT-SPL,39
+Thermally Etched,Tetragonal,SMT-SPL,60
+Thermally Grown,Spinels,SMT-SPL,47
+Thermally Induced,Austenite,SMT-SPL,31
+Thermally Induced,Martensite,SMT-SPL,48
+Thermo,Austenite,SMT-SPL,78
+Thermo,Austenitic,SMT-SPL,34
+Thermo,Martensite,SMT-SPL,73
+Thermo,Martensitic,SMT-SPL,41
+Thermo-Mechanical Treatment,Austenite,SMT-SPL,99
+Thermo-Mechanical Treatment,Austenitic,SMT-SPL,59
+Thermo-Mechanical Treatment,Martensite,SMT-SPL,100
+Thermo-Mechanical Treatment,Martensitic,SMT-SPL,66
+Thermolysis,Cubic,SMT-SPL,51
+Thermolysis,Hexagonal,SMT-SPL,69
+Thermolysis,Monoclinic,SMT-SPL,31
+Thermolysis,Orthorhombic,SMT-SPL,30
+Thermomechanical Processing,Austenite,SMT-SPL,117
+Thermomechanical Processing,Austenitic,SMT-SPL,38
+Thermomechanical Processing,BCC,SMT-SPL,34
+Thermomechanical Processing,FCC,SMT-SPL,33
+Thermomechanical Processing,Martensite,SMT-SPL,81
+Thermomechanically Processed,Austenite,SMT-SPL,33
+Thermophilic,Mesophilic,SMT-SPL,48
+Transesterification,T,SMT-SPL,31
+Transformation,Austenite,SMT-SPL,93
+Transformation,Martensite,SMT-SPL,83
+Transformation,Martensitic,SMT-SPL,98
+Transformation-Induced Plasticity,Austenite,SMT-SPL,33
+Treatments,Anatase,SMT-SPL,31
+Trip,Austenite,SMT-SPL,242
+Trip,Austenitic,SMT-SPL,65
+Trip,Martensite,SMT-SPL,163
+Trip,Martensitic,SMT-SPL,84
+Trip-Assisted,Austenite,SMT-SPL,35
+Two Step Method,Perovskites,SMT-SPL,62
+Two-Step Deposition,Perovskites,SMT-SPL,32
+UHP,Eclogites,SMT-SPL,50
+UHP,Garnet,SMT-SPL,60
+UV,Anatase,SMT-SPL,71
+UV,Hexagonal,SMT-SPL,36
+UV,Rutile,SMT-SPL,35
+UV Irradiated,Anatase,SMT-SPL,53
+UV Irradiation,Anatase,SMT-SPL,464
+UV Irradiation,Cubic,SMT-SPL,79
+UV Irradiation,Hexagonal,SMT-SPL,119
+UV Irradiation,Lc,SMT-SPL,32
+UV Irradiation,Merocyanine,SMT-SPL,34
+UV Irradiation,Nematic,SMT-SPL,42
+UV Irradiation,Perovskites,SMT-SPL,98
+UV Irradiation,Rutile,SMT-SPL,248
+UV Irradiation,T,SMT-SPL,30
+UV Light Irradiation,Anatase,SMT-SPL,66
+UV Light Irradiation,Rutile,SMT-SPL,36
+Uhp,Eclogites,SMT-SPL,38
+Uhp,Garnet,SMT-SPL,38
+Uht,Granulite,SMT-SPL,35
+Ultrasonication,Anatase,SMT-SPL,36
+Ultrasonication,Cubic,SMT-SPL,33
+Ultrasonication,Hexagonal,SMT-SPL,60
+Underplating,Garnet,SMT-SPL,36
+Unirradiated,Austenitic,SMT-SPL,40
+Unirradiated,Ferritic,SMT-SPL,32
+Unirradiated,Martensitic,SMT-SPL,39
+Unloading,Martensite,SMT-SPL,40
+Untempered,Martensite,SMT-SPL,35
+VASP,Perovskites,SMT-SPL,36
+VLS,Cubic,SMT-SPL,33
+VLS,Hexagonal,SMT-SPL,67
+VLS,Wurtzite,SMT-SPL,43
+Vacuum Annealing,Cubic,SMT-SPL,33
+Vacuum Annealing,Hexagonal,SMT-SPL,45
+Vacuum Arc Melting,BCC,SMT-SPL,31
+Vacuum Deposited,Perovskites,SMT-SPL,44
+Vacuum Deposition,Perovskites,SMT-SPL,31
+Vapor Deposited,Perovskites,SMT-SPL,38
+Vapor Deposition,Hexagonal,SMT-SPL,37
+Vapor Deposition,Perovskites,SMT-SPL,46
+Vapor Liquid Solid,Hexagonal,SMT-SPL,32
+Vapor Liquid Solid,Wurtzite,SMT-SPL,47
+Vapor Solid,Hexagonal,SMT-SPL,30
+Washing,Anatase,SMT-SPL,52
+Washing,Cubic,SMT-SPL,33
+Washing,Hexagonal,SMT-SPL,53
+Washing,Rutile,SMT-SPL,33
+Water Quenched,Austenite,SMT-SPL,123
+Water Quenched,B2,SMT-SPL,30
+Water Quenched,BCC,SMT-SPL,38
+Water Quenched,FCC,SMT-SPL,31
+Water Quenched,Martensite,SMT-SPL,161
+Water Quenched,Martensitic,SMT-SPL,65
+Water Quenched,β,SMT-SPL,89
+Water Quenching,Austenite,SMT-SPL,158
+Water Quenching,Austenitic,SMT-SPL,38
+Water Quenching,BCC,SMT-SPL,31
+Water Quenching,FCC,SMT-SPL,43
+Water Quenching,Martensite,SMT-SPL,201
+Water Quenching,Martensitic,SMT-SPL,78
+Water Quenching,β,SMT-SPL,90
+Weathered,Garnet,SMT-SPL,32
+Weathered,Olivines,SMT-SPL,39
+Weathering,Basaltic,SMT-SPL,41
+Weathering,Chondrite,SMT-SPL,37
+Weathering,Garnet,SMT-SPL,41
+Weathering,Gneisses,SMT-SPL,30
+Weathering,Granitic,SMT-SPL,63
+Weathering,Granitoids,SMT-SPL,37
+Weathering,Lateritic,SMT-SPL,39
+Weathering,Olivines,SMT-SPL,68
+Weathering,Pyroxene,SMT-SPL,42
+Weathering,Spinels,SMT-SPL,30
+Weathering,Ultramafic,SMT-SPL,56
+Weld,Acicular,SMT-SPL,54
+Weld,Austenite,SMT-SPL,382
+Weld,Austenitic,SMT-SPL,322
+Weld,BCC,SMT-SPL,49
+Weld,Bainite,SMT-SPL,37
+Weld,Bainitic,SMT-SPL,42
+Weld,Duplex,SMT-SPL,46
+Weld,FCC,SMT-SPL,49
+Weld,Ferritic,SMT-SPL,115
+Weld,Lath,SMT-SPL,47
+Weld,Leaves,SMT-SPL,42
+Weld,Martensite,SMT-SPL,345
+Weld,Martensitic,SMT-SPL,183
+Weld,WZ,SMT-SPL,43
+Weld,Widmanstatten,SMT-SPL,65
+Weld,β,SMT-SPL,67
+Welded,Acicular,SMT-SPL,37
+Welded,Austenite,SMT-SPL,264
+Welded,Austenitic,SMT-SPL,244
+Welded,Duplex,SMT-SPL,58
+Welded,Ferritic,SMT-SPL,69
+Welded,Martensite,SMT-SPL,251
+Welded,Martensitic,SMT-SPL,129
+Welded,WZ,SMT-SPL,30
+Welded,β,SMT-SPL,42
+Welding,Acicular,SMT-SPL,41
+Welding,Austenite,SMT-SPL,370
+Welding,Austenitic,SMT-SPL,314
+Welding,BCC,SMT-SPL,42
+Welding,Bainite,SMT-SPL,45
+Welding,Bainitic,SMT-SPL,30
+Welding,Duplex,SMT-SPL,72
+Welding,FCC,SMT-SPL,40
+Welding,Ferrite,SMT-SPL,42
+Welding,Ferritic,SMT-SPL,102
+Welding,G,SMT-SPL,33
+Welding,Lath,SMT-SPL,43
+Welding,Martensite,SMT-SPL,306
+Welding,Martensitic,SMT-SPL,176
+Welding,WZ,SMT-SPL,35
+Welding,Widmanstatten,SMT-SPL,53
+Welding,β,SMT-SPL,61
+Weldment,Austenite,SMT-SPL,75
+Weldment,Austenitic,SMT-SPL,64
+Weldment,Martensite,SMT-SPL,71
+Weldment,Martensitic,SMT-SPL,61
+Welds,Austenite,SMT-SPL,160
+Welds,Austenitic,SMT-SPL,168
+Welds,Ferritic,SMT-SPL,53
+Welds,Martensite,SMT-SPL,140
+Welds,Martensitic,SMT-SPL,77
+Welds,β,SMT-SPL,32
+Wet Chemical Method,Hexagonal,SMT-SPL,32
+Wet Etching,Hexagonal,SMT-SPL,30
+Wet Impregnation,Anatase,SMT-SPL,30
+Work Hardening,Austenite,SMT-SPL,155
+Work Hardening,Austenitic,SMT-SPL,92
+Work Hardening,BCC,SMT-SPL,42
+Work Hardening,FCC,SMT-SPL,67
+Work Hardening,Martensite,SMT-SPL,166
+Work Hardening,Martensitic,SMT-SPL,89
+Work Hardening,β,SMT-SPL,41
+siRNA,Breast,SMT-SPL,31

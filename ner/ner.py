@@ -88,7 +88,6 @@ if preds_save_dir:
 
 if args.seeds is None:
     args.seeds = [0, 1, 2]
-    #args.seeds = [1241, 1155, 2151]
     
 if args.lm_lrs is None:
     args.lm_lrs = [2e-5, 3e-5, 5e-5]
@@ -311,11 +310,7 @@ for lr in args.lm_lrs:
             
             if "pt" in text or "bin" in text:
                 model.load_state_dict(torch.load(args.load_weights), strict = False)
-                #model.load_state_dict(torch.load(args.load_weights))
-                
             else:
-                #model.from_pretrained(args.load_weights)
-        
                 model = AutoModelForTokenClassification.from_pretrained(
                 args.load_weights, from_tf=False, config=config,
                 cache_dir=cache_dir, revision=model_revision, use_auth_token=None,
@@ -389,12 +384,6 @@ if preds_save_dir:
     res = pd.DataFrame([best_val_acc_list, best_test_acc_list, best_val_oth_list, best_test_oth_list], index=idxs)
     file_path = os.path.join(preds_save_dir, f'res_{args.model_name}_{arch}.pkl')
     #pickle.dump(res, open(file_path, 'wb'))
-    '''
-    if args.load_weights == None:
-        p = os.path.join(preds_save_dir, f'res_{args.model_name}_{arch}.txt')
-    else:
-        p = os.path.join(preds_save_dir, f'res_{args.model_name}_{arch}_{args.load_weights[-9:-2]}.txt')
-    '''
     #p = os.path.join(preds_save_dir, f'res_{args.model_name}_{arch}.txt')
     p = f'./res_{args.model_name}_{arch}.txt'
     
