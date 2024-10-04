@@ -44,3 +44,8 @@ Run the following files with the pre-trained weights using argument name --load_
 2) NER (SOFC-NER, SOFC-Filling, MatScholar): ```bash scripts/run_ner.sh```
 
 3) Classification (Glass Science): ```bash scripts/run_cls.sh```
+
+## Contact Info 
+For help or issues using MELT, please submit a GitHub issue. 
+
+For personal communication related to MELT, please contact Junho Kim ```<monocrat@korea.ac.kr>```.
